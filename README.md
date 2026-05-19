@@ -1,195 +1,157 @@
 # Stock Insight — 안드로이드 PWA 앱
 
 내 주식 인사이트 앱. 매일 시장 브리핑, 포트폴리오 현황, 주도주 발굴 리포트를 음성으로 들을 수 있습니다.
-
-이 문서는 **앱을 안드로이드 폰에 설치하기 위한 단계별 가이드**입니다. 코딩 지식 없이 따라하실 수 있도록 작성했습니다.
-
----
-
-## 한눈에 보기
-
-```
-[GitHub에 코드 업로드]
-        ↓
-[GitHub Pages 활성화 → https:// 주소 발급]
-        ↓
-[안드로이드 크롬에서 그 주소 열기]
-        ↓
-[메뉴 → 홈 화면에 추가]
-        ↓
-[일반 앱처럼 실행!]
-```
-
-소요 시간: **약 10~15분** (처음 한 번)
+**v1.3** — GitHub Actions로 시세·환율·뉴스 자동 갱신 지원.
 
 ---
 
-## STEP 1 — GitHub 계정 만들기 (이미 있으면 STEP 2로)
+## ① 설치 (10~15분, 처음 한 번)
 
-1. https://github.com 접속
-2. 우측 상단 **Sign up** 클릭
-3. 이메일·비밀번호·사용자명 입력 후 가입
+### STEP 1 — GitHub 가입
+https://github.com 우측 상단 **Sign up** (무료)
 
-> 무료 계정이면 충분합니다.
+### STEP 2 — 새 저장소
+**＋ → New repository** → 이름 `stock-insight` → **Public** 선택 → README 체크 해제 → **Create**
 
----
+### STEP 3 — 파일 업로드
+저장소 화면에서 **Add file → Upload files** → 이 `investment_app` 폴더의 **내용 전체**를 드래그.
 
-## STEP 2 — 새 저장소(Repository) 만들기
-
-1. 로그인 후 우측 상단 **+** 아이콘 → **New repository**
-2. 입력:
-   - **Repository name**: `stock-insight` (원하는 이름)
-   - **Public** 선택 (Pages는 무료 플랜에서 Public만 가능)
-   - **Add a README file**: 체크 해제
-   - **.gitignore**: None
-   - **License**: None
-3. 초록색 **Create repository** 버튼 클릭
-
----
-
-## STEP 3 — 앱 파일 업로드
-
-저장소 페이지에서 **"uploading an existing file"** 링크 클릭 (또는 **Add file → Upload files**).
-
-이 폴더(`investment_app/`)의 **내용물 전체**를 드래그&드롭으로 업로드합니다. 업로드해야 할 항목:
-
+업로드 후 폴더 구조가 이렇게 보여야 합니다:
 ```
 index.html
 app.js
 app.css
 manifest.json
 sw.js
-README.md   ← 이 파일
+README.md
 icons/
-  ├ icon-192.png
-  ├ icon-512.png
-  ├ icon-maskable-512.png
-  ├ apple-touch-icon.png
-  └ favicon.png
 data/
-  ├ portfolio.json
-  ├ briefings/
-  │   ├ index.json
-  │   └ 2026-05-19.md
-  └ picks/
-      ├ index.json
-      └ sample.md
+.github/workflows/update-data.yml   ← GitHub Actions 워크플로우
+scripts/
+  update_data.py
+  requirements.txt
 ```
 
-**중요**: 폴더 구조가 그대로 유지되어야 합니다. 드래그&드롭은 폴더 통째로 올리면 자동 유지됩니다.
+페이지 하단 **Commit changes** 클릭.
 
-업로드가 끝나면 페이지 하단 **Commit changes** 클릭.
+### STEP 4 — GitHub Pages 활성화
+**Settings → Pages → Branch: `main`, Folder: `/ (root)` → Save**
+1~2분 뒤 `https://YOUR_USER.github.io/stock-insight/` 주소 발급.
+
+### STEP 5 — 안드로이드에 설치
+크롬에서 그 주소 접속 → **⋮ 메뉴 → 홈 화면에 추가** → 끝.
 
 ---
 
-## STEP 4 — GitHub Pages 활성화
+## ② GitHub Actions 자동화 켜기
 
-1. 저장소 페이지 상단 **Settings** 클릭
-2. 좌측 메뉴 **Pages** 클릭
-3. **Source** 항목에서:
-   - **Branch**: `main` 선택
-   - **Folder**: `/ (root)`
-4. **Save** 클릭
+매시간 시세·환율·네이버 뉴스를 자동으로 갱신하는 워크플로우가 들어 있습니다.
+파일을 업로드만 해도 작동하지만, **첫 실행 권한 설정**이 필요합니다.
 
-1~2분 후 Pages 페이지를 새로고침하면 상단에 다음과 같은 주소가 표시됩니다:
+### 자동 커밋 권한 켜기 (1회 설정)
+1. 저장소 **Settings → Actions → General** 이동
+2. 아래쪽 **Workflow permissions** 섹션에서:
+   - **Read and write permissions** 선택
+   - **Allow GitHub Actions to create and approve pull requests** 체크
+3. **Save** 클릭
+
+### 첫 수동 실행
+1. 저장소 상단 **Actions** 탭 클릭
+2. 왼쪽 목록에서 **Update market data** 클릭
+3. 우측의 **Run workflow** 버튼 → 다시 **Run workflow** 확인
+4. 1~3분 대기. 초록색 체크가 뜨면 성공
+5. 저장소 `data/prices.json`·`data/news.json` 파일이 생성됨
+
+### 이후 자동 실행
+- **매시간 정시** 자동 실행 (`cron: 0 * * * *`)
+- 보유 종목(`data/portfolio.json`) 변경 시 즉시 실행
+- Actions 탭에서 수동 실행도 항상 가능
+
+### 앱에 반영
+GitHub Actions가 새 데이터를 커밋한 직후 GitHub Pages가 자동 갱신됩니다.
+앱에서 **⟳ 새로고침** 버튼 한 번 누르면 새 시세/뉴스 표시.
+
+---
+
+## ③ 작동 흐름
 
 ```
-Your site is live at https://YOUR_USERNAME.github.io/stock-insight/
+[매시간 GitHub Actions]
+   ├── pykrx        → 한국 종목 최근 거래일 종가
+   ├── yfinance     → 미국 종목 최근 거래일 종가
+   ├── frankfurter  → USD→KRW 환율
+   └── 네이버 금융   → 메인 시황 뉴스 헤드라인
+        ↓
+   data/prices.json + data/news.json 자동 커밋
+        ↓
+[안드로이드 앱]
+   loadServerPrices() → 자동 시세·환율 적용
+   loadNews()          → 홈 화면 뉴스 카드
 ```
 
-이 주소가 **앱의 URL**입니다. 복사해서 메모해두세요.
+---
+
+## ④ 음성·UI 사용법
+
+- **듣기 버튼** — 한 번 누르면 1× 재생, 두 번 1.5×, 세 번 2×, 네 번 1× (위치 유지)
+- **상단 ⏹** — 음성 정지
+- **뒤로가기 (안드로이드 버튼)**:
+  - 모달/상세 화면: 닫힘
+  - 홈이 아닌 페이지: 홈으로 이동
+  - 홈: "정말 나가시겠습니까?" 모달
 
 ---
 
-## STEP 5 — 안드로이드에 앱 설치
+## ⑤ 자주 묻는 질문
 
-1. 안드로이드 폰에서 **Chrome** 앱 열기
-2. 위에서 받은 주소(`https://YOUR_USERNAME.github.io/stock-insight/`)로 접속
-3. 앱 화면이 잘 뜨는지 확인 (홈 화면, 하단 탭 4개)
-4. 크롬 우측 상단 **⋮ (메뉴)** → **홈 화면에 추가**
-5. 앱 이름 확인 후 **추가**
-6. 홈 화면에 **Stock Insight** 아이콘 생성 완료!
+**Q. 시세가 늦게 갱신돼요.**
+A. 한국 시세는 pykrx가 매일 장 마감 후 데이터를 제공합니다. 미국 시세는 yfinance가 15~20분 지연된 값을 줍니다. 실시간 호가는 별도 API 필요.
 
-이제 아이콘을 누르면 일반 앱처럼 **전체화면**으로 실행됩니다.
+**Q. 시세가 아예 안 보여요.**
+A. GitHub Actions 첫 실행 전이면 그렇습니다. 위 ② STEP을 진행하세요. 또는 포트폴리오 화면에서 종목별로 수동 입력하면 그 값이 그대로 손익에 반영됩니다.
 
-> iPhone(Safari) 사용자: 공유 버튼 → **홈 화면에 추가**로도 동일하게 설치 가능합니다.
+**Q. 새 종목을 추가했는데 시세가 안 들어와요.**
+A. 포트폴리오 → "내보내기" → JSON 복사 → GitHub의 `data/portfolio.json`에 붙여넣기 commit. push 트리거로 워크플로우가 즉시 실행됩니다.
 
----
+**Q. 네이버 뉴스가 비어 있어요.**
+A. Actions가 한 번 실행되어야 합니다. Actions 탭에서 수동 실행해보세요. 또 네이버가 HTML 구조를 자주 바꿔서 스크래핑이 실패할 수 있습니다(`scripts/update_data.py`의 셀렉터를 조정하면 됨).
 
-## STEP 6 — 음성 기능 확인
+**Q. Actions 실행이 실패해요.**
+A. Actions 탭 → 실패한 실행 클릭 → 로그 확인. 흔한 원인:
+   - "permission denied" → 위 자동 커밋 권한 설정 누락
+   - "ModuleNotFoundError" → `scripts/requirements.txt`가 누락됐는지 확인
+   - yfinance/pykrx 일시 오류 → 다음 시간에 자동 재시도됨
 
-1. 앱 실행 → 홈 화면의 카드에 있는 **🔊 듣기** 버튼 누르기
-2. 안드로이드 내장 한국어 음성으로 카드 내용을 읽어줍니다
-3. **설정 탭**(우측 상단 톱니바퀴 아이콘)에서:
-   - 음성 선택 (여러 한국어 음성이 있다면 골라보세요)
-   - 속도 조절 (이동 중엔 1.2× 정도 추천)
-   - 음높이 조절
-
-> **음성이 안 나올 때**: 안드로이드 설정 → 텍스트 음성 변환(TTS) → Google TTS 또는 삼성 TTS 활성화 + 한국어 데이터 다운로드.
+**Q. 무료 한도 걱정 안 해도 되나요?**
+A. Public 저장소는 GitHub Actions가 무료입니다. 매시간 실행 = 월 ~720회 × ~30초 ≈ 6시간 사용. 무료 한도(public 무제한, private은 월 2,000분) 안에 들어옵니다.
 
 ---
 
-## 매일 업데이트 흐름
+## ⑥ 파일 구조 요약
 
-이 앱은 정적 파일이지만, 다음 두 가지 방법으로 매일/매주 콘텐츠가 갱신됩니다.
-
-### 방법 A — Claude에게 부탁 (현재 권장)
-
-채팅으로 다음과 같이 말씀하시면 됩니다:
-- "오늘 브리핑 만들어줘" → `data/briefings/YYYY-MM-DD.md` 새 파일 생성 + `index.json` 업데이트
-- "주도주 리포트 만들어줘" → `data/picks/YYYY-Wxx.md` 생성
-
-생성된 파일을 GitHub 웹페이지에서 **Add file → Upload files**로 올리면 끝.
-
-### 방법 B — 스케줄 자동화 + Git 자동 푸시 (다음 단계)
-
-다음 채팅 세션에서 "스케줄에 매일 8시 자동 브리핑 등록해줘"라고 말씀하시면, 매일 자동으로 브리핑 마크다운이 생성되도록 등록해드립니다. GitHub 자동 푸시까지 원하시면 별도 설정이 필요합니다 (자세한 안내 가능).
-
----
-
-## 자주 묻는 질문
-
-**Q. 푸시 알림이 안 오는데요?**
-A. PWA의 푸시는 안드로이드에서는 가능하지만 추가 서버 설정이 필요합니다. v1.1에서 옵션으로 추가할 예정. 우선 매일 출근 길에 앱을 한 번 열어보는 습관을 만드세요.
-
-**Q. 오프라인에서도 보입니까?**
-A. 한 번 접속한 뒤에는 service worker가 캐시해두어 비행기 모드에서도 마지막 데이터가 보입니다.
-
-**Q. 보유 종목이 바뀌었어요.**
-A. 채팅에서 "포트폴리오 업데이트" 말씀해주시면 `data/portfolio.json`을 수정해드립니다.
-
-**Q. 현재가가 자동으로 안 나오나요?**
-A. v1은 사용자가 직접 현재가를 입력하는 구조입니다(저장됨). 실시간 시세 자동 연동은 외부 API 키가 필요해서 v2에서 추가 예정입니다. 한국투자증권·키움 OpenAPI 또는 Alpha Vantage 등 옵션이 있습니다.
-
-**Q. 화면이 라이트모드로 보였으면 좋겠어요.**
-A. 현재 다크 톤이 기본입니다. 원하시면 `app.css`에서 `--bg` 등 색상을 변경하면 됩니다. 채팅으로 부탁하시면 바꿔드립니다.
-
----
-
-## 파일 구조 요약
-
-| 파일 | 역할 |
+| 파일/폴더 | 역할 |
 |---|---|
-| `index.html` | 앱의 메인 화면 셸 |
-| `app.css` | 디자인·테마 |
-| `app.js` | 라우팅·TTS·계산 로직 |
-| `manifest.json` | PWA 설치 정보 (이름·아이콘·테마색) |
-| `sw.js` | Service Worker — 오프라인 캐시 |
-| `data/portfolio.json` | 내 보유 종목 |
-| `data/briefings/` | 매일 시장 브리핑 (마크다운) |
-| `data/picks/` | 주간 주도주 리포트 |
+| `index.html`, `app.css`, `app.js` | 앱 본체 (PWA) |
+| `manifest.json`, `sw.js`, `icons/` | PWA 설치/오프라인 캐싱 |
+| `data/portfolio.json` | 보유 종목 (앱 내에서도 추가/수정/삭제 가능) |
+| `data/briefings/` | 일일 시장 브리핑 (`index.json` + 마크다운) |
+| `data/picks/daily/` | 일일 주도주 픽 |
+| `data/picks/weekly/` | 주간 주도주 리포트 |
+| `data/prices.json` | **GitHub Actions가 자동 생성**: 시세·환율 |
+| `data/news.json` | **GitHub Actions가 자동 생성**: 네이버 뉴스 |
+| `.github/workflows/update-data.yml` | 매시간 실행 워크플로우 |
+| `scripts/update_data.py` | 데이터 수집 Python |
+| `scripts/requirements.txt` | Python 의존성 |
 
 ---
 
-## 다음 작업 (v1.1~v2 로드맵)
+## ⑦ v1.4 로드맵 (다음 단계)
 
-- [ ] 종목별 뉴스 피드 페이지
-- [ ] 한국투자증권 OpenAPI로 실시간 시세 자동 갱신
-- [ ] 매도/매수 알림 푸시
-- [ ] 차트 (Chart.js) — 보유 종목 기간별 수익률
-- [ ] 종목 상세 페이지 (뉴스·차트·이슈)
-- [ ] 다국어 음성 (한/영 혼합 종목명 자연스럽게)
+- [ ] 매일 8시 브리핑 자동 생성 (Claude API 또는 별도 스크립트)
+- [ ] 주간 주도주 리포트 자동 생성
+- [ ] 한국투자증권 API로 실시간 시세
+- [ ] 푸시 알림 (특정 종목 ±n% 변동 시)
+- [ ] 종목별 차트(Chart.js)
+- [ ] 종목별 뉴스 필터
 
----
-
-설치하시면서 막히는 부분 있으면 채팅으로 알려주세요. 화면 캡처 보내주시면 더 정확히 도와드립니다.
+문제 생기면 채팅으로 알려주세요.

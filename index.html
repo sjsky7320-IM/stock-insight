@@ -73,14 +73,34 @@
       <a class="card-link" data-nav="briefings">전체 브리핑 보기 →</a>
     </div>
 
-    <div class="section-title">🎯 이번주 주도주 후보</div>
-    <div class="card" id="homePickCard">
+    <div class="section-title">🎯 오늘의 주도주 후보</div>
+    <div class="card" id="homeDailyPickCard">
       <div class="card-head">
-        <div class="card-title" id="homePickTitle">불러오는 중…</div>
-        <button class="speak-btn" data-speak-target="homePickBody">🔊 듣기</button>
+        <div class="card-title" id="homeDailyPickTitle">불러오는 중…</div>
+        <button class="speak-btn" data-speak-target="homeDailyPickBody">🔊 듣기</button>
       </div>
-      <div class="card-body" id="homePickBody">잠시만요…</div>
-      <a class="card-link" data-nav="picks">전체 리포트 보기 →</a>
+      <div class="card-body" id="homeDailyPickBody">잠시만요…</div>
+      <a class="card-link" data-nav="picks" data-pick-tab="daily">데일리 픽 전체 보기 →</a>
+    </div>
+
+    <div class="section-title">📅 이번주 주도주 리포트</div>
+    <div class="card" id="homeWeeklyPickCard">
+      <div class="card-head">
+        <div class="card-title" id="homeWeeklyPickTitle">불러오는 중…</div>
+        <button class="speak-btn" data-speak-target="homeWeeklyPickBody">🔊 듣기</button>
+      </div>
+      <div class="card-body" id="homeWeeklyPickBody">잠시만요…</div>
+      <a class="card-link" data-nav="picks" data-pick-tab="weekly">주간 리포트 전체 보기 →</a>
+    </div>
+
+    <div class="section-title-row">
+      <div class="section-title">📰 네이버 증권 주요 뉴스</div>
+      <button class="refresh-btn" id="refreshNews" title="뉴스 새로고침" aria-label="뉴스 새로고침">⟳</button>
+    </div>
+    <div class="card" id="newsCard">
+      <div class="card-body" id="newsBody">
+        <div class="hint">뉴스 자동 연동 준비 중. 채팅에서 "뉴스 업데이트해줘" 요청 시 채워집니다.<br>(CORS 정책으로 네이버 직접 호출 불가 → GitHub Actions 또는 백엔드 프록시 필요)</div>
+      </div>
     </div>
   </section>
 
@@ -144,9 +164,13 @@
     <div class="list-head with-refresh">
       <div>
         <h2>주도주 발굴 리포트</h2>
-        <div class="hint">7일~1개월 모멘텀 후보 · 매주 일요일 업데이트</div>
+        <div class="hint">데일리(1~7일) · 위클리(7일~1개월)</div>
       </div>
       <button class="refresh-btn" id="refreshPicks" title="새로고침" aria-label="새로고침">⟳</button>
+    </div>
+    <div class="market-tabs">
+      <button class="mt-btn active" data-pick-filter="daily">🗓️ 일일 픽</button>
+      <button class="mt-btn" data-pick-filter="weekly">📅 주간 리포트</button>
     </div>
     <div id="pickList" class="list"></div>
     <div id="pickDetail" class="detail hidden">
@@ -259,6 +283,23 @@
       <div class="modal-actions">
         <button type="button" class="mini-btn" data-close-modal>닫기</button>
         <button type="button" class="mini-btn primary" id="copyExportBtn">📋 복사</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ==== 종료 확인 모달 ==== -->
+<div id="exitModal" class="modal hidden" role="dialog" aria-modal="true">
+  <div class="modal-backdrop" data-exit-cancel></div>
+  <div class="modal-sheet" style="max-width:340px; border-radius:16px; margin-bottom:auto; margin-top:auto;">
+    <div class="modal-head">
+      <h3>앱을 종료하시겠습니까?</h3>
+    </div>
+    <div class="modal-body">
+      <p style="margin:8px 0 16px; color:var(--text-2); font-size:14px;">정말 나가시겠습니까?</p>
+      <div class="modal-actions">
+        <button type="button" class="mini-btn" id="exitCancelBtn" data-exit-cancel>아니오 (No)</button>
+        <button type="button" class="mini-btn danger" id="exitConfirmBtn">예 (Yes)</button>
       </div>
     </div>
   </div>

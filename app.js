@@ -5,14 +5,17 @@ const state = {
   page: "home",
   portfolio: null,
   briefings: [],
-  picks: [],
+  dailyPicks: [],
+  weeklyPicks: [],
   voices: [],
   selectedVoice: null,
   rate: 1.0,
   pitch: 1.0,
   prices: {},
   fx: 1380,
-  marketFilter: "ALL"
+  fxUpdated: null,
+  marketFilter: "ALL",
+  pickFilter: "daily"
 };
 
 const LS_PORTFOLIO = "stockinsight_portfolio_custom";
@@ -141,19 +144,28 @@ async function loadBriefings() {
   } catch (e) { console.warn("briefings missing", e); state.briefings = []; }
 }
 
-async function loadPicks() {
+async function loadPicksOfType(type) {
+  // type: "daily" or "weekly"
   try {
-    const idx = await fetchJSON("./data/picks/index.json");
+    const idx = await fetchJSON(`./data/picks/${type}/index.json`);
     const items = await Promise.all(idx.map(async meta => {
-      const body = await fetchText("./data/picks/" + meta.file);
+      const body = await fetchText(`./data/picks/${type}/${meta.file}`);
       return Object.assign({}, meta, { body });
     }));
-    state.picks = items.sort((a,b) => b.date.localeCompare(a.date));
-  } catch (e) { console.warn("picks missing", e); state.picks = []; }
+    return items.sort((a,b) => b.date.localeCompare(a.date));
+  } catch (e) {
+    console.warn(`picks ${type} missing`, e);
+    return [];
+  }
+}
+async function loadPicks() {
+  const [d, w] = await Promise.all([loadPicksOfType("daily"), loadPicksOfType("weekly")]);
+  state.dailyPicks = d;
+  state.weeklyPicks = w;
 }
 
 async function loadAll() {
-  await Promise.all([loadPortfolio(), loadBriefings(), loadPicks()]);
+  await Promise.all([loadPortfolio(), loadBriefings(), loadPicks(), loadNews()]);
   renderAll();
 }
 
@@ -173,6 +185,8 @@ async function refreshContent(which) {
   }
   if (which === "all" || which === "briefings") await loadBriefings();
   if (which === "all" || which === "picks") await loadPicks();
+  if (which === "all" || which === "news") await loadNews();
+  if (which === "all") await loadServerPrices();
   renderHome();
   if (which === "all" || which === "briefings") renderBriefings();
   if (which === "all" || which === "picks") renderPicks();
@@ -189,14 +203,23 @@ function renderHome() {
     $("#homeBriefTitle").textContent = "브리핑이 아직 없습니다";
     $("#homeBriefBody").textContent = "매일 오전 8시에 자동 생성됩니다.";
   }
-  const lastPick = state.picks[0];
-  if (lastPick) {
-    $("#homePickTitle").textContent = lastPick.title || (lastPick.date + " 주도주");
-    $("#homePickBody").textContent = lastPick.snippet || stripMd(lastPick.body).slice(0,220) + "…";
+  const lastDaily = state.dailyPicks[0];
+  if (lastDaily) {
+    $("#homeDailyPickTitle").textContent = lastDaily.title || (lastDaily.date + " 데일리 픽");
+    $("#homeDailyPickBody").textContent = lastDaily.snippet || stripMd(lastDaily.body).slice(0,220) + "…";
   } else {
-    $("#homePickTitle").textContent = "리포트가 아직 없습니다";
-    $("#homePickBody").textContent = "매주 일요일 저녁 자동 생성됩니다.";
+    $("#homeDailyPickTitle").textContent = "오늘의 픽이 아직 없습니다";
+    $("#homeDailyPickBody").textContent = "매일 오전 8시 자동 생성 예정입니다.";
   }
+  const lastWeekly = state.weeklyPicks[0];
+  if (lastWeekly) {
+    $("#homeWeeklyPickTitle").textContent = lastWeekly.title || (lastWeekly.date + " 주간 리포트");
+    $("#homeWeeklyPickBody").textContent = lastWeekly.snippet || stripMd(lastWeekly.body).slice(0,220) + "…";
+  } else {
+    $("#homeWeeklyPickTitle").textContent = "주간 리포트가 아직 없습니다";
+    $("#homeWeeklyPickBody").textContent = "매주 일요일 저녁 자동 생성 예정입니다.";
+  }
+  renderNews();
 }
 
 /* ========== 렌더링: 브리핑 ========== */
@@ -237,11 +260,13 @@ $("#briefBack").addEventListener("click", () => {
 function renderPicks() {
   const list = $("#pickList");
   list.innerHTML = "";
-  if (state.picks.length === 0) {
-    list.innerHTML = '<div class="hint">아직 주도주 리포트가 없습니다.</div>';
+  const items = state.pickFilter === "weekly" ? state.weeklyPicks : state.dailyPicks;
+  if (!items || items.length === 0) {
+    const label = state.pickFilter === "weekly" ? "주간 리포트" : "데일리 픽";
+    list.innerHTML = '<div class="hint">아직 ' + label + '이(가) 없습니다.</div>';
     return;
   }
-  state.picks.forEach(p => {
+  items.forEach(p => {
     const item = document.createElement("div");
     item.className = "list-item";
     item.innerHTML =
@@ -253,6 +278,10 @@ function renderPicks() {
       '<div class="list-item-arrow">›</div>';
     item.addEventListener("click", () => openPick(p));
     list.appendChild(item);
+  });
+  // 탭 활성 상태 업데이트
+  document.querySelectorAll("[data-pick-filter]").forEach(b => {
+    b.classList.toggle("active", b.dataset.pickFilter === state.pickFilter);
   });
 }
 function openPick(p) {
@@ -578,32 +607,91 @@ if (typeof speechSynthesis !== "undefined") {
   speechSynthesis.addEventListener("voiceschanged", loadVoices);
 }
 
+/* === 위치 추적 가능한 TTS 엔진 === */
+const ttsState = {
+  chunks: [],
+  curIdx: 0,
+  startOffset: 0,
+  latestCharIndex: 0,
+  active: false
+};
+let utterGen = 0;
+
 function speakText(text) {
   if (!("speechSynthesis" in window)) {
     alert("이 브라우저는 음성 합성을 지원하지 않습니다.");
     return;
   }
+  utterGen++;
   speechSynthesis.cancel();
-  if (!text || !text.trim()) return;
-  const chunks = text.match(/[\s\S]{1,180}(?:[.!?。\n]|$)/g) || [text];
-  let idx = 0;
+  if (!text || !text.trim()) { ttsState.active = false; return; }
+  ttsState.chunks = text.match(/[\s\S]{1,180}(?:[.!?。\n]|$)/g) || [text];
+  ttsState.curIdx = 0;
+  ttsState.startOffset = 0;
+  ttsState.latestCharIndex = 0;
+  ttsState.active = true;
   showTTSBar(true);
-  const playNext = () => {
-    if (idx >= chunks.length) { showTTSBar(false); markSpeaking(null); return; }
-    const utter = new SpeechSynthesisUtterance(chunks[idx]);
-    if (state.selectedVoice) utter.voice = state.selectedVoice;
-    utter.lang = (state.selectedVoice && state.selectedVoice.lang) || "ko-KR";
-    utter.rate = state.rate;
-    utter.pitch = state.pitch;
-    utter.onend = () => { idx++; playNext(); };
-    utter.onerror = () => { idx++; playNext(); };
-    speechSynthesis.speak(utter);
+  playCurrent();
+}
+
+function playCurrent() {
+  if (!ttsState.active) return;
+  if (ttsState.curIdx >= ttsState.chunks.length) {
+    ttsState.active = false;
+    showTTSBar(false);
+    markSpeaking(null);
+    return;
+  }
+  const fullChunk = ttsState.chunks[ttsState.curIdx];
+  const remaining = fullChunk.slice(ttsState.startOffset);
+  if (!remaining || !remaining.trim()) {
+    ttsState.curIdx++;
+    ttsState.startOffset = 0;
+    ttsState.latestCharIndex = 0;
+    playCurrent();
+    return;
+  }
+  ttsState.latestCharIndex = 0;
+  const myGen = ++utterGen;
+  const utter = new SpeechSynthesisUtterance(remaining);
+  if (state.selectedVoice) utter.voice = state.selectedVoice;
+  utter.lang = (state.selectedVoice && state.selectedVoice.lang) || "ko-KR";
+  utter.rate = state.rate;
+  utter.pitch = state.pitch;
+  utter.onboundary = (ev) => {
+    if (typeof ev.charIndex === "number") ttsState.latestCharIndex = ev.charIndex;
   };
-  playNext();
+  utter.onend = () => {
+    if (myGen !== utterGen) return;
+    ttsState.curIdx++;
+    ttsState.startOffset = 0;
+    ttsState.latestCharIndex = 0;
+    playCurrent();
+  };
+  utter.onerror = () => {
+    if (myGen !== utterGen) return;
+    ttsState.curIdx++;
+    ttsState.startOffset = 0;
+    ttsState.latestCharIndex = 0;
+    playCurrent();
+  };
+  speechSynthesis.speak(utter);
+}
+
+function changeRateKeepPosition() {
+  if (!ttsState.active) return false;
+  ttsState.startOffset = ttsState.startOffset + (ttsState.latestCharIndex || 0);
+  ttsState.latestCharIndex = 0;
+  utterGen++;
+  speechSynthesis.cancel();
+  setTimeout(() => { if (ttsState.active) playCurrent(); }, 60);
+  return true;
 }
 
 function stopSpeech() {
+  utterGen++;
   if (typeof speechSynthesis !== "undefined") speechSynthesis.cancel();
+  ttsState.active = false;
   showTTSBar(false);
   markSpeaking(null);
 }
@@ -646,8 +734,14 @@ function applySpeedToBtn(sBtn) {
 document.addEventListener("click", e => {
   const sBtn = e.target.closest(".speak-btn");
   if (!sBtn) return;
+  // 같은 버튼이 이미 재생 중이면 → 속도만 바꾸고 현재 위치부터 재개
+  const cyclingMidPlay = sBtn.classList.contains("speaking") && ttsState.active;
   applySpeedToBtn(sBtn);
   markSpeaking(sBtn);
+  if (cyclingMidPlay) {
+    changeRateKeepPosition();
+    return;
+  }
   if (sBtn.id === "speakPortfolio") {
     speakPortfolio();
     return;
@@ -755,10 +849,275 @@ function init() {
   }
   loadVoices();
   loadPersistedState();
-  loadAll();
+  loadAll().then(() => {
+    // prices.json(GitHub Actions가 매시간 갱신)을 1순위로 적용
+    loadServerPrices().then(() => {
+      // 서버 prices.json에 환율·시세가 부족하면 직접 보강
+      if (!state.fxUpdated) autoUpdateFX();
+    });
+  });
+  setupBackNavigation();
+  setupPickTabs();
+  setupExitModal();
+  setupNewsRefresh();
   if ("serviceWorker" in navigator) {
     navigator.serviceWorker.register("./sw.js").catch(e => console.warn("SW register fail:", e));
   }
+}
+
+/* ===== GitHub Actions가 저장한 시세·환율 파일 로드 (1순위) =====
+   data/prices.json 형식:
+     { updated, updated_kst, fx: {USDKRW, date}, prices: { TICKER: price, ... } }
+*/
+async function loadServerPrices() {
+  try {
+    const j = await fetchJSON("./data/prices.json");
+    if (j.fx && j.fx.USDKRW) {
+      applyFX(j.fx.USDKRW, j.fx.date);
+    }
+    if (j.prices) {
+      Object.entries(j.prices).forEach(([t, p]) => {
+        if (isFinite(p) && p > 0) state.prices[t] = p;
+      });
+      const fresh = j.updated_kst || j.updated || "";
+      const banner = document.getElementById("priceUpdateBanner");
+      if (banner) banner.textContent = "시세 자동 갱신: " + fresh;
+      else {
+        const fxRow = document.querySelector(".fx-row");
+        if (fxRow) {
+          const div = document.createElement("div");
+          div.id = "priceUpdateBanner";
+          div.style.cssText = "font-size:10px; color:var(--text-3); margin-top:6px; width:100%;";
+          div.textContent = "시세 자동 갱신: " + fresh;
+          fxRow.appendChild(div);
+        }
+      }
+      renderPortfolio();
+      console.log("server prices loaded:", Object.keys(j.prices).length, "종목");
+    }
+    return true;
+  } catch (e) {
+    console.warn("data/prices.json 없음 — GitHub Actions 미설정 또는 첫 실행 전", e);
+    return false;
+  }
+}
+
+/* ===== 환율 자동 갱신 (frankfurter API · CORS OK) ===== */
+async function autoUpdateFX() {
+  // 1시간 캐시
+  const cached = localStorage.getItem("stockinsight_fx_cache");
+  if (cached) {
+    try {
+      const c = JSON.parse(cached);
+      if (Date.now() - c.ts < 3600000 && isFinite(c.rate)) {
+        applyFX(c.rate, c.date);
+        return;
+      }
+    } catch (e) {}
+  }
+  try {
+    const r = await fetch("https://api.frankfurter.app/latest?from=USD&to=KRW");
+    if (!r.ok) throw new Error("fx http " + r.status);
+    const j = await r.json();
+    const rate = j.rates && j.rates.KRW;
+    if (isFinite(rate)) {
+      localStorage.setItem("stockinsight_fx_cache", JSON.stringify({rate, date: j.date, ts: Date.now()}));
+      applyFX(rate, j.date);
+    }
+  } catch (e) {
+    console.warn("환율 자동 갱신 실패", e);
+  }
+}
+function applyFX(rate, date) {
+  state.fx = rate;
+  state.fxUpdated = date || new Date().toISOString().slice(0,10);
+  const fxInp = $("#fxInput");
+  if (fxInp) fxInp.value = Math.round(rate);
+  const fxRow = document.querySelector(".fx-row label");
+  if (fxRow) fxRow.innerHTML = `환율(USD→KRW): <input type="number" id="fxInput" value="${Math.round(rate)}" step="1" inputmode="decimal"> <span style="font-size:10px; color:var(--text-3); margin-left:6px">자동 · ${state.fxUpdated}</span>`;
+  // 이벤트 리스너 재바인딩
+  const newInp = $("#fxInput");
+  if (newInp) {
+    newInp.addEventListener("change", () => {
+      state.fx = parseFloat(newInp.value) || rate;
+      renderPortfolio();
+    });
+  }
+  renderPortfolio();
+}
+
+/* ===== 미국 주식 현재가 자동 (Yahoo Finance 비공식) =====
+   CORS 차단 가능성 있음 — 실패 시 조용히 무시 */
+async function autoUpdateUSPrices() {
+  if (!state.portfolio || !state.portfolio.holdings) return;
+  const tickers = state.portfolio.holdings.filter(h => h.market === "US").map(h => h.ticker);
+  if (tickers.length === 0) return;
+  // 캐시 (10분)
+  const cached = localStorage.getItem("stockinsight_prices_cache");
+  if (cached) {
+    try {
+      const c = JSON.parse(cached);
+      if (Date.now() - c.ts < 600000) {
+        Object.entries(c.prices).forEach(([t, p]) => { state.prices[t] = p; });
+        renderPortfolio();
+      }
+    } catch (e) {}
+  }
+  // 여러 CORS-가능 엔드포인트 순차 시도
+  const tried = [];
+  try {
+    // Stooq (yahoo의 대안, CORS 허용)
+    const out = {};
+    for (const t of tickers) {
+      const sym = t.toLowerCase() + ".us";
+      try {
+        const r = await fetch(`https://stooq.com/q/l/?s=${sym}&f=sd2t2ohlcv&h&e=csv`);
+        if (!r.ok) continue;
+        const csv = await r.text();
+        const lines = csv.trim().split("\n");
+        if (lines.length < 2) continue;
+        const cols = lines[1].split(",");
+        // sd2t2ohlcv: symbol,date,time,open,high,low,close,vol
+        const close = parseFloat(cols[6]);
+        if (isFinite(close) && close > 0) out[t] = close;
+      } catch (e) {}
+    }
+    if (Object.keys(out).length > 0) {
+      Object.entries(out).forEach(([t, p]) => { state.prices[t] = p; });
+      localStorage.setItem("stockinsight_prices_cache", JSON.stringify({prices: out, ts: Date.now()}));
+      renderPortfolio();
+      console.log("US 시세 자동 갱신:", Object.keys(out).length, "종목");
+      return;
+    }
+    tried.push("stooq");
+  } catch (e) { tried.push("stooq:err"); }
+  console.warn("미국 시세 자동 갱신 실패. 시도:", tried, "— 수동 입력으로 대체하세요.");
+}
+
+/* ===== 뉴스 렌더 (data/news.json) ===== */
+async function loadNews() {
+  try {
+    const j = await fetchJSON("./data/news.json");
+    state.news = (j && j.items) || [];
+  } catch (e) {
+    state.news = [];
+  }
+}
+function renderNews() {
+  const body = $("#newsBody");
+  if (!body) return;
+  if (!state.news || state.news.length === 0) {
+    body.innerHTML = '<div class="hint">뉴스 자동 연동 준비 중. (CORS 정책으로 네이버 직접 호출 불가 → GitHub Actions나 백엔드 프록시 셋업 필요)</div>';
+    return;
+  }
+  body.innerHTML = state.news.slice(0,8).map(n =>
+    `<a href="${n.url}" target="_blank" rel="noopener" style="display:block; padding:8px 0; border-bottom:1px solid var(--border); color:var(--text-2); text-decoration:none;">
+      <div style="font-weight:600; font-size:13px; color:var(--text);">${n.title}</div>
+      <div style="font-size:11px; color:var(--text-3); margin-top:2px;">${n.source || ""} · ${n.time || ""}</div>
+    </a>`).join("");
+}
+function setupNewsRefresh() {
+  const btn = $("#refreshNews");
+  if (btn) btn.addEventListener("click", async () => {
+    spinOn(btn);
+    if (typeof caches !== "undefined") {
+      try {
+        const keys = await caches.keys();
+        for (const k of keys) {
+          const c = await caches.open(k);
+          const reqs = await c.keys();
+          for (const r of reqs) if (r.url.includes("news.json")) await c.delete(r);
+        }
+      } catch (e) {}
+    }
+    await loadNews();
+    renderNews();
+    spinOff(btn);
+  });
+}
+
+/* ===== 뒤로가기 종료 확인 다이얼로그 =====
+   페이지 첫 로드 시 가상 history 추가. 사용자가 뒤로가기 누르면 popstate 발생.
+   홈에 있으면 종료 확인 모달. Yes → 실제 종료(history.back), No → 다시 pushState.
+   다른 페이지에 있으면 홈으로 이동(navigate("home")). */
+function setupBackNavigation() {
+  // 초기 상태 push (앱이 안드로이드 뒤로가기에 응답할 수 있도록)
+  history.pushState({page: "app"}, "", "");
+  window.addEventListener("popstate", (e) => {
+    // 모달 열려있으면 모달 닫기 우선
+    if (!$("#holdingModal").classList.contains("hidden")) {
+      closeModals();
+      history.pushState({page: "app"}, "", "");
+      return;
+    }
+    if (!$("#exportModal").classList.contains("hidden")) {
+      closeModals();
+      history.pushState({page: "app"}, "", "");
+      return;
+    }
+    if (!$("#exitModal").classList.contains("hidden")) {
+      $("#exitModal").classList.add("hidden");
+      history.pushState({page: "app"}, "", "");
+      return;
+    }
+    // 브리핑/주도주 디테일 열려있으면 닫기
+    if (!$("#briefingDetail").classList.contains("hidden")) {
+      $("#briefingList").classList.remove("hidden");
+      $("#briefingDetail").classList.add("hidden");
+      stopSpeech();
+      history.pushState({page: "app"}, "", "");
+      return;
+    }
+    if (!$("#pickDetail").classList.contains("hidden")) {
+      $("#pickList").classList.remove("hidden");
+      $("#pickDetail").classList.add("hidden");
+      stopSpeech();
+      history.pushState({page: "app"}, "", "");
+      return;
+    }
+    if (state.page !== "home") {
+      navigate("home");
+      history.pushState({page: "app"}, "", "");
+      return;
+    }
+    // 홈에서 뒤로가기 → 종료 확인
+    $("#exitModal").classList.remove("hidden");
+    // 이미 한 번 pop이 일어났으므로 다시 push해두기 (취소 대비)
+    history.pushState({page: "app"}, "", "");
+  });
+}
+
+function setupExitModal() {
+  const modal = $("#exitModal");
+  if (!modal) return;
+  // 취소
+  document.querySelectorAll("[data-exit-cancel]").forEach(el => {
+    el.addEventListener("click", () => modal.classList.add("hidden"));
+  });
+  // 확인 → 실제 종료(가능한 만큼)
+  const confirmBtn = $("#exitConfirmBtn");
+  if (confirmBtn) confirmBtn.addEventListener("click", () => {
+    modal.classList.add("hidden");
+    // PWA에서는 window.close()가 보통 막혀있음. 대신 history를 끝까지 비워서 안드로이드 뒤로가기로 앱 종료 유도.
+    try { window.close(); } catch (e) {}
+    history.go(-(history.length - 1));
+  });
+}
+
+function setupPickTabs() {
+  document.querySelectorAll("[data-pick-filter]").forEach(b => {
+    b.addEventListener("click", () => {
+      state.pickFilter = b.dataset.pickFilter;
+      renderPicks();
+    });
+  });
+  // 홈 카드 링크가 picks 페이지로 갈 때 적절한 탭 활성화
+  document.addEventListener("click", (e) => {
+    const a = e.target.closest("[data-pick-tab]");
+    if (!a) return;
+    state.pickFilter = a.dataset.pickTab;
+    setTimeout(() => renderPicks(), 50);
+  });
 }
 
 init();
