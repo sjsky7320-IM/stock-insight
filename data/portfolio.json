@@ -1,0 +1,27 @@
+{
+  "updated": "2026-05-19",
+  "holdings": [
+    {"market":"KR","name":"SK하이닉스","ticker":"000660","qty":10,"avg":1773000,"ccy":"KRW","theme":"AI 반도체·HBM"},
+    {"market":"KR","name":"삼성전자","ticker":"005930","qty":26,"avg":266692,"ccy":"KRW","theme":"AI 반도체·파운드리"},
+    {"market":"KR","name":"LS ELECTRIC","ticker":"010120","qty":20,"avg":278000,"ccy":"KRW","theme":"AI 전력기기"},
+    {"market":"KR","name":"LIG넥스원","ticker":"079550","qty":6,"avg":881000,"ccy":"KRW","theme":"방산·우주항공"},
+    {"market":"KR","name":"HD현대일렉트릭","ticker":"267260","qty":5,"avg":1255000,"ccy":"KRW","theme":"전력기기·변압기"},
+    {"market":"KR","name":"서남","ticker":"294630","qty":21907,"avg":4132,"ccy":"KRW","theme":"초전도체"},
+    {"market":"KR","name":"HD현대중공업","ticker":"329180","qty":8,"avg":678000,"ccy":"KRW","theme":"조선·방산"},
+    {"market":"US","name":"아이온큐","ticker":"IONQ","qty":1024,"avg":60.6559,"ccy":"USD","theme":"양자컴퓨팅"},
+    {"market":"US","name":"오클로","ticker":"OKLO","qty":173,"avg":34.4980,"ccy":"USD","theme":"SMR 원전"},
+    {"market":"US","name":"뉴스케일파워","ticker":"SMR","qty":362,"avg":20.1614,"ccy":"USD","theme":"SMR 원전"},
+    {"market":"US","name":"비스트라 에너지","ticker":"VST","qty":80,"avg":150.0161,"ccy":"USD","theme":"AI 전력·원전"},
+    {"market":"US","name":"제타 글로벌","ticker":"ZETA","qty":374,"avg":19.3400,"ccy":"USD","theme":"AI 마케팅"},
+    {"market":"US","name":"콘스텔레이션 에너지","ticker":"CEG","qty":43,"avg":276.9628,"ccy":"USD","theme":"AI 전력·원전"},
+    {"market":"US","name":"코어위브","ticker":"CRWV","qty":251,"avg":122.7576,"ccy":"USD","theme":"AI 클라우드 GPU"},
+    {"market":"US","name":"로빈후드","ticker":"HOOD","qty":137,"avg":123.0900,"ccy":"USD","theme":"핀테크·코인"},
+    {"market":"US","name":"메타","ticker":"META","qty":39,"avg":662.3346,"ccy":"USD","theme":"빅테크·AI"},
+    {"market":"US","name":"나테라","ticker":"NTRA","qty":62,"avg":170.2352,"ccy":"USD","theme":"유전체 진단"},
+    {"market":"US","name":"엔비디아","ticker":"NVDA","qty":28,"avg":183.0546,"ccy":"USD","theme":"AI 반도체"},
+    {"market":"US","name":"팔란티어","ticker":"PLTR","qty":202,"avg":152.9062,"ccy":"USD","theme":"AI 소프트웨어·국방"},
+    {"market":"US","name":"리커젼","ticker":"RXRX","qty":1284,"avg":8.1303,"ccy":"USD","theme":"AI 신약개발"},
+    {"market":"US","name":"템퍼스 AI","ticker":"TEM","qty":527,"avg":78.5194,"ccy":"USD","theme":"AI 헬스케어"},
+    {"market":"US","name":"테슬라","ticker":"TSLA","qty":15,"avg":422.2140,"ccy":"USD","theme":"EV·자율주행"}
+  ]
+}

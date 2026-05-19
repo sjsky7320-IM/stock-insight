@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="theme-color" content="#1e3a8a">
+  <link rel="manifest" href="./manifest.json">
+  <link rel="icon" href="./icons/favicon.png">
+  <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
+  <title>Stock Insight</title>
+  <link rel="stylesheet" href="./app.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-left">
+    <div class="logo-dot"></div>
+    <div>
+      <div class="topbar-title" id="topTitle">홈</div>
+      <div class="topbar-sub" id="topSub">시장 인사이트</div>
+    </div>
+  </div>
+  <div class="topbar-right">
+    <button id="ttsBtn" class="icon-btn" title="음성 재생/정지" aria-label="음성 재생/정지">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path><path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path></svg>
+    </button>
+    <button id="settingsBtn" class="icon-btn" title="설정" aria-label="설정">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg>
+    </button>
+  </div>
+</header>
+
+<div id="ttsBar" class="tts-bar hidden">
+  <button class="tts-ctrl" id="ttsPlayPause" aria-label="재생/일시정지">⏸</button>
+  <button class="tts-ctrl" id="ttsStop" aria-label="정지">⏹</button>
+  <div class="tts-status" id="ttsStatus">읽는 중…</div>
+  <div class="tts-rate">
+    <span>속도</span>
+    <input type="range" id="ttsRate" min="0.7" max="2.0" step="0.1" value="1.0">
+    <span id="ttsRateLabel">1.0×</span>
+  </div>
+</div>
+
+<main id="app" class="app">
+
+  <section data-page="home" class="page">
+    <div class="hero">
+      <div class="hero-greet">안녕하세요, <span id="userName">최인기</span>님</div>
+      <div class="hero-date" id="todayDate"></div>
+      <div class="hero-quote">시장은 매일 변합니다. 하루 8시, 인사이트가 도착합니다.</div>
+    </div>
+
+    <div class="kpi-grid">
+      <div class="kpi-card"><div class="kpi-lbl">총 매수금액</div><div class="kpi-val" id="kpiCost">—</div><div class="kpi-sub">원</div></div>
+      <div class="kpi-card"><div class="kpi-lbl">평가금액</div><div class="kpi-val" id="kpiEval">—</div><div class="kpi-sub">원</div></div>
+      <div class="kpi-card"><div class="kpi-lbl">평가손익</div><div class="kpi-val" id="kpiPL">—</div><div class="kpi-sub" id="kpiPLPct">—</div></div>
+      <div class="kpi-card"><div class="kpi-lbl">보유 종목</div><div class="kpi-val" id="kpiCount">0</div><div class="kpi-sub">한+미 합계</div></div>
+    </div>
+
+    <div class="section-title-row">
+      <div class="section-title">📌 오늘의 브리핑</div>
+      <button class="refresh-btn" id="refreshHome" title="데이터 새로고침" aria-label="새로고침">⟳</button>
+    </div>
+    <div class="card" id="homeBriefCard">
+      <div class="card-head">
+        <div class="card-title" id="homeBriefTitle">불러오는 중…</div>
+        <button class="speak-btn" data-speak-target="homeBriefBody">🔊 듣기</button>
+      </div>
+      <div class="card-body" id="homeBriefBody">잠시만요…</div>
+      <a class="card-link" data-nav="briefings">전체 브리핑 보기 →</a>
+    </div>
+
+    <div class="section-title">🎯 이번주 주도주 후보</div>
+    <div class="card" id="homePickCard">
+      <div class="card-head">
+        <div class="card-title" id="homePickTitle">불러오는 중…</div>
+        <button class="speak-btn" data-speak-target="homePickBody">🔊 듣기</button>
+      </div>
+      <div class="card-body" id="homePickBody">잠시만요…</div>
+      <a class="card-link" data-nav="picks">전체 리포트 보기 →</a>
+    </div>
+  </section>
+
+  <section data-page="briefings" class="page hidden">
+    <div class="list-head with-refresh">
+      <div>
+        <h2>매일 시장 브리핑</h2>
+        <div class="hint">매일 오전 8시 자동 업데이트</div>
+      </div>
+      <button class="refresh-btn" id="refreshBriefings" title="새로고침" aria-label="새로고침">⟳</button>
+    </div>
+    <div id="briefingList" class="list"></div>
+    <div id="briefingDetail" class="detail hidden">
+      <button class="back-btn" id="briefBack">← 목록</button>
+      <div class="detail-head">
+        <h3 id="briefDetailTitle">—</h3>
+        <button class="speak-btn primary" data-speak-target="briefDetailBody">🔊 전체 듣기</button>
+      </div>
+      <div class="detail-body markdown" id="briefDetailBody"></div>
+    </div>
+  </section>
+
+  <section data-page="portfolio" class="page hidden">
+    <div class="list-head">
+      <h2>내 포트폴리오</h2>
+      <div class="hint">현재가 입력 시 자동 계산 · 한국식 색상(상승=빨강)</div>
+    </div>
+
+    <div class="fx-row">
+      <label>환율(USD→KRW):
+        <input type="number" id="fxInput" value="1380" step="1" inputmode="decimal">
+      </label>
+      <button id="saveFx" class="mini-btn">저장</button>
+      <button id="loadPrices" class="mini-btn">불러오기</button>
+    </div>
+
+    <div class="port-summary">
+      <div class="ps-row"><span>총 매수금액</span><span id="psCost">—</span></div>
+      <div class="ps-row"><span>총 평가금액</span><span id="psEval">—</span></div>
+      <div class="ps-row strong"><span>평가손익</span><span id="psPL">—</span></div>
+    </div>
+
+    <div class="market-tabs">
+      <button class="mt-btn active" data-market="ALL">🌐 전체 (<span id="cntAll">0</span>)</button>
+      <button class="mt-btn" data-market="KR">🇰🇷 한국 (<span id="cntKR">0</span>)</button>
+      <button class="mt-btn" data-market="US">🇺🇸 미국 (<span id="cntUS">0</span>)</button>
+    </div>
+
+    <div class="port-actions">
+      <button class="mini-btn primary" id="addHoldingBtn">＋ 종목 추가</button>
+      <button class="mini-btn" id="exportPortfolio">📤 내보내기</button>
+      <button class="mini-btn danger" id="resetPortfolio">⟲ 초기화</button>
+    </div>
+
+    <div id="holdingsList" class="holdings"></div>
+
+    <button class="speak-btn primary block" id="speakPortfolio">🔊 포트폴리오 전체 음성으로 듣기</button>
+  </section>
+
+  <section data-page="picks" class="page hidden">
+    <div class="list-head with-refresh">
+      <div>
+        <h2>주도주 발굴 리포트</h2>
+        <div class="hint">7일~1개월 모멘텀 후보 · 매주 일요일 업데이트</div>
+      </div>
+      <button class="refresh-btn" id="refreshPicks" title="새로고침" aria-label="새로고침">⟳</button>
+    </div>
+    <div id="pickList" class="list"></div>
+    <div id="pickDetail" class="detail hidden">
+      <button class="back-btn" id="pickBack">← 목록</button>
+      <div class="detail-head">
+        <h3 id="pickDetailTitle">—</h3>
+        <button class="speak-btn primary" data-speak-target="pickDetailBody">🔊 전체 듣기</button>
+      </div>
+      <div class="detail-body markdown" id="pickDetailBody"></div>
+    </div>
+  </section>
+
+  <section data-page="settings" class="page hidden">
+    <div class="list-head"><h2>설정</h2></div>
+    <div class="setting-group">
+      <h4>음성(TTS)</h4>
+      <label class="setting-row">
+        <span>한국어 음성</span>
+        <select id="voiceSelect"></select>
+      </label>
+      <label class="setting-row">
+        <span>기본 속도</span>
+        <input type="range" id="rateSetting" min="0.7" max="2.0" step="0.1" value="1.0">
+        <span id="rateSettingLabel">1.0×</span>
+      </label>
+      <label class="setting-row">
+        <span>음높이</span>
+        <input type="range" id="pitchSetting" min="0.5" max="1.5" step="0.1" value="1.0">
+        <span id="pitchSettingLabel">1.0</span>
+      </label>
+      <button class="mini-btn" id="testVoice">🔊 음성 테스트</button>
+    </div>
+
+    <div class="setting-group">
+      <h4>데이터</h4>
+      <button class="mini-btn" id="refreshData">⟳ 전체 새로고침 (앱 재시작)</button>
+      <button class="mini-btn danger" id="clearLocal">로컬 저장 데이터 모두 지우기</button>
+    </div>
+
+    <div class="setting-group">
+      <h4>앱 정보</h4>
+      <div class="info-row"><span>버전</span><span>v1.1.0</span></div>
+      <div class="info-row"><span>업데이트</span><span id="lastUpdate">—</span></div>
+    </div>
+  </section>
+
+</main>
+
+<div id="holdingModal" class="modal hidden" role="dialog" aria-modal="true">
+  <div class="modal-backdrop" data-close-modal></div>
+  <div class="modal-sheet">
+    <div class="modal-head">
+      <h3 id="modalTitle">종목 추가</h3>
+      <button class="modal-close" data-close-modal aria-label="닫기">✕</button>
+    </div>
+    <form id="holdingForm" class="modal-body">
+      <input type="hidden" id="hf_origTicker" value="">
+      <label class="form-row">
+        <span>시장</span>
+        <div class="radio-group">
+          <label><input type="radio" name="hf_market" value="KR" checked> 🇰🇷 한국</label>
+          <label><input type="radio" name="hf_market" value="US"> 🇺🇸 미국</label>
+        </div>
+      </label>
+      <label class="form-row">
+        <span>종목명</span>
+        <input type="text" id="hf_name" required placeholder="예: 삼성전자">
+      </label>
+      <label class="form-row">
+        <span>티커/종목코드</span>
+        <input type="text" id="hf_ticker" required placeholder="예: 005930 또는 AAPL">
+      </label>
+      <label class="form-row">
+        <span>수량(주)</span>
+        <input type="number" id="hf_qty" step="any" min="0" required inputmode="decimal" placeholder="주식 수">
+      </label>
+      <label class="form-row">
+        <span>평단가</span>
+        <input type="number" id="hf_avg" step="any" min="0" required inputmode="decimal" placeholder="매수 평균가">
+      </label>
+      <label class="form-row">
+        <span>통화</span>
+        <div class="radio-group">
+          <label><input type="radio" name="hf_ccy" value="KRW" checked> 원(KRW)</label>
+          <label><input type="radio" name="hf_ccy" value="USD"> 달러(USD)</label>
+        </div>
+      </label>
+      <label class="form-row">
+        <span>테마</span>
+        <input type="text" id="hf_theme" placeholder="예: AI 반도체 (선택)">
+      </label>
+      <div class="modal-actions">
+        <button type="button" class="mini-btn" data-close-modal>취소</button>
+        <button type="submit" class="mini-btn primary" id="hf_submit">저장</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<div id="exportModal" class="modal hidden" role="dialog" aria-modal="true">
+  <div class="modal-backdrop" data-close-modal></div>
+  <div class="modal-sheet">
+    <div class="modal-head">
+      <h3>포트폴리오 JSON 내보내기</h3>
+      <button class="modal-close" data-close-modal aria-label="닫기">✕</button>
+    </div>
+    <div class="modal-body">
+      <p class="hint">아래 JSON을 복사해 GitHub 저장소의 <code>data/portfolio.json</code>에 덮어쓰면 다른 기기에서도 동일하게 보입니다.</p>
+      <textarea id="exportArea" readonly></textarea>
+      <div class="modal-actions">
+        <button type="button" class="mini-btn" data-close-modal>닫기</button>
+        <button type="button" class="mini-btn primary" id="copyExportBtn">📋 복사</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<nav class="bottom-nav">
+  <button class="nav-btn active" data-nav="home">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12L12 3l9 9"/><path d="M5 10v10h14V10"/></svg>
+    <span>홈</span>
+  </button>
+  <button class="nav-btn" data-nav="briefings">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="9" y1="13" x2="15" y2="13"/><line x1="9" y1="17" x2="13" y2="17"/></svg>
+    <span>브리핑</span>
+  </button>
+  <button class="nav-btn" data-nav="portfolio">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="4" y1="20" x2="4" y2="10"/><line x1="10" y1="20" x2="10" y2="4"/><line x1="16" y1="20" x2="16" y2="14"/><line x1="22" y1="20" x2="2" y2="20"/></svg>
+    <span>포트폴리오</span>
+  </button>
+  <button class="nav-btn" data-nav="picks">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+    <span>주도주</span>
+  </button>
+</nav>
+
+<script src="./app.js"></script>
+</body>
+</html>
