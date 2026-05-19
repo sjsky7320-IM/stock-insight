@@ -810,10 +810,20 @@ $("#testVoice").addEventListener("click", () => {
   speakText("안녕하세요. 주식 인사이트 음성 테스트입니다. 오늘도 좋은 투자 되세요.");
 });
 $("#refreshData").addEventListener("click", async () => {
+  // SW에게 캐시 비우기 명령 (이중 안전망)
+  if (navigator.serviceWorker && navigator.serviceWorker.controller) {
+    navigator.serviceWorker.controller.postMessage({type: "CLEAR_CACHE"});
+  }
   if (typeof caches !== "undefined") {
     const keys = await caches.keys();
     await Promise.all(keys.map(k => caches.delete(k)));
   }
+  // SW 업데이트 강제 체크
+  if (navigator.serviceWorker) {
+    const reg = await navigator.serviceWorker.getRegistration();
+    if (reg) await reg.update();
+  }
+  // 캐시 우회 강제 reload
   location.reload();
 });
 $("#clearLocal").addEventListener("click", () => {
@@ -861,9 +871,42 @@ function init() {
   setupExitModal();
   setupNewsRefresh();
   if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register("./sw.js").catch(e => console.warn("SW register fail:", e));
+    navigator.serviceWorker.register("./sw.js")
+      .then(reg => {
+        // 5분마다 새 버전 체크
+        setInterval(() => reg.update().catch(()=>{}), 5 * 60 * 1000);
+        // 새 SW 발견 → 다운로드 완료되면 자동 적용
+        reg.addEventListener("updatefound", () => {
+          const newSW = reg.installing;
+          if (!newSW) return;
+          newSW.addEventListener("statechange", () => {
+            if (newSW.state === "installed" && navigator.serviceWorker.controller) {
+              console.log("새 버전 다운로드 완료. 적용 중…");
+            }
+          });
+        });
+      })
+      .catch(e => console.warn("SW register fail:", e));
+
+    // SW가 새로 활성화되면 자동 새로고침 (한 번만)
+    let reloaded = false;
+    navigator.serviceWorker.addEventListener("controllerchange", () => {
+      if (reloaded) return;
+      reloaded = true;
+      console.log("새 버전 활성화 → 새로고침");
+      location.reload();
+    });
+
+    navigator.serviceWorker.addEventListener("message", e => {
+      if (e.data && e.data.type === "SW_UPDATED") {
+        console.log("SW 업데이트:", e.data.version);
+      }
+    });
   }
 }
+
+// 버전 식별자 — 설정 화면에 표시되도록 글로벌 변수로 노출
+const APP_VERSION = "1.3.1";
 
 /* ===== GitHub Actions가 저장한 시세·환율 파일 로드 (1순위) =====
    data/prices.json 형식:
