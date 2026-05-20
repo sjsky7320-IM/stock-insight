@@ -1,79 +1,79 @@
 {
-  "updated": "2026-05-20T16:54:39+00:00",
-  "updated_kst": "2026-05-21T01:54:39+09:00",
+  "updated": "2026-05-20T19:25:16+00:00",
+  "updated_kst": "2026-05-21T04:25:16+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "1880조 IPO 초읽기…'스페이스X' 찾는 ETF 개미",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001252837&office_id=215&mode=mainnews&type=&date=2026-05-21&page=1",
+      "source": "메인 뉴스",
+      "time": "04:25"
+    },
+    {
+      "title": "‘팔천피 축포 나흘 만에…’ 칠천피·천스닥까지 아슬",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001850221&office_id=005&mode=mainnews&type=&date=2026-05-21&page=1",
+      "source": "메인 뉴스",
+      "time": "04:25"
+    },
     {
       "title": "자금 빨아들일 스페이스X 상장… 피해 볼 종목은?",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003977570&office_id=023&mode=mainnews&type=&date=2026-05-21&page=1",
       "source": "메인 뉴스",
-      "time": "01:54"
+      "time": "04:25"
+    },
+    {
+      "title": "국제유가, 큰 폭 하락…미국-이란 '협상 마지막 단계'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006286339&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260521&page=1",
+      "source": "증권 시황",
+      "time": "04:25"
+    },
+    {
+      "title": "중동 전쟁에 빛 잃는 금값…  한달새 ETF 1000억 유출",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005360850&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260521&page=1",
+      "source": "증권 시황",
+      "time": "04:25"
+    },
+    {
+      "title": "열흘간 44조원 던진 외국인… 코스피 7200 간신히 지켰다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005360844&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260521&page=1",
+      "source": "증권 시황",
+      "time": "04:25"
+    },
+    {
+      "title": "美연준 다수위원 \"인플레 2% 계속 웃돌면 금리인상 적절\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016090090&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260521&page=1",
+      "source": "증권 시황",
+      "time": "04:25"
+    },
+    {
+      "title": "AI 붐 영향 워시와 달리 보는 채권 시장 \"장기금리 견인\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005765862&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260521&page=1",
+      "source": "증권 시황",
+      "time": "04:25"
+    },
+    {
+      "title": "\"오픈AI, 이르면 22일 IPO 신청서…9월 상장 목표\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016090081&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260521&page=1",
+      "source": "증권 시황",
+      "time": "04:25"
     },
     {
       "title": "“균열의 시대, 새로운 균형 찾아낼 지혜 필요”",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003977622&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260521&page=1",
       "source": "증권 시황",
-      "time": "01:54"
+      "time": "04:25"
     },
     {
       "title": "[주식 매매 상위 종목 및 환율] 2026년 5월 20일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003977572&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260521&page=1",
       "source": "증권 시황",
-      "time": "01:54"
+      "time": "04:25"
     },
     {
       "title": "[주요경제지표] 2026년 5월 20일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003977557&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260521&page=1",
       "source": "증권 시황",
-      "time": "01:54"
-    },
-    {
-      "title": "“젊은 리더와 비전 공유”…미래에셋증권, ‘세이지 비욘드’ 출범",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004622997&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260521&page=1",
-      "source": "증권 시황",
-      "time": "01:54"
-    },
-    {
-      "title": "\"주가 떨어질까 밤잠 설쳤는데\"…삼성전자 극적 타결에 개미들 안도",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0013958225&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260521&page=1",
-      "source": "증권 시황",
-      "time": "01:54"
-    },
-    {
-      "title": "\"주가 누르던 리스크 털었다\"…삼성노사 극적 합의에 투자자 안도(종합)",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016089989&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260521&page=1",
-      "source": "증권 시황",
-      "time": "01:54"
-    },
-    {
-      "title": "[뉴욕증시]엔비디아 실적 발표 앞두고 혼조 출발",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005765852&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260521&page=1",
-      "source": "증권 시황",
-      "time": "01:54"
-    },
-    {
-      "title": "日닛케이 “삼성전자 파업, 한국 경제 타격 우려 커져”",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002792602&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260521&page=1",
-      "source": "증권 시황",
-      "time": "01:54"
-    },
-    {
-      "title": "증선위, NH證 전 임원 '미공개 정보 이용' 檢고발",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005682998&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260521&page=1",
-      "source": "증권 시황",
-      "time": "01:54"
-    },
-    {
-      "title": "삼성전자 노사 타결에 금융시장 즉각 반응…야간선물 급등·환율 하락",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0013958221&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260521&page=1",
-      "source": "증권 시황",
-      "time": "01:54"
-    },
-    {
-      "title": "하루 거래량만 5조 넘었다…금융장벽 허문 주식토큰, 뭐가 좋길래",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005682996&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260521&page=1",
-      "source": "증권 시황",
-      "time": "01:54"
+      "time": "04:25"
     }
   ]
 }
