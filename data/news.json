@@ -1,79 +1,79 @@
 {
-  "updated": "2026-05-21T17:58:15+00:00",
-  "updated_kst": "2026-05-22T02:58:15+09:00",
+  "updated": "2026-05-21T20:03:01+00:00",
+  "updated_kst": "2026-05-22T05:03:01+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "반도체 파업 유보에, 코스피 8% 치솟아 7800 회복",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003721524&office_id=020&mode=mainnews&type=&date=2026-05-22&page=1",
+      "source": "메인 뉴스",
+      "time": "05:03"
+    },
+    {
+      "title": "역대 최대폭 뛴 코스피, 단숨에 7800 탈환",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005361504&office_id=008&mode=mainnews&type=&date=2026-05-22&page=1",
+      "source": "메인 뉴스",
+      "time": "05:03"
+    },
+    {
+      "title": "자사주로 주가 띄운다지만… 가라앉은 주주",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005361498&office_id=008&mode=mainnews&type=&date=2026-05-22&page=1",
+      "source": "메인 뉴스",
+      "time": "05:03"
+    },
+    {
+      "title": "\"스페이스X 주식, 토큰으로 산다\"…삼성전자·하이닉스는 언제",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001252970&office_id=215&mode=mainnews&type=&date=2026-05-22&page=1",
+      "source": "메인 뉴스",
+      "time": "05:03"
+    },
+    {
+      "title": "\"올해 2차전지 ESS 모멘텀 본격화…내년에 실적 성장까지\"[부꾸미]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005361475&office_id=008&mode=mainnews&type=&date=2026-05-22&page=1",
+      "source": "메인 뉴스",
+      "time": "05:03"
+    },
     {
       "title": "“250만원 넘으면 22% 뗀다” 코인 과세 앞두고...폐지 청원 4만명 돌파",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004623465&office_id=011&mode=mainnews&type=&date=2026-05-22&page=1",
       "source": "메인 뉴스",
-      "time": "02:58"
+      "time": "05:03"
     },
     {
       "title": "“코스피 1만1000까지 간다”…  59전자·400만닉스 전망도",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001850423&office_id=005&mode=mainnews&type=&date=2026-05-22&page=1",
       "source": "메인 뉴스",
-      "time": "02:58"
+      "time": "05:03"
     },
     {
       "title": "“팔자” 외국인, 지분율 더 올랐다…삼전닉스가 부른 기현상",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003525032&office_id=025&mode=mainnews&type=&date=2026-05-22&page=1",
       "source": "메인 뉴스",
-      "time": "02:58"
+      "time": "05:03"
     },
     {
-      "title": "美 국무 \"이란 호르무즈 통행료 부과하면 합의 불가능\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005766513&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260522&page=1",
+      "title": "'영업익 N%' 결국 경영부담… \"밸류업 역행\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005361509&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260522&page=1",
       "source": "증권 시황",
-      "time": "02:58"
+      "time": "05:03"
     },
     {
-      "title": "[주식 매매 상위 종목 및 환율] 2026년 5월 21일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003977798&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260522&page=1",
+      "title": "앤스로픽, 2Q 매출 109억달러 전망…첫 분기 흑자 달성하나",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005766517&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260522&page=1",
       "source": "증권 시황",
-      "time": "02:58"
+      "time": "05:03"
     },
     {
-      "title": "[주요경제지표] 2026년 5월 21일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003977780&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260522&page=1",
+      "title": "노사 손잡자, 사라진 노심초사… '30만전자' 코앞까지 갔다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005361494&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260522&page=1",
       "source": "증권 시황",
-      "time": "02:58"
+      "time": "05:03"
     },
     {
-      "title": "“핫한 ETF, 신탁 투자땐 추가 수수료 있어요”",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003721484&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260522&page=1",
+      "title": "주프랑스 이란 대사 \"오만과 호르무즈 상설 통행료 논의\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005766514&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260522&page=1",
       "source": "증권 시황",
-      "time": "02:58"
-    },
-    {
-      "title": "“코스피 1만도 아니고 무려 1만1000!”…노무라의 역대급 전망 나왔다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004623463&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260522&page=1",
-      "source": "증권 시황",
-      "time": "02:58"
-    },
-    {
-      "title": "美 주간 신규 실업수당 청구 20만9000건…전주 대비 감소",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005766512&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260522&page=1",
-      "source": "증권 시황",
-      "time": "02:58"
-    },
-    {
-      "title": "[사진] 코스피 8%↑상승폭 역대 최대",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003525051&office_id=025&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260522&page=1",
-      "source": "증권 시황",
-      "time": "02:58"
-    },
-    {
-      "title": "美, 양자컴퓨터 기업에 3조원 지원 추진…정부 지분투자도",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006287514&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260522&page=1",
-      "source": "증권 시황",
-      "time": "02:58"
-    },
-    {
-      "title": "美 정부, 양자컴퓨팅 파격 베팅…엔비디아의 진짜 문제 [빈난새의 개장전요것만]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005289993&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260522&page=1",
-      "source": "증권 시황",
-      "time": "02:58"
+      "time": "05:03"
     }
   ]
 }
