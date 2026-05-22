@@ -1,79 +1,79 @@
 {
-  "updated": "2026-05-22T17:08:32+00:00",
-  "updated_kst": "2026-05-23T02:08:32+09:00",
+  "updated": "2026-05-22T19:44:19+00:00",
+  "updated_kst": "2026-05-23T04:44:19+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "거래소 '대표지수' 물갈이…어떤 기업이 포함되고 빠졌나",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003093631&office_id=119&mode=mainnews&type=&date=2026-05-23&page=1",
+      "source": "메인 뉴스",
+      "time": "04:44"
+    },
     {
       "title": "“손실 막아준다” 국민성장펀드 6000억 문 열자 완판",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003978005&office_id=023&mode=mainnews&type=&date=2026-05-23&page=1",
       "source": "메인 뉴스",
-      "time": "02:08"
+      "time": "04:44"
     },
     {
       "title": "워시 연준 의장, 공식 취임…트럼프 \"진심 독립성 바래\"(종합)",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0013963456&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260523&page=1",
       "source": "증권 시황",
-      "time": "02:08"
+      "time": "04:44"
     },
     {
       "title": "성장펀드 완판에 수혜 기대, 코스닥 5% 급등",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003721786&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260523&page=1",
       "source": "증권 시황",
-      "time": "02:08"
+      "time": "04:44"
     },
     {
       "title": "[속보]트럼프, 워시 연준 신임 의장에 \"완전히 독립적길 바래\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0013963446&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260523&page=1",
       "source": "증권 시황",
-      "time": "02:08"
+      "time": "04:44"
     },
     {
       "title": "[주식 매매 상위 종목 및 환율] 2026년 5월 22일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003978001&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260523&page=1",
       "source": "증권 시황",
-      "time": "02:08"
+      "time": "04:44"
     },
     {
       "title": "미래에셋증권, 글로벌 지속가능경영 평가 지수에 14년 연속 편입",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003093622&office_id=119&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260523&page=1",
       "source": "증권 시황",
-      "time": "02:08"
+      "time": "04:44"
     },
     {
       "title": "[사설] 머스크에 ‘10배 차등의결권’, 스페이스X를 보라",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004623812&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260523&page=1",
       "source": "증권 시황",
-      "time": "02:08"
+      "time": "04:44"
     },
     {
       "title": "‘흰개미’ 투심 가늠자 된 GDR…“독일·런던장 먼저 본다”",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004623806&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260523&page=1",
       "source": "증권 시황",
-      "time": "02:08"
+      "time": "04:44"
     },
     {
       "title": "‘이차전지 테마주 주가조작’ 알에프세미 전현직 대표 구속",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004623800&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260523&page=1",
       "source": "증권 시황",
-      "time": "02:08"
+      "time": "04:44"
     },
     {
       "title": "[속보]뉴욕증시, 미·이란 협상 기대에 상승 출발…나스닥 0.6%↑",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0013963408&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260523&page=1",
       "source": "증권 시황",
-      "time": "02:08"
+      "time": "04:44"
     },
     {
       "title": "국민성장펀드 첫날 온라인 '완판'…증권사 영업점서 일부 가입 가능(종합)",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0013963396&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260523&page=1",
       "source": "증권 시황",
-      "time": "02:08"
-    },
-    {
-      "title": "'줄완판' 국민성장펀드, 물량 남은 곳은 어디?…추가 발행 될까",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001030623&office_id=031&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260523&page=1",
-      "source": "증권 시황",
-      "time": "02:08"
+      "time": "04:44"
     }
   ]
 }
