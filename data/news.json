@@ -1,79 +1,79 @@
 {
-  "updated": "2026-05-23T20:05:48+00:00",
-  "updated_kst": "2026-05-24T05:05:48+09:00",
+  "updated": "2026-05-23T21:53:05+00:00",
+  "updated_kst": "2026-05-24T06:53:05+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "채권 금리 뛰자 매력 ‘뚝’… 金 ETF서 한 달 새 1200억원 유출",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001166798&office_id=366&mode=mainnews&type=&date=2026-05-24&page=1",
+      "source": "메인 뉴스",
+      "time": "06:53"
+    },
+    {
+      "title": "'ETF도 국장이 대세' 5개월간 몸집 3배…미장 ETF 시총 '역전'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0008963016&office_id=421&mode=mainnews&type=&date=2026-05-24&page=1",
+      "source": "메인 뉴스",
+      "time": "06:53"
+    },
+    {
+      "title": "'덩치'는 대만 눌렀는데 대접은 글쎄…'1만피'의 조건 [B급기자의 B급리포트]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001253150&office_id=215&mode=mainnews&type=&date=2026-05-24&page=1",
+      "source": "메인 뉴스",
+      "time": "06:53"
+    },
+    {
+      "title": "외국인도 국장 ETF 직거래…세제 문제 풀고 제도정비 속도낸다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016095882&office_id=001&mode=mainnews&type=&date=2026-05-24&page=1",
+      "source": "메인 뉴스",
+      "time": "06:53"
+    },
     {
       "title": "AI 다음 주자 '나야나~'…美발 훈풍 수익률 '톱' 꿰찼다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001253148&office_id=215&mode=mainnews&type=&date=2026-05-24&page=1",
       "source": "메인 뉴스",
-      "time": "05:05"
+      "time": "06:53"
     },
     {
-      "title": "“주가 200만원 간다”…‘역대 최대’ 실적에 “더 오른다”는 ‘이 주식’",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002647456&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260524&page=1",
+      "title": "스페이스X '스타십 V3' 첫 비행 성공…우주 투자 열기 확산",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002228807&office_id=138&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260524&page=1",
       "source": "증권 시황",
-      "time": "05:05"
+      "time": "06:53"
     },
     {
-      "title": "“이 나라 보면 코스피 앞날이 보인다” 놀랄 만큼 닮았다 [투자360]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002647455&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260524&page=1",
+      "title": "외국인도 국장 ETF 직거래… 국내 주식 매수기반 확충 기대",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003028169&office_id=029&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260524&page=1",
       "source": "증권 시황",
-      "time": "05:05"
+      "time": "06:53"
     },
     {
-      "title": "'AI 전력난 막자' 다시 시동 건 신규 원전…건설 현장 가보니",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001950557&office_id=057&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260524&page=1",
+      "title": "[미국발 고금리] '영끌 가계·한계기업 어쩌나'…금융부담 확대 우려",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016095903&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260524&page=1",
       "source": "증권 시황",
-      "time": "05:05"
+      "time": "06:53"
     },
     {
-      "title": "매장 직원 보호나선 스타벅스…내부선 '책임론'도 제기",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001950552&office_id=057&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260524&page=1",
+      "title": "[미국발 고금리] 불안한 '빚투'…질주하는 코스피 '뇌관' 되나",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016095902&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260524&page=1",
       "source": "증권 시황",
-      "time": "05:05"
+      "time": "06:53"
     },
     {
-      "title": "‘요즘도 예금하는 사람 있어?’ 너도나도 ETF…갈수록 돈이 몰린다[투자360]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002647440&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260524&page=1",
+      "title": "[미국발 고금리] 한은 '매파적' 동결 유력…연내 인상 신호 주목",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016095901&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260524&page=1",
       "source": "증권 시황",
-      "time": "05:05"
+      "time": "06:53"
     },
     {
-      "title": "[속보]삼성전자 잠정합의안 이틀째 투표율 ‘80%’ 돌파…기권은 ‘0’",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002793182&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260524&page=1",
+      "title": "[미국발 고금리] 30년물 국채 연 5.2% 터치…연준 금리인상 기대 확산",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016095900&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260524&page=1",
       "source": "증권 시황",
-      "time": "05:05"
+      "time": "06:53"
     },
     {
-      "title": "[단독] 삼성전자, 주주명부 열람 수용…소액주주 임시주총 청구 본격화",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005684142&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260524&page=1",
+      "title": "\"손잡자\" 러브콜 받는 K-바이오…밑바탕은 '신뢰'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0013964343&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260524&page=1",
       "source": "증권 시황",
-      "time": "05:05"
-    },
-    {
-      "title": "\"코인, 가지고만 있어선 안 된다\"…DAT 기업의 생존전략[주末머니]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005767083&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260524&page=1",
-      "source": "증권 시황",
-      "time": "05:05"
-    },
-    {
-      "title": "[MZ 재테크] “남들 삼전·하닉으로 벌 때 뭐했나”…이번엔 2배 ETF로 몰린다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002228803&office_id=138&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260524&page=1",
-      "source": "증권 시황",
-      "time": "05:05"
-    },
-    {
-      "title": "449마력 오픈카로 맞이한 봄…낭만과 역동성 다 잡은 벤츠 CLE 카브리올레 [온더로드]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004623938&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260524&page=1",
-      "source": "증권 시황",
-      "time": "05:05"
-    },
-    {
-      "title": "'10분 만에 완판' 난리 나더니…'잭팟 1순위' 종목들 [분석+]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005290455&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260524&page=1",
-      "source": "증권 시황",
-      "time": "05:05"
+      "time": "06:53"
     }
   ]
 }
