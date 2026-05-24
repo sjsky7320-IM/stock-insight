@@ -1,79 +1,79 @@
 {
-  "updated": "2026-05-24T04:01:34+00:00",
-  "updated_kst": "2026-05-24T13:01:34+09:00",
+  "updated": "2026-05-24T07:48:59+00:00",
+  "updated_kst": "2026-05-24T16:48:59+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "\"부자될 마지막 기회?\"…'59만전자·400만닉스'의 유혹 [월급쟁이 희노애락]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005525691&office_id=014&mode=mainnews&type=&date=2026-05-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:48"
+    },
+    {
+      "title": "증시 불장에 바라보기만…연기금, 주식 못사는 까닭 [시그널]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004624072&office_id=011&mode=mainnews&type=&date=2026-05-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:48"
+    },
+    {
+      "title": "코스피 뛰는 동안 부진했던 코스닥…분위기 반전될까",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005525658&office_id=014&mode=mainnews&type=&date=2026-05-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:48"
+    },
+    {
+      "title": "코스피 치솟는데…10종목 중 6종목은 PBR 1배 미만",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005525654&office_id=014&mode=mainnews&type=&date=2026-05-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:48"
+    },
+    {
+      "title": "'증시 출렁'에 반대매매 2년7개월 만에 1000억원 돌파…\"변동성 심화 주의\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005525653&office_id=014&mode=mainnews&type=&date=2026-05-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:48"
+    },
+    {
+      "title": "\"1년 만에 222% 수직상승\"…개미들만 몰랐던 시총 3위 거인의 소리 없는 독주",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000098197&office_id=243&mode=mainnews&type=&date=2026-05-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:48"
+    },
+    {
+      "title": "패션브랜드 ‘마르디메크르디’의 피스피스 공모가, 희망범위 상단으로 확정",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005684253&office_id=009&mode=mainnews&type=&date=2026-05-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:48"
+    },
+    {
+      "title": "‘화장품 ODM’ 비앤비코리아, 코스닥 상장 도전",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005684252&office_id=009&mode=mainnews&type=&date=2026-05-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:48"
+    },
+    {
+      "title": "R&D 예산 늘고 규제 강화…삼일PwC \"대학 재정관리, AI 전환해야\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0013964739&office_id=003&mode=mainnews&type=&date=2026-05-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:48"
+    },
+    {
+      "title": "코스피 8천 시대, 다음 승부처는 하반기…한국경제TV 25일 특별 생방송",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001253175&office_id=215&mode=mainnews&type=&date=2026-05-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:48"
+    },
+    {
+      "title": "“AI가 AI 막는다”… 금융사 망분리 규제 1년간 완화",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003978124&office_id=023&mode=mainnews&type=&date=2026-05-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:48"
+    },
     {
       "title": "케빈 워시 연준 의장 취임… 트럼프 압박에도 당장 금리 인하 나서진 않을듯",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003978121&office_id=023&mode=mainnews&type=&date=2026-05-24&page=1",
       "source": "메인 뉴스",
-      "time": "13:01"
-    },
-    {
-      "title": "美기업, 中신약 도입 금지되나... K바이오 기술수출 영향은",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004624036&office_id=011&mode=mainnews&type=&date=2026-05-24&page=1",
-      "source": "메인 뉴스",
-      "time": "13:01"
-    },
-    {
-      "title": "'미토스' 위협 AI로 방어…대형 금융사 망분리 규제 1년간 푼다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016096227&office_id=001&mode=mainnews&type=&date=2026-05-24&page=1",
-      "source": "메인 뉴스",
-      "time": "13:01"
-    },
-    {
-      "title": "3년 7개월 만에 주담대 고정금리 하단 5% 돌파…\"금리 상승세 계속\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000932394&office_id=469&mode=mainnews&type=&date=2026-05-24&page=1",
-      "source": "메인 뉴스",
-      "time": "13:01"
-    },
-    {
-      "title": "주담대 하단 5% 돌파… 3년 7개월 만에 최고",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003978116&office_id=023&mode=mainnews&type=&date=2026-05-24&page=1",
-      "source": "메인 뉴스",
-      "time": "13:01"
-    },
-    {
-      "title": "경기 좋으니 OOO도 산다…낙수효과 제대로 보는 이 종목은?[주末머니]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005767145&office_id=277&mode=mainnews&type=&date=2026-05-24&page=1",
-      "source": "메인 뉴스",
-      "time": "13:01"
-    },
-    {
-      "title": "국민연금 150조 매도폭탄 터지나…리밸런싱 초읽기[증시 수급 대전환②]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0013964468&office_id=003&mode=mainnews&type=&date=2026-05-24&page=1",
-      "source": "메인 뉴스",
-      "time": "13:01"
-    },
-    {
-      "title": "“LG전자 왜 오르는지 다들 아시죠?”…개미들, 삼전닉스 다음으로 검색 많았다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005684203&office_id=009&mode=mainnews&type=&date=2026-05-24&page=1",
-      "source": "메인 뉴스",
-      "time": "13:01"
-    },
-    {
-      "title": "불장에도 박스권 네이버, '46만원'은 언제쯤 [급등주 지금은]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0013964403&office_id=003&mode=mainnews&type=&date=2026-05-24&page=1",
-      "source": "메인 뉴스",
-      "time": "13:01"
-    },
-    {
-      "title": "N년간 반도체가 효자 노릇…\"1만1000피 간다\" 외국계 파격 전망",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005362130&office_id=008&mode=mainnews&type=&date=2026-05-24&page=1",
-      "source": "메인 뉴스",
-      "time": "13:01"
-    },
-    {
-      "title": "코스피 8000 돌파 '재도전'…삼전·닉스 2배 ETF 활약 '기대'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0008963097&office_id=421&mode=mainnews&type=&date=2026-05-24&page=1",
-      "source": "메인 뉴스",
-      "time": "13:01"
-    },
-    {
-      "title": "공장 증설 효과 본 원료의약품…수주 늘고 실적도 끌어올려 [Why 바이오]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004623990&office_id=011&mode=mainnews&type=&date=2026-05-24&page=1",
-      "source": "메인 뉴스",
-      "time": "13:01"
+      "time": "16:48"
     }
   ]
 }
