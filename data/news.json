@@ -1,79 +1,79 @@
 {
-  "updated": "2026-05-25T19:39:05+00:00",
-  "updated_kst": "2026-05-26T04:39:05+09:00",
+  "updated": "2026-05-25T21:06:03+00:00",
+  "updated_kst": "2026-05-26T06:06:03+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "증시 블랙홀 된 '스페이스X'...이제 수혜보다 '급락' 걱정해야?",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005526129&office_id=014&mode=mainnews&type=&date=2026-05-26&page=1",
+      "source": "메인 뉴스",
+      "time": "06:06"
+    },
+    {
+      "title": "“개미들 얼마나 털어먹은거야”…외국인, 일주새 10조 순매도",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005684738&office_id=009&mode=mainnews&type=&date=2026-05-26&page=1",
+      "source": "메인 뉴스",
+      "time": "06:06"
+    },
+    {
+      "title": "“삼전닉스 이제 빼야겠죠?”…데이터는 ‘아직 가성비’라 말하네요",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005684737&office_id=009&mode=mainnews&type=&date=2026-05-26&page=1",
+      "source": "메인 뉴스",
+      "time": "06:06"
+    },
+    {
+      "title": "\"삼전·SK하이닉스 따블로 벌어보자\"…직장인들 관심 폭발, 손실도 두 배로 [MZ 머니 다이어리]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005526126&office_id=014&mode=mainnews&type=&date=2026-05-26&page=1",
+      "source": "메인 뉴스",
+      "time": "06:06"
+    },
+    {
+      "title": "美 PCE·단일종목 레버리지 ETF에 쏠린 눈…코스피 ‘8천피’ 재도전 나설까[주간 증시 전망]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004624309&office_id=011&mode=mainnews&type=&date=2026-05-26&page=1",
+      "source": "메인 뉴스",
+      "time": "06:06"
+    },
+    {
+      "title": "‘종전 랠리’에 엔비디아 효과…삼전·SK하닉 다시 날까",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003028402&office_id=029&mode=mainnews&type=&date=2026-05-26&page=1",
+      "source": "메인 뉴스",
+      "time": "06:06"
+    },
+    {
+      "title": "역대급 수출 호황에도 원화값 뚝뚝…달라진 환율 공식",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006290279&office_id=018&mode=mainnews&type=&date=2026-05-26&page=1",
+      "source": "메인 뉴스",
+      "time": "06:06"
+    },
     {
       "title": "메모리 반도체 주가, 어디까지 갈까[애널리스트의 마켓뷰]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003722109&office_id=020&mode=mainnews&type=&date=2026-05-26&page=1",
       "source": "메인 뉴스",
-      "time": "04:39"
+      "time": "06:06"
     },
     {
-      "title": "\"종전 후 유가 하락해도 美 10년물 금리 안 떨어질 것\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005767379&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260526&page=1",
+      "title": "스페이스X IPO 앞두고…韓·美 우주항공 ETF에 ‘뭉칫돈’",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001166991&office_id=366&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260526&page=1",
       "source": "증권 시황",
-      "time": "04:39"
+      "time": "06:06"
     },
     {
-      "title": "8천피 찍고 내렸다 '반등'...\"강세장 계속 된다\" 믿는 구석은",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005362463&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260526&page=1",
+      "title": "삼전닉스 레버리지·인버스 ETF 출시 ‘D-1’",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003094141&office_id=119&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260526&page=1",
       "source": "증권 시황",
-      "time": "04:39"
+      "time": "06:06"
     },
     {
-      "title": "미-이란, 종전 협상 막판 암초…핵·동결자산 놓고 충돌",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005767378&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260526&page=1",
+      "title": "전산장애 잇따른 한투증권, 전산 관리 소홀로 과태료 1억원",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000868277&office_id=422&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260526&page=1",
       "source": "증권 시황",
-      "time": "04:39"
+      "time": "06:06"
     },
     {
-      "title": "[주요경제지표] 2026년 5월 25일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003978387&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260526&page=1",
+      "title": "대형 PEF, 롯데렌탈 눈독…공정위 기조·몸값 격차에 M&A는 안갯속[시그널]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004624312&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260526&page=1",
       "source": "증권 시황",
-      "time": "04:39"
-    },
-    {
-      "title": "[애널리스트의 마켓뷰]메모리 반도체 주가, 어디까지 갈까",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003722109&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260526&page=1",
-      "source": "증권 시황",
-      "time": "04:39"
-    },
-    {
-      "title": "삼전닉스 레버리지 상품 내일 출시… 당국 “변동성 주의해야”",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003722101&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260526&page=1",
-      "source": "증권 시황",
-      "time": "04:39"
-    },
-    {
-      "title": "코스피 일평균 거래대금 첫 40조 넘겨… 삼전닉스가 43%",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003722100&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260526&page=1",
-      "source": "증권 시황",
-      "time": "04:39"
-    },
-    {
-      "title": "국민성장펀드가 끌어올린 코스닥, 상승 이어질까… 기업 고평가·고금리는 부담",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001850978&office_id=005&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260526&page=1",
-      "source": "증권 시황",
-      "time": "04:39"
-    },
-    {
-      "title": "신한투자증권, 美 조지워싱턴대 연수단에 자본시장 특강",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004624294&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260526&page=1",
-      "source": "증권 시황",
-      "time": "04:39"
-    },
-    {
-      "title": "“스페이스X 투자 놓쳤다?” 또다른 기회…오픈AI 수혜주가 있다 [투자360]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002647810&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260526&page=1",
-      "source": "증권 시황",
-      "time": "04:39"
-    },
-    {
-      "title": "트럼프, \"이란과 위대하고 의미있는 합의 아니면 노딜\"(상보)",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006290261&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260526&page=1",
-      "source": "증권 시황",
-      "time": "04:39"
+      "time": "06:06"
     }
   ]
 }
