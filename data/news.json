@@ -1,79 +1,79 @@
 {
-  "updated": "2026-05-29T15:29:27+00:00",
-  "updated_kst": "2026-05-30T00:29:27+09:00",
+  "updated": "2026-05-29T18:33:04+00:00",
+  "updated_kst": "2026-05-30T03:33:04+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "“번 만큼 세금 내야”… ‘8000피’ 달성에 다시 불붙은 금투세",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003723384&office_id=020&mode=mainnews&type=&date=2026-05-30&page=1",
+      "source": "메인 뉴스",
+      "time": "03:33"
+    },
     {
       "title": "\"한국증시 매력적\"…유럽 1위 운용사 '아문디'도 '엄지척'",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003095989&office_id=119&mode=mainnews&type=&date=2026-05-30&page=1",
       "source": "메인 뉴스",
-      "time": "00:29"
+      "time": "03:33"
     },
     {
       "title": "[영상] ‘삼전닉스’ 레버리지, 산 뒤에 후회 안 하려면?",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001851923&office_id=005&mode=mainnews&type=&date=2026-05-30&page=1",
       "source": "메인 뉴스",
-      "time": "00:29"
+      "time": "03:33"
+    },
+    {
+      "title": "[주식 매매 상위 종목 및 환율] 2026년 5월 29일자",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003979290&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260530&page=1",
+      "source": "증권 시황",
+      "time": "03:33"
     },
     {
       "title": "[사설] 국민연금 주식 확대·삼전닉스 레버리지, ‘분산투자 원칙’에 맞나",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004625972&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260530&page=1",
       "source": "증권 시황",
-      "time": "00:29"
+      "time": "03:33"
     },
     {
       "title": "[주간사모펀드] VIG파트너스, 미니쉬테크놀로지에 300억 베팅…지분 20% 확보",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000503525&office_id=629&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260530&page=1",
       "source": "증권 시황",
-      "time": "00:29"
+      "time": "03:33"
     },
     {
       "title": "오케스트라PE, 1000억원에 매머드커피·서진로스터즈 인수 마무리",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001168118&office_id=366&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260530&page=1",
       "source": "증권 시황",
-      "time": "00:29"
+      "time": "03:33"
     },
     {
       "title": "삼성·하나 줄이은 투자 결정, 금융권 디지털자산 경쟁 본격화[엠블록레터]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005687107&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260530&page=1",
       "source": "증권 시황",
-      "time": "00:29"
+      "time": "03:33"
     },
     {
       "title": "뉴욕증시, 종전 기대감에 상승 출발…다우 0.33%↑나스닥 0.13%↑",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0013976796&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260530&page=1",
       "source": "증권 시황",
-      "time": "00:29"
+      "time": "03:33"
     },
     {
       "title": "이름은 ‘기후변화 ETF’인데, 정작 투자는 ‘삼성닉스’…헷갈리는 이름들 [투자360]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002650004&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260530&page=1",
       "source": "증권 시황",
-      "time": "00:29"
+      "time": "03:33"
     },
     {
       "title": "[속보] 뉴욕증시, 美·이란 종전 기대감에 상승 출발…다우 0.33%↑",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0013976791&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260530&page=1",
       "source": "증권 시황",
-      "time": "00:29"
+      "time": "03:33"
     },
     {
       "title": "[특징주] 젠스황 ‘제2의 깐부회동’ 소식에…LG전자·LG CNS 급등",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001168095&office_id=366&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260530&page=1",
       "source": "증권 시황",
-      "time": "00:29"
-    },
-    {
-      "title": "[특징주] 애경산업, 탈모 완화 신소재 개발 소식에 강세",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001168094&office_id=366&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260530&page=1",
-      "source": "증권 시황",
-      "time": "00:29"
-    },
-    {
-      "title": "NH證 “제주항공, 2분기 영업 적자 불가피…하반기 여객 수요 회복 기대”",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001168085&office_id=366&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260530&page=1",
-      "source": "증권 시황",
-      "time": "00:29"
+      "time": "03:33"
     }
   ]
 }
