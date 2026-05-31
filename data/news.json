@@ -1,79 +1,79 @@
 {
-  "updated": "2026-05-31T18:01:49+00:00",
-  "updated_kst": "2026-06-01T03:01:49+09:00",
+  "updated": "2026-05-31T20:07:50+00:00",
+  "updated_kst": "2026-06-01T05:07:50+09:00",
   "source": "naver-finance",
   "items": [
     {
       "title": "이번엔 LG… 젠슨 황 ‘깐부회동’ 기대에 들썩",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001852173&office_id=005&mode=mainnews&type=&date=2026-06-01&page=1",
       "source": "메인 뉴스",
-      "time": "03:01"
+      "time": "05:07"
     },
     {
       "title": "올 100% 넘게 뛴 코스피, 5월 상승률 웃돈 종목 948개중 39개뿐",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003723550&office_id=020&mode=mainnews&type=&date=2026-06-01&page=1",
       "source": "메인 뉴스",
-      "time": "03:01"
+      "time": "05:07"
     },
     {
       "title": "중소 사모운용사 약진…삼성자산운용 순익 4위로 밀렸다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000503794&office_id=629&mode=mainnews&type=&date=2026-06-01&page=1",
       "source": "메인 뉴스",
-      "time": "03:01"
+      "time": "05:07"
+    },
+    {
+      "title": "“유동성 풍부해 안정적” 자산운용사들 레버리지 상품 경쟁 돌입",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003723575&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
+      "source": "증권 시황",
+      "time": "05:07"
+    },
+    {
+      "title": "삼전-닉스 레버리지 상품, 상장 2거래일 만에 시총 5조 원 넘어",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003723574&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
+      "source": "증권 시황",
+      "time": "05:07"
+    },
+    {
+      "title": "[사설]'국장 확대' 국민연금, 증시 안전판 우려",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005365262&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
+      "source": "증권 시황",
+      "time": "05:07"
+    },
+    {
+      "title": "반도체 '화력' 여전… 사상 최고치 찍은 코스피 9000 갈까",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005365260&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
+      "source": "증권 시황",
+      "time": "05:07"
     },
     {
       "title": "마이크론 '1조달러' 진입에 美서도 AI 거품논란 재점화",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016110623&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
       "source": "증권 시황",
-      "time": "03:01"
+      "time": "05:07"
     },
     {
       "title": "美 재무장관 \"호르무즈 개방·HEU 확보·핵보유 금지가 임무완수\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005770004&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
       "source": "증권 시황",
-      "time": "03:01"
+      "time": "05:07"
     },
     {
       "title": "[주간경제지표] 2026년 5월 29일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003979472&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
       "source": "증권 시황",
-      "time": "03:01"
+      "time": "05:07"
     },
     {
       "title": "삼전닉스 빼곤 다 떨어졌다…코스피 948개 중 12%만 올라",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003527011&office_id=025&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
       "source": "증권 시황",
-      "time": "03:01"
+      "time": "05:07"
     },
     {
       "title": "월러 연준이사 \"스테이블코인, 美통화정책 영향력 확대할 것\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016110615&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
       "source": "증권 시황",
-      "time": "03:01"
-    },
-    {
-      "title": "김용범의 “나는 공범” 고백 한 달… ‘잔인한 금융’은 어떻게 만들어졌나 [홍길용의 화식열..",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002650343&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
-      "source": "증권 시황",
-      "time": "03:01"
-    },
-    {
-      "title": "월러 Fed 이사 \"스테이블코인 확산되면 美 통화정책 영향력 더 커져\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005770003&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
-      "source": "증권 시황",
-      "time": "03:01"
-    },
-    {
-      "title": "“마침내 때가 왔다” 스페이스X 상장…베일 벗은 투자설명서 [투자360]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002650340&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
-      "source": "증권 시황",
-      "time": "03:01"
-    },
-    {
-      "title": "MS 손잡고 PC시장 진출하는 엔비디아… 인텔·AMD 생태계 흔들까",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000933707&office_id=469&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
-      "source": "증권 시황",
-      "time": "03:01"
+      "time": "05:07"
     }
   ]
 }
