@@ -1,79 +1,79 @@
 {
-  "updated": "2026-05-31T14:44:29+00:00",
-  "updated_kst": "2026-05-31T23:44:29+09:00",
+  "updated": "2026-05-31T16:08:06+00:00",
+  "updated_kst": "2026-06-01T01:08:06+09:00",
   "source": "naver-finance",
   "items": [
     {
-      "title": "“마침내 때가 왔다” 스페이스X 상장…베일 벗은 투자설명서 [투자360]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002650340&office_id=016&mode=mainnews&type=&date=2026-05-31&page=1",
+      "title": "올 100% 넘게 뛴 코스피, 5월 상승률 웃돈 종목 948개중 39개뿐",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003723550&office_id=020&mode=mainnews&type=&date=2026-06-01&page=1",
       "source": "메인 뉴스",
-      "time": "23:44"
+      "time": "01:08"
+    },
+    {
+      "title": "중소 사모운용사 약진…삼성자산운용 순익 4위로 밀렸다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000503794&office_id=629&mode=mainnews&type=&date=2026-06-01&page=1",
+      "source": "메인 뉴스",
+      "time": "01:08"
+    },
+    {
+      "title": "[주간경제지표] 2026년 5월 29일자",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003979472&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
+    },
+    {
+      "title": "삼전닉스 빼곤 다 떨어졌다…코스피 948개 중 12%만 올라",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003527011&office_id=025&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
+    },
+    {
+      "title": "월러 연준이사 \"스테이블코인, 美통화정책 영향력 확대할 것\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016110615&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
+    },
+    {
+      "title": "김용범의 “나는 공범” 고백 한 달… ‘잔인한 금융’은 어떻게 만들어졌나 [홍길용의 화식열..",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002650343&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
+    },
+    {
+      "title": "월러 Fed 이사 \"스테이블코인 확산되면 美 통화정책 영향력 더 커져\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005770003&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
+    },
+    {
+      "title": "“마침내 때가 왔다” 스페이스X 상장…베일 벗은 투자설명서 [투자360]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002650340&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
+    },
+    {
+      "title": "MS 손잡고 PC시장 진출하는 엔비디아… 인텔·AMD 생태계 흔들까",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000933707&office_id=469&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
     },
     {
       "title": "여의도 알아주는 ‘선수’에 물었더니… AI산업혁명, 세 가지 업종 찍었다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005687504&office_id=009&mode=mainnews&type=&date=2026-05-31&page=1",
-      "source": "메인 뉴스",
-      "time": "23:44"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005687504&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
     },
     {
-      "title": "불장에 '위장' 주식 사이트 등장…6월에 9천피 갈까?",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001951668&office_id=057&mode=mainnews&type=&date=2026-05-31&page=1",
-      "source": "메인 뉴스",
-      "time": "23:44"
+      "title": "삼전닉스 주요임원 자사주 수익률…최대 400% ‘대박’",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002794678&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
     },
     {
-      "title": "‘대형 이벤트 몰려온다’ 삼성전자·SK하이닉스 더 오를까…‘젠슨 황’ 효과 기대 [투자360]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002650314&office_id=016&mode=mainnews&type=&date=2026-05-31&page=1",
-      "source": "메인 뉴스",
-      "time": "23:44"
-    },
-    {
-      "title": "삼전닉스 신고가에 임원들도 수익률 대박?'최대 400%'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001032032&office_id=031&mode=mainnews&type=&date=2026-05-31&page=1",
-      "source": "메인 뉴스",
-      "time": "23:44"
-    },
-    {
-      "title": "“9년 동안 주식 잊고 살았는데”...단 1년만에 4000% 폭등한 ‘샌디’",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005687481&office_id=009&mode=mainnews&type=&date=2026-05-31&page=1",
-      "source": "메인 뉴스",
-      "time": "23:44"
-    },
-    {
-      "title": "車·반도체 소부장 강세… AI전력·방산은 차익실현에 약세 [ETF 스퀘어]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005528668&office_id=014&mode=mainnews&type=&date=2026-05-31&page=1",
-      "source": "메인 뉴스",
-      "time": "23:44"
-    },
-    {
-      "title": "AI인프라 혈관 '광통신' 투자…美 '톱3' 집중해 고수익 노려 [이런 펀드 어때요?]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005528667&office_id=014&mode=mainnews&type=&date=2026-05-31&page=1",
-      "source": "메인 뉴스",
-      "time": "23:44"
-    },
-    {
-      "title": "모았던 돈 다시 꺼내 써… 생활비·저축 통장 쪼개야 [재테크 Q&A]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005528665&office_id=014&mode=mainnews&type=&date=2026-05-31&page=1",
-      "source": "메인 뉴스",
-      "time": "23:44"
-    },
-    {
-      "title": "AI 성과 지지부진… 불장서 소외된 네카오",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005528634&office_id=014&mode=mainnews&type=&date=2026-05-31&page=1",
-      "source": "메인 뉴스",
-      "time": "23:44"
-    },
-    {
-      "title": "석탄발전 확대 전망에 ‘탄소배출권 ETF’ 질주",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004626247&office_id=011&mode=mainnews&type=&date=2026-05-31&page=1",
-      "source": "메인 뉴스",
-      "time": "23:44"
-    },
-    {
-      "title": "“삼전 주주인데 몰랐네요”…국민기업에 관한 100가지 사실 [이슈 플러스]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005687423&office_id=009&mode=mainnews&type=&date=2026-05-31&page=1",
-      "source": "메인 뉴스",
-      "time": "23:44"
+      "title": "오케스트라PE, 매머드커피·서진로스터즈 인수",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016110600&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260601&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
     }
   ]
 }
