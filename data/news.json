@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-01T16:37:03+00:00",
-  "updated_kst": "2026-06-02T01:37:03+09:00",
+  "updated": "2026-06-01T20:54:56+00:00",
+  "updated_kst": "2026-06-02T05:54:56+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "[속보]트럼프 \"이란 협상 계속\"에 뉴욕증시 또 최고치… 엔비디아 6.3%↑",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006295668&office_id=018&mode=mainnews&type=&date=2026-06-02&page=1",
+      "source": "메인 뉴스",
+      "time": "05:54"
+    },
+    {
+      "title": "인공지능 IPO 전쟁…오픈AI·앤스로픽 '상장 1위' 경쟁",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005770637&office_id=277&mode=mainnews&type=&date=2026-06-02&page=1",
+      "source": "메인 뉴스",
+      "time": "05:54"
+    },
+    {
+      "title": "이란 \"미국과 협상 중단\"…국제유가 7%대 급등",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006295656&office_id=018&mode=mainnews&type=&date=2026-06-02&page=1",
+      "source": "메인 뉴스",
+      "time": "05:54"
+    },
     {
       "title": "8000서 8700까지 4거래일… 반도체·피지컬 AI 쏠림 가속화",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001852388&office_id=005&mode=mainnews&type=&date=2026-06-02&page=1",
       "source": "메인 뉴스",
-      "time": "01:37"
+      "time": "05:54"
     },
     {
-      "title": "이란 \"미국과 협상 중단\"…국제유가 7%대 급등",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006295656&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260602&page=1",
+      "title": "뉴욕증시 3대지수, 유가상승에도 최고치 마감…엔비디아 6%↑(종합)",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016112850&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260602&page=1",
       "source": "증권 시황",
-      "time": "01:37"
+      "time": "05:54"
     },
     {
-      "title": "타스님뉴스 \"이란, 미국과 소통 중단…레바논 휴전 위반 탓\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005770635&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260602&page=1",
+      "title": "[뉴욕증시]일제히 최고치 마감…AI 기대감, 트럼프 발언에 ↑",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005770643&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260602&page=1",
       "source": "증권 시황",
-      "time": "01:37"
+      "time": "05:54"
     },
     {
-      "title": "[주식 매매 상위 종목 및 환율] 2026년 6월 1일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003979681&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260602&page=1",
+      "title": "뉴욕증시 또 사상 최고치…이란 리스크에도 AI 랠리가 밀어올렸다[월스트리트in]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006295670&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260602&page=1",
       "source": "증권 시황",
-      "time": "01:37"
+      "time": "05:54"
     },
     {
-      "title": "[주요경제지표] 2026년 6월 1일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003979668&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260602&page=1",
+      "title": "발동 걸린 ‘빅테크 역대 최대 상장 러시’…앤트로픽, IPO 신고서 비공개 제출",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002229619&office_id=138&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260602&page=1",
       "source": "증권 시황",
-      "time": "01:37"
+      "time": "05:54"
     },
     {
-      "title": "이란 \"협상 중단\" 유가 급등...AI 독주 랠리 떠받친 젠슨황 [빈난새의 개장전요것만]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005293897&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260602&page=1",
+      "title": "美플로리다주, 오픈AI와 올트먼 상대 제소 \"아동 피해 입혀\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005770642&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260602&page=1",
       "source": "증권 시황",
-      "time": "01:37"
+      "time": "05:54"
     },
     {
-      "title": "‘A+’ 신용등급 앞둔 대한항공 회사채, 수요예측서 1.1兆 확보 [시그널]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004626783&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260602&page=1",
+      "title": "‘깐부 젠슨황’에 환호하는 LG·두산·NAVER…“삼전닉스 부럽지 않아”",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003029649&office_id=029&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260602&page=1",
       "source": "증권 시황",
-      "time": "01:37"
+      "time": "05:54"
     },
     {
-      "title": "[사진] 코스피 어디까지 날아오를까",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003527318&office_id=025&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260602&page=1",
+      "title": "뉴욕증시 3대 지수 사상 최고치 마감…이란 협상 불확실성·유가 급등 속 기술주 강세",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002229618&office_id=138&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260602&page=1",
       "source": "증권 시황",
-      "time": "01:37"
+      "time": "05:54"
     },
     {
-      "title": "[코인뉴스] 비트코인 7만3000달러 붕괴…기관 자금도 외면",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003096818&office_id=119&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260602&page=1",
+      "title": "[기자수첩] 국민연금엔 안어울리는 '전략적 모호성'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005365921&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260602&page=1",
       "source": "증권 시황",
-      "time": "01:37"
-    },
-    {
-      "title": "롯데쇼핑 실적 개선에…회사채 수요예측서 1兆 주문 [시그널]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004626774&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260602&page=1",
-      "source": "증권 시황",
-      "time": "01:37"
-    },
-    {
-      "title": "‘이런 불장에 수익률 14%?’ 비교되는 은행주…“하반기엔 다르다” 왜? [투자360]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002650915&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260602&page=1",
-      "source": "증권 시황",
-      "time": "01:37"
-    },
-    {
-      "title": "비트코인 절대 팔지말라던 MSTR, 32개 매각",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005688140&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260602&page=1",
-      "source": "증권 시황",
-      "time": "01:37"
+      "time": "05:54"
     }
   ]
 }
