@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-02T17:23:05+00:00",
-  "updated_kst": "2026-06-03T02:23:05+09:00",
+  "updated": "2026-06-02T20:48:32+00:00",
+  "updated_kst": "2026-06-03T05:48:32+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "[속보]S&P500 첫 7600선 돌파…AI가 또 밀어올렸다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006296374&office_id=018&mode=mainnews&type=&date=2026-06-03&page=1",
+      "source": "메인 뉴스",
+      "time": "05:48"
+    },
+    {
+      "title": "작년엔 코인이 코스피 제쳤는데…\"30배로 불어났다\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001254153&office_id=215&mode=mainnews&type=&date=2026-06-03&page=1",
+      "source": "메인 뉴스",
+      "time": "05:48"
+    },
+    {
+      "title": "“코스닥 대신 레버리지”… 수급 쏠림에 ‘천스닥’도 위태",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001852664&office_id=005&mode=mainnews&type=&date=2026-06-03&page=1",
+      "source": "메인 뉴스",
+      "time": "05:48"
+    },
+    {
+      "title": "외국인 6.6조 폭탄에도 코스피 또 최고치… 개미가 떠받쳤다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001852663&office_id=005&mode=mainnews&type=&date=2026-06-03&page=1",
+      "source": "메인 뉴스",
+      "time": "05:48"
+    },
     {
       "title": "코스피 지진 낸 ‘삼전닉스 단타’",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003527589&office_id=025&mode=mainnews&type=&date=2026-06-03&page=1",
       "source": "메인 뉴스",
-      "time": "02:23"
+      "time": "05:48"
     },
     {
       "title": "9000 눈앞서 미끄러진 코스피…롤러코스터 장세 뚫고 고지 밟을까",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000504538&office_id=629&mode=mainnews&type=&date=2026-06-03&page=1",
       "source": "메인 뉴스",
-      "time": "02:23"
+      "time": "05:48"
     },
     {
-      "title": "외국인 6.6조 폭탄에도 코스피 또 최고치… 개미가 떠받쳤다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001852663&office_id=005&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260603&page=1",
+      "title": "美, 이란 경제 압박 강화…가상화폐 거래소 4곳 제재",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016115292&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260603&page=1",
       "source": "증권 시황",
-      "time": "02:23"
+      "time": "05:48"
     },
     {
-      "title": "[주요경제지표] 2026년 6월 2일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003979866&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260603&page=1",
+      "title": "골드만 CEO “시장엔 공포보다 탐욕이 더 많아”",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006296375&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260603&page=1",
       "source": "증권 시황",
-      "time": "02:23"
+      "time": "05:48"
     },
     {
-      "title": "[주식 매매 상위 종목 및 환율] 2026년 6월 2일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003979864&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260603&page=1",
+      "title": "뉴욕증시 3대 지수 또 최고치… AI·반도체 강세에 9거래일 연속 상승",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002229767&office_id=138&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260603&page=1",
       "source": "증권 시황",
-      "time": "02:23"
+      "time": "05:48"
     },
     {
-      "title": "반도체 잔치에 은행주는 ‘찬밥’… 주주환원율 따져야",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001852629&office_id=005&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260603&page=1",
+      "title": "'전 세계 모든 비트코인 모아도 못 사'…삼성전자 파격 전망",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001254154&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260603&page=1",
       "source": "증권 시황",
-      "time": "02:23"
+      "time": "05:48"
     },
     {
-      "title": "'투자 흐름서 이슈 분석까지'…한투증권, 데이터·AI로 MTS 고도화",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003097243&office_id=119&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260603&page=1",
+      "title": "뉴욕증시, AI 낙관론 지속에 3대지수 최고치 마감…다우 0.5%↑",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016115286&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260603&page=1",
       "source": "증권 시황",
-      "time": "02:23"
+      "time": "05:48"
     },
     {
-      "title": "버크셔도 나선 구글의 역대급 증자...하드웨어 웃고 소프트웨어 울고 [빈난새의 개장전요것만..",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005294289&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260603&page=1",
+      "title": "[속보] 뉴욕증시, '협상 계속'·경제지표 호조에 일제 상승 마감",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0013983183&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260603&page=1",
       "source": "증권 시황",
-      "time": "02:23"
-    },
-    {
-      "title": "상장 수수료 후려치는 머스크…스페이스X 파격대우 요구",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016115237&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260603&page=1",
-      "source": "증권 시황",
-      "time": "02:23"
-    },
-    {
-      "title": "뉴욕증시, 종전협상 불확실성 속 혼조세로 출발…다우 0.16%↑",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0013983122&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260603&page=1",
-      "source": "증권 시황",
-      "time": "02:23"
-    },
-    {
-      "title": "[속보] 뉴욕증시, 미·이란 종전협상 불확실성 속 혼조세로 출발",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0013983114&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260603&page=1",
-      "source": "증권 시황",
-      "time": "02:23"
-    },
-    {
-      "title": "“거제 야호!” 증권가 덮친 걸그룹 밈…K핵잠 수혜주 찍힌 ‘이곳’",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002651424&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260603&page=1",
-      "source": "증권 시황",
-      "time": "02:23"
+      "time": "05:48"
     }
   ]
 }
