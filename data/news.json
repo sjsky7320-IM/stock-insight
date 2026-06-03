@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-02T23:02:19+00:00",
-  "updated_kst": "2026-06-03T08:02:19+09:00",
+  "updated": "2026-06-03T00:23:11+00:00",
+  "updated_kst": "2026-06-03T09:23:11+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "엘니뇨·폭염 경고에...美 에너지·원전 기업 ‘뜨거운 급등’",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005294320&office_id=015&mode=mainnews&type=&date=2026-06-03&page=1",
+      "source": "메인 뉴스",
+      "time": "09:23"
+    },
+    {
+      "title": "목표가 뚫은 단기 급등에 '깜짝'...\"상승 여력 어디에\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001254168&office_id=215&mode=mainnews&type=&date=2026-06-03&page=1",
+      "source": "메인 뉴스",
+      "time": "09:23"
+    },
+    {
+      "title": "'젠슨 형 믿고 들어갈까'...올해 150%↑ \"더 간다\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001254167&office_id=215&mode=mainnews&type=&date=2026-06-03&page=1",
+      "source": "메인 뉴스",
+      "time": "09:23"
+    },
+    {
+      "title": "'삼전닉스' 쏠린 투심, 단일종목 레버리지 단기간 급성장[월간 ETF워치]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000047679&office_id=648&mode=mainnews&type=&date=2026-06-03&page=1",
+      "source": "메인 뉴스",
+      "time": "09:23"
+    },
+    {
+      "title": "사상최대 빚투 속 반대매매 3배 '쑥'…변동성 공포 휩싸인 개미들",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0013983322&office_id=003&mode=mainnews&type=&date=2026-06-03&page=1",
+      "source": "메인 뉴스",
+      "time": "09:23"
+    },
+    {
+      "title": "반도체 독주에 조정 받지만…증권가가 찍은 ‘수혜주’",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001254166&office_id=215&mode=mainnews&type=&date=2026-06-03&page=1",
+      "source": "메인 뉴스",
+      "time": "09:23"
+    },
     {
       "title": "상장 앞둔 스페이스X…증권가는 기대반 우려반",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003097270&office_id=119&mode=mainnews&type=&date=2026-06-03&page=1",
       "source": "메인 뉴스",
-      "time": "08:02"
+      "time": "09:23"
     },
     {
       "title": "9천피 목전인데 코스닥은 '침울'...자금 대거 이탈",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001254164&office_id=215&mode=mainnews&type=&date=2026-06-03&page=1",
       "source": "메인 뉴스",
-      "time": "08:02"
+      "time": "09:23"
     },
     {
       "title": "코스피 변동성 극심…'사이드카 발동' 금융위기 이후 최다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016115439&office_id=001&mode=mainnews&type=&date=2026-06-03&page=1",
       "source": "메인 뉴스",
-      "time": "08:02"
+      "time": "09:23"
     },
     {
       "title": "[단독]일본서 난리난 스페이스X 공모주, 한국 개미 강제 '포모' 오나",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000047676&office_id=648&mode=mainnews&type=&date=2026-06-03&page=1",
       "source": "메인 뉴스",
-      "time": "08:02"
+      "time": "09:23"
     },
     {
       "title": "ETF에도 '빚투'…반도체 상품 신용잔고 한달새 급증",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016115414&office_id=001&mode=mainnews&type=&date=2026-06-03&page=1",
       "source": "메인 뉴스",
-      "time": "08:02"
+      "time": "09:23"
     },
     {
       "title": "\"IT버블도 넘었다\"…798% 뛴 삼전닉스, 아직 끝 아니라는데",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005529884&office_id=014&mode=mainnews&type=&date=2026-06-03&page=1",
       "source": "메인 뉴스",
-      "time": "08:02"
-    },
-    {
-      "title": "\"프리마켓 폭등에 샀더니 ?25%, 젠슨 황 효과 벌써 끝났나요?\" 식겁한 LG개미 [개미의 세계]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005529883&office_id=014&mode=mainnews&type=&date=2026-06-03&page=1",
-      "source": "메인 뉴스",
-      "time": "08:02"
-    },
-    {
-      "title": "휴온스랩 주식 보유한 윤성태 회장 일가…합병 후 '일거양득'[기로의상장사]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005771187&office_id=277&mode=mainnews&type=&date=2026-06-03&page=1",
-      "source": "메인 뉴스",
-      "time": "08:02"
-    },
-    {
-      "title": "하반기 주도주 쏠림 완화의 최대 수혜주는?",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005771186&office_id=277&mode=mainnews&type=&date=2026-06-03&page=1",
-      "source": "메인 뉴스",
-      "time": "08:02"
-    },
-    {
-      "title": "\"우와, 삼전 또 올랐어\"…지수는 사상 최고인데 왜 내 계좌만 파랄까",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005529879&office_id=014&mode=mainnews&type=&date=2026-06-03&page=1",
-      "source": "메인 뉴스",
-      "time": "08:02"
-    },
-    {
-      "title": "“삼전·닉스만 간다”…단일종목 ETF 4일만에 37조원 싹쓸이",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001168966&office_id=366&mode=mainnews&type=&date=2026-06-03&page=1",
-      "source": "메인 뉴스",
-      "time": "08:02"
-    },
-    {
-      "title": "비트코인의 굴욕…글로벌 자산 순위 14위로 밀려",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0013983202&office_id=003&mode=mainnews&type=&date=2026-06-03&page=1",
-      "source": "메인 뉴스",
-      "time": "08:02"
+      "time": "09:23"
     }
   ]
 }
