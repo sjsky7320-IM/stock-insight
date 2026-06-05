@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-05T15:54:12+00:00",
-  "updated_kst": "2026-06-06T00:54:12+09:00",
+  "updated": "2026-06-05T17:54:46+00:00",
+  "updated_kst": "2026-06-06T02:54:46+09:00",
   "source": "naver-finance",
   "items": [
     {
       "title": "'현정은 백기사' H&Q, 현대엘리 투자금 전량 회수[주간사모펀드]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000505487&office_id=629&mode=mainnews&type=&date=2026-06-06&page=1",
       "source": "메인 뉴스",
-      "time": "00:54"
+      "time": "02:54"
+    },
+    {
+      "title": "환율, 강달러에 한때 1,560원도 넘었다…금융위기 이후 최고(종합)",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016122710&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260606&page=1",
+      "source": "증권 시황",
+      "time": "02:54"
+    },
+    {
+      "title": "‘브로드컴 실적 실망’에 코스피 5% 급락… 환율 1539원, 금융위기 이후 최고",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003724871&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260606&page=1",
+      "source": "증권 시황",
+      "time": "02:54"
+    },
+    {
+      "title": "나스닥 3% 급락·비트코인 6만달러…연말 금리인상 확률 60%로 급등",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006299020&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260606&page=1",
+      "source": "증권 시황",
+      "time": "02:54"
+    },
+    {
+      "title": "미친 듯이 파는 외국인…증시·환율 '검은 금요일'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005295597&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260606&page=1",
+      "source": "증권 시황",
+      "time": "02:54"
+    },
+    {
+      "title": "[바로잡습니다] 5월 26일 자 A16면 ‘“수많은 엄마役 했지만… 48년 연기 중 가장 ..",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003980552&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260606&page=1",
+      "source": "증권 시황",
+      "time": "02:54"
     },
     {
       "title": "[경제계 인사] 한국은행",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003980524&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260606&page=1",
       "source": "증권 시황",
-      "time": "00:54"
+      "time": "02:54"
     },
     {
       "title": "[주식 매매 상위 종목 및 환율] 2026년 6월 5일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003980520&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260606&page=1",
       "source": "증권 시황",
-      "time": "00:54"
+      "time": "02:54"
     },
     {
       "title": "[인사] 곽노선 차기 한국경제학회장",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003980512&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260606&page=1",
       "source": "증권 시황",
-      "time": "00:54"
+      "time": "02:54"
     },
     {
       "title": "금리 급등에 반도체·소형주 와르르...엔비디아 메모리 축소 진실은 [빈난새의 개장전요것만]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005295596&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260606&page=1",
       "source": "증권 시황",
-      "time": "00:54"
+      "time": "02:54"
     },
     {
       "title": "모건스탠리 \"스페이스X 2040년 매출 5천조원 예상\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016122699&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260606&page=1",
       "source": "증권 시황",
-      "time": "00:54"
+      "time": "02:54"
     },
     {
       "title": "'3시간 만에 완판'…NH증권 IMA 2호, 투자자 면면 살펴보니",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003098297&office_id=119&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260606&page=1",
       "source": "증권 시황",
-      "time": "00:54"
-    },
-    {
-      "title": "[주간사모펀드] '현정은 백기사' H&Q, 현대엘리 투자금 전량 회수",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000505487&office_id=629&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260606&page=1",
-      "source": "증권 시황",
-      "time": "00:54"
-    },
-    {
-      "title": "삼전닉스 60조 팔고 '눈길' 준 곳이…\"비결이 뭐야?\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001254475&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260606&page=1",
-      "source": "증권 시황",
-      "time": "00:54"
-    },
-    {
-      "title": "[올댓차이나] 中, 5200조원 규모 사모펀드 업계 전면 재편",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0013990116&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260606&page=1",
-      "source": "증권 시황",
-      "time": "00:54"
-    },
-    {
-      "title": "엔비디아, 새로운 세대 제품 출시로 매출 두 배 커질 듯-BofA",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006298993&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260606&page=1",
-      "source": "증권 시황",
-      "time": "00:54"
-    },
-    {
-      "title": "[코인뉴스] 비트코인 6만 달러 위태...다음 방어선은?",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003098295&office_id=119&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260606&page=1",
-      "source": "증권 시황",
-      "time": "00:54"
+      "time": "02:54"
     }
   ]
 }
