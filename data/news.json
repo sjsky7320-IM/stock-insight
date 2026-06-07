@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-07T18:04:17+00:00",
-  "updated_kst": "2026-06-08T03:04:17+09:00",
+  "updated": "2026-06-07T20:12:01+00:00",
+  "updated_kst": "2026-06-08T05:12:01+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "'스페이스X' 나스닥 간다…TSMC는 5월 매출 발표[주간경제전망]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001146486&office_id=417&mode=mainnews&type=&date=2026-06-08&page=1",
+      "source": "메인 뉴스",
+      "time": "05:12"
+    },
     {
       "title": "‘검은 금요일’ 여파 언제까지… 코스피 덮친 ‘3대 악재’",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001853558&office_id=005&mode=mainnews&type=&date=2026-06-08&page=1",
       "source": "메인 뉴스",
-      "time": "03:04"
+      "time": "05:12"
     },
     {
       "title": "지선 끝났는데 또 미뤄진 디지털자산기본법…업계 \"답답함 넘어 분통\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000505616&office_id=629&mode=mainnews&type=&date=2026-06-08&page=1",
       "source": "메인 뉴스",
-      "time": "03:04"
+      "time": "05:12"
+    },
+    {
+      "title": "[오늘의 주요일정]금융·증권(6월8일 월요일)",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0013992192&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
+      "source": "증권 시황",
+      "time": "05:12"
+    },
+    {
+      "title": "[주간경제전망] '스페이스X' 나스닥 간다…TSMC는 5월 매출 발표",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001146486&office_id=417&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
+      "source": "증권 시황",
+      "time": "05:12"
+    },
+    {
+      "title": "美 반도체 급락 뒤 첫 장…“오늘 주식앱 못켜겠다”",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003528664&office_id=025&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
+      "source": "증권 시황",
+      "time": "05:12"
+    },
+    {
+      "title": "같은 반도체 ETF인데 수익률 2배 차이…'차이는 포트폴리오였다'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000935082&office_id=469&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
+      "source": "증권 시황",
+      "time": "05:12"
+    },
+    {
+      "title": "\"스페이스X 기대\" 2조 빨아들인 우주ETF",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005368244&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
+      "source": "증권 시황",
+      "time": "05:12"
+    },
+    {
+      "title": "OPEC+ 4개월 연속 증산 결정…호르무즈 봉쇄에 효과 제한적",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005772866&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
+      "source": "증권 시황",
+      "time": "05:12"
+    },
+    {
+      "title": "한산해진 회사채 시장…우량채 두곳만 발행",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006300290&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
+      "source": "증권 시황",
+      "time": "05:12"
     },
     {
       "title": "트럼프 \"금리 인하해야\"…워시 첫 FOMC 앞두고 압박",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005772864&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
       "source": "증권 시황",
-      "time": "03:04"
+      "time": "05:12"
     },
     {
       "title": "“불법 추심·대출 근절” 대부업자 일제 점검",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003980712&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
       "source": "증권 시황",
-      "time": "03:04"
-    },
-    {
-      "title": "[주간경제지표] 2026년 6월 5일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003980693&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
-      "source": "증권 시황",
-      "time": "03:04"
-    },
-    {
-      "title": "서학개미, 미국 주식 버렸다… 10개월 만에 ‘마이너스’ 전환",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001853527&office_id=005&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
-      "source": "증권 시황",
-      "time": "03:04"
-    },
-    {
-      "title": "일주일새 반토막난 ‘KORU’…코스피 변동성 주의보",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004628503&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
-      "source": "증권 시황",
-      "time": "03:04"
-    },
-    {
-      "title": "스페이스X, IPO 흥행 예고…청약 수요 1500억달러 몰려",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006300267&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
-      "source": "증권 시황",
-      "time": "03:04"
-    },
-    {
-      "title": "‘사상 최대 IPO’ 스페이스X, IPO 청약 목표약 2배 흥행",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002653060&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
-      "source": "증권 시황",
-      "time": "03:04"
-    },
-    {
-      "title": "[뉴스추적] 깐부치킨서 최태원과 2차 회동…'삼쏘'에 평양냉면·삼계탕까지",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001952708&office_id=057&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
-      "source": "증권 시황",
-      "time": "03:04"
-    },
-    {
-      "title": "\"작은데 비싸요\" 금어기 풀렸는데도 '금징어'…1마리 7천 원대",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001952705&office_id=057&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
-      "source": "증권 시황",
-      "time": "03:04"
-    },
-    {
-      "title": "PEF 칼라일, 청호나이스 인수계약 체결",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005690457&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
-      "source": "증권 시황",
-      "time": "03:04"
+      "time": "05:12"
     }
   ]
 }
