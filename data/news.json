@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-07T20:12:01+00:00",
-  "updated_kst": "2026-06-08T05:12:01+09:00",
+  "updated": "2026-06-07T22:02:34+00:00",
+  "updated_kst": "2026-06-08T07:02:34+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "'어디서부터 잘못된 걸까'…\"일단 피하자\" 발등 불 떨어진 K바이오주",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001254566&office_id=215&mode=mainnews&type=&date=2026-06-08&page=1",
+      "source": "메인 뉴스",
+      "time": "07:02"
+    },
+    {
+      "title": "“한국 반도체 문의가 너무 많이와요”...캐나다에서도 ‘삼전닉스’ 붐",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005690487&office_id=009&mode=mainnews&type=&date=2026-06-08&page=1",
+      "source": "메인 뉴스",
+      "time": "07:02"
+    },
+    {
+      "title": "\"금리 내린다더니 왜?\"…AI 랠리 덮친 물가 쇼크",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005531601&office_id=014&mode=mainnews&type=&date=2026-06-08&page=1",
+      "source": "메인 뉴스",
+      "time": "07:02"
+    },
+    {
+      "title": "칼라일, 청호나이스 경영권 인수 본계약…거래규모 약 1조 원 [시그널]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004628528&office_id=011&mode=mainnews&type=&date=2026-06-08&page=1",
+      "source": "메인 뉴스",
+      "time": "07:02"
+    },
+    {
+      "title": "“대세는 액티브ETF”…지수 추종 넘어 과감해지는 개미들 [코주부]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004628526&office_id=011&mode=mainnews&type=&date=2026-06-08&page=1",
+      "source": "메인 뉴스",
+      "time": "07:02"
+    },
+    {
+      "title": "코스피 ‘블랙먼데이’ 공포… “글로벌 펀드들, 하락 방어 강화”",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001853591&office_id=005&mode=mainnews&type=&date=2026-06-08&page=1",
+      "source": "메인 뉴스",
+      "time": "07:02"
+    },
+    {
+      "title": "\"퇴출 넘어 승강제·정보혁신 나서야\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006300308&office_id=018&mode=mainnews&type=&date=2026-06-08&page=1",
+      "source": "메인 뉴스",
+      "time": "07:02"
+    },
+    {
+      "title": "동전주 탈출해도 '시총 칼날'…적자 늪 296곳 상폐 사정권",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006300307&office_id=018&mode=mainnews&type=&date=2026-06-08&page=1",
+      "source": "메인 뉴스",
+      "time": "07:02"
+    },
+    {
+      "title": "‘9000피’ 앞두고 주저앉은 코스피…조정 국면 언제까지 [주간 증시 전망]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004628520&office_id=011&mode=mainnews&type=&date=2026-06-08&page=1",
+      "source": "메인 뉴스",
+      "time": "07:02"
+    },
+    {
+      "title": "‘고유가·외인 매도폭탄’ 악재만 가득…1560원 뚫은 환율, 고착화 우려",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006300301&office_id=018&mode=mainnews&type=&date=2026-06-08&page=1",
+      "source": "메인 뉴스",
+      "time": "07:02"
+    },
     {
       "title": "'스페이스X' 나스닥 간다…TSMC는 5월 매출 발표[주간경제전망]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001146486&office_id=417&mode=mainnews&type=&date=2026-06-08&page=1",
       "source": "메인 뉴스",
-      "time": "05:12"
-    },
-    {
-      "title": "‘검은 금요일’ 여파 언제까지… 코스피 덮친 ‘3대 악재’",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001853558&office_id=005&mode=mainnews&type=&date=2026-06-08&page=1",
-      "source": "메인 뉴스",
-      "time": "05:12"
-    },
-    {
-      "title": "지선 끝났는데 또 미뤄진 디지털자산기본법…업계 \"답답함 넘어 분통\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000505616&office_id=629&mode=mainnews&type=&date=2026-06-08&page=1",
-      "source": "메인 뉴스",
-      "time": "05:12"
-    },
-    {
-      "title": "[오늘의 주요일정]금융·증권(6월8일 월요일)",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0013992192&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
-      "source": "증권 시황",
-      "time": "05:12"
-    },
-    {
-      "title": "[주간경제전망] '스페이스X' 나스닥 간다…TSMC는 5월 매출 발표",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001146486&office_id=417&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
-      "source": "증권 시황",
-      "time": "05:12"
+      "time": "07:02"
     },
     {
       "title": "美 반도체 급락 뒤 첫 장…“오늘 주식앱 못켜겠다”",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003528664&office_id=025&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
-      "source": "증권 시황",
-      "time": "05:12"
-    },
-    {
-      "title": "같은 반도체 ETF인데 수익률 2배 차이…'차이는 포트폴리오였다'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000935082&office_id=469&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
-      "source": "증권 시황",
-      "time": "05:12"
-    },
-    {
-      "title": "\"스페이스X 기대\" 2조 빨아들인 우주ETF",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005368244&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
-      "source": "증권 시황",
-      "time": "05:12"
-    },
-    {
-      "title": "OPEC+ 4개월 연속 증산 결정…호르무즈 봉쇄에 효과 제한적",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005772866&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
-      "source": "증권 시황",
-      "time": "05:12"
-    },
-    {
-      "title": "한산해진 회사채 시장…우량채 두곳만 발행",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006300290&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
-      "source": "증권 시황",
-      "time": "05:12"
-    },
-    {
-      "title": "트럼프 \"금리 인하해야\"…워시 첫 FOMC 앞두고 압박",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005772864&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
-      "source": "증권 시황",
-      "time": "05:12"
-    },
-    {
-      "title": "“불법 추심·대출 근절” 대부업자 일제 점검",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003980712&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260608&page=1",
-      "source": "증권 시황",
-      "time": "05:12"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003528664&office_id=025&mode=mainnews&type=&date=2026-06-08&page=1",
+      "source": "메인 뉴스",
+      "time": "07:02"
     }
   ]
 }
