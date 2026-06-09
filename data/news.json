@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-08T23:57:24+00:00",
-  "updated_kst": "2026-06-09T08:57:24+09:00",
+  "updated": "2026-06-09T00:06:06+00:00",
+  "updated_kst": "2026-06-09T09:06:06+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "유안타證 “LG이노텍, 광학만 보던 시기 끝났다…목표가 140만원",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001170330&office_id=366&mode=mainnews&type=&date=2026-06-09&page=1",
+      "source": "메인 뉴스",
+      "time": "09:06"
+    },
+    {
+      "title": "“삼전닉스 너무 잘나가 팔 수밖에 없었다”…외국인 70조 매도 뒤 숨은 ‘반전’",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004629052&office_id=011&mode=mainnews&type=&date=2026-06-09&page=1",
+      "source": "메인 뉴스",
+      "time": "09:06"
+    },
     {
       "title": "상승장에 수십조 팔아치우던 외국인 폭락장에선 ‘관망’ 왜?",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003980981&office_id=023&mode=mainnews&type=&date=2026-06-09&page=1",
       "source": "메인 뉴스",
-      "time": "08:57"
+      "time": "09:06"
     },
     {
       "title": "삼성운용, 'KODEX 현대차로보틱스밸류체인TOP3플러스' ETF 상장",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006301173&office_id=018&mode=mainnews&type=&date=2026-06-09&page=1",
       "source": "메인 뉴스",
-      "time": "08:57"
+      "time": "09:06"
     },
     {
       "title": "“젠슨 형, 로보틱스 주가 오르는 거지?”…재계 회장 줄 세운 엔비디아의 옥석 가리기 [오늘 나온 보고서]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005691104&office_id=009&mode=mainnews&type=&date=2026-06-09&page=1",
       "source": "메인 뉴스",
-      "time": "08:57"
+      "time": "09:06"
     },
     {
       "title": "8800선 뚫고 추락한 코스피…\"주도주 단기 매수 기회\" [분석+]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005296499&office_id=015&mode=mainnews&type=&date=2026-06-09&page=1",
       "source": "메인 뉴스",
-      "time": "08:57"
+      "time": "09:06"
     },
     {
       "title": "“기술주 아직 안 끝났다”…반도체 급반등에 나스닥 0.9%↑ [투자360]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002653728&office_id=016&mode=mainnews&type=&date=2026-06-09&page=1",
       "source": "메인 뉴스",
-      "time": "08:57"
+      "time": "09:06"
     },
     {
       "title": "이스라엘·이란 공격 중단에…뉴욕증시, 반도체주 급반등[뉴스새벽배송]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006301138&office_id=018&mode=mainnews&type=&date=2026-06-09&page=1",
       "source": "메인 뉴스",
-      "time": "08:57"
+      "time": "09:06"
     },
     {
       "title": "트러스톤, 행동주의는 빙산의 일각...전정한 힘은 '주식형 강자'[투자의 품격]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000047829&office_id=648&mode=mainnews&type=&date=2026-06-09&page=1",
       "source": "메인 뉴스",
-      "time": "08:57"
+      "time": "09:06"
     },
     {
       "title": "“코스피, 이번 주 단기 저점 통과 가능성…7000선 초반서 반등 모색”",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006301126&office_id=018&mode=mainnews&type=&date=2026-06-09&page=1",
       "source": "메인 뉴스",
-      "time": "08:57"
+      "time": "09:06"
     },
     {
       "title": "미 증시 '노 블랙 먼데이'…스페이스X에 몰리는 돈, 어떻게 봐야 할까 [마켓무버의 국장 힌트]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001254717&office_id=215&mode=mainnews&type=&date=2026-06-09&page=1",
       "source": "메인 뉴스",
-      "time": "08:57"
+      "time": "09:06"
     },
     {
       "title": "NAVER, 엔비디아 손잡고 네오클라우드 진출…목표가 40만원↑-하나",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006301116&office_id=018&mode=mainnews&type=&date=2026-06-09&page=1",
       "source": "메인 뉴스",
-      "time": "08:57"
-    },
-    {
-      "title": "美반도체주 일제히 반등…코스피 8000선 탈환 시도[오늘의 증시]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0013994843&office_id=003&mode=mainnews&type=&date=2026-06-09&page=1",
-      "source": "메인 뉴스",
-      "time": "08:57"
-    },
-    {
-      "title": "하나증권 \"엔비디아 새 깐부 네이버, 목표가 40만원\"[아침밥]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001146703&office_id=417&mode=mainnews&type=&date=2026-06-09&page=1",
-      "source": "메인 뉴스",
-      "time": "08:57"
+      "time": "09:06"
     }
   ]
 }
