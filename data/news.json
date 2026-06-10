@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-10T09:59:12+00:00",
-  "updated_kst": "2026-06-10T18:59:12+09:00",
+  "updated": "2026-06-10T13:39:49+00:00",
+  "updated_kst": "2026-06-10T22:39:49+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "한화솔루션 1.7조 유상증자, 세 차례 정정 끝 금감원 문턱 넘어",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005692198&office_id=009&mode=mainnews&type=&date=2026-06-10&page=1",
+      "source": "메인 뉴스",
+      "time": "22:39"
+    },
+    {
+      "title": "사흘 연속 사이드카…극단적인 널뛰기에 코스피 '변동성 쇼크' [분석+]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005297434&office_id=015&mode=mainnews&type=&date=2026-06-10&page=1",
+      "source": "메인 뉴스",
+      "time": "22:39"
+    },
+    {
+      "title": "‘지금도 안 늦었다?’ 240만원까지 간다니…삼성전기 목표주가 고공행진 [종목Pick]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002654885&office_id=016&mode=mainnews&type=&date=2026-06-10&page=1",
+      "source": "메인 뉴스",
+      "time": "22:39"
+    },
+    {
+      "title": "국제 거래부터 K-팬덤까지...스테이블코인의 확장성 공개[엠블록레터]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005692191&office_id=009&mode=mainnews&type=&date=2026-06-10&page=1",
+      "source": "메인 뉴스",
+      "time": "22:39"
+    },
+    {
+      "title": "“일주일에 한 번꼴” 9·11테러, 코로나보다 심하다…조울증 걸린 코스피 [투자360]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002654870&office_id=016&mode=mainnews&type=&date=2026-06-10&page=1",
+      "source": "메인 뉴스",
+      "time": "22:39"
+    },
+    {
+      "title": "\"이차전지 사업 한다더니\" 개미의 피눈물…알에프세미 전현직 대표, 기소",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001034264&office_id=031&mode=mainnews&type=&date=2026-06-10&page=1",
+      "source": "메인 뉴스",
+      "time": "22:39"
+    },
+    {
+      "title": "한화솔루션 유상증자, 세 차례 정정 끝에 금감원 문턱 넘었다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0013999372&office_id=003&mode=mainnews&type=&date=2026-06-10&page=1",
+      "source": "메인 뉴스",
+      "time": "22:39"
+    },
+    {
+      "title": "\"이래서 빠졌네\"…ETF 리밸런싱 '풍전등화'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001254974&office_id=215&mode=mainnews&type=&date=2026-06-10&page=1",
+      "source": "메인 뉴스",
+      "time": "22:39"
+    },
+    {
+      "title": "[단독] “놔두면 환율 우주 따라갈 판”…스페이스X 기관청약 제한건다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005692169&office_id=009&mode=mainnews&type=&date=2026-06-10&page=1",
+      "source": "메인 뉴스",
+      "time": "22:39"
+    },
+    {
+      "title": "\"어제 3억 벌고 오늘 2억 잃었네요\"…'롤코'에 레버리지 개미들 '멘붕'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001034251&office_id=031&mode=mainnews&type=&date=2026-06-10&page=1",
+      "source": "메인 뉴스",
+      "time": "22:39"
+    },
     {
       "title": "“수익률 대박나도 무섭다?” 이상한 사상 최고치…미국, 일본과 다른 한국 ‘공포지수’ [투자360]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002654850&office_id=016&mode=mainnews&type=&date=2026-06-10&page=1",
       "source": "메인 뉴스",
-      "time": "18:59"
+      "time": "22:39"
     },
     {
       "title": "\"스페이스X 담아라\"… 국내 운용사 美우주항공ETF 눈치게임",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005533315&office_id=014&mode=mainnews&type=&date=2026-06-10&page=1",
       "source": "메인 뉴스",
-      "time": "18:59"
-    },
-    {
-      "title": "급락·급등 반복에 커진 공포…VKOSPI 역대 최고 수준",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006302491&office_id=018&mode=mainnews&type=&date=2026-06-10&page=1",
-      "source": "메인 뉴스",
-      "time": "18:59"
-    },
-    {
-      "title": "美 주식 덜어내는 서학개미…반도체만 공격 베팅",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004629793&office_id=011&mode=mainnews&type=&date=2026-06-10&page=1",
-      "source": "메인 뉴스",
-      "time": "18:59"
-    },
-    {
-      "title": "고유가 덕에…'목재펠릿 공장' 펀드 ' EOD 문턱서 기사회생[only 이데일리]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006302487&office_id=018&mode=mainnews&type=&date=2026-06-10&page=1",
-      "source": "메인 뉴스",
-      "time": "18:59"
-    },
-    {
-      "title": "하락 방어 움직임 커졌다…“코스피 추가 하락 경고등”",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006302484&office_id=018&mode=mainnews&type=&date=2026-06-10&page=1",
-      "source": "메인 뉴스",
-      "time": "18:59"
-    },
-    {
-      "title": "美반도체 ETF 하락 베팅 급증…삼전·SK하닉에 불똥 튀나",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006302479&office_id=018&mode=mainnews&type=&date=2026-06-10&page=1",
-      "source": "메인 뉴스",
-      "time": "18:59"
-    },
-    {
-      "title": "코로나19·美 상호관세 쇼크…고비 때 요동친 코스피, 한달 뒤 '반등'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006302477&office_id=018&mode=mainnews&type=&date=2026-06-10&page=1",
-      "source": "메인 뉴스",
-      "time": "18:59"
-    },
-    {
-      "title": "개장 후 ‘시장가 매수’는 위험…무늬만 우주 ETF도 주의[스페이스X 상장 D-2]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004629785&office_id=011&mode=mainnews&type=&date=2026-06-10&page=1",
-      "source": "메인 뉴스",
-      "time": "18:59"
-    },
-    {
-      "title": "[단독] 집팔아 ‘삼전닉스’ 들어간 야수들…생각보다 훨씬 더 많았다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005692146&office_id=009&mode=mainnews&type=&date=2026-06-10&page=1",
-      "source": "메인 뉴스",
-      "time": "18:59"
-    },
-    {
-      "title": "암치료제 개발 뉴베일런트, GSK 품으로[미국 주식 돋보기]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005692126&office_id=009&mode=mainnews&type=&date=2026-06-10&page=1",
-      "source": "메인 뉴스",
-      "time": "18:59"
-    },
-    {
-      "title": "\"내 주식 강제로 팔렸어요\"… 개미, 롤러코스피 속 ‘반대매매’ 공포",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003031121&office_id=029&mode=mainnews&type=&date=2026-06-10&page=1",
-      "source": "메인 뉴스",
-      "time": "18:59"
+      "time": "22:39"
     }
   ]
 }
