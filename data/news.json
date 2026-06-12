@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-12T16:17:52+00:00",
-  "updated_kst": "2026-06-13T01:17:52+09:00",
+  "updated": "2026-06-12T19:04:47+00:00",
+  "updated_kst": "2026-06-13T04:04:47+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "스페이스X 주가 2% 급등…기업가치 2조달러 돌파(종합)",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006304969&office_id=018&mode=mainnews&type=&date=2026-06-13&page=1",
+      "source": "메인 뉴스",
+      "time": "04:04"
+    },
+    {
+      "title": "'스위스 GDP만큼 가진 사나이'…머스크, 세계 첫 1조달러 자산가",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006304968&office_id=018&mode=mainnews&type=&date=2026-06-13&page=1",
+      "source": "메인 뉴스",
+      "time": "04:04"
+    },
     {
       "title": "MBK 1000억 보증, 홈플러스 회생 '마중물' 될까[주간사모펀드]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000507319&office_id=629&mode=mainnews&type=&date=2026-06-13&page=1",
       "source": "메인 뉴스",
-      "time": "01:17"
+      "time": "04:04"
+    },
+    {
+      "title": "스페이스X, 첫날 장중 30% 상승…투자 몰려 매매플랫폼 장애도(종합)",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016136761&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260613&page=1",
+      "source": "증권 시황",
+      "time": "04:04"
+    },
+    {
+      "title": "스페이스X 사장 \"테슬라 합병시 머스크 편해지고 시너지 있지만\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016136743&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260613&page=1",
+      "source": "증권 시황",
+      "time": "04:04"
+    },
+    {
+      "title": "스페이스X 상장 첫날 11% 급등…머스크, 세계 첫 '조만장자' 등극",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005775796&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260613&page=1",
+      "source": "증권 시황",
+      "time": "04:04"
+    },
+    {
+      "title": "일론 머스크, 세계 최초 '조만장자' 등극…스페이스X 시총 6위에",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016136707&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260613&page=1",
+      "source": "증권 시황",
+      "time": "04:04"
     },
     {
       "title": "'수익 몰아주기 의혹' 美 유명 펀드매니저 유죄 인정",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016136695&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260613&page=1",
       "source": "증권 시황",
-      "time": "01:17"
+      "time": "04:04"
     },
     {
       "title": "스페이스X, 150달러에 거래 시작…공모가 대비 11%↑",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016136694&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260613&page=1",
       "source": "증권 시황",
-      "time": "01:17"
+      "time": "04:04"
     },
     {
       "title": "[美특징주]스페이스X 시초가 150달러…상장 직후 시총 2조달러 넘겨",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006304967&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260613&page=1",
       "source": "증권 시황",
-      "time": "01:17"
+      "time": "04:04"
     },
     {
       "title": "[속보]스페이스X 주가 17% 급등 출발…기업가치 2조달러 돌파",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006304966&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260613&page=1",
       "source": "증권 시황",
-      "time": "01:17"
+      "time": "04:04"
     },
     {
       "title": "[주식 매매 상위 종목 및 환율] 2026년 6월 12일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003981798&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260613&page=1",
       "source": "증권 시황",
-      "time": "01:17"
-    },
-    {
-      "title": "신현송 한은 총재 또 금리인상 ‘신호’",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003981793&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260613&page=1",
-      "source": "증권 시황",
-      "time": "01:17"
-    },
-    {
-      "title": "머스크 \"스페이스X가 달과 화성, 그 너머까지 데려다주길 바라\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005775795&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260613&page=1",
-      "source": "증권 시황",
-      "time": "01:17"
-    },
-    {
-      "title": "스페이스X, 증시 궤도 진입…주가 움직일 머스크의 진짜 ‘X파일’은? [홍길용의 화식열전]..",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002655991&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260613&page=1",
-      "source": "증권 시황",
-      "time": "01:17"
-    },
-    {
-      "title": "[주간사모펀드] MBK 1000억 보증, 홈플러스 회생 '마중물' 될까",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000507319&office_id=629&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260613&page=1",
-      "source": "증권 시황",
-      "time": "01:17"
-    },
-    {
-      "title": "[뉴욕증시]종전 MOU 체결 임박…S&P500·나스닥 소폭 하락세",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005775794&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260613&page=1",
-      "source": "증권 시황",
-      "time": "01:17"
-    },
-    {
-      "title": "스페이스X IPO에 530조 '뭉칫돈'…기관 주문만 380조원",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006304834&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260613&page=1",
-      "source": "증권 시황",
-      "time": "01:17"
+      "time": "04:04"
     }
   ]
 }
