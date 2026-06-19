@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-19T17:57:40+00:00",
-  "updated_kst": "2026-06-20T02:57:40+09:00",
+  "updated": "2026-06-19T19:55:09+00:00",
+  "updated_kst": "2026-06-20T04:55:09+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "하루 553P 오르락내리락 ‘롤러코스터 코스피’",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003728120&office_id=020&mode=mainnews&type=&date=2026-06-20&page=1",
+      "source": "메인 뉴스",
+      "time": "04:55"
+    },
     {
       "title": "코스피 9000시대 열렸는데…비트코인 부진에 증시로 '머니 무브' 가속",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000509132&office_id=629&mode=mainnews&type=&date=2026-06-20&page=1",
       "source": "메인 뉴스",
-      "time": "02:57"
+      "time": "04:55"
     },
     {
       "title": "홈플러스 파산 위기에…MBK·메리츠 진흙탕 싸움[주간사모펀드]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000509128&office_id=629&mode=mainnews&type=&date=2026-06-20&page=1",
       "source": "메인 뉴스",
-      "time": "02:57"
+      "time": "04:55"
     },
     {
-      "title": "하루 553P 오르락내리락 ‘롤러코스터 코스피’",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003728120&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260620&page=1",
+      "title": "美증권사 찰스슈왑, 시카고옵션거래소와 협력헤 예측시장 진출",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016149193&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260620&page=1",
       "source": "증권 시황",
-      "time": "02:57"
+      "time": "04:55"
     },
     {
       "title": "중앙일보, 워크아웃 신청… “채무조정 방안 마련”",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003983060&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260620&page=1",
       "source": "증권 시황",
-      "time": "02:57"
+      "time": "04:55"
     },
     {
       "title": "[주식 매매 상위 종목 및 환율] 2026년 6월 19일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003983058&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260620&page=1",
       "source": "증권 시황",
-      "time": "02:57"
+      "time": "04:55"
     },
     {
       "title": "[주간사모펀드] 홈플러스 파산 위기에…MBK·메리츠 진흙탕 싸움",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000509128&office_id=629&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260620&page=1",
       "source": "증권 시황",
-      "time": "02:57"
+      "time": "04:55"
     },
     {
       "title": "\"강세장 종료 시그널\"이라 했는데…삼성전자 턱밑까지 추격한 하이닉스",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001256017&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260620&page=1",
       "source": "증권 시황",
-      "time": "02:57"
+      "time": "04:55"
     },
     {
       "title": "[올댓차이나] 中 투자자들, 메타에 매각 AI 스타트업 마누스 환매수 추진",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014017428&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260620&page=1",
       "source": "증권 시황",
-      "time": "02:57"
+      "time": "04:55"
     },
     {
       "title": "미국 \"이스라엘·헤즈볼라 휴전 합의...19일 오후 4시 발효\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005374595&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260620&page=1",
       "source": "증권 시황",
-      "time": "02:57"
+      "time": "04:55"
     },
     {
       "title": "\"처음에 우량주 분할매수했는데...\" 1년만에 '7억' 날린 유튜버의 고백",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001256016&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260620&page=1",
       "source": "증권 시황",
-      "time": "02:57"
+      "time": "04:55"
     },
     {
       "title": "삼전 ‘테슬라’ 넘고, 하이닉스 ‘마이크론’ 제쳤다…세계 뒤흔든 ‘K-반도체’",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005696372&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260620&page=1",
       "source": "증권 시황",
-      "time": "02:57"
-    },
-    {
-      "title": "‘주가조작 패가망신 1호’ 정조준…검찰, 증권사 3곳 압수수색",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005696370&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260620&page=1",
-      "source": "증권 시황",
-      "time": "02:57"
+      "time": "04:55"
     }
   ]
 }
