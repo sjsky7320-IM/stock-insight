@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-19T10:21:48+00:00",
-  "updated_kst": "2026-06-19T19:21:48+09:00",
+  "updated": "2026-06-19T11:22:37+00:00",
+  "updated_kst": "2026-06-19T20:22:37+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "MBK \"메리츠, 왜곡된 수익 추정으로 홈플 회생 본질 흐려\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009013824&office_id=421&mode=mainnews&type=&date=2026-06-19&page=1",
+      "source": "메인 뉴스",
+      "time": "20:22"
+    },
+    {
+      "title": "“삼전닉스 빼면 남는 게 없다?” 무려 ‘70%’…처음으로 5000조까지 돌파 [투자360]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002659069&office_id=016&mode=mainnews&type=&date=2026-06-19&page=1",
+      "source": "메인 뉴스",
+      "time": "20:22"
+    },
+    {
+      "title": "올해만 700% 뛰었는데 “아직도 싸다”…‘300만원’까지 간다는 이 종목 뭐길래",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004633062&office_id=011&mode=mainnews&type=&date=2026-06-19&page=1",
+      "source": "메인 뉴스",
+      "time": "20:22"
+    },
     {
       "title": "공무원연금·우본도 찍었다…코람코, 거침없는 '영토 확장'",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006310228&office_id=018&mode=mainnews&type=&date=2026-06-19&page=1",
       "source": "메인 뉴스",
-      "time": "19:21"
+      "time": "20:22"
     },
     {
       "title": "SK하이닉스 시총 2000조 돌파",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005300805&office_id=015&mode=mainnews&type=&date=2026-06-19&page=1",
       "source": "메인 뉴스",
-      "time": "19:21"
+      "time": "20:22"
     },
     {
       "title": "고점 부담에…레버리지 팔고 지수형 담은 개미",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004633027&office_id=011&mode=mainnews&type=&date=2026-06-19&page=1",
       "source": "메인 뉴스",
-      "time": "19:21"
+      "time": "20:22"
     },
     {
       "title": "상승장 기회·월분배 매력…올해 수익률 99% 넘었다[ETF 줌인]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004633024&office_id=011&mode=mainnews&type=&date=2026-06-19&page=1",
       "source": "메인 뉴스",
-      "time": "19:21"
+      "time": "20:22"
     },
     {
       "title": "[단독] 단일종목 레버리지 왜곡 사고에…‘LP 평가’ 손본다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004633021&office_id=011&mode=mainnews&type=&date=2026-06-19&page=1",
       "source": "메인 뉴스",
-      "time": "19:21"
+      "time": "20:22"
     },
     {
       "title": "코스피 매수액 절반이 삼전닉스…1년새 쏠림 3배 커져",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004633017&office_id=011&mode=mainnews&type=&date=2026-06-19&page=1",
       "source": "메인 뉴스",
-      "time": "19:21"
+      "time": "20:22"
     },
     {
       "title": "'비실비실' 비트코인 … SK하이닉스에 시총 역전당하기도",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005696304&office_id=009&mode=mainnews&type=&date=2026-06-19&page=1",
       "source": "메인 뉴스",
-      "time": "19:21"
+      "time": "20:22"
     },
     {
       "title": "'1만피 고지' 앞두고 … 숨고르는 코스피",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005696303&office_id=009&mode=mainnews&type=&date=2026-06-19&page=1",
       "source": "메인 뉴스",
-      "time": "19:21"
+      "time": "20:22"
     },
     {
       "title": "'1만피' 향하는 코스피…국내 증시 시총 8000조원 돌파(종합)",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014017300&office_id=003&mode=mainnews&type=&date=2026-06-19&page=1",
       "source": "메인 뉴스",
-      "time": "19:21"
-    },
-    {
-      "title": "\"'SK하이닉스' 꼭대기 아냐? 얼른 팔아\"?불안한 개미들 3조 던질 때 외인 '줍줍'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001036358&office_id=031&mode=mainnews&type=&date=2026-06-19&page=1",
-      "source": "메인 뉴스",
-      "time": "19:21"
-    },
-    {
-      "title": "AI 인프라 ETF쏟아진다…삼성·한투, 반도체·배터리·전력기기 등 신규 상장",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001148301&office_id=417&mode=mainnews&type=&date=2026-06-19&page=1",
-      "source": "메인 뉴스",
-      "time": "19:21"
-    },
-    {
-      "title": "메리츠 \"MBK, 홈플러스로 조단위 수익…회생 확신하면 보증 거부할 이유 없어\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014017270&office_id=003&mode=mainnews&type=&date=2026-06-19&page=1",
-      "source": "메인 뉴스",
-      "time": "19:21"
+      "time": "20:22"
     }
   ]
 }
