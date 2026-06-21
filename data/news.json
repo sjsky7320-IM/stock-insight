@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-21T21:13:16+00:00",
-  "updated_kst": "2026-06-22T06:13:16+09:00",
+  "updated": "2026-06-21T22:13:04+00:00",
+  "updated_kst": "2026-06-22T07:13:04+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "'1만 코스피' 카운트다운…관건은 금리·반도체",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003103125&office_id=119&mode=mainnews&type=&date=2026-06-22&page=1",
+      "source": "메인 뉴스",
+      "time": "07:13"
+    },
+    {
+      "title": "‘수급 블랙홀’된 반도체…ETF 쏠림도 심화 [마켓시그널]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004633477&office_id=011&mode=mainnews&type=&date=2026-06-22&page=1",
+      "source": "메인 뉴스",
+      "time": "07:13"
+    },
+    {
+      "title": "가상화폐 시장 싸늘…비트코인 제자리걸음에 울상[크립토마켓]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001148421&office_id=417&mode=mainnews&type=&date=2026-06-22&page=1",
+      "source": "메인 뉴스",
+      "time": "07:13"
+    },
+    {
+      "title": "브렌트유 다시 80달러…미·이란 협상 타결 오리무중[국제유가]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001148420&office_id=417&mode=mainnews&type=&date=2026-06-22&page=1",
+      "source": "메인 뉴스",
+      "time": "07:13"
+    },
+    {
+      "title": "9000피 무섭게 오르더니 '만스피' 카운트다운…'삼전닉스 풍향계' 실적 분수령",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001256112&office_id=215&mode=mainnews&type=&date=2026-06-22&page=1",
+      "source": "메인 뉴스",
+      "time": "07:13"
+    },
+    {
+      "title": "한·미 금리 인상 시사…3년째 이자 부담 큰 기업은? [한경우의 케이스스터디]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005301150&office_id=015&mode=mainnews&type=&date=2026-06-22&page=1",
+      "source": "메인 뉴스",
+      "time": "07:13"
+    },
+    {
+      "title": "“이미 다 올랐는데”…가파른 주가 상승에 목표가 ‘뒷북 상향’ [이런국장 저런주식]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004633464&office_id=011&mode=mainnews&type=&date=2026-06-22&page=1",
+      "source": "메인 뉴스",
+      "time": "07:13"
+    },
     {
       "title": "[단독] ‘엘리트’ 금감원이 이런 실수를? 영문 공시 ‘반대로’ 번역",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001856286&office_id=005&mode=mainnews&type=&date=2026-06-22&page=1",
       "source": "메인 뉴스",
-      "time": "06:13"
+      "time": "07:13"
     },
     {
       "title": "중복상장 막았더니 IPO ‘올스톱’… 기업 ‘투자 시계’도 멈췄다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001173329&office_id=366&mode=mainnews&type=&date=2026-06-22&page=1",
       "source": "메인 뉴스",
-      "time": "06:13"
+      "time": "07:13"
     },
     {
       "title": "27년 삼성전자 천하 흔들린다… SK하이닉스, 시총 95%까지 추격",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001173327&office_id=366&mode=mainnews&type=&date=2026-06-22&page=1",
       "source": "메인 뉴스",
-      "time": "06:13"
+      "time": "07:13"
     },
     {
       "title": "“반도체 이번주에도 또 오르나”…하이닉스·마이크론이 전할 소식은",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005696806&office_id=009&mode=mainnews&type=&date=2026-06-22&page=1",
       "source": "메인 뉴스",
-      "time": "06:13"
-    },
-    {
-      "title": "\"500조 뭉칫돈 들고 우르르\" 국민 재테크 된 '이것'...자산운용사 '돈방석'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005374964&office_id=008&mode=mainnews&type=&date=2026-06-22&page=1",
-      "source": "메인 뉴스",
-      "time": "06:13"
-    },
-    {
-      "title": "금융위, '해킹 유출' 롯데카드 제재 본격 착수…다음달 결론",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016150562&office_id=001&mode=mainnews&type=&date=2026-06-22&page=1",
-      "source": "메인 뉴스",
-      "time": "06:13"
-    },
-    {
-      "title": "마이크론 실적, 반도체주 분수령…PCE 물가 주목[이번주 美 증시는]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005374953&office_id=008&mode=mainnews&type=&date=2026-06-22&page=1",
-      "source": "메인 뉴스",
-      "time": "06:13"
-    },
-    {
-      "title": "고환율 장기화에…외환부담금 면제 3개월 연장",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006311612&office_id=018&mode=mainnews&type=&date=2026-06-22&page=1",
-      "source": "메인 뉴스",
-      "time": "06:13"
-    },
-    {
-      "title": "글로벌 고공행진 삼전닉스…마이크론 성적표도 나온다[주간경제전망]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001148414&office_id=417&mode=mainnews&type=&date=2026-06-22&page=1",
-      "source": "메인 뉴스",
-      "time": "06:13"
-    },
-    {
-      "title": "병원비 급할 때 50만원… 시중은행 ‘연금 대출’ 써볼까",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003983242&office_id=023&mode=mainnews&type=&date=2026-06-22&page=1",
-      "source": "메인 뉴스",
-      "time": "06:13"
-    },
-    {
-      "title": "‘MSCI 선진국’ 노리는 韓증시… 23일 관찰대상국 발표",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001856222&office_id=005&mode=mainnews&type=&date=2026-06-22&page=1",
-      "source": "메인 뉴스",
-      "time": "06:13"
+      "time": "07:13"
     },
     {
       "title": "'시총 1위' 넘보는 SK하닉…1년 반 동안 삼전보다 2.6배 올랐다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005537753&office_id=014&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260622&page=1",
-      "source": "증권 시황",
-      "time": "06:13"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005537753&office_id=014&mode=mainnews&type=&date=2026-06-22&page=1",
+      "source": "메인 뉴스",
+      "time": "07:13"
     }
   ]
 }
