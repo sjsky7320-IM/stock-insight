@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-21T15:51:03+00:00",
-  "updated_kst": "2026-06-22T00:51:03+09:00",
+  "updated": "2026-06-21T17:27:27+00:00",
+  "updated_kst": "2026-06-22T02:27:27+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "병원비 급할 때 50만원… 시중은행 ‘연금 대출’ 써볼까",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003983242&office_id=023&mode=mainnews&type=&date=2026-06-22&page=1",
+      "source": "메인 뉴스",
+      "time": "02:27"
+    },
     {
       "title": "‘MSCI 선진국’ 노리는 韓증시… 23일 관찰대상국 발표",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001856222&office_id=005&mode=mainnews&type=&date=2026-06-22&page=1",
       "source": "메인 뉴스",
-      "time": "00:51"
+      "time": "02:27"
     },
     {
       "title": "‘진단~재활’ 모두 지원… 치료비 강화한 암보험",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003983244&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260622&page=1",
       "source": "증권 시황",
-      "time": "00:51"
-    },
-    {
-      "title": "병원비 급할 때 50만원… 시중은행 ‘연금 대출’ 써볼까",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003983242&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260622&page=1",
-      "source": "증권 시황",
-      "time": "00:51"
+      "time": "02:27"
     },
     {
       "title": "우리금융, 생산적·포용 금융 10조원 추가",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003983234&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260622&page=1",
       "source": "증권 시황",
-      "time": "00:51"
+      "time": "02:27"
     },
     {
       "title": "[주간경제지표] 2026년 6월 19일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003983225&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260622&page=1",
       "source": "증권 시황",
-      "time": "00:51"
+      "time": "02:27"
     },
     {
       "title": "年 최고 19% 이자 효과 청년미래적금 오늘 출시",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003983224&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260622&page=1",
       "source": "증권 시황",
-      "time": "00:51"
+      "time": "02:27"
     },
     {
       "title": "주식형 ETF, 1년여 만에 79개 늘어…“주가 변동성 키우는 요인”",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002799230&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260622&page=1",
       "source": "증권 시황",
-      "time": "00:51"
+      "time": "02:27"
     },
     {
       "title": "투자부동산 잘못 쓰면 회계위반…금감원, 중점심사 예고",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005696794&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260622&page=1",
       "source": "증권 시황",
-      "time": "00:51"
+      "time": "02:27"
     },
     {
       "title": "“내 주식도 상폐?”…‘동전주’ 219곳 무더기 퇴출 위기, 시총 8조 증발하나",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005696793&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260622&page=1",
       "source": "증권 시황",
-      "time": "00:51"
+      "time": "02:27"
     },
     {
       "title": "AI가 불 붙인 반도체 슈퍼사이클… 반도체 ETF 관심 '후끈'",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005537731&office_id=014&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260622&page=1",
       "source": "증권 시황",
-      "time": "00:51"
+      "time": "02:27"
     },
     {
       "title": "서학 개미 '스페이스X'로 우르르?순매수 3조원 육박",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001036505&office_id=031&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260622&page=1",
       "source": "증권 시황",
-      "time": "00:51"
+      "time": "02:27"
     },
     {
       "title": "이른 더위에 물가 비상…수박·닭고기값 들썩",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001954858&office_id=057&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260622&page=1",
       "source": "증권 시황",
-      "time": "00:51"
+      "time": "02:27"
     }
   ]
 }
