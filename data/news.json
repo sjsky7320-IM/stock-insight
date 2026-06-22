@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-22T15:51:10+00:00",
-  "updated_kst": "2026-06-23T00:51:10+09:00",
+  "updated": "2026-06-22T19:26:30+00:00",
+  "updated_kst": "2026-06-23T04:26:30+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "바이오 액티브 ETF, 삼천당제약 1주도 없다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001856505&office_id=005&mode=mainnews&type=&date=2026-06-23&page=1",
+      "source": "메인 뉴스",
+      "time": "04:26"
+    },
+    {
+      "title": "반도체만 집중해 HBM 선점… 美 상장 기대감도 호재",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003983472&office_id=023&mode=mainnews&type=&date=2026-06-23&page=1",
+      "source": "메인 뉴스",
+      "time": "04:26"
+    },
     {
       "title": "'9000피' 축포 쏠 때 박스권 갇힌 코스닥…하반기 훈풍부나",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000509637&office_id=629&mode=mainnews&type=&date=2026-06-23&page=1",
       "source": "메인 뉴스",
-      "time": "00:51"
+      "time": "04:26"
+    },
+    {
+      "title": "\"삼전닉스 레버리지ETF 드러눕더라도 막았어야\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005375505&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260623&page=1",
+      "source": "증권 시황",
+      "time": "04:26"
+    },
+    {
+      "title": "25년만에 바뀐 코스피 왕좌… SK하이닉스 '시총1위'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005375503&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260623&page=1",
+      "source": "증권 시황",
+      "time": "04:26"
+    },
+    {
+      "title": "[단독] \"스페이스X 공모가로 당일편입\"… 한투운용 사기혐의 내사",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005375502&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260623&page=1",
+      "source": "증권 시황",
+      "time": "04:26"
+    },
+    {
+      "title": "머니투데이 오프라인 헤드라인-23일자",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005375490&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260623&page=1",
+      "source": "증권 시황",
+      "time": "04:26"
+    },
+    {
+      "title": "故 그린스펀, 美경제황금기 이끈 '경제대통령'…거품방치 비판도",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016152604&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260623&page=1",
+      "source": "증권 시황",
+      "time": "04:26"
+    },
+    {
+      "title": "돈 끌어모으는 스페이스X…IPO 열흘 만에 회사채 첫 발행",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016152602&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260623&page=1",
+      "source": "증권 시황",
+      "time": "04:26"
     },
     {
       "title": "[주식 매매 상위 종목 및 환율] 2026년 6월 22일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003983426&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260623&page=1",
       "source": "증권 시황",
-      "time": "00:51"
+      "time": "04:26"
     },
     {
       "title": "[주요경제지표] 2026년 6월 22일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003983412&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260623&page=1",
       "source": "증권 시황",
-      "time": "00:51"
+      "time": "04:26"
     },
     {
       "title": "[단신]한국투자증권, 글로벌 운용사 13곳 CEO 초청행사 外",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003728591&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260623&page=1",
       "source": "증권 시황",
-      "time": "00:51"
-    },
-    {
-      "title": "'AI 인재 확보전' 밀리는 구글…럽너 \"6월말 변동성 후 강세\" [빈난새의 개장전요것만]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005301594&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260623&page=1",
-      "source": "증권 시황",
-      "time": "00:51"
-    },
-    {
-      "title": "“다들 부자, 나만 뒤처졌다”…미국 MZ도 고위험 베팅",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003532301&office_id=025&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260623&page=1",
-      "source": "증권 시황",
-      "time": "00:51"
-    },
-    {
-      "title": "금투협, 하반기 채권·크레딧시장 전망 채권포럼 개최",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006312423&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260623&page=1",
-      "source": "증권 시황",
-      "time": "00:51"
-    },
-    {
-      "title": "금감원장 후회“삼전닉스 레버리지ETF, 드러누워 막았어야…”",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002799487&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260623&page=1",
-      "source": "증권 시황",
-      "time": "00:51"
-    },
-    {
-      "title": "[속보]뉴욕증시, 유가 하락에 상승 출발",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014021205&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260623&page=1",
-      "source": "증권 시황",
-      "time": "00:51"
-    },
-    {
-      "title": "'빚투' 등에 지난달 카드론 잔액 43조 원",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000877355&office_id=422&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260623&page=1",
-      "source": "증권 시황",
-      "time": "00:51"
-    },
-    {
-      "title": "이찬진 \"레버리지 ETF 과열…안전장치 검토\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000877353&office_id=422&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260623&page=1",
-      "source": "증권 시황",
-      "time": "00:51"
-    },
-    {
-      "title": "퇴직연금 500조 시대…“수익률 격차 커졌다”",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006312401&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260623&page=1",
-      "source": "증권 시황",
-      "time": "00:51"
+      "time": "04:26"
     }
   ]
 }
