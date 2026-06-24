@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-24T09:23:19+00:00",
-  "updated_kst": "2026-06-24T18:23:19+09:00",
+  "updated": "2026-06-24T10:49:35+00:00",
+  "updated_kst": "2026-06-24T19:49:35+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "\"주주가치 희석보단 '재평가' 기대\"…SK하이닉스 ADR 상장에 쏠린 눈",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009022001&office_id=421&mode=mainnews&type=&date=2026-06-24&page=1",
+      "source": "메인 뉴스",
+      "time": "19:49"
+    },
+    {
+      "title": "곡소리 나도 개미는 줍줍… 증권사 신용거래 조인다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001856940&office_id=005&mode=mainnews&type=&date=2026-06-24&page=1",
+      "source": "메인 뉴스",
+      "time": "19:49"
+    },
+    {
+      "title": "‘이번에도 개미가 승리?’ 역대급 11조 폭풍매수했는데…폭락 후 반등 [투자360]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002661122&office_id=016&mode=mainnews&type=&date=2026-06-24&page=1",
+      "source": "메인 뉴스",
+      "time": "19:49"
+    },
+    {
+      "title": "반도체 극한 쏠림의 결말?…닷컴버블 돌아보면 미래가 보인다[머니닥터 긴급 진단]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005698405&office_id=009&mode=mainnews&type=&date=2026-06-24&page=1",
+      "source": "메인 뉴스",
+      "time": "19:49"
+    },
+    {
+      "title": "“무서워서 계좌 안봤는데 삼전 10% 뭐예요?”…마이크론 우려도 이긴 호재",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005698404&office_id=009&mode=mainnews&type=&date=2026-06-24&page=1",
+      "source": "메인 뉴스",
+      "time": "19:49"
+    },
+    {
+      "title": "‘서른살’ 코스닥의 굴욕.. 시총 비중, 27년來 최저",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005539266&office_id=014&mode=mainnews&type=&date=2026-06-24&page=1",
+      "source": "메인 뉴스",
+      "time": "19:49"
+    },
+    {
+      "title": "반도체株 다음 타자는 AI 올라탄 '에너지·기판·우주' [반도체 슈퍼사이클 (하)]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005539262&office_id=014&mode=mainnews&type=&date=2026-06-24&page=1",
+      "source": "메인 뉴스",
+      "time": "19:49"
+    },
+    {
+      "title": "주문·거래 시차로 가격 괴리 커져…인프라 보완 선행 필수",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006314101&office_id=018&mode=mainnews&type=&date=2026-06-24&page=1",
+      "source": "메인 뉴스",
+      "time": "19:49"
+    },
+    {
+      "title": "ETF도 반도체 의존…조정때마다 가격 출렁",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005539224&office_id=014&mode=mainnews&type=&date=2026-06-24&page=1",
+      "source": "메인 뉴스",
+      "time": "19:49"
+    },
     {
       "title": "반도체 기판의 힘…LG이노텍, 외국인 매수 1위",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005302449&office_id=015&mode=mainnews&type=&date=2026-06-24&page=1",
       "source": "메인 뉴스",
-      "time": "18:23"
+      "time": "19:49"
     },
     {
       "title": "90조 자사주 매입 기대…삼성전자, 시총 1위 탈환",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004634598&office_id=011&mode=mainnews&type=&date=2026-06-24&page=1",
       "source": "메인 뉴스",
-      "time": "18:23"
+      "time": "19:49"
     },
     {
       "title": "자사주 90조 매입 기대…삼성전자, 시총 1위 탈환",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005302436&office_id=015&mode=mainnews&type=&date=2026-06-24&page=1",
       "source": "메인 뉴스",
-      "time": "18:23"
-    },
-    {
-      "title": "연기금, 5년 만에 月 최대 순매도…코스피 수급 흔들",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004634588&office_id=011&mode=mainnews&type=&date=2026-06-24&page=1",
-      "source": "메인 뉴스",
-      "time": "18:23"
-    },
-    {
-      "title": "대세된 ‘삼전닉스 레버리지’…홍콩서만 23조원 뭉칫돈, 美·英서도 신상품 봇물",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004634584&office_id=011&mode=mainnews&type=&date=2026-06-24&page=1",
-      "source": "메인 뉴스",
-      "time": "18:23"
-    },
-    {
-      "title": "\"마이크론 실적 확인부터\"…코스피 3% 반등",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005698329&office_id=009&mode=mainnews&type=&date=2026-06-24&page=1",
-      "source": "메인 뉴스",
-      "time": "18:23"
-    },
-    {
-      "title": "SK하이닉스, 美ADR 7월 10일 상장…최대 46조원 조달한다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004634581&office_id=011&mode=mainnews&type=&date=2026-06-24&page=1",
-      "source": "메인 뉴스",
-      "time": "18:23"
-    },
-    {
-      "title": "변동성 키운 ‘기계적 매매’…한은·월가도 경고",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004634577&office_id=011&mode=mainnews&type=&date=2026-06-24&page=1",
-      "source": "메인 뉴스",
-      "time": "18:23"
-    },
-    {
-      "title": "삼전닉스만 허용 ‘플래시 크래시’ 불러…“대상 넓혀 자금 분산해야”",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004634574&office_id=011&mode=mainnews&type=&date=2026-06-24&page=1",
-      "source": "메인 뉴스",
-      "time": "18:23"
-    },
-    {
-      "title": "이름은 신재생 ETF … 내용물은 삼전닉스",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005698319&office_id=009&mode=mainnews&type=&date=2026-06-24&page=1",
-      "source": "메인 뉴스",
-      "time": "18:23"
-    },
-    {
-      "title": "항셍 지고 과창판 뜨고 中 증시도 반도체 쏠림",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005698318&office_id=009&mode=mainnews&type=&date=2026-06-24&page=1",
-      "source": "메인 뉴스",
-      "time": "18:23"
-    },
-    {
-      "title": "\"삼전 지분만 100조\"…기지개 켠 삼성물산 6% 점프",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005376708&office_id=008&mode=mainnews&type=&date=2026-06-24&page=1",
-      "source": "메인 뉴스",
-      "time": "18:23"
+      "time": "19:49"
     }
   ]
 }
