@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-26T17:47:25+00:00",
-  "updated_kst": "2026-06-27T02:47:25+09:00",
+  "updated": "2026-06-26T19:46:57+00:00",
+  "updated_kst": "2026-06-27T04:46:57+09:00",
   "source": "naver-finance",
   "items": [
     {
       "title": "10% 폭락→5% 급등→5.8% 급락… 연일 롤러코스피",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003984382&office_id=023&mode=mainnews&type=&date=2026-06-27&page=1",
       "source": "메인 뉴스",
-      "time": "02:47"
+      "time": "04:46"
     },
     {
       "title": "홈플러스 회생인가 카운트다운…MBK·메리츠 책임 공방 결과는[주간사모펀드]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000511045&office_id=629&mode=mainnews&type=&date=2026-06-27&page=1",
       "source": "메인 뉴스",
-      "time": "02:47"
+      "time": "04:46"
     },
     {
       "title": "\"남편이 사줘서\"…8,500% '레전드' 근황 터졌다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001256757&office_id=215&mode=mainnews&type=&date=2026-06-27&page=1",
       "source": "메인 뉴스",
-      "time": "02:47"
+      "time": "04:46"
+    },
+    {
+      "title": "국제유가, 하락…WTI 배럴당 70달러 아래로",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006316141&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260627&page=1",
+      "source": "증권 시황",
+      "time": "04:46"
+    },
+    {
+      "title": "월가 베테랑 제레미 그랜섬 \"美 증시, 역사상 가장 비싼 시장\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006316140&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260627&page=1",
+      "source": "증권 시황",
+      "time": "04:46"
+    },
+    {
+      "title": "카시카리 미니애폴리스 연은 총재 변심? \"올해 한 차례 금리 인상 필요\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006316139&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260627&page=1",
+      "source": "증권 시황",
+      "time": "04:46"
     },
     {
       "title": "씨티 \"변동성 커진 기술주…비중 줄일 때\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006316136&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260627&page=1",
       "source": "증권 시황",
-      "time": "02:47"
+      "time": "04:46"
     },
     {
       "title": "‘코스피 대어’ 소노인터내셔널, 연내 IPO 박차 [시그널]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004635480&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260627&page=1",
       "source": "증권 시황",
-      "time": "02:47"
+      "time": "04:46"
     },
     {
       "title": "“韓 증시 호황이 집값 자극…李정부 부동산 정책과 엇박자”",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002800696&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260627&page=1",
       "source": "증권 시황",
-      "time": "02:47"
+      "time": "04:46"
     },
     {
       "title": "\"환율 1700원선 열려 있다…시장 체력 한계 도달\" 김대종 교수의 경고",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014031301&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260627&page=1",
       "source": "증권 시황",
-      "time": "02:47"
+      "time": "04:46"
     },
     {
       "title": "[주간사모펀드] 홈플러스 회생인가 카운트다운…MBK·메리츠 책임 공방 결과는",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000511045&office_id=629&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260627&page=1",
       "source": "증권 시황",
-      "time": "02:47"
+      "time": "04:46"
     },
     {
       "title": "[올댓차이나] 인도네시아 금광 메르데카 골드 홍콩 이중상장…4600억원 조달",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014031287&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260627&page=1",
       "source": "증권 시황",
-      "time": "02:47"
-    },
-    {
-      "title": "주식·원자재·비상장주까지 무기한 선물의 무한 확장...한국은?[엠블록레터]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005699471&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260627&page=1",
-      "source": "증권 시황",
-      "time": "02:47"
-    },
-    {
-      "title": "SK하닉 '45조' 美 상장 노리는데…삼성전자 전망에 '깜짝' [강경주의 테크X]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005303394&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260627&page=1",
-      "source": "증권 시황",
-      "time": "02:47"
-    },
-    {
-      "title": "\"세니젠, 코스닥 관리종목서 29일 해제\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016162207&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260627&page=1",
-      "source": "증권 시황",
-      "time": "02:47"
+      "time": "04:46"
     }
   ]
 }
