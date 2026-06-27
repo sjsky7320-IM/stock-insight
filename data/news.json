@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-27T21:03:08+00:00",
-  "updated_kst": "2026-06-28T06:03:08+09:00",
+  "updated": "2026-06-27T22:01:06+00:00",
+  "updated_kst": "2026-06-28T07:01:06+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "사상 최고 찍고 최대 폭락…코스피, 역사에 남을 ‘롤러코스터 한 주’[선데이 머니카페]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004635615&office_id=011&mode=mainnews&type=&date=2026-06-28&page=1",
+      "source": "메인 뉴스",
+      "time": "07:01"
+    },
+    {
+      "title": "AI가 불붙인 전력 전쟁…전고체·ESS ETF로 담는다[ETF언박싱]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006316861&office_id=018&mode=mainnews&type=&date=2026-06-28&page=1",
+      "source": "메인 뉴스",
+      "time": "07:01"
+    },
+    {
+      "title": "반도체 랠리 재개 기대되지만… 외국인 매도세 지속은 부담[주간증시전망]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001174950&office_id=366&mode=mainnews&type=&date=2026-06-28&page=1",
+      "source": "메인 뉴스",
+      "time": "07:01"
+    },
+    {
+      "title": "\"멀미 날 것 같아요\" 하루 9% 급락→5% 반등…현금 긁어모은 개미만 살아남는다? [개미의 세계]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005540402&office_id=014&mode=mainnews&type=&date=2026-06-28&page=1",
+      "source": "메인 뉴스",
+      "time": "07:01"
+    },
+    {
+      "title": "코스닥 30년, 돌고돌아 '800스닥'…승강제·동전주 퇴출 '대개조 프로젝트' 시동",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009027293&office_id=421&mode=mainnews&type=&date=2026-06-28&page=1",
+      "source": "메인 뉴스",
+      "time": "07:01"
+    },
+    {
+      "title": "\"실적이 변동성을 이긴다\"…7월 삼전닉스 실적발표 '만스피' 재도전",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009027289&office_id=421&mode=mainnews&type=&date=2026-06-28&page=1",
+      "source": "메인 뉴스",
+      "time": "07:01"
+    },
+    {
+      "title": "⑤'KB 브랜드의 힘'…회사채·PF·신탁 '우량자산' 토큰화 역량[STO 시대]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009027283&office_id=421&mode=mainnews&type=&date=2026-06-28&page=1",
+      "source": "메인 뉴스",
+      "time": "07:01"
+    },
+    {
+      "title": "은행권 포용금융 우등생은 서민금융출연금 10% 넘게 감면될 듯",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016162860&office_id=001&mode=mainnews&type=&date=2026-06-28&page=1",
+      "source": "메인 뉴스",
+      "time": "07:01"
+    },
     {
       "title": "2분기 평균 환율 1,500원 넘었다…외환위기 이후 처음",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016162848&office_id=001&mode=mainnews&type=&date=2026-06-28&page=1",
       "source": "메인 뉴스",
-      "time": "06:03"
+      "time": "07:01"
     },
     {
       "title": "코스피 150배·삼전닉스 50배에 뭉칫돈…\"무법지대 도박판\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016162847&office_id=001&mode=mainnews&type=&date=2026-06-28&page=1",
       "source": "메인 뉴스",
-      "time": "06:03"
+      "time": "07:01"
     },
     {
       "title": "30대 직장인 \"국내외 주식·ETF로 수익 냈는데…내 지갑 지킬 절세법은\" [세무 재테크 Q&A]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005540398&office_id=014&mode=mainnews&type=&date=2026-06-28&page=1",
       "source": "메인 뉴스",
-      "time": "06:03"
+      "time": "07:01"
     },
     {
-      "title": "[주간증시전망] 반도체 랠리 재개 기대되지만… 외국인 매도세 지속은 부담",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001174950&office_id=366&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260628&page=1",
+      "title": "1550원선 위협받는 환율…'매파 연준·외인 매도·중동 변수'에 요동",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009027307&office_id=421&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260628&page=1",
       "source": "증권 시황",
-      "time": "06:03"
-    },
-    {
-      "title": "\"멀미 날 것 같아요\" 하루 9% 급락→5% 반등…현금 긁어모은 개미만 살아남는다? [개미..",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005540402&office_id=014&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260628&page=1",
-      "source": "증권 시황",
-      "time": "06:03"
-    },
-    {
-      "title": "한컴위드, 한컴 지분 30% 눈앞…연결 편입 땐 매출 1조 그룹으로",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005377996&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260628&page=1",
-      "source": "증권 시황",
-      "time": "06:03"
-    },
-    {
-      "title": "코스닥 30년, 돌고돌아 '800스닥'…승강제·동전주 퇴출 '대개조 프로젝트' 시동",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009027293&office_id=421&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260628&page=1",
-      "source": "증권 시황",
-      "time": "06:03"
-    },
-    {
-      "title": "\"실적이 변동성을 이긴다\"…7월 삼전닉스 실적발표 '만스피' 재도전",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009027289&office_id=421&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260628&page=1",
-      "source": "증권 시황",
-      "time": "06:03"
-    },
-    {
-      "title": "[STO 시대]⑤'KB 브랜드의 힘'…회사채·PF·신탁 '우량자산' 토큰화 역량",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009027283&office_id=421&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260628&page=1",
-      "source": "증권 시황",
-      "time": "06:03"
-    },
-    {
-      "title": "채무조정 신청해도…대부업체 빚은 거절당할 확률 3배",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016162862&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260628&page=1",
-      "source": "증권 시황",
-      "time": "06:03"
-    },
-    {
-      "title": "은행권 포용금융 우등생은 서민금융출연금 10% 넘게 감면될 듯",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016162860&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260628&page=1",
-      "source": "증권 시황",
-      "time": "06:03"
-    },
-    {
-      "title": "'집값 불쏘시개 될라' 사내대출 당국 촉각…직접규제는 신중",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016162857&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260628&page=1",
-      "source": "증권 시황",
-      "time": "06:03"
+      "time": "07:01"
     }
   ]
 }
