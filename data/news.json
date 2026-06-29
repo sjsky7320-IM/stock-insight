@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-29T17:36:26+00:00",
-  "updated_kst": "2026-06-30T02:36:26+09:00",
+  "updated": "2026-06-29T19:57:08+00:00",
+  "updated_kst": "2026-06-30T04:57:08+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "반도체 향했던 돈 돌아왔다… 코스닥, 설움 딛고 8% '질주'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005378901&office_id=008&mode=mainnews&type=&date=2026-06-30&page=1",
+      "source": "메인 뉴스",
+      "time": "04:57"
+    },
     {
       "title": "‘메가 프로젝트’로 낙폭 줄였지만… 외인 탈출에 뒷심 빠진 코스피",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001857895&office_id=005&mode=mainnews&type=&date=2026-06-30&page=1",
       "source": "메인 뉴스",
-      "time": "02:36"
+      "time": "04:57"
     },
     {
       "title": "국민연금 리밸런싱 7월 재개 확정, 韓 증시 비중 낮출까",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000511606&office_id=629&mode=mainnews&type=&date=2026-06-30&page=1",
       "source": "메인 뉴스",
-      "time": "02:36"
+      "time": "04:57"
+    },
+    {
+      "title": "[사설]증시 널뛰기·침체 우려..AI열풍 적신호",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005378900&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260630&page=1",
+      "source": "증권 시황",
+      "time": "04:57"
+    },
+    {
+      "title": "'문서보안' 소프트캠프, 국가망·AI로 체질 바꾼다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005378897&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260630&page=1",
+      "source": "증권 시황",
+      "time": "04:57"
     },
     {
       "title": "CFRA \"상반기 24번 사상 최고치 갈아치운 美 증시…하반기도 간다\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006318371&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260630&page=1",
       "source": "증권 시황",
-      "time": "02:36"
+      "time": "04:57"
     },
     {
       "title": "[주식 매매 상위 종목 및 환율] 2026년 6월 29일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003984788&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260630&page=1",
       "source": "증권 시황",
-      "time": "02:36"
+      "time": "04:57"
     },
     {
       "title": "KB금융, 취약계층·소상공인·청년에 6.9조 지원",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003984786&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260630&page=1",
       "source": "증권 시황",
-      "time": "02:36"
+      "time": "04:57"
     },
     {
       "title": "[주요경제지표] 2026년 6월 29일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003984770&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260630&page=1",
       "source": "증권 시황",
-      "time": "02:36"
+      "time": "04:57"
     },
     {
       "title": "[사진] 일주일 내내 롤러코스피",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003534063&office_id=025&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260630&page=1",
       "source": "증권 시황",
-      "time": "02:36"
+      "time": "04:57"
     },
     {
       "title": "트럼프 \"이란 요청으로 내일 도하서 회담\"…호르무즈 통행료 새 뇌관",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005783002&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260630&page=1",
       "source": "증권 시황",
-      "time": "02:36"
+      "time": "04:57"
     },
     {
       "title": "홈플 데드라인 앞두고 MBK 메리츠 네탓만…\"10년 직장 떠나야 하나요\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006318364&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260630&page=1",
       "source": "증권 시황",
-      "time": "02:36"
-    },
-    {
-      "title": "[뉴욕증시]일제히 상승 출발…기술주 반등에 나스닥 1%대 ↑",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005783001&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260630&page=1",
-      "source": "증권 시황",
-      "time": "02:36"
-    },
-    {
-      "title": "한화생명, 애큐온 품는다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005700427&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260630&page=1",
-      "source": "증권 시황",
-      "time": "02:36"
-    },
-    {
-      "title": "CSA코스믹, 법원 가처분 인용에 재무개선 본궤도…'동전주' 탈피 속도",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005541303&office_id=014&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260630&page=1",
-      "source": "증권 시황",
-      "time": "02:36"
+      "time": "04:57"
     }
   ]
 }
