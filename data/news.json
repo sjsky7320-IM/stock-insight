@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-30T15:27:42+00:00",
-  "updated_kst": "2026-07-01T00:27:42+09:00",
+  "updated": "2026-06-30T17:53:16+00:00",
+  "updated_kst": "2026-07-01T02:53:16+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "우량기업 떠나고 천스닥도 버거워… 뒤로 간 ‘30살 코스닥’",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001858172&office_id=005&mode=mainnews&type=&date=2026-07-01&page=1",
+      "source": "메인 뉴스",
+      "time": "02:53"
+    },
+    {
+      "title": "하반기 증시 ‘4대 리스크’ 주의보",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003984990&office_id=023&mode=mainnews&type=&date=2026-07-01&page=1",
+      "source": "메인 뉴스",
+      "time": "02:53"
+    },
     {
       "title": "바이낸스發 초위험 레버리지, 국내 증시 공습…규제는 무방비",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000511996&office_id=629&mode=mainnews&type=&date=2026-07-01&page=1",
       "source": "메인 뉴스",
-      "time": "00:27"
+      "time": "02:53"
+    },
+    {
+      "title": "\"미래에셋, 스페이스X 공모주 수요파악을 주문 접수로 오해\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016168648&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260701&page=1",
+      "source": "증권 시황",
+      "time": "02:53"
+    },
+    {
+      "title": "[주요경제지표] 2026년 6월 30일자",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003984991&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260701&page=1",
+      "source": "증권 시황",
+      "time": "02:53"
+    },
+    {
+      "title": "BTS 슈가 스페이스X 초기 투자자?…“수익률 40배 달할 수도”",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002801459&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260701&page=1",
+      "source": "증권 시황",
+      "time": "02:53"
     },
     {
       "title": "삼성·하이닉스 '손바뀜'에 불안한 투자자들…\"진짜 경고는 따로 있다\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014038396&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260701&page=1",
       "source": "증권 시황",
-      "time": "00:27"
+      "time": "02:53"
     },
     {
       "title": "美 대법, 트럼프 이민 정책 제동…'출생시민권' 원칙 재확인",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005783639&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260701&page=1",
       "source": "증권 시황",
-      "time": "00:27"
+      "time": "02:53"
     },
     {
       "title": "코스콤, 조직개편 단행…\"사업 경쟁력 강화\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005541936&office_id=014&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260701&page=1",
       "source": "증권 시황",
-      "time": "00:27"
+      "time": "02:53"
     },
     {
       "title": "美 6월 소비자신뢰지수 91.2…예상치 하회",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005783638&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260701&page=1",
       "source": "증권 시황",
-      "time": "00:27"
+      "time": "02:53"
     },
     {
       "title": "반도체로 쏠리는 월가 자금…M7 시총 2조달러 이상 증발",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001175688&office_id=366&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260701&page=1",
       "source": "증권 시황",
-      "time": "00:27"
+      "time": "02:53"
     },
     {
       "title": "코오롱인더 반도체 소재 부문, IMM PE 품으로 [fn마켓워치]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005541933&office_id=014&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260701&page=1",
       "source": "증권 시황",
-      "time": "00:27"
-    },
-    {
-      "title": "한국거래소, 에스씨엠생명과학 ‘관리종목 해제 실수’ 배상액 확정",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001175687&office_id=366&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260701&page=1",
-      "source": "증권 시황",
-      "time": "00:27"
-    },
-    {
-      "title": "삼성전자, 한화 참여...글로벌 스테이블코인 연합체 출격",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005700999&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260701&page=1",
-      "source": "증권 시황",
-      "time": "00:27"
-    },
-    {
-      "title": "[뉴욕증시]기술주 강세에 일제히 상승 중",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005783636&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260701&page=1",
-      "source": "증권 시황",
-      "time": "00:27"
-    },
-    {
-      "title": "코스콤, 사업경쟁력·정책대응 강화 조직개편 단행",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000048505&office_id=648&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260701&page=1",
-      "source": "증권 시황",
-      "time": "00:27"
-    },
-    {
-      "title": "삼전닉스 40조 팔고 떠난줄 알았는데…큰손, 조용히 '픽'했다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001257146&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260701&page=1",
-      "source": "증권 시황",
-      "time": "00:27"
+      "time": "02:53"
     }
   ]
 }
