@@ -1,6 +1,79 @@
 {
-  "updated": "2026-06-30T21:41:25+00:00",
-  "updated_kst": "2026-07-01T06:41:25+09:00",
+  "updated": "2026-06-30T22:14:37+00:00",
+  "updated_kst": "2026-07-01T07:14:37+09:00",
   "source": "naver-finance",
-  "items": []
+  "items": [
+    {
+      "title": "정부, 호남 반도체 띄웠는데…삼전·닉스 덜 오른 이유는?",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003106522&office_id=119&mode=mainnews&type=&date=2026-07-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:14"
+    },
+    {
+      "title": "30년 '천스닥', 천대 벗어날까…150조 소방수 투입→마른 돈줄 적신다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005379677&office_id=008&mode=mainnews&type=&date=2026-07-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:14"
+    },
+    {
+      "title": "증권가 \"하반기 만스피 간다\"…주도주는 단연 반도체",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014038575&office_id=003&mode=mainnews&type=&date=2026-07-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:14"
+    },
+    {
+      "title": "韓만 스페이스X 공모주 '0주' 사태, 이유 있었네…알고 보니",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001257152&office_id=215&mode=mainnews&type=&date=2026-07-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:14"
+    },
+    {
+      "title": "25만원에서 220만원 됐는데…외국인은 \"아직도 싸다\"며 사들이는 이 종목",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005541969&office_id=014&mode=mainnews&type=&date=2026-07-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:14"
+    },
+    {
+      "title": "‘자, 코스피 150배 거세요’… 해외 코인거래소 레버리지 주의보",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001858209&office_id=005&mode=mainnews&type=&date=2026-07-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:14"
+    },
+    {
+      "title": "CIO 품귀에 복수 지원까지…연기금 인선판 '눈치게임'[마켓인]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006319486&office_id=018&mode=mainnews&type=&date=2026-07-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:14"
+    },
+    {
+      "title": "“한국만 ‘0주 배정’ 이유 있었다”…스페이스X 1.7조 공모주 증발 이유",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005701008&office_id=009&mode=mainnews&type=&date=2026-07-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:14"
+    },
+    {
+      "title": "\"그래도 주식은 필요\"…석달뒤 올려줄 전세자금 놔두고, 20년 뒤 쓸 은퇴자금 묻어라 [투자냐 도박이냐③·끝]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005541964&office_id=014&mode=mainnews&type=&date=2026-07-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:14"
+    },
+    {
+      "title": "\"물타기 하다 대주주 되겠네\"…일주일 동안 추매, 또 추매 [개미의 세계]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005541962&office_id=014&mode=mainnews&type=&date=2026-07-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:14"
+    },
+    {
+      "title": "누가 계속 사줄까…99조 개미 다음은 '500조 퇴직연금' [증시는 왜]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005541955&office_id=014&mode=mainnews&type=&date=2026-07-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:14"
+    },
+    {
+      "title": "상반기 코스피 101% 뛰었지만…반도체 쏠림·외국인 매도·변동성 숙제로",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006319481&office_id=018&mode=mainnews&type=&date=2026-07-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:14"
+    }
+  ]
 }
