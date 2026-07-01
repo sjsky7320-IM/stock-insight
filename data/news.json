@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-01T15:41:21+00:00",
-  "updated_kst": "2026-07-02T00:41:21+09:00",
+  "updated": "2026-07-01T17:54:47+00:00",
+  "updated_kst": "2026-07-02T02:54:47+09:00",
   "source": "naver-finance",
   "items": [
     {
       "title": "자사주 매입도 무용지물…미래에셋證, 한 달 새 주가 반토막 난 까닭은",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000512437&office_id=629&mode=mainnews&type=&date=2026-07-02&page=1",
       "source": "메인 뉴스",
-      "time": "00:41"
+      "time": "02:54"
+    },
+    {
+      "title": "[주식 매매 상위 종목 및 환율] 2026년 7월 1일자",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003985239&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260702&page=1",
+      "source": "증권 시황",
+      "time": "02:54"
     },
     {
       "title": "[주요경제지표] 2026년 7월 1일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003985224&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260702&page=1",
       "source": "증권 시황",
-      "time": "00:41"
+      "time": "02:54"
     },
     {
       "title": "코스닥 동전주 퇴출 본격화… 30일 연속 1000원 미만땐 관리종목",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003730894&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260702&page=1",
       "source": "증권 시황",
-      "time": "00:41"
+      "time": "02:54"
     },
     {
       "title": "워시 연준 의장 \"인플레이션 너무 높아\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006320363&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260702&page=1",
       "source": "증권 시황",
-      "time": "00:41"
+      "time": "02:54"
     },
     {
       "title": "[속보]뉴욕증시, 반도체주 차익실현에 하락 출발…다우 장중 상승 전환",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014041632&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260702&page=1",
       "source": "증권 시황",
-      "time": "00:41"
+      "time": "02:54"
     },
     {
       "title": "‘주가조작 패가망신’ 1호 사건 피의자 4명, 전원 구속 기각",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002801734&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260702&page=1",
       "source": "증권 시황",
-      "time": "00:41"
+      "time": "02:54"
     },
     {
       "title": "100조 똘똘 뭉친 개미들 '초조'…\"폭탄은 없다\" 일단 안도",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001257285&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260702&page=1",
       "source": "증권 시황",
-      "time": "00:41"
+      "time": "02:54"
     },
     {
       "title": "美 6월 민간고용 9만8000명 ↑…전망치 하회하며 둔화세",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005784370&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260702&page=1",
       "source": "증권 시황",
-      "time": "00:41"
+      "time": "02:54"
     },
     {
       "title": "국민연금 '리밸런싱' 재개 첫날…'매도 폭탄' 없었다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000880547&office_id=422&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260702&page=1",
       "source": "증권 시황",
-      "time": "00:41"
+      "time": "02:54"
     },
     {
       "title": "[뉴욕증시]반도체 숨고르기에 일제히 하락세",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005784368&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260702&page=1",
       "source": "증권 시황",
-      "time": "00:41"
+      "time": "02:54"
     },
     {
       "title": "금감원, JTBC 회사채 불완전판매 여부 본다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005305301&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260702&page=1",
       "source": "증권 시황",
-      "time": "00:41"
-    },
-    {
-      "title": "[미리보는 이데일리 신문] “코스닥 승강제, 혁신·성장성 반영이 핵심”",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006320352&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260702&page=1",
-      "source": "증권 시황",
-      "time": "00:41"
+      "time": "02:54"
     }
   ]
 }
