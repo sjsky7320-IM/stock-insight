@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-02T15:21:09+00:00",
-  "updated_kst": "2026-07-03T00:21:09+09:00",
+  "updated": "2026-07-02T17:46:53+00:00",
+  "updated_kst": "2026-07-03T02:46:53+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "고환율 무기 쥔 글로벌 사모펀드, 한국시장 정조준",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006321423&office_id=018&mode=mainnews&type=&date=2026-07-03&page=1",
+      "source": "메인 뉴스",
+      "time": "02:46"
+    },
     {
       "title": "반성연 '주식 보상' 3주 만에 블록딜…세금 목적에도 커진 설명 부담",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000512830&office_id=629&mode=mainnews&type=&date=2026-07-03&page=1",
       "source": "메인 뉴스",
-      "time": "00:21"
+      "time": "02:46"
+    },
+    {
+      "title": "[주식 매매 상위 종목 및 환율] 2026년 7월 2일자",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003985446&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260703&page=1",
+      "source": "증권 시황",
+      "time": "02:46"
+    },
+    {
+      "title": "금융지주·기업銀 상반기 순이익 16조 역대 최대 전망",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003985444&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260703&page=1",
+      "source": "증권 시황",
+      "time": "02:46"
+    },
+    {
+      "title": "[주요경제지표] 2026년 7월 2일자",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003985430&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260703&page=1",
+      "source": "증권 시황",
+      "time": "02:46"
     },
     {
       "title": "메타발 반도체 공급과잉 공포…하이닉스, 17년 만에 최대폭 하락",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003535059&office_id=025&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260703&page=1",
       "source": "증권 시황",
-      "time": "00:21"
+      "time": "02:46"
     },
     {
       "title": "금감원, MBK 제재심 종결…'직무정지' 중징계 가능성",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001257430&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260703&page=1",
       "source": "증권 시황",
-      "time": "00:21"
+      "time": "02:46"
     },
     {
       "title": "美 6월 비농업 고용 5만7000명 증가…전망치 반토막 수준",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005784943&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260703&page=1",
       "source": "증권 시황",
-      "time": "00:21"
+      "time": "02:46"
     },
     {
       "title": "금감원 '홈플 사태' MBK에 중징계",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005702197&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260703&page=1",
       "source": "증권 시황",
-      "time": "00:21"
+      "time": "02:46"
     },
     {
       "title": "JP모간의 경고…올 여름 美 증시 흔들 두 가지 위험은",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006321358&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260703&page=1",
       "source": "증권 시황",
-      "time": "00:21"
+      "time": "02:46"
     },
     {
       "title": "[뉴욕증시]일제히 상승…고용지표 부진에 금리 인상 기대 ↓",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005784942&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260703&page=1",
       "source": "증권 시황",
-      "time": "00:21"
+      "time": "02:46"
     },
     {
       "title": "3000억 회사채 발행하는 삼성증권, 수요예측에 1.9조 몰려",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005702195&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260703&page=1",
       "source": "증권 시황",
-      "time": "00:21"
-    },
-    {
-      "title": "금감원, 홈플러스 사태 MBK 중징계",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005702193&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260703&page=1",
-      "source": "증권 시황",
-      "time": "00:21"
-    },
-    {
-      "title": "미국, 6월 고용 5만7000명 증가…노동 공급은 5년래 최저",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001257429&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260703&page=1",
-      "source": "증권 시황",
-      "time": "00:21"
-    },
-    {
-      "title": "“하반기 만스피 간다…뭐타고? 반도체!”…증권가 전망",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002802024&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260703&page=1",
-      "source": "증권 시황",
-      "time": "00:21"
-    },
-    {
-      "title": "코스피 8% ‘뚝’…급락장에 초고수들이 저가매수한 ‘톱3’는?",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002665095&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260703&page=1",
-      "source": "증권 시황",
-      "time": "00:21"
+      "time": "02:46"
     }
   ]
 }
