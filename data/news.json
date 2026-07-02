@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-02T22:04:53+00:00",
-  "updated_kst": "2026-07-03T07:04:53+09:00",
+  "updated": "2026-07-02T23:06:00+00:00",
+  "updated_kst": "2026-07-03T08:06:00+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "메타發 충격에 급락한 증시…유안타證 “AI 투자 축소 신호 아냐”",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001176412&office_id=366&mode=mainnews&type=&date=2026-07-03&page=1",
+      "source": "메인 뉴스",
+      "time": "08:06"
+    },
+    {
+      "title": "반도체 흔들릴 때 피난처 된 금융주…실적·주주환원 기대 '쑥' [종목+]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005305840&office_id=015&mode=mainnews&type=&date=2026-07-03&page=1",
+      "source": "메인 뉴스",
+      "time": "08:06"
+    },
+    {
+      "title": "\"걱정말아요\" SK하이닉스, 목표가 또 상향 '420만원'-KB",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006321459&office_id=018&mode=mainnews&type=&date=2026-07-03&page=1",
+      "source": "메인 뉴스",
+      "time": "08:06"
+    },
+    {
+      "title": "美 반도체 이틀째 급락…코스피, 추가 하락 위기감 속 반발매수세 주목[오늘의 증시]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014044258&office_id=003&mode=mainnews&type=&date=2026-07-03&page=1",
+      "source": "메인 뉴스",
+      "time": "08:06"
+    },
+    {
+      "title": "“스페이스X 많이 출렁이던데”…퇴직연금 담는 채권혼합 ETF ‘봇물’",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005702233&office_id=009&mode=mainnews&type=&date=2026-07-03&page=1",
+      "source": "메인 뉴스",
+      "time": "08:06"
+    },
+    {
+      "title": "단일종목 레버리지 ETF 독주…'증시 블랙홀'[월간 ETF워치]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000048589&office_id=648&mode=mainnews&type=&date=2026-07-03&page=1",
+      "source": "메인 뉴스",
+      "time": "08:06"
+    },
+    {
+      "title": "비트코인·금 반등…금리 인상 우려 축소 [글로벌 머니플로우]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001257439&office_id=215&mode=mainnews&type=&date=2026-07-03&page=1",
+      "source": "메인 뉴스",
+      "time": "08:06"
+    },
+    {
+      "title": "상반기 외국인 148조 순매도…'셀코리아' 이유는?",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003107509&office_id=119&mode=mainnews&type=&date=2026-07-03&page=1",
+      "source": "메인 뉴스",
+      "time": "08:06"
+    },
+    {
+      "title": "연기금·외국인 수급 엇갈리나…하반기 증시 분수령",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000099943&office_id=243&mode=mainnews&type=&date=2026-07-03&page=1",
+      "source": "메인 뉴스",
+      "time": "08:06"
+    },
+    {
+      "title": "\"이게 말이 돼?\" 삼전·닉스 레버리지에 거래대금 212조 몰려",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014044236&office_id=003&mode=mainnews&type=&date=2026-07-03&page=1",
+      "source": "메인 뉴스",
+      "time": "08:06"
+    },
     {
       "title": "콘텐트리중앙 하한가…롯데시네마·메가박스 합병 무산 후폭풍 [이런국장 저런주식]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004637711&office_id=011&mode=mainnews&type=&date=2026-07-03&page=1",
       "source": "메인 뉴스",
-      "time": "07:04"
+      "time": "08:06"
     },
     {
       "title": "한미 차남 임종훈, 신동국 대신 엄마 택했다…나우IB에 지분 매각 [시그널]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004637710&office_id=011&mode=mainnews&type=&date=2026-07-03&page=1",
       "source": "메인 뉴스",
-      "time": "07:04"
-    },
-    {
-      "title": "외인 10일째 '셀 코리아'…\"환율, 1600원 가능성도 열어둬야\" [분석+]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005305830&office_id=015&mode=mainnews&type=&date=2026-07-03&page=1",
-      "source": "메인 뉴스",
-      "time": "07:04"
-    },
-    {
-      "title": "다우 1.14%↑, 사상 최고치 경신…AI 거품론에 반도체는 급락[뉴욕증시]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001150094&office_id=417&mode=mainnews&type=&date=2026-07-03&page=1",
-      "source": "메인 뉴스",
-      "time": "07:04"
-    },
-    {
-      "title": "'반도체, 더 갈까?' 의문에 '삼전닉스' 개미 '술렁'…\"실적에 향방 달렸다\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001257432&office_id=215&mode=mainnews&type=&date=2026-07-03&page=1",
-      "source": "메인 뉴스",
-      "time": "07:04"
-    },
-    {
-      "title": "안 오른 종목들 많이 담았습니다…국민연금 2분기 사들인 기업은",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005702219&office_id=009&mode=mainnews&type=&date=2026-07-03&page=1",
-      "source": "메인 뉴스",
-      "time": "07:04"
-    },
-    {
-      "title": "“150조 팔고도 아직 안 끝났다”… 외국인 차익실현, 개인은 언제까지 받을까",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001176401&office_id=366&mode=mainnews&type=&date=2026-07-03&page=1",
-      "source": "메인 뉴스",
-      "time": "07:04"
-    },
-    {
-      "title": "코스피 7.9% 빠진 날…'투자 고수'들은 이 종목을 샀다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005543215&office_id=014&mode=mainnews&type=&date=2026-07-03&page=1",
-      "source": "메인 뉴스",
-      "time": "07:04"
-    },
-    {
-      "title": "200만원 넘던 주가 5개월만에…\"도대체 바닥이 어디냐\" 눈물",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005305824&office_id=015&mode=mainnews&type=&date=2026-07-03&page=1",
-      "source": "메인 뉴스",
-      "time": "07:04"
-    },
-    {
-      "title": "\"반대매매 3조, 설마했는데 진짜 무섭다\"…현실이 된 '빚투'의 공포 [개미의 세계]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005543212&office_id=014&mode=mainnews&type=&date=2026-07-03&page=1",
-      "source": "메인 뉴스",
-      "time": "07:04"
-    },
-    {
-      "title": "국민연금 리밸런싱 재개…국내주식 비중 조정 '시험대'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000099940&office_id=243&mode=mainnews&type=&date=2026-07-03&page=1",
-      "source": "메인 뉴스",
-      "time": "07:04"
-    },
-    {
-      "title": "반도체서 옮겨간 투심…다우 사상 최고·나스닥 0.8%↓[월스트리트in]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006321435&office_id=018&mode=mainnews&type=&date=2026-07-03&page=1",
-      "source": "메인 뉴스",
-      "time": "07:04"
+      "time": "08:06"
     }
   ]
 }
