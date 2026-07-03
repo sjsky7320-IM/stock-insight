@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-03T22:03:04+00:00",
-  "updated_kst": "2026-07-04T07:03:04+09:00",
+  "updated": "2026-07-03T23:02:55+00:00",
+  "updated_kst": "2026-07-04T08:02:55+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "‘BTS 복귀’ 하이브 주가 반토막…길어지는 엔터주 부진 [이런국장 저런주식]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004638056&office_id=011&mode=mainnews&type=&date=2026-07-04&page=1",
+      "source": "메인 뉴스",
+      "time": "08:02"
+    },
+    {
+      "title": "코스닥150 담고 콜옵션 매도…월배당 노리는 커버드콜 ETF[ETF언박싱]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006322454&office_id=018&mode=mainnews&type=&date=2026-07-04&page=1",
+      "source": "메인 뉴스",
+      "time": "08:02"
+    },
+    {
+      "title": "코스피 87% 뛰었는데…지수는 사실상 '6종목'이 움직였다 [증시는 왜]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005543586&office_id=014&mode=mainnews&type=&date=2026-07-04&page=1",
+      "source": "메인 뉴스",
+      "time": "08:02"
+    },
     {
       "title": "반도체 대장주도 맥 못추는데…\"이 실적에 너무 싸\" 30% '쑥'[김근희의 증시랩업]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005381343&office_id=008&mode=mainnews&type=&date=2026-07-04&page=1",
       "source": "메인 뉴스",
-      "time": "07:03"
+      "time": "08:02"
     },
     {
       "title": "전세계 증시를 떨게하는 '세글자' [B급기자의 B급리포트]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001257565&office_id=215&mode=mainnews&type=&date=2026-07-04&page=1",
       "source": "메인 뉴스",
-      "time": "07:03"
+      "time": "08:02"
     },
     {
       "title": "이화다이아 이어 코오롱인더 소재사업부까지…IMM PE ‘연승 행진’ 비결은",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002665618&office_id=016&mode=mainnews&type=&date=2026-07-04&page=1",
       "source": "메인 뉴스",
-      "time": "07:03"
+      "time": "08:02"
     },
     {
       "title": "홈플러스 사태 MBK, 금감원 중징계 철퇴…PEF 첫 직무정지[주간사모펀드]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000513134&office_id=629&mode=mainnews&type=&date=2026-07-04&page=1",
       "source": "메인 뉴스",
-      "time": "07:03"
+      "time": "08:02"
+    },
+    {
+      "title": "\"브라질산보다 국내산이 더 싸요\"…40년만 엔저에 흔들리는 日 밥상 [뭔日있슈]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005785386&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260704&page=1",
+      "source": "증권 시황",
+      "time": "08:02"
+    },
+    {
+      "title": "삼성중공업·이수화학·심텍[하나證 주간추천주]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006322450&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260704&page=1",
+      "source": "증권 시황",
+      "time": "08:02"
+    },
+    {
+      "title": "은퇴세대 ‘주목’…신한투자증권, 자산관리 라인업 확대",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003107896&office_id=119&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260704&page=1",
+      "source": "증권 시황",
+      "time": "08:02"
     },
     {
       "title": "증시 활황인데 부진하던 증권주 ‘8000피’에 7% ‘쑥’ [줍줍리포트]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004638048&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260704&page=1",
       "source": "증권 시황",
-      "time": "07:03"
+      "time": "08:02"
     },
     {
       "title": "IBK투자증권, 상반기 코스닥 상장 최다 실적… IPO 시장 내 입지↑",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005381346&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260704&page=1",
       "source": "증권 시황",
-      "time": "07:03"
-    },
-    {
-      "title": "메리츠 \"홈플러스 회생 위해 1000억 준비했는데\"…MBK 책임론 제기",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003107894&office_id=119&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260704&page=1",
-      "source": "증권 시황",
-      "time": "07:03"
-    },
-    {
-      "title": "[인터뷰] 강영수 KCGI운용 본부장 “은퇴자산도 성과가 답…독립계 TDF 첫 1조 비결은..",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001176672&office_id=366&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260704&page=1",
-      "source": "증권 시황",
-      "time": "07:03"
-    },
-    {
-      "title": "코스피 4% 내릴 때 한국콜마 30% 상승…1년만에 신고가[종목현미경]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009040410&office_id=421&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260704&page=1",
-      "source": "증권 시황",
-      "time": "07:03"
-    },
-    {
-      "title": "“주가 올랐는데 내 돈은 어디로?”…‘삼전닉스 레버리지’ 샀다 피눈물[주형연의 에구머니]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003035179&office_id=029&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260704&page=1",
-      "source": "증권 시황",
-      "time": "07:03"
-    },
-    {
-      "title": "\"7200~9000선 널뛴다\"…7일 코스피 '변곡점'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001257564&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260704&page=1",
-      "source": "증권 시황",
-      "time": "07:03"
-    },
-    {
-      "title": "수익률 2배라더니… 삼전닉스 레버리지 줄줄이 ‘마이너스’",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003985659&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260704&page=1",
-      "source": "증권 시황",
-      "time": "07:03"
+      "time": "08:02"
     }
   ]
 }
