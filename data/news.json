@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-05T18:02:24+00:00",
-  "updated_kst": "2026-07-06T03:02:24+09:00",
+  "updated": "2026-07-05T20:13:31+00:00",
+  "updated_kst": "2026-07-06T05:13:31+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "삼성전자, 2분기 '영업익 90조' 전망…하이닉스는 '나스닥' 입성[주간경제전망]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001150356&office_id=417&mode=mainnews&type=&date=2026-07-06&page=1",
+      "source": "메인 뉴스",
+      "time": "05:13"
+    },
+    {
+      "title": "롤러코스피에 어지럽다면…방어형 투자로 원금·수익 '두 마리 토끼'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000940525&office_id=469&mode=mainnews&type=&date=2026-07-06&page=1",
+      "source": "메인 뉴스",
+      "time": "05:13"
+    },
     {
       "title": "달라진 ‘트럼프 포트폴리오’…메타 담고 채권 비중 늘렸다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003535469&office_id=025&mode=mainnews&type=&date=2026-07-06&page=1",
       "source": "메인 뉴스",
-      "time": "03:02"
+      "time": "05:13"
     },
     {
       "title": "상반기 잠잠했던 IPO 시장, 하반기 '대어'가 깨울까",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000513268&office_id=629&mode=mainnews&type=&date=2026-07-06&page=1",
       "source": "메인 뉴스",
-      "time": "03:02"
+      "time": "05:13"
     },
     {
-      "title": "[경제계 인사] 우리은행",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003985937&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260706&page=1",
+      "title": "선진시장 편입 위한 중요한 퍼즐…환율 효과는 “시간이 필요”",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006323299&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260706&page=1",
       "source": "증권 시황",
-      "time": "03:02"
+      "time": "05:13"
     },
     {
-      "title": "금융권 공동채용 박람회 내달 19~20일 개최",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003985882&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260706&page=1",
+      "title": "이자폭탄 커지는데…장기채 의존하는 韓정부",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006323298&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260706&page=1",
       "source": "증권 시황",
-      "time": "03:02"
+      "time": "05:13"
     },
     {
-      "title": "[주간경제지표] 2026년 7월 3일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003985880&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260706&page=1",
+      "title": "[주간경제전망] 삼성전자, 2분기 '영업익 90조' 전망…하이닉스는 '나스닥' 입성",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001150356&office_id=417&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260706&page=1",
       "source": "증권 시황",
-      "time": "03:02"
+      "time": "05:13"
     },
     {
-      "title": "[화제의 바이오人]차상훈 에이프릴바이오 대표, 582억원 구주 매각에 쏠리는 시선",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006323284&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260706&page=1",
+      "title": "[오늘의 주요일정]금융·증권(7월6일 월요일)",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014047384&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260706&page=1",
       "source": "증권 시황",
-      "time": "03:02"
+      "time": "05:13"
     },
     {
-      "title": "한은의 경고 “삼전닉스 레버리지, 개미들 죽여”",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002802460&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260706&page=1",
+      "title": "수익률보다 중요한 세후 수익…투자의 마지막 퍼즐은 절세",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000940523&office_id=469&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260706&page=1",
       "source": "증권 시황",
-      "time": "03:02"
+      "time": "05:13"
     },
     {
-      "title": "코스피 8천선에도 '1조클럽' 감소?대형주 쏠림 심화",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001039842&office_id=031&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260706&page=1",
+      "title": "IPO시장 칼바람… 상장기업 수·공모금액 절반 싹둑",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005381642&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260706&page=1",
       "source": "증권 시황",
-      "time": "03:02"
+      "time": "05:13"
     },
     {
-      "title": "“2주 만에 고점 대비 25% 증발”…코인처럼 요동치는 2000조 거함 삼성전자 [투자36..",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002665889&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260706&page=1",
+      "title": "\"9천피냐, 7천피냐\" 삼전닉스에 달렸다...AI 피크아웃 우려 씻을까",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005381631&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260706&page=1",
       "source": "증권 시황",
-      "time": "03:02"
+      "time": "05:13"
     },
     {
-      "title": "농식품산업 수출 70억 달러 역대 최고…'효자' 라면 28% 쑥",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001957045&office_id=057&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260706&page=1",
+      "title": "\"반도체 제쳤다\" 6월 수익률 1등은 이 업종...17.8% 뛰었다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005381630&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260706&page=1",
       "source": "증권 시황",
-      "time": "03:02"
-    },
-    {
-      "title": "독자 최애 코너는 '투자 고수에게 듣는다'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005306434&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260706&page=1",
-      "source": "증권 시황",
-      "time": "03:02"
-    },
-    {
-      "title": "가상자산 강제집행 절차 구체화…압류 코인 '비트코인 전환 매각' 허용",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005785621&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260706&page=1",
-      "source": "증권 시황",
-      "time": "03:02"
+      "time": "05:13"
     }
   ]
 }
