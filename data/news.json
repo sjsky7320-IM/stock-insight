@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-09T15:15:21+00:00",
-  "updated_kst": "2026-07-10T00:15:21+09:00",
+  "updated": "2026-07-09T17:55:01+00:00",
+  "updated_kst": "2026-07-10T02:55:01+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "꼬리가 몸통 흔드는 ‘투기판 코스피’",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003986825&office_id=023&mode=mainnews&type=&date=2026-07-10&page=1",
+      "source": "메인 뉴스",
+      "time": "02:55"
+    },
+    {
+      "title": "증권사는 반듯해야? ‘ㅋㅋㅋ’ 댓글 수백개 터진 ‘감다살’ 매니저",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001860108&office_id=005&mode=mainnews&type=&date=2026-07-10&page=1",
+      "source": "메인 뉴스",
+      "time": "02:55"
+    },
     {
       "title": "삼닉 주춤한 새… 中 반도체 ETF ‘불기둥’",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001860104&office_id=005&mode=mainnews&type=&date=2026-07-10&page=1",
       "source": "메인 뉴스",
-      "time": "00:15"
-    },
-    {
-      "title": "증권사는 반듯해야? ‘ㅋㅋㅋ’ 댓글 수백개 터진 ‘감다살’ 매니저",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001860108&office_id=005&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
-      "source": "증권 시황",
-      "time": "00:15"
+      "time": "02:55"
     },
     {
       "title": "채권형 랩 배상 기준점 세운 금감원…엇갈린 판례 속 NH증권 선택은",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000514879&office_id=629&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
-      "source": "증권 시황",
-      "time": "00:15"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000514879&office_id=629&mode=mainnews&type=&date=2026-07-10&page=1",
+      "source": "메인 뉴스",
+      "time": "02:55"
     },
     {
-      "title": "“SK하이닉스 ADR 공모가 주당 149달러 제시… 외국 기업 최대 IPO\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001178142&office_id=366&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
+      "title": "\"SK하이닉스, 美상장 공모가 ADR당 149달러\"…알리바바 넘는 역대 최대 IPO 전망",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006326677&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
       "source": "증권 시황",
-      "time": "00:15"
+      "time": "02:55"
     },
     {
-      "title": "[속보] “SK하이닉스 ADR 공모가 주당 149달러 제시”",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002668349&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
+      "title": "‘통제 불능’ 레버리지… 코스피 5% 이상 변동 올해 25일, 작년엔 2일",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003986820&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
       "source": "증권 시황",
-      "time": "00:15"
+      "time": "02:55"
     },
     {
-      "title": "국민연금, 4000억 굴릴 2026년 벤처펀드 위탁운용사 6곳 선정",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788045&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
+      "title": "김용범 정책실장이 증권사 만난 후, 레버리지 상품 속전속결 출시",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003986819&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
       "source": "증권 시황",
-      "time": "00:15"
+      "time": "02:55"
     },
     {
-      "title": "[속보]“하닉 美공모가149달러 제시…韓증시보다 높아” 블룸버그",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002803673&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
+      "title": "美 신규 실업수당 청구 21만5000건…전망치 하회",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788048&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
       "source": "증권 시황",
-      "time": "00:15"
+      "time": "02:55"
     },
     {
-      "title": "뉴욕증시, 반도체주 강세에… 3대 지수 동반 상승 출발",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001178141&office_id=366&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
+      "title": "[주식 매매 상위 종목 및 환율] 2026년 7월 9일자",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003986777&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
       "source": "증권 시황",
-      "time": "00:15"
+      "time": "02:55"
     },
     {
-      "title": "[속보]뉴욕증시, 반도체주 강세에 상승 출발…기술주↑",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014057901&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
+      "title": "우체국서 4대 은행 신용대출 신청 가능",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003986767&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
       "source": "증권 시황",
-      "time": "00:15"
+      "time": "02:55"
     },
     {
-      "title": "블룸버그 \"SK하이닉스 ADR 공모가 주당 149달러 제시\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000941430&office_id=469&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
+      "title": "[주요경제지표] 2026년 7월 9일자",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003986760&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
       "source": "증권 시황",
-      "time": "00:15"
+      "time": "02:55"
     },
     {
-      "title": "[뉴욕증시]다우, 5만2300선에서 공방…나스닥, 반도체 강세에 ↑",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788044&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
+      "title": "최태원, SK하이닉스 상장 맞춰 美 방문",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003732842&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
       "source": "증권 시황",
-      "time": "00:15"
-    },
-    {
-      "title": "삼전닉스 '빚투' 이달 7000억 급증…'반대매매 공포' 커진다 [분석+]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005308385&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
-      "source": "증권 시황",
-      "time": "00:15"
+      "time": "02:55"
     }
   ]
 }
