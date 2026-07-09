@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-09T17:55:01+00:00",
-  "updated_kst": "2026-07-10T02:55:01+09:00",
+  "updated": "2026-07-09T19:45:11+00:00",
+  "updated_kst": "2026-07-10T04:45:11+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "개미 '팔자' 돌아섰는데...\"괜히 팔았나\" 코스피, 나흘 만에 반등",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005384089&office_id=008&mode=mainnews&type=&date=2026-07-10&page=1",
+      "source": "메인 뉴스",
+      "time": "04:45"
+    },
+    {
+      "title": "유가, 美·이란갈등에 또 출렁… \"세계증시는 단기파동 그칠듯\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005384088&office_id=008&mode=mainnews&type=&date=2026-07-10&page=1",
+      "source": "메인 뉴스",
+      "time": "04:45"
+    },
     {
       "title": "꼬리가 몸통 흔드는 ‘투기판 코스피’",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003986825&office_id=023&mode=mainnews&type=&date=2026-07-10&page=1",
       "source": "메인 뉴스",
-      "time": "02:55"
+      "time": "04:45"
     },
     {
       "title": "증권사는 반듯해야? ‘ㅋㅋㅋ’ 댓글 수백개 터진 ‘감다살’ 매니저",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001860108&office_id=005&mode=mainnews&type=&date=2026-07-10&page=1",
       "source": "메인 뉴스",
-      "time": "02:55"
+      "time": "04:45"
     },
     {
       "title": "삼닉 주춤한 새… 中 반도체 ETF ‘불기둥’",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001860104&office_id=005&mode=mainnews&type=&date=2026-07-10&page=1",
       "source": "메인 뉴스",
-      "time": "02:55"
+      "time": "04:45"
     },
     {
       "title": "채권형 랩 배상 기준점 세운 금감원…엇갈린 판례 속 NH증권 선택은",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000514879&office_id=629&mode=mainnews&type=&date=2026-07-10&page=1",
       "source": "메인 뉴스",
-      "time": "02:55"
+      "time": "04:45"
     },
     {
-      "title": "\"SK하이닉스, 美상장 공모가 ADR당 149달러\"…알리바바 넘는 역대 최대 IPO 전망",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006326677&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
+      "title": "美 6월 주택 거래 2.4% 감소…집값은 사상 최고",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788050&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
       "source": "증권 시황",
-      "time": "02:55"
+      "time": "04:45"
     },
     {
-      "title": "‘통제 불능’ 레버리지… 코스피 5% 이상 변동 올해 25일, 작년엔 2일",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003986820&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
+      "title": "단일종목 2배 ETF '보완책' 발표 임박",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005384098&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
       "source": "증권 시황",
-      "time": "02:55"
+      "time": "04:45"
     },
     {
-      "title": "김용범 정책실장이 증권사 만난 후, 레버리지 상품 속전속결 출시",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003986819&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
+      "title": "'2배 ETF' 뜨자… 변동성 2배 뛰었다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005384090&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
       "source": "증권 시황",
-      "time": "02:55"
+      "time": "04:45"
     },
     {
-      "title": "美 신규 실업수당 청구 21만5000건…전망치 하회",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788048&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
+      "title": "토스뱅크 '펀드' 판다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005384083&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
       "source": "증권 시황",
-      "time": "02:55"
+      "time": "04:45"
     },
     {
-      "title": "[주식 매매 상위 종목 및 환율] 2026년 7월 9일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003986777&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
+      "title": "마이크론, 美 투자 377조원으로 확대…AI 메모리 수요 대응",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006326680&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
       "source": "증권 시황",
-      "time": "02:55"
+      "time": "04:45"
     },
     {
-      "title": "우체국서 4대 은행 신용대출 신청 가능",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003986767&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
+      "title": "[현장]뉴욕 연은 총재 \"AI는 수요 충격…인플레 압력 주시\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788049&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
       "source": "증권 시황",
-      "time": "02:55"
-    },
-    {
-      "title": "[주요경제지표] 2026년 7월 9일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003986760&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
-      "source": "증권 시황",
-      "time": "02:55"
-    },
-    {
-      "title": "최태원, SK하이닉스 상장 맞춰 美 방문",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003732842&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260710&page=1",
-      "source": "증권 시황",
-      "time": "02:55"
+      "time": "04:45"
     }
   ]
 }
