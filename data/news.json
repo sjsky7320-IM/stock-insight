@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-10T18:22:26+00:00",
-  "updated_kst": "2026-07-11T03:22:26+09:00",
+  "updated": "2026-07-10T20:22:19+00:00",
+  "updated_kst": "2026-07-11T05:22:19+09:00",
   "source": "naver-finance",
   "items": [
     {
-      "title": "최태원 \"메모리 공급 더 빨리 늘려야…미국도 예외 아니다\"[일문일답]",
+      "title": "[속보]SK하이닉스 美데뷔 12.8% 급등…S&P500, 기술주 강세에 최고치 눈앞",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006327467&office_id=018&mode=mainnews&type=&date=2026-07-11&page=1",
+      "source": "메인 뉴스",
+      "time": "05:22"
+    },
+    {
+      "title": "최태원 \"AI는 아직 4~5살짜리 아이…AGI 올 때까지 메모리 수요 계속 늘 것\"(종합)",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006327464&office_id=018&mode=mainnews&type=&date=2026-07-11&page=1",
+      "source": "메인 뉴스",
+      "time": "05:22"
+    },
+    {
+      "title": "나스닥 첫날 17% 뛴 SK하이닉스…최태원 \"미국 팹, 조건 맞으면 짓는다”",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001258360&office_id=215&mode=mainnews&type=&date=2026-07-11&page=1",
+      "source": "메인 뉴스",
+      "time": "05:22"
+    },
+    {
+      "title": "최태원 회장 \"메모리 공급 10배 빨라져야\"[일문일답]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788490&office_id=277&mode=mainnews&type=&date=2026-07-11&page=1",
       "source": "메인 뉴스",
-      "time": "03:22"
+      "time": "05:22"
     },
     {
       "title": "최태원 SK 회장 \"AI 수요, 공급 확대 속도 앞질러…미국 팹도 검토\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788489&office_id=277&mode=mainnews&type=&date=2026-07-11&page=1",
       "source": "메인 뉴스",
-      "time": "03:22"
+      "time": "05:22"
     },
     {
       "title": "MBK·메리츠 국회서도 '평행선'…홈플러스 회생 불씨 꺼질까[주간사모펀드]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000515175&office_id=629&mode=mainnews&type=&date=2026-07-11&page=1",
       "source": "메인 뉴스",
-      "time": "03:22"
+      "time": "05:22"
     },
     {
-      "title": "[일문일답]최태원 \"메모리 공급 더 빨리 늘려야…미국도 예외 아니다\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788490&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260711&page=1",
+      "title": "[속보] SK하이닉스, 나스닥 첫날 168.49달러 마감…공모가 대비 13%↑",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001258361&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260711&page=1",
       "source": "증권 시황",
-      "time": "03:22"
+      "time": "05:22"
     },
     {
-      "title": "SK하이닉스 美나스닥 입성하자마자 14%↑…시초가 170달러",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005384502&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260711&page=1",
+      "title": "[속보]뉴욕증시, 미·이란 긴장에도 상승 마감…SK하이닉스, 12.76% ↑",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014060212&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260711&page=1",
       "source": "증권 시황",
-      "time": "03:22"
+      "time": "05:22"
     },
     {
-      "title": "SK하이닉스, 나스닥 데뷔 시초가 170달러…공모가보다 14% 높게 출발",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006327462&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260711&page=1",
+      "title": "최태원 \"AI분야 수백억달러 투자…HBM 수요 기하급수적 증가\"(종합2보)",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016188448&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260711&page=1",
       "source": "증권 시황",
-      "time": "03:22"
+      "time": "05:22"
     },
     {
-      "title": "최태원 \"美 AI·데이터센터에 수백억달러 투자…메모리 팹도 검토\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788488&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260711&page=1",
+      "title": "SK하이닉스, 나스닥 시초가 170달러…\"메모리 부족 2030년까지\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788491&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260711&page=1",
       "source": "증권 시황",
-      "time": "03:22"
+      "time": "05:22"
     },
     {
-      "title": "최태원 \"AI분야 수백억달러 투자…HBM 수요 기하급수적 증가\"(종합)",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016188425&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260711&page=1",
+      "title": "SK하이닉스, 나스닥 상장 첫날 170달러 안팎 거래…공모가 대비 14% ↑",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014060190&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260711&page=1",
       "source": "증권 시황",
-      "time": "03:22"
+      "time": "05:22"
     },
     {
-      "title": "[주식 매매 상위 종목 및 환율] 2026년 7월 10일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003986997&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260711&page=1",
+      "title": "최태원 “반도체 공급과잉 없다…AI ‘큰 투자’ 준비”",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003036433&office_id=029&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260711&page=1",
       "source": "증권 시황",
-      "time": "03:22"
-    },
-    {
-      "title": "SK하이닉스 나스닥 상장…뉴욕서 오프닝벨",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000883918&office_id=422&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260711&page=1",
-      "source": "증권 시황",
-      "time": "03:22"
-    },
-    {
-      "title": "\"'나스닥' SK하이닉스, 180달러 출발 예상…공모가 대비 20%↑\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016188419&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260711&page=1",
-      "source": "증권 시황",
-      "time": "03:22"
-    },
-    {
-      "title": "\"수탁자 책임 충실히 이행\"…마스턴투자운용, 지속가능경영 보고서 발간",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003110307&office_id=119&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260711&page=1",
-      "source": "증권 시황",
-      "time": "03:22"
+      "time": "05:22"
     }
   ]
 }
