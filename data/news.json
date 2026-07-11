@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-11T05:40:41+00:00",
-  "updated_kst": "2026-07-11T14:40:41+09:00",
+  "updated": "2026-07-11T07:50:12+00:00",
+  "updated_kst": "2026-07-11T16:50:12+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "\"무조건 사세요\"…6개월 만에 주가 60% 뛴 '중국판 엔비디아'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005308871&office_id=015&mode=mainnews&type=&date=2026-07-11&page=1",
+      "source": "메인 뉴스",
+      "time": "16:50"
+    },
+    {
+      "title": "\"역사적 데뷔, 美증시 흔들었다\"…외신 SK하닉에 '엄지척'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001258382&office_id=215&mode=mainnews&type=&date=2026-07-11&page=1",
+      "source": "메인 뉴스",
+      "time": "16:50"
+    },
+    {
+      "title": "美, 이란 공습에 다시 유가 급등…지금 주목해야 할 것은 ○○[주末머니]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788568&office_id=277&mode=mainnews&type=&date=2026-07-11&page=1",
+      "source": "메인 뉴스",
+      "time": "16:50"
+    },
+    {
+      "title": "\"개미들 변했다\" 12조 外人 매물폭탄 받아내더니, 3일째 순매도...대기자금 100조도 위태",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005546766&office_id=014&mode=mainnews&type=&date=2026-07-11&page=1",
+      "source": "메인 뉴스",
+      "time": "16:50"
+    },
     {
       "title": "오락가락 장세에…\"삼전닉스 채권혼합 ETF 적합\"[주末머니]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788564&office_id=277&mode=mainnews&type=&date=2026-07-11&page=1",
       "source": "메인 뉴스",
-      "time": "14:40"
+      "time": "16:50"
     },
     {
       "title": "같은 SK하이닉스인데 美에서 16% 더 비싸…'역김치 프리미엄' 얼마나 갈까",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014060518&office_id=003&mode=mainnews&type=&date=2026-07-11&page=1",
       "source": "메인 뉴스",
-      "time": "14:40"
+      "time": "16:50"
     },
     {
       "title": "테슬라 가격인상 반전 카드로 ‘FSD 라이트’ 꺼냈다 [김기혁의 테슬라월드]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004640558&office_id=011&mode=mainnews&type=&date=2026-07-11&page=1",
       "source": "메인 뉴스",
-      "time": "14:40"
+      "time": "16:50"
     },
     {
       "title": "이재용, 억만장자 모임서 포착…\"2028년까지 완판\" TSMC에 반격 [강경주의 테크X]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005308856&office_id=015&mode=mainnews&type=&date=2026-07-11&page=1",
       "source": "메인 뉴스",
-      "time": "14:40"
+      "time": "16:50"
     },
     {
       "title": "유가 떨어져도 목표주가는 줄상향…‘고배당 매력’ 다시 커지는 에쓰오일 [이주의 Bull기둥]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005705967&office_id=009&mode=mainnews&type=&date=2026-07-11&page=1",
       "source": "메인 뉴스",
-      "time": "14:40"
+      "time": "16:50"
+    },
+    {
+      "title": "하루 만에 주가 25% 뛴 이 기업…\"60년 시간 헛되지 않았다\" 자필편지 쓴 대표",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005546754&office_id=014&mode=mainnews&type=&date=2026-07-11&page=1",
+      "source": "메인 뉴스",
+      "time": "16:50"
     },
     {
       "title": "코스피 7000선 초반 후퇴…개인 버팀목에도 외국인 매도 '휘청'",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000087510&office_id=293&mode=mainnews&type=&date=2026-07-11&page=1",
       "source": "메인 뉴스",
-      "time": "14:40"
+      "time": "16:50"
     },
     {
       "title": "“성지순례 왔다” 코스피 하락 맞힌 그 보고서…이번엔 “반등하면 1만1000도 가능”",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004640550&office_id=011&mode=mainnews&type=&date=2026-07-11&page=1",
       "source": "메인 뉴스",
-      "time": "14:40"
-    },
-    {
-      "title": "삼전닉스가 아니었다…한달 수익률 1~5위 '싹쓸이' 대반전 [이수의 ETF줌인]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005308848&office_id=015&mode=mainnews&type=&date=2026-07-11&page=1",
-      "source": "메인 뉴스",
-      "time": "14:40"
-    },
-    {
-      "title": "“내년이 메모리 공급 가장 어려울 것”…하이닉스가 내놓은 전망",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004640543&office_id=011&mode=mainnews&type=&date=2026-07-11&page=1",
-      "source": "메인 뉴스",
-      "time": "14:40"
-    },
-    {
-      "title": "코스닥서 돈 빼 레버리지로…남은 건 두 자릿수 손실",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005546747&office_id=014&mode=mainnews&type=&date=2026-07-11&page=1",
-      "source": "메인 뉴스",
-      "time": "14:40"
-    },
-    {
-      "title": "대출 한도 ‘전국 3억’ 강타…실수요자 잔금대란, 사모채는 ‘역대급’",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004640532&office_id=011&mode=mainnews&type=&date=2026-07-11&page=1",
-      "source": "메인 뉴스",
-      "time": "14:40"
-    },
-    {
-      "title": "중국, 이번엔 헬륨 막았다…반도체 공급망 또 흔드나",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004640522&office_id=011&mode=mainnews&type=&date=2026-07-11&page=1",
-      "source": "메인 뉴스",
-      "time": "14:40"
+      "time": "16:50"
     }
   ]
 }
