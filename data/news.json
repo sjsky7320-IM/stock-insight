@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-11T09:28:35+00:00",
-  "updated_kst": "2026-07-11T18:28:35+09:00",
+  "updated": "2026-07-11T11:04:24+00:00",
+  "updated_kst": "2026-07-11T20:04:24+09:00",
   "source": "naver-finance",
   "items": [
     {
-      "title": "'50조 클럽' 눈앞인데…현대차 주가 전망 엇갈린 이유 [투자톡]",
+      "title": "\"반도체 다음은 여기?\"…'AI 시대' 새 금맥으로 뜨는 곳이 [종목+]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005308884&office_id=015&mode=mainnews&type=&date=2026-07-11&page=1",
+      "source": "메인 뉴스",
+      "time": "20:04"
+    },
+    {
+      "title": "증권사 \"은행株 적극 매수 타이밍\" 외친 이유는?[주末머니]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788593&office_id=277&mode=mainnews&type=&date=2026-07-11&page=1",
+      "source": "메인 뉴스",
+      "time": "20:04"
+    },
+    {
+      "title": "휴머노이드 대장이라는 이 기업, 증시 출격 임박 [주末머니]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788590&office_id=277&mode=mainnews&type=&date=2026-07-11&page=1",
+      "source": "메인 뉴스",
+      "time": "20:04"
+    },
+    {
+      "title": "“큰 놈 하나 나오면 분위기 달라지지”…‘3조 소노’ 출격에 공모주 시장 들썩",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005706016&office_id=009&mode=mainnews&type=&date=2026-07-11&page=1",
+      "source": "메인 뉴스",
+      "time": "20:04"
+    },
+    {
+      "title": "美 CPI부터 기준금리 결정…이번주 주가 오를까?[증시 예보]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002668949&office_id=016&mode=mainnews&type=&date=2026-07-11&page=1",
+      "source": "메인 뉴스",
+      "time": "20:04"
+    },
+    {
+      "title": "\"로봇 믿고 쓸어담았는데\"…증권가 전망에 개미들 '대혼란' [투자톡]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005308878&office_id=015&mode=mainnews&type=&date=2026-07-11&page=1",
       "source": "메인 뉴스",
-      "time": "18:28"
+      "time": "20:04"
     },
     {
       "title": "“예상했지만 이 정도일 줄” 주식거래 ‘52%’가 한꺼번에…투자 조심해야 [투자360]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002668940&office_id=016&mode=mainnews&type=&date=2026-07-11&page=1",
       "source": "메인 뉴스",
-      "time": "18:28"
+      "time": "20:04"
     },
     {
       "title": "폭락에 겁나서 탈출했는데…삼전닉스 개미들 다시 들어가도 될까요[주末머니]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788582&office_id=277&mode=mainnews&type=&date=2026-07-11&page=1",
       "source": "메인 뉴스",
-      "time": "18:28"
+      "time": "20:04"
     },
     {
       "title": "제미나이·클로드·챗GPT 시대는 끝났다고?…AI도 이젠 ‘가성비’ 싸움 [주末머니]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788579&office_id=277&mode=mainnews&type=&date=2026-07-11&page=1",
       "source": "메인 뉴스",
-      "time": "18:28"
+      "time": "20:04"
     },
     {
       "title": "\"무조건 사세요\" 월가도 찜…주가 60% 뛴 '중국판 엔비디아'",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005308871&office_id=015&mode=mainnews&type=&date=2026-07-11&page=1",
       "source": "메인 뉴스",
-      "time": "18:28"
+      "time": "20:04"
     },
     {
       "title": "40년 만에 최저 수준 약세…‘달러-엔 170엔’ 마지노선인 이유 [주末머니]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788572&office_id=277&mode=mainnews&type=&date=2026-07-11&page=1",
       "source": "메인 뉴스",
-      "time": "18:28"
+      "time": "20:04"
     },
     {
       "title": "\"역사적 데뷔, 美증시 흔들었다\"…외신 SK하닉에 '엄지척'",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001258382&office_id=215&mode=mainnews&type=&date=2026-07-11&page=1",
       "source": "메인 뉴스",
-      "time": "18:28"
-    },
-    {
-      "title": "美, 이란 공습에 다시 유가 급등…지금 주목해야 할 것은 ○○[주末머니]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788568&office_id=277&mode=mainnews&type=&date=2026-07-11&page=1",
-      "source": "메인 뉴스",
-      "time": "18:28"
-    },
-    {
-      "title": "\"개미들 변했다\" 12조 外人 매물폭탄 받아내더니, 3일째 순매도...대기자금 100조도 위태",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005546766&office_id=014&mode=mainnews&type=&date=2026-07-11&page=1",
-      "source": "메인 뉴스",
-      "time": "18:28"
-    },
-    {
-      "title": "\"가격 떨어질 때가 기회\" 20개월 연속 '이것' 쓸어담은 중국[주末머니]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788566&office_id=277&mode=mainnews&type=&date=2026-07-11&page=1",
-      "source": "메인 뉴스",
-      "time": "18:28"
-    },
-    {
-      "title": "오락가락 장세에…\"삼전닉스 채권혼합 ETF 적합\"[주末머니]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005788564&office_id=277&mode=mainnews&type=&date=2026-07-11&page=1",
-      "source": "메인 뉴스",
-      "time": "18:28"
-    },
-    {
-      "title": "같은 SK하이닉스인데 美에서 16% 더 비싸…'역김치 프리미엄' 얼마나 갈까",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014060518&office_id=003&mode=mainnews&type=&date=2026-07-11&page=1",
-      "source": "메인 뉴스",
-      "time": "18:28"
+      "time": "20:04"
     }
   ]
 }
