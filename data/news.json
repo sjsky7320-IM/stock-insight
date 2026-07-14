@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-14T21:56:59+00:00",
-  "updated_kst": "2026-07-15T06:56:59+09:00",
+  "updated": "2026-07-14T22:59:03+00:00",
+  "updated_kst": "2026-07-15T07:59:03+09:00",
   "source": "naver-finance",
   "items": [
     {
-      "title": "\"삼전닉스 PER 역사적 저평가\"라더니…목표가 산정기준 PBR인 이유 [분석+]",
+      "title": "美 CPI 3.5% '예상 하회'…코스피, 반도체 훈풍에 상승 기대감↑[오늘의 증시]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014067173&office_id=003&mode=mainnews&type=&date=2026-07-15&page=1",
+      "source": "메인 뉴스",
+      "time": "07:59"
+    },
+    {
+      "title": "'쥐꼬리 이자' 놔두고 예탁금만 상향...이게 레버리지 ETF 해법이야?",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000048910&office_id=648&mode=mainnews&type=&date=2026-07-15&page=1",
+      "source": "메인 뉴스",
+      "time": "07:59"
+    },
+    {
+      "title": "본주 괴리율, 사흘 만에 51% 돌파… SK하이닉스 美 ADR '폭등'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000100447&office_id=243&mode=mainnews&type=&date=2026-07-15&page=1",
+      "source": "메인 뉴스",
+      "time": "07:59"
+    },
+    {
+      "title": "\"걱정했는데 뜻밖의 강철 지갑\"… 美 대형 은행, '보이지 않는 위기' 경고등 [글로벌 IB리포트 ]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001258750&office_id=215&mode=mainnews&type=&date=2026-07-15&page=1",
+      "source": "메인 뉴스",
+      "time": "07:59"
+    },
+    {
+      "title": "\"고점대비 36% 폭락, 지금 사라\"…420만닉스 뚝심 지킨 이유는",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006330384&office_id=018&mode=mainnews&type=&date=2026-07-15&page=1",
+      "source": "메인 뉴스",
+      "time": "07:59"
+    },
+    {
+      "title": "체시스 후계자 37살 이준성 ‘광폭 행보’만 보면…승계 초읽기?[거버넌스워치]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000048907&office_id=648&mode=mainnews&type=&date=2026-07-15&page=1",
+      "source": "메인 뉴스",
+      "time": "07:59"
+    },
+    {
+      "title": "\"역사적 저평가\"라더니…삼전닉스 목표가 엇갈린 이유 [분석+]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005310082&office_id=015&mode=mainnews&type=&date=2026-07-15&page=1",
       "source": "메인 뉴스",
-      "time": "06:56"
+      "time": "07:59"
     },
     {
       "title": "중동 긴장 고조에 방산주 위축…한화에어로 6% 하락 [이런국장 저런주식]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004641655&office_id=011&mode=mainnews&type=&date=2026-07-15&page=1",
       "source": "메인 뉴스",
-      "time": "06:56"
+      "time": "07:59"
+    },
+    {
+      "title": "투자자 손실 눈덩이… ‘레버리지 ETF’ 상폐 청원까지",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001861052&office_id=005&mode=mainnews&type=&date=2026-07-15&page=1",
+      "source": "메인 뉴스",
+      "time": "07:59"
     },
     {
       "title": "\"나스닥 가자\" 10만명 몰렸다…서학개미, SK하닉 4000억 베팅",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005310079&office_id=015&mode=mainnews&type=&date=2026-07-15&page=1",
       "source": "메인 뉴스",
-      "time": "06:56"
+      "time": "07:59"
     },
     {
       "title": "‘PBR 0.39배’ 철강株…‘P·Q·C’ 개선에 볕드나",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004641651&office_id=011&mode=mainnews&type=&date=2026-07-15&page=1",
       "source": "메인 뉴스",
-      "time": "06:56"
+      "time": "07:59"
     },
     {
       "title": "“두 배 대박 노렸는데”… 단일종목 레버리지 ETF서 개미 돈 8조8000억원 녹았다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001179231&office_id=366&mode=mainnews&type=&date=2026-07-15&page=1",
       "source": "메인 뉴스",
-      "time": "06:56"
-    },
-    {
-      "title": "코스피, 이달 들어 20% 하락·시총 1300조 증발…반등 언제쯤",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005548254&office_id=014&mode=mainnews&type=&date=2026-07-15&page=1",
-      "source": "메인 뉴스",
-      "time": "06:56"
-    },
-    {
-      "title": "11조 쓸어담았는데…'이제는 못 버텨' 삼전닉스 개미들 결국",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005310077&office_id=015&mode=mainnews&type=&date=2026-07-15&page=1",
-      "source": "메인 뉴스",
-      "time": "06:56"
-    },
-    {
-      "title": "계좌 파랗게 질려도 '월 500만원' 따박따박…폭락장 버틴 50대의 비결",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005386148&office_id=008&mode=mainnews&type=&date=2026-07-15&page=1",
-      "source": "메인 뉴스",
-      "time": "06:56"
-    },
-    {
-      "title": "3주 만에 시총 1800조 증발…실탄 바닥난 개미 \"버틸까 팔까\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014067091&office_id=003&mode=mainnews&type=&date=2026-07-15&page=1",
-      "source": "메인 뉴스",
-      "time": "06:56"
-    },
-    {
-      "title": "\"하루에 24번 손바뀜\"…코스피 거래 40% 삼킨 삼전닉스 레버리지 ETF",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009059826&office_id=421&mode=mainnews&type=&date=2026-07-15&page=1",
-      "source": "메인 뉴스",
-      "time": "06:56"
-    },
-    {
-      "title": "美 ADR 27% 폭등…SK하이닉스 급락 충격 딛고 '비상'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001258741&office_id=215&mode=mainnews&type=&date=2026-07-15&page=1",
-      "source": "메인 뉴스",
-      "time": "06:56"
-    },
-    {
-      "title": "美 물가 쇼크 없었다…뉴욕증시 반등, 연준 7월 관망 무게[월스트리트in]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006330346&office_id=018&mode=mainnews&type=&date=2026-07-15&page=1",
-      "source": "메인 뉴스",
-      "time": "06:56"
+      "time": "07:59"
     }
   ]
 }
