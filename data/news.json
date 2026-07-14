@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-14T12:11:33+00:00",
-  "updated_kst": "2026-07-14T21:11:33+09:00",
+  "updated": "2026-07-14T14:50:20+00:00",
+  "updated_kst": "2026-07-14T23:50:20+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "“반도체 무너지고 ‘여기’만 날았다…두 달 새 시총 6500억달러↑”",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002670302&office_id=016&mode=mainnews&type=&date=2026-07-14&page=1",
+      "source": "메인 뉴스",
+      "time": "23:50"
+    },
+    {
+      "title": "코스피 뚝뚝 떨어지는데 하루새 20% 급등…개미들 몰린 이 기업 “투자 주의”",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004641605&office_id=011&mode=mainnews&type=&date=2026-07-14&page=1",
+      "source": "메인 뉴스",
+      "time": "23:50"
+    },
+    {
+      "title": "\"돈쭐 내주자\" 응원 쏟아지더니…주가 폭등 '상한가' 터졌다 [종목+]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005310045&office_id=015&mode=mainnews&type=&date=2026-07-14&page=1",
+      "source": "메인 뉴스",
+      "time": "23:50"
+    },
     {
       "title": "‘3월 기억 나세요?’ 호르무즈 시즌2, 주가 50% 되돌려졌지만…증권가 여전히 “반도체 사라”는 이유? [투자360]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002670291&office_id=016&mode=mainnews&type=&date=2026-07-14&page=1",
       "source": "메인 뉴스",
-      "time": "21:11"
+      "time": "23:50"
     },
     {
       "title": "미장 계좌도 녹아내리기 직전?…“2000년·2007년 고점과 판박이” 경고 나왔다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004641594&office_id=011&mode=mainnews&type=&date=2026-07-14&page=1",
       "source": "메인 뉴스",
-      "time": "21:11"
+      "time": "23:50"
+    },
+    {
+      "title": "‘따블’ 노렸는데 계좌가 반토막...뒤늦게 단일 레버리지 손본다는데",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005707550&office_id=009&mode=mainnews&type=&date=2026-07-14&page=1",
+      "source": "메인 뉴스",
+      "time": "23:50"
     },
     {
       "title": "SK하닉 괜히 팔았나…역대급 패닉셀 뒤 나온 '뜻밖의 전망' [분석+]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005310023&office_id=015&mode=mainnews&type=&date=2026-07-14&page=1",
       "source": "메인 뉴스",
-      "time": "21:11"
+      "time": "23:50"
     },
     {
       "title": "'하루 15% 급락' 위기의 개미…SK하이닉스 변동성의 전말은 [B급기자의 B급리포트]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001258731&office_id=215&mode=mainnews&type=&date=2026-07-14&page=1",
       "source": "메인 뉴스",
-      "time": "21:11"
+      "time": "23:50"
     },
     {
       "title": "“대마불사라더니 잡주처럼 움직여”…200만원짜리 주식 43%폭락",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005707546&office_id=009&mode=mainnews&type=&date=2026-07-14&page=1",
       "source": "메인 뉴스",
-      "time": "21:11"
+      "time": "23:50"
     },
     {
       "title": "신저가인데 하루 12조 거래…‘초단타 놀이터’ 된 단일종목 레버리지, 개미 ‘곡소리’ [투자360]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002670268&office_id=016&mode=mainnews&type=&date=2026-07-14&page=1",
       "source": "메인 뉴스",
-      "time": "21:11"
+      "time": "23:50"
     },
     {
       "title": "“빚투 뛰어들었는데”…반대매매 4258억, 개미들 줄줄이 강제청산",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002670264&office_id=016&mode=mainnews&type=&date=2026-07-14&page=1",
       "source": "메인 뉴스",
-      "time": "21:11"
+      "time": "23:50"
     },
     {
       "title": "한 달 만에 40% 빠졌다…힘 못 쓰는 AI 대장주",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001258725&office_id=215&mode=mainnews&type=&date=2026-07-14&page=1",
       "source": "메인 뉴스",
-      "time": "21:11"
-    },
-    {
-      "title": "'日 AI 대장주' 키옥시아 40% 빠졌다…\"조정 뒤 회복 가능성\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016194609&office_id=001&mode=mainnews&type=&date=2026-07-14&page=1",
-      "source": "메인 뉴스",
-      "time": "21:11"
-    },
-    {
-      "title": "“주식 통장 보기가 무섭다” 삼전닉스 괴롭히는 것은…레버리지 ETF일까",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004641567&office_id=011&mode=mainnews&type=&date=2026-07-14&page=1",
-      "source": "메인 뉴스",
-      "time": "21:11"
-    },
-    {
-      "title": "코스닥, 결국 1년전 회귀... ‘삼전닉스’ 쏠림에 성장 뿌리 뽑힌다[기획]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003037074&office_id=029&mode=mainnews&type=&date=2026-07-14&page=1",
-      "source": "메인 뉴스",
-      "time": "21:11"
-    },
-    {
-      "title": "3억 날려 본 정신과 의사 “주식 포모는 ‘전치 4주 고통’, 요즘 환자 늘어”",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005707536&office_id=009&mode=mainnews&type=&date=2026-07-14&page=1",
-      "source": "메인 뉴스",
-      "time": "21:11"
+      "time": "23:50"
     }
   ]
 }
