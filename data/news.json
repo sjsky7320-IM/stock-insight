@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-16T17:14:34+00:00",
-  "updated_kst": "2026-07-17T02:14:34+09:00",
+  "updated": "2026-07-16T19:08:51+00:00",
+  "updated_kst": "2026-07-17T04:08:51+09:00",
   "source": "naver-finance",
   "items": [
     {
       "title": "레버리지 예탁금 3배로 ‘문턱’ 높여… “증시안정 효과 미지수”",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003734553&office_id=020&mode=mainnews&type=&date=2026-07-17&page=1",
       "source": "메인 뉴스",
-      "time": "02:14"
+      "time": "04:08"
     },
     {
       "title": "반도체주 어닝서프라이즈에도 '냉담'…\"하늘에 달린 시장 눈높이\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332049&office_id=018&mode=mainnews&type=&date=2026-07-17&page=1",
       "source": "메인 뉴스",
-      "time": "02:14"
+      "time": "04:08"
     },
     {
       "title": "‘반도체 피크아웃’ 공포에… 삼전닉스 추락·코스피는 다시 7000선 붕괴",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001861509&office_id=005&mode=mainnews&type=&date=2026-07-17&page=1",
       "source": "메인 뉴스",
-      "time": "02:14"
+      "time": "04:08"
+    },
+    {
+      "title": "美, 유학생 체류 최장 4년으로 제한…기존 체류자도 시행일부터 적용",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005791197&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260717&page=1",
+      "source": "증권 시황",
+      "time": "04:08"
+    },
+    {
+      "title": "\"다시 뛰어도 내 계좌는 녹았다\"…삼전닉스 '2배 레버리지'의 배신?[부꾸미]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005387275&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260717&page=1",
+      "source": "증권 시황",
+      "time": "04:08"
     },
     {
       "title": "삼전닉스 레버리지 예탁금… 현금 3000만원으로 상향",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003734622&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260717&page=1",
       "source": "증권 시황",
-      "time": "02:14"
+      "time": "04:08"
     },
     {
       "title": "[주식 매매 상위 종목 및 환율] 2026년 7월 16일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003988080&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260717&page=1",
       "source": "증권 시황",
-      "time": "02:14"
+      "time": "04:08"
     },
     {
       "title": "삼전닉스 레버리지, 현금 3000만원 있어야 산다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003988076&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260717&page=1",
       "source": "증권 시황",
-      "time": "02:14"
+      "time": "04:08"
     },
     {
       "title": "美 소매판매 전월比 0.2% ↑…실업수당 청구 전주比 8000건 감소",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005791196&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260717&page=1",
       "source": "증권 시황",
-      "time": "02:14"
+      "time": "04:08"
     },
     {
       "title": "뉴욕 증시, 반도체주 매도에 하락세…다우 0.01%↓ 나스닥 0.86%↓",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014072330&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260717&page=1",
       "source": "증권 시황",
-      "time": "02:14"
+      "time": "04:08"
     },
     {
       "title": "[뉴욕증시]반도체 약세에 혼조 출발",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005791192&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260717&page=1",
       "source": "증권 시황",
-      "time": "02:14"
+      "time": "04:08"
     },
     {
       "title": "레버리지 ETF '대수술'…예탁금 3천만·상장 중단",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000885949&office_id=422&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260717&page=1",
       "source": "증권 시황",
-      "time": "02:14"
-    },
-    {
-      "title": "李, 국민연금이사장에 “선거 때문 주식 샀나” 질문…답변은?",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002805246&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260717&page=1",
-      "source": "증권 시황",
-      "time": "02:14"
-    },
-    {
-      "title": "뉴욕 증시 반도체 매도 속 혼조 출발···다우 0.19%↑ 나스닥 0.55%↓",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014072316&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260717&page=1",
-      "source": "증권 시황",
-      "time": "02:14"
+      "time": "04:08"
     }
   ]
 }
