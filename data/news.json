@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-17T20:54:20+00:00",
-  "updated_kst": "2026-07-18T05:54:20+09:00",
+  "updated": "2026-07-17T21:51:22+00:00",
+  "updated_kst": "2026-07-18T06:51:22+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "[속보] 고점 대비 20%↓ \"약세장 진입\"…美반도체 투심 여전히 냉랭",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001259094&office_id=215&mode=mainnews&type=&date=2026-07-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:51"
+    },
+    {
+      "title": "애플, 엔비디아 제치고 한때 시총 1위 탈환…AI 투자 '반도체→플랫폼' 재편",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332268&office_id=018&mode=mainnews&type=&date=2026-07-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:51"
+    },
+    {
+      "title": "“추매”vs“현금확보”…AI 피크아웃 논란에 엇갈린 개미 생존전략",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001180028&office_id=366&mode=mainnews&type=&date=2026-07-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:51"
+    },
+    {
+      "title": "외계인이 돈 벌어 준다?…취향 따라 진화하는 기묘한 ETF",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003538361&office_id=025&mode=mainnews&type=&date=2026-07-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:51"
+    },
+    {
+      "title": "'S7'도 우수수…매일 사이드카 울린 하락장서 오른 종목은?[김근희의 증시랩업]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005387431&office_id=008&mode=mainnews&type=&date=2026-07-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:51"
+    },
+    {
+      "title": "거품 꺼진 스페이스X, 첫 공모가 붕괴…탈출 기회는 언제",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009065696&office_id=421&mode=mainnews&type=&date=2026-07-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:51"
+    },
+    {
+      "title": "SK하닉, 평균 181만원에 샀다…손실구간 목전에 빅테크 실적 발표[종목현미경]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009065694&office_id=421&mode=mainnews&type=&date=2026-07-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:51"
+    },
+    {
+      "title": "'-20%' 코스피 휘청인 사이…+13% '나홀로 질주' 나선 은행주",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009065693&office_id=421&mode=mainnews&type=&date=2026-07-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:51"
+    },
+    {
+      "title": "AI 투자 회의론에 반도체주 '베어마켓'…뉴욕증시 일제히 하락[월스트리트in]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332261&office_id=018&mode=mainnews&type=&date=2026-07-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:51"
+    },
     {
       "title": "AI 반도체 매도세에 뉴욕증시 하락, 중동 확전에 국제유가 급등",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002234532&office_id=138&mode=mainnews&type=&date=2026-07-18&page=1",
       "source": "메인 뉴스",
-      "time": "05:54"
+      "time": "06:51"
     },
     {
       "title": "미·이란 엿새째 보복 공습…교량·항만까지 타격, 휴전 복귀 '안갯속'",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332257&office_id=018&mode=mainnews&type=&date=2026-07-18&page=1",
       "source": "메인 뉴스",
-      "time": "05:54"
+      "time": "06:51"
     },
     {
       "title": "삼성증권, 퇴직연금 30조 돌파 눈앞…미래 독주 체제 흔드나",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000516959&office_id=629&mode=mainnews&type=&date=2026-07-18&page=1",
       "source": "메인 뉴스",
-      "time": "05:54"
-    },
-    {
-      "title": "MBK·김병주, 홈플러스 DIP 보증 결단…메리츠 의결에 회생 '불씨'[주간사모펀드]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000516957&office_id=629&mode=mainnews&type=&date=2026-07-18&page=1",
-      "source": "메인 뉴스",
-      "time": "05:54"
-    },
-    {
-      "title": "'뿔난' 개미들 연휴 끝나면 행동 개시 나선다…\"40조 성과급 승인 받아라\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001259093&office_id=215&mode=mainnews&type=&date=2026-07-18&page=1",
-      "source": "메인 뉴스",
-      "time": "05:54"
-    },
-    {
-      "title": "AI 투자 회의론에 반도체주 '베어마켓'…뉴욕증시 일제히 하락[월스트리트in]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332261&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
-      "source": "증권 시황",
-      "time": "05:54"
-    },
-    {
-      "title": "뉴욕증시, 반도체 매도세 지속에 하락…나스닥 1.4%↓(종합)",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016200938&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
-      "source": "증권 시황",
-      "time": "05:54"
-    },
-    {
-      "title": "[속보]AI 거품론 지속…뉴욕증시 '뚝'·반도체주 '베어마켓' 진입",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332260&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
-      "source": "증권 시황",
-      "time": "05:54"
-    },
-    {
-      "title": "뉴욕증시, 반도체 매도세 지속에 하락…나스닥 1.4%↓",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016200933&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
-      "source": "증권 시황",
-      "time": "05:54"
-    },
-    {
-      "title": "한 달 만에 주저앉은 스페이스X…시가총액 1천500조원 증발",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016200925&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
-      "source": "증권 시황",
-      "time": "05:54"
-    },
-    {
-      "title": "제헌절 휴일에도 외환 거래",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003988247&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
-      "source": "증권 시황",
-      "time": "05:54"
-    },
-    {
-      "title": "한국 증시, 미국에 멱살 잡혔나… ADR, 단종L?ETF & 피드백 루프 [홍길용의 화식열..",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002671637&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
-      "source": "증권 시황",
-      "time": "05:54"
+      "time": "06:51"
     }
   ]
 }
