@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-17T03:29:47+00:00",
-  "updated_kst": "2026-07-17T12:29:47+09:00",
+  "updated": "2026-07-17T06:14:16+00:00",
+  "updated_kst": "2026-07-17T15:14:16+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "‘두 개 전쟁’ 격화에 유가·곡물발 인플레 우려 재부상",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003988142&office_id=023&mode=mainnews&type=&date=2026-07-17&page=1",
+      "source": "메인 뉴스",
+      "time": "15:14"
+    },
     {
       "title": "모건스탠리가 찍은 美 ‘어닝 서프라이즈’ 8선[GMC]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003538278&office_id=025&mode=mainnews&type=&date=2026-07-17&page=1",
       "source": "메인 뉴스",
-      "time": "12:29"
+      "time": "15:14"
+    },
+    {
+      "title": "최태원 “SK하닉 주식 사고팔고 말고 가만히 갖고 있어라”",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001861593&office_id=005&mode=mainnews&type=&date=2026-07-17&page=1",
+      "source": "메인 뉴스",
+      "time": "15:14"
     },
     {
       "title": "3년 반 만에 기준금리 인상…긴축 사이클 시작",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004642515&office_id=011&mode=mainnews&type=&date=2026-07-17&page=1",
       "source": "메인 뉴스",
-      "time": "12:29"
+      "time": "15:14"
+    },
+    {
+      "title": "삼성 파운드리 81% 이직 의향…성과급 격차가 불렀다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004642514&office_id=011&mode=mainnews&type=&date=2026-07-17&page=1",
+      "source": "메인 뉴스",
+      "time": "15:14"
     },
     {
       "title": "7兆 몰린 ‘삼전닉스 레버리지’… 3000만원 장벽 통할까",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001861586&office_id=005&mode=mainnews&type=&date=2026-07-17&page=1",
       "source": "메인 뉴스",
-      "time": "12:29"
+      "time": "15:14"
     },
     {
       "title": "반도체 장비값 또 뛴다…ASML 가격 인상에 TSMC 반발",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004642502&office_id=011&mode=mainnews&type=&date=2026-07-17&page=1",
       "source": "메인 뉴스",
-      "time": "12:29"
+      "time": "15:14"
     },
     {
       "title": "트럼프·펠로시가 함께 투자하고 있는 美주식 10가지",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003988130&office_id=023&mode=mainnews&type=&date=2026-07-17&page=1",
       "source": "메인 뉴스",
-      "time": "12:29"
+      "time": "15:14"
     },
     {
       "title": "반도체 흔들리자 코스피 롤러코스터…레버리지 ETF가 키웠다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004642501&office_id=011&mode=mainnews&type=&date=2026-07-17&page=1",
       "source": "메인 뉴스",
-      "time": "12:29"
+      "time": "15:14"
     },
     {
       "title": "40% 넘게 빠졌는데도…개미, 한달 간 ‘삼전하닉’ 단일종목 레버리지 5조8000억원 샀다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003988125&office_id=023&mode=mainnews&type=&date=2026-07-17&page=1",
       "source": "메인 뉴스",
-      "time": "12:29"
+      "time": "15:14"
     },
     {
       "title": "“공포가 주가 흔들면 저가매수”…반도체 피크아웃론 반박한 SK증권 [여의도란도란]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005708689&office_id=009&mode=mainnews&type=&date=2026-07-17&page=1",
       "source": "메인 뉴스",
-      "time": "12:29"
+      "time": "15:14"
     },
     {
       "title": "'도박보다 무섭다'…7조 빨아들인 삼전닉스 레버리지 '공포'",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005311014&office_id=015&mode=mainnews&type=&date=2026-07-17&page=1",
       "source": "메인 뉴스",
-      "time": "12:29"
-    },
-    {
-      "title": "SK하이닉스 ADR 이틀 새 21% 급락…고개 드는 반도체 ‘피크아웃’ 우려",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003988123&office_id=023&mode=mainnews&type=&date=2026-07-17&page=1",
-      "source": "메인 뉴스",
-      "time": "12:29"
-    },
-    {
-      "title": "\"지금이 기회?\" 순식간에 몰린 7조…삼전·닉스 레버리지 하락에도 개미들 \"사자\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005791215&office_id=277&mode=mainnews&type=&date=2026-07-17&page=1",
-      "source": "메인 뉴스",
-      "time": "12:29"
-    },
-    {
-      "title": "‘레버리지 홀릭’에 美 신규 ETF만 210개… 버핏 “투자가 도박됐다” [코주부]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004642493&office_id=011&mode=mainnews&type=&date=2026-07-17&page=1",
-      "source": "메인 뉴스",
-      "time": "12:29"
+      "time": "15:14"
     }
   ]
 }
