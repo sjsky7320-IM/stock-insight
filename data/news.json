@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-17T19:06:49+00:00",
-  "updated_kst": "2026-07-18T04:06:49+09:00",
+  "updated": "2026-07-17T20:54:20+00:00",
+  "updated_kst": "2026-07-18T05:54:20+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "AI 반도체 매도세에 뉴욕증시 하락, 중동 확전에 국제유가 급등",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002234532&office_id=138&mode=mainnews&type=&date=2026-07-18&page=1",
+      "source": "메인 뉴스",
+      "time": "05:54"
+    },
+    {
+      "title": "미·이란 엿새째 보복 공습…교량·항만까지 타격, 휴전 복귀 '안갯속'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332257&office_id=018&mode=mainnews&type=&date=2026-07-18&page=1",
+      "source": "메인 뉴스",
+      "time": "05:54"
+    },
     {
       "title": "삼성증권, 퇴직연금 30조 돌파 눈앞…미래 독주 체제 흔드나",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000516959&office_id=629&mode=mainnews&type=&date=2026-07-18&page=1",
       "source": "메인 뉴스",
-      "time": "04:06"
+      "time": "05:54"
     },
     {
       "title": "MBK·김병주, 홈플러스 DIP 보증 결단…메리츠 의결에 회생 '불씨'[주간사모펀드]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000516957&office_id=629&mode=mainnews&type=&date=2026-07-18&page=1",
       "source": "메인 뉴스",
-      "time": "04:06"
+      "time": "05:54"
     },
     {
       "title": "'뿔난' 개미들 연휴 끝나면 행동 개시 나선다…\"40조 성과급 승인 받아라\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001259093&office_id=215&mode=mainnews&type=&date=2026-07-18&page=1",
       "source": "메인 뉴스",
-      "time": "04:06"
+      "time": "05:54"
+    },
+    {
+      "title": "AI 투자 회의론에 반도체주 '베어마켓'…뉴욕증시 일제히 하락[월스트리트in]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332261&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
+      "source": "증권 시황",
+      "time": "05:54"
+    },
+    {
+      "title": "뉴욕증시, 반도체 매도세 지속에 하락…나스닥 1.4%↓(종합)",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016200938&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
+      "source": "증권 시황",
+      "time": "05:54"
+    },
+    {
+      "title": "[속보]AI 거품론 지속…뉴욕증시 '뚝'·반도체주 '베어마켓' 진입",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332260&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
+      "source": "증권 시황",
+      "time": "05:54"
+    },
+    {
+      "title": "뉴욕증시, 반도체 매도세 지속에 하락…나스닥 1.4%↓",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016200933&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
+      "source": "증권 시황",
+      "time": "05:54"
     },
     {
       "title": "한 달 만에 주저앉은 스페이스X…시가총액 1천500조원 증발",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016200925&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
       "source": "증권 시황",
-      "time": "04:06"
+      "time": "05:54"
     },
     {
       "title": "제헌절 휴일에도 외환 거래",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003988247&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
       "source": "증권 시황",
-      "time": "04:06"
+      "time": "05:54"
     },
     {
       "title": "한국 증시, 미국에 멱살 잡혔나… ADR, 단종L?ETF & 피드백 루프 [홍길용의 화식열..",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002671637&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
       "source": "증권 시황",
-      "time": "04:06"
-    },
-    {
-      "title": "[주간사모펀드] MBK·김병주, 홈플러스 DIP 보증 결단…메리츠 의결에 회생 '불씨'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000516957&office_id=629&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
-      "source": "증권 시황",
-      "time": "04:06"
-    },
-    {
-      "title": "AI 반도체 매도세에 흔들린 엔비디아…애플, 장중 한때 글로벌 시총 1위 복귀",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002671636&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
-      "source": "증권 시황",
-      "time": "04:06"
-    },
-    {
-      "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016200909&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
-      "source": "증권 시황",
-      "time": "04:06"
-    },
-    {
-      "title": "[美특징주]엔비디아 잡은 애플…장중 한 때 시총 1위 등극",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332248&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
-      "source": "증권 시황",
-      "time": "04:06"
-    },
-    {
-      "title": "반도체주 하락세…\"더 가? 말아?\" 월가 의견은",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332247&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
-      "source": "증권 시황",
-      "time": "04:06"
-    },
-    {
-      "title": "반도체주 떨어지자 亞 증시도 하락… 키옥시아 16.10%↓",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002805328&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
-      "source": "증권 시황",
-      "time": "04:06"
+      "time": "05:54"
     }
   ]
 }
