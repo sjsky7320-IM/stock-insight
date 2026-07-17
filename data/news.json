@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-17T13:26:08+00:00",
-  "updated_kst": "2026-07-17T22:26:08+09:00",
+  "updated": "2026-07-17T15:12:48+00:00",
+  "updated_kst": "2026-07-18T00:12:48+09:00",
   "source": "naver-finance",
   "items": [
     {
+      "title": "삼성증권, 퇴직연금 30조 돌파 눈앞…미래 독주 체제 흔드나",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000516959&office_id=629&mode=mainnews&type=&date=2026-07-18&page=1",
+      "source": "메인 뉴스",
+      "time": "00:12"
+    },
+    {
+      "title": "MBK·김병주, 홈플러스 DIP 보증 결단…메리츠 의결에 회생 '불씨'[주간사모펀드]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000516957&office_id=629&mode=mainnews&type=&date=2026-07-18&page=1",
+      "source": "메인 뉴스",
+      "time": "00:12"
+    },
+    {
+      "title": "'뿔난' 개미들 연휴 끝나면 행동 개시 나선다…\"40조 성과급 승인 받아라\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001259093&office_id=215&mode=mainnews&type=&date=2026-07-18&page=1",
+      "source": "메인 뉴스",
+      "time": "00:12"
+    },
+    {
+      "title": "한국 증시, 미국에 멱살 잡혔나… ADR, 단종L?ETF & 피드백 루프 [홍길용의 화식열..",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002671637&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
+      "source": "증권 시황",
+      "time": "00:12"
+    },
+    {
+      "title": "[주간사모펀드] MBK·김병주, 홈플러스 DIP 보증 결단…메리츠 의결에 회생 '불씨'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000516957&office_id=629&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
+      "source": "증권 시황",
+      "time": "00:12"
+    },
+    {
+      "title": "AI 반도체 매도세에 흔들린 엔비디아…애플, 장중 한때 글로벌 시총 1위 복귀",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002671636&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
+      "source": "증권 시황",
+      "time": "00:12"
+    },
+    {
+      "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016200909&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
+      "source": "증권 시황",
+      "time": "00:12"
+    },
+    {
+      "title": "[美특징주]엔비디아 잡은 애플…장중 한 때 시총 1위 등극",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332248&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
+      "source": "증권 시황",
+      "time": "00:12"
+    },
+    {
+      "title": "반도체주 하락세…\"더 가? 말아?\" 월가 의견은",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332247&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
+      "source": "증권 시황",
+      "time": "00:12"
+    },
+    {
+      "title": "반도체주 떨어지자 亞 증시도 하락… 키옥시아 16.10%↓",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002805328&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
+      "source": "증권 시황",
+      "time": "00:12"
+    },
+    {
+      "title": "AI 투자 회의론에 아시아 증시 급락 마감…키옥시아 16.10％ 폭락",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014073132&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
+      "source": "증권 시황",
+      "time": "00:12"
+    },
+    {
       "title": "“하이닉스 230만 복구하면 탈출”…슈퍼리치들도 국장에 학뗐다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005708877&office_id=009&mode=mainnews&type=&date=2026-07-17&page=1",
-      "source": "메인 뉴스",
-      "time": "22:26"
-    },
-    {
-      "title": "문 닫은 '마트'가 '아파트'로…도심 주택 공급 힘 보탠다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001959092&office_id=057&mode=mainnews&type=&date=2026-07-17&page=1",
-      "source": "메인 뉴스",
-      "time": "22:26"
-    },
-    {
-      "title": "증시 폭등에 배아팠었는데…‘포모’ 지고 ‘조모’ 뜬다 [증시레이더]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002234530&office_id=138&mode=mainnews&type=&date=2026-07-17&page=1",
-      "source": "메인 뉴스",
-      "time": "22:26"
-    },
-    {
-      "title": "반토막 난 '삼전닉스' 레버리지?한 달간 7兆 흡수",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001042959&office_id=031&mode=mainnews&type=&date=2026-07-17&page=1",
-      "source": "메인 뉴스",
-      "time": "22:26"
-    },
-    {
-      "title": "급락한 조선주 반등 위해 이것 필요하다는데 [주末머니]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005791302&office_id=277&mode=mainnews&type=&date=2026-07-17&page=1",
-      "source": "메인 뉴스",
-      "time": "22:26"
-    },
-    {
-      "title": "美기업 5~6곳 韓상장 논의 … K증시 글로벌화 발판 될듯",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005708865&office_id=009&mode=mainnews&type=&date=2026-07-17&page=1",
-      "source": "메인 뉴스",
-      "time": "22:26"
-    },
-    {
-      "title": "TSMC 호실적도 못막은 반도체株 급락 … 亞증시 검은 금요일",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005708833&office_id=009&mode=mainnews&type=&date=2026-07-17&page=1",
-      "source": "메인 뉴스",
-      "time": "22:26"
-    },
-    {
-      "title": "국내 ETF 시총 한달새 80조 증발",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005708832&office_id=009&mode=mainnews&type=&date=2026-07-17&page=1",
-      "source": "메인 뉴스",
-      "time": "22:26"
-    },
-    {
-      "title": "\"韓주식 팔고 美로 갈까\" 버티던 슈퍼리치도 고민",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005708831&office_id=009&mode=mainnews&type=&date=2026-07-17&page=1",
-      "source": "메인 뉴스",
-      "time": "22:26"
-    },
-    {
-      "title": "'제미나이 3.5 프로' 출시 지연에 실망…알파벳 휘청",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005311105&office_id=015&mode=mainnews&type=&date=2026-07-17&page=1",
-      "source": "메인 뉴스",
-      "time": "22:26"
-    },
-    {
-      "title": "美 연준이 하반기에 금리를 올리지 않는다고? [주末머니]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005791297&office_id=277&mode=mainnews&type=&date=2026-07-17&page=1",
-      "source": "메인 뉴스",
-      "time": "22:26"
-    },
-    {
-      "title": "국민연금 ‘부동산실 이해상충’ 논란 속 연쇄 인사…준법라인도 대기발령[마켓인]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332228&office_id=018&mode=mainnews&type=&date=2026-07-17&page=1",
-      "source": "메인 뉴스",
-      "time": "22:26"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005708877&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
+      "source": "증권 시황",
+      "time": "00:12"
     }
   ]
 }
