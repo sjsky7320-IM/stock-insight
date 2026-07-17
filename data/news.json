@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-17T15:12:48+00:00",
-  "updated_kst": "2026-07-18T00:12:48+09:00",
+  "updated": "2026-07-17T17:10:44+00:00",
+  "updated_kst": "2026-07-18T02:10:44+09:00",
   "source": "naver-finance",
   "items": [
     {
       "title": "삼성증권, 퇴직연금 30조 돌파 눈앞…미래 독주 체제 흔드나",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000516959&office_id=629&mode=mainnews&type=&date=2026-07-18&page=1",
       "source": "메인 뉴스",
-      "time": "00:12"
+      "time": "02:10"
     },
     {
       "title": "MBK·김병주, 홈플러스 DIP 보증 결단…메리츠 의결에 회생 '불씨'[주간사모펀드]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000516957&office_id=629&mode=mainnews&type=&date=2026-07-18&page=1",
       "source": "메인 뉴스",
-      "time": "00:12"
+      "time": "02:10"
     },
     {
       "title": "'뿔난' 개미들 연휴 끝나면 행동 개시 나선다…\"40조 성과급 승인 받아라\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001259093&office_id=215&mode=mainnews&type=&date=2026-07-18&page=1",
       "source": "메인 뉴스",
-      "time": "00:12"
+      "time": "02:10"
+    },
+    {
+      "title": "제헌절 휴일에도 외환 거래",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003988247&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
+      "source": "증권 시황",
+      "time": "02:10"
     },
     {
       "title": "한국 증시, 미국에 멱살 잡혔나… ADR, 단종L?ETF & 피드백 루프 [홍길용의 화식열..",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002671637&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
       "source": "증권 시황",
-      "time": "00:12"
+      "time": "02:10"
     },
     {
       "title": "[주간사모펀드] MBK·김병주, 홈플러스 DIP 보증 결단…메리츠 의결에 회생 '불씨'",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000516957&office_id=629&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
       "source": "증권 시황",
-      "time": "00:12"
+      "time": "02:10"
     },
     {
       "title": "AI 반도체 매도세에 흔들린 엔비디아…애플, 장중 한때 글로벌 시총 1위 복귀",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002671636&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
       "source": "증권 시황",
-      "time": "00:12"
+      "time": "02:10"
     },
     {
       "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016200909&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
       "source": "증권 시황",
-      "time": "00:12"
+      "time": "02:10"
     },
     {
       "title": "[美특징주]엔비디아 잡은 애플…장중 한 때 시총 1위 등극",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332248&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
       "source": "증권 시황",
-      "time": "00:12"
+      "time": "02:10"
     },
     {
       "title": "반도체주 하락세…\"더 가? 말아?\" 월가 의견은",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332247&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
       "source": "증권 시황",
-      "time": "00:12"
+      "time": "02:10"
     },
     {
       "title": "반도체주 떨어지자 亞 증시도 하락… 키옥시아 16.10%↓",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002805328&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
       "source": "증권 시황",
-      "time": "00:12"
+      "time": "02:10"
     },
     {
       "title": "AI 투자 회의론에 아시아 증시 급락 마감…키옥시아 16.10％ 폭락",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014073132&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
       "source": "증권 시황",
-      "time": "00:12"
-    },
-    {
-      "title": "“하이닉스 230만 복구하면 탈출”…슈퍼리치들도 국장에 학뗐다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005708877&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260718&page=1",
-      "source": "증권 시황",
-      "time": "00:12"
+      "time": "02:10"
     }
   ]
 }
