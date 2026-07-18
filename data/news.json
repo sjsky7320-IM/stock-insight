@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-18T02:25:19+00:00",
-  "updated_kst": "2026-07-18T11:25:19+09:00",
+  "updated": "2026-07-18T05:25:03+00:00",
+  "updated_kst": "2026-07-18T14:25:03+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "빌딩은 넘쳤는데…서울 오피스 임대료, 또 최고가 찍었다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332362&office_id=018&mode=mainnews&type=&date=2026-07-18&page=1",
+      "source": "메인 뉴스",
+      "time": "14:25"
+    },
+    {
+      "title": "FSD 승인 전 구독 모델 전환…머스크 승부수 통할까 [김기혁의 테슬라월드]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004642681&office_id=011&mode=mainnews&type=&date=2026-07-18&page=1",
+      "source": "메인 뉴스",
+      "time": "14:25"
+    },
+    {
+      "title": "BYD 다음은 우주?…中 재사용 로켓 성공, 스페이스X 추격 [투자360]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002671699&office_id=016&mode=mainnews&type=&date=2026-07-18&page=1",
+      "source": "메인 뉴스",
+      "time": "14:25"
+    },
+    {
+      "title": "애플, 오픈AI 이직자에 경고장…'내부기밀 탈취' 공세",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005311225&office_id=015&mode=mainnews&type=&date=2026-07-18&page=1",
+      "source": "메인 뉴스",
+      "time": "14:25"
+    },
+    {
+      "title": "“수익률 반토막, 내가 이걸 왜 했을까” 7조 몰린 삼전닉스 레버리지",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004642664&office_id=011&mode=mainnews&type=&date=2026-07-18&page=1",
+      "source": "메인 뉴스",
+      "time": "14:25"
+    },
     {
       "title": "2060 'S&P500' 살 때…AI 베팅한 실버 개미 [일확연금 노후부자]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005311213&office_id=015&mode=mainnews&type=&date=2026-07-18&page=1",
       "source": "메인 뉴스",
-      "time": "11:25"
+      "time": "14:25"
     },
     {
       "title": "연기금, 간만에 2주 연속 순매수…급락장서 담은 종목은 [마켓시그널]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004642657&office_id=011&mode=mainnews&type=&date=2026-07-18&page=1",
       "source": "메인 뉴스",
-      "time": "11:25"
+      "time": "14:25"
     },
     {
       "title": "\"수주 발표 나면 늦어요…방산, 지금이 매수 적기\" [주末머니]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005791352&office_id=277&mode=mainnews&type=&date=2026-07-18&page=1",
       "source": "메인 뉴스",
-      "time": "11:25"
+      "time": "14:25"
     },
     {
       "title": "키옥시아, 美특허소송 패소로 3000억대 배상…주가 16% 폭락",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005311212&office_id=015&mode=mainnews&type=&date=2026-07-18&page=1",
       "source": "메인 뉴스",
-      "time": "11:25"
+      "time": "14:25"
     },
     {
       "title": "AI 반도체 약세에…애플, 장중 엔비디아 꺾고 시총 1위 탈환",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005791347&office_id=277&mode=mainnews&type=&date=2026-07-18&page=1",
       "source": "메인 뉴스",
-      "time": "11:25"
+      "time": "14:25"
     },
     {
       "title": "드림텍, 인도 메모리 모듈 생산라인 추가 투자…90억 규모",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014073326&office_id=003&mode=mainnews&type=&date=2026-07-18&page=1",
       "source": "메인 뉴스",
-      "time": "11:25"
+      "time": "14:25"
     },
     {
       "title": "‘8조 배민’ 대신 ‘22조 DH’ 산 우버의 영리한 셈법",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332304&office_id=018&mode=mainnews&type=&date=2026-07-18&page=1",
       "source": "메인 뉴스",
-      "time": "11:25"
-    },
-    {
-      "title": "뉴욕증시, 반도체 매도세에 하락…나스닥 1.4%↓",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005791337&office_id=277&mode=mainnews&type=&date=2026-07-18&page=1",
-      "source": "메인 뉴스",
-      "time": "11:25"
-    },
-    {
-      "title": "실적은 반토막인데…주가 213% 급등한 '애국 테마주' 운명은 [종목+]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005311206&office_id=015&mode=mainnews&type=&date=2026-07-18&page=1",
-      "source": "메인 뉴스",
-      "time": "11:25"
-    },
-    {
-      "title": "\"오빠도 '레버리지' 한건 아니지?\" 망연자실한 개미들[인치범의 주식투자 부트캠프]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005549551&office_id=014&mode=mainnews&type=&date=2026-07-18&page=1",
-      "source": "메인 뉴스",
-      "time": "11:25"
-    },
-    {
-      "title": "비트코인, 오르고 내렸지만…시장 체력은 살아났다[주간코인]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003112464&office_id=119&mode=mainnews&type=&date=2026-07-18&page=1",
-      "source": "메인 뉴스",
-      "time": "11:25"
-    },
-    {
-      "title": "'19년 흑자' 에이치엘지노믹스 24일 코스닥 입성…수요예측 2곳[IPO챗]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016201045&office_id=001&mode=mainnews&type=&date=2026-07-18&page=1",
-      "source": "메인 뉴스",
-      "time": "11:25"
+      "time": "14:25"
     }
   ]
 }
