@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-19T23:46:07+00:00",
-  "updated_kst": "2026-07-20T08:46:07+09:00",
+  "updated": "2026-07-19T23:56:15+00:00",
+  "updated_kst": "2026-07-20T08:56:15+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "하닉 평균 181만원에 샀다…손실구간 목전",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002805572&office_id=021&mode=mainnews&type=&date=2026-07-20&page=1",
+      "source": "메인 뉴스",
+      "time": "08:56"
+    },
+    {
+      "title": "“단일종목 레버리지 ETF, 시장변동성 주원인이란 건 과장된 측면” [투자360]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002672061&office_id=016&mode=mainnews&type=&date=2026-07-20&page=1",
+      "source": "메인 뉴스",
+      "time": "08:56"
+    },
+    {
+      "title": "상장폐지 위기 기업에 몰린 ‘애국 매수’…상한가 속출, 추격 투자는 주의",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003988497&office_id=023&mode=mainnews&type=&date=2026-07-20&page=1",
+      "source": "메인 뉴스",
+      "time": "08:56"
+    },
     {
       "title": "반도체 실적만으론 부족…코스피 불안 잠재울 빅테크 ‘세 가지 신호’",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332843&office_id=018&mode=mainnews&type=&date=2026-07-20&page=1",
       "source": "메인 뉴스",
-      "time": "08:46"
+      "time": "08:56"
+    },
+    {
+      "title": "세계 반도체주 ‘출렁’·중동정세까지 격화…코스피, 이번주 향방은? [투자360]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002672052&office_id=016&mode=mainnews&type=&date=2026-07-20&page=1",
+      "source": "메인 뉴스",
+      "time": "08:56"
     },
     {
       "title": "키움증권 \"테스, 메모리 설비투자 가속화 수혜…목표가 4배로↑\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016202583&office_id=001&mode=mainnews&type=&date=2026-07-20&page=1",
       "source": "메인 뉴스",
-      "time": "08:46"
+      "time": "08:56"
     },
     {
       "title": "“반도체 급락, 과도했나…‘7월 말 빅테크 실적’이 반등 분수령”",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001180242&office_id=366&mode=mainnews&type=&date=2026-07-20&page=1",
       "source": "메인 뉴스",
-      "time": "08:46"
+      "time": "08:56"
     },
     {
       "title": "사모펀드 임원보수까지 보고 요구하는 법안 당정 추진",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003988494&office_id=023&mode=mainnews&type=&date=2026-07-20&page=1",
       "source": "메인 뉴스",
-      "time": "08:46"
+      "time": "08:56"
     },
     {
       "title": "美 증시 약세 영향에…삼전·닉스 프리장서 5%대 하락 [코주부]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004642977&office_id=011&mode=mainnews&type=&date=2026-07-20&page=1",
       "source": "메인 뉴스",
-      "time": "08:46"
+      "time": "08:56"
     },
     {
       "title": "“반도체 반등, 빅테크 실적에 달렸다…설비투자 유지가 관건”",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332808&office_id=018&mode=mainnews&type=&date=2026-07-20&page=1",
       "source": "메인 뉴스",
-      "time": "08:46"
+      "time": "08:56"
     },
     {
       "title": "휴일 악재 한꺼번에…삼전·SK하닉, 프리마켓서 5% 안팎 급락",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003037697&office_id=029&mode=mainnews&type=&date=2026-07-20&page=1",
       "source": "메인 뉴스",
-      "time": "08:46"
+      "time": "08:56"
     },
     {
       "title": "美 증시 약세·중동정세 격화…코스피 변동성 커지나[마켓뷰]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016202549&office_id=001&mode=mainnews&type=&date=2026-07-20&page=1",
       "source": "메인 뉴스",
-      "time": "08:46"
-    },
-    {
-      "title": "코스피, 하단 테스트 구간 진입…\"6000선 초중반에서 지지력 확인할 것\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332796&office_id=018&mode=mainnews&type=&date=2026-07-20&page=1",
-      "source": "메인 뉴스",
-      "time": "08:46"
-    },
-    {
-      "title": "연휴 중 반도체주 급락…코스피, 6000선 시험대[굿모닝 증시]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005791595&office_id=277&mode=mainnews&type=&date=2026-07-20&page=1",
-      "source": "메인 뉴스",
-      "time": "08:46"
-    },
-    {
-      "title": "반도체 흔들려도 TSMC는 TSMC…\"첨단 공정 지배력 더 커져\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005311492&office_id=015&mode=mainnews&type=&date=2026-07-20&page=1",
-      "source": "메인 뉴스",
-      "time": "08:46"
-    },
-    {
-      "title": "뉴욕증시, '키미 쇼크'에 반도체주 약세…美·이란 긴장도 고조[뉴스새벽배송]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006332787&office_id=018&mode=mainnews&type=&date=2026-07-20&page=1",
-      "source": "메인 뉴스",
-      "time": "08:46"
+      "time": "08:56"
     }
   ]
 }
