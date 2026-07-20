@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-20T15:49:34+00:00",
-  "updated_kst": "2026-07-21T00:49:34+09:00",
+  "updated": "2026-07-20T18:01:40+00:00",
+  "updated_kst": "2026-07-21T03:01:40+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "개미들 “물타기 막아”… 레버리지 예탁금 상향에 반발",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001862097&office_id=005&mode=mainnews&type=&date=2026-07-21&page=1",
+      "source": "메인 뉴스",
+      "time": "03:01"
+    },
+    {
+      "title": "1년만 '최악의 한주' 보낸 반도체주…\"매수 적기\" 긍정론 '스물스물'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006333443&office_id=018&mode=mainnews&type=&date=2026-07-21&page=1",
+      "source": "메인 뉴스",
+      "time": "03:01"
+    },
     {
       "title": "‘거래대금 4조’로 쪼그라든 코스닥… 우량기업까지 동전주 신세",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001862071&office_id=005&mode=mainnews&type=&date=2026-07-21&page=1",
       "source": "메인 뉴스",
-      "time": "00:49"
+      "time": "03:01"
     },
     {
       "title": "‘매도 폭탄설’ 국민연금… 이달만 SK하이닉스 3700억 샀다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001862066&office_id=005&mode=mainnews&type=&date=2026-07-21&page=1",
       "source": "메인 뉴스",
-      "time": "00:49"
+      "time": "03:01"
     },
     {
       "title": "미 -0.6%, 대만 -8%, 일 -10%…한국만 -28%, 무슨 일 있었나",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003538875&office_id=025&mode=mainnews&type=&date=2026-07-21&page=1",
       "source": "메인 뉴스",
-      "time": "00:49"
+      "time": "03:01"
+    },
+    {
+      "title": "김재원“2억 벌었는데 레버ETF 도입되고 홀랑…”",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002805797&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260721&page=1",
+      "source": "증권 시황",
+      "time": "03:01"
+    },
+    {
+      "title": "\"이런 말씀 죄송, 투자 멈춰야\"…운용사 대표까지 말리는 단일종목 레버리지",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000943332&office_id=469&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260721&page=1",
+      "source": "증권 시황",
+      "time": "03:01"
     },
     {
       "title": "사모펀드 임직원들 보수까지 보고해야 하는 법안 추진한다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003988621&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260721&page=1",
       "source": "증권 시황",
-      "time": "00:49"
+      "time": "03:01"
     },
     {
       "title": "[주요경제지표] 2026년 7월 20일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003988616&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260721&page=1",
       "source": "증권 시황",
-      "time": "00:49"
+      "time": "03:01"
     },
     {
       "title": "[단신]KB증권, 청년 투자자 대상 모의 투자 대회 진행 外",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003735184&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260721&page=1",
       "source": "증권 시황",
-      "time": "00:49"
+      "time": "03:01"
     },
     {
       "title": "[주식 매매 상위 종목 및 환율] 2026년 7월 20일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003988614&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260721&page=1",
       "source": "증권 시황",
-      "time": "00:49"
+      "time": "03:01"
     },
     {
       "title": "[기자의 눈] 단일종목 레버리지가 소환한 ‘라임의 추억’",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004643312&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260721&page=1",
       "source": "증권 시황",
-      "time": "00:49"
-    },
-    {
-      "title": "중동 '10일 휴전안' 부상…구글, 추론 전용칩 개발 추진 [빈난새의 개장전요것만]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005311894&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260721&page=1",
-      "source": "증권 시황",
-      "time": "00:49"
-    },
-    {
-      "title": "'ETF 아버지' 배재규 \"단일종목 레버리지, 지금이라도 투자 멈춰야\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009069275&office_id=421&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260721&page=1",
-      "source": "증권 시황",
-      "time": "00:49"
-    },
-    {
-      "title": "자산운용사 대표 \"지금이라도 레버리지 투자 멈춰야\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000887013&office_id=422&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260721&page=1",
-      "source": "증권 시황",
-      "time": "00:49"
-    },
-    {
-      "title": "\"이런 말씀 죄송, 레버리지 투자 말아야\"…운용사 대표의 이례적 메시지",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016204683&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260721&page=1",
-      "source": "증권 시황",
-      "time": "00:49"
+      "time": "03:01"
     }
   ]
 }
