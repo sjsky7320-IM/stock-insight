@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-21T17:18:32+00:00",
-  "updated_kst": "2026-07-22T02:18:32+09:00",
+  "updated": "2026-07-21T19:20:33+00:00",
+  "updated_kst": "2026-07-22T04:20:33+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "[단독] 40조 들고 온 SK하이닉스… 환율 1555원→ 1473원까지 뚝",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001862351&office_id=005&mode=mainnews&type=&date=2026-07-22&page=1",
+      "source": "메인 뉴스",
+      "time": "04:20"
+    },
     {
       "title": "“레버리지·인버스 투자 멈춰라” vs “규제로 유동성 줄면 변동성 더 커져”",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003988845&office_id=023&mode=mainnews&type=&date=2026-07-22&page=1",
       "source": "메인 뉴스",
-      "time": "02:18"
+      "time": "04:20"
     },
     {
       "title": "월 배당보다 '진짜 배당' 찾는다…커버드콜 지고 고배당 뜬다 [ETF업&다운]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0009071419&office_id=421&mode=mainnews&type=&date=2026-07-22&page=1",
       "source": "메인 뉴스",
-      "time": "02:18"
+      "time": "04:20"
     },
     {
       "title": "李엔 5억 빌려주고 직장인엔 규제론…이찬진의 엇갈린 잣대[기자수첩]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000517844&office_id=629&mode=mainnews&type=&date=2026-07-22&page=1",
       "source": "메인 뉴스",
-      "time": "02:18"
+      "time": "04:20"
+    },
+    {
+      "title": "\"역대급 불장, 나만 은퇴거지?\"...퇴직연금 탈탈, 줄줄이 투자했다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005388931&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260722&page=1",
+      "source": "증권 시황",
+      "time": "04:20"
+    },
+    {
+      "title": "李대통령, 레버리지ETF 추가 보완책 주문",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005388929&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260722&page=1",
+      "source": "증권 시황",
+      "time": "04:20"
+    },
+    {
+      "title": "베선트 \"클래리티법, 1야드 라인 와 있다\"…비트코인 2%대 급등",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006334230&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260722&page=1",
+      "source": "증권 시황",
+      "time": "04:20"
+    },
+    {
+      "title": "“AI 열풍에 S&P500 연말 8100 간다”…UBS, 기존 7500에서 상향",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003038156&office_id=029&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260722&page=1",
+      "source": "증권 시황",
+      "time": "04:20"
     },
     {
       "title": "UBS \"S&P500 연말 8,100 간다\"…기존 전망치 7,500서 상향",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016207063&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260722&page=1",
       "source": "증권 시황",
-      "time": "02:18"
+      "time": "04:20"
     },
     {
       "title": "UBS \"실적 주도형 상승장 이어진다…연말 S&P500 8100 가능\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006334227&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260722&page=1",
       "source": "증권 시황",
-      "time": "02:18"
+      "time": "04:20"
     },
     {
       "title": "고점서 40% 빠진 증권주 반등할까",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003988852&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260722&page=1",
       "source": "증권 시황",
-      "time": "02:18"
+      "time": "04:20"
     },
     {
       "title": "[주식 매매 상위 종목 및 환율] 2026년 7월 21일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003988851&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260722&page=1",
       "source": "증권 시황",
-      "time": "02:18"
-    },
-    {
-      "title": "[주요경제지표] 2026년 7월 21일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003988841&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260722&page=1",
-      "source": "증권 시황",
-      "time": "02:18"
-    },
-    {
-      "title": "“불안한 주식 대신 예금”… 5대은행 예금잔액 보름새 16조 급증",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003735532&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260722&page=1",
-      "source": "증권 시황",
-      "time": "02:18"
-    },
-    {
-      "title": "[기자수첩] 李엔 5억 빌려주고 직장인엔 규제론…이찬진의 엇갈린 잣대",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000517844&office_id=629&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260722&page=1",
-      "source": "증권 시황",
-      "time": "02:18"
-    },
-    {
-      "title": "뉴욕증시, 반도체주 반등에 상승 출발…SK하이닉스 ADR 7%↑",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014079703&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260722&page=1",
-      "source": "증권 시황",
-      "time": "02:18"
-    },
-    {
-      "title": "소액주주 피토하는데 성과급만 40조? 삼전 소액주주, 국민연금에 서한",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002806080&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260722&page=1",
-      "source": "증권 시황",
-      "time": "02:18"
+      "time": "04:20"
     }
   ]
 }
