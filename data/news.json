@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-22T22:02:23+00:00",
-  "updated_kst": "2026-07-23T07:02:23+09:00",
+  "updated": "2026-07-22T23:02:33+00:00",
+  "updated_kst": "2026-07-23T08:02:33+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "두산에너빌리티, 목표가↓…미국 원전 수주는 내년부터-KB",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006335082&office_id=018&mode=mainnews&type=&date=2026-07-23&page=1",
+      "source": "메인 뉴스",
+      "time": "08:02"
+    },
+    {
+      "title": "실적 발표 후 주가 하락한 구글...컨퍼런스 콜 직접 들어보니 [마켓무버의 국장 힌트]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001259650&office_id=215&mode=mainnews&type=&date=2026-07-23&page=1",
+      "source": "메인 뉴스",
+      "time": "08:02"
+    },
+    {
+      "title": "“주가만 흔들렸다”…삼성전기·LG이노텍, 2028년까지 호황 전망",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006335074&office_id=018&mode=mainnews&type=&date=2026-07-23&page=1",
+      "source": "메인 뉴스",
+      "time": "08:02"
+    },
+    {
+      "title": "“코스피 오늘도 불안하네” 뉴욕증시, 유가 급등에 동반 하락…나스닥 0.57%↓",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002673717&office_id=016&mode=mainnews&type=&date=2026-07-23&page=1",
+      "source": "메인 뉴스",
+      "time": "08:02"
+    },
+    {
+      "title": "삼성전자, 구글 AI 생태계 최대 수혜주…\"60만전자 간다\"-KB",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006335072&office_id=018&mode=mainnews&type=&date=2026-07-23&page=1",
+      "source": "메인 뉴스",
+      "time": "08:02"
+    },
+    {
+      "title": "“한전KPS, 연말로 갈수록 재평가 모멘텀” 목표가↓",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005711027&office_id=009&mode=mainnews&type=&date=2026-07-23&page=1",
+      "source": "메인 뉴스",
+      "time": "08:02"
+    },
+    {
+      "title": "빅뱅·BTS 잘나가는데…'올해만 40% 급락' 엔터주 왜 헤맬까",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005793346&office_id=277&mode=mainnews&type=&date=2026-07-23&page=1",
+      "source": "메인 뉴스",
+      "time": "08:02"
+    },
+    {
+      "title": "비트코인·이더리움 상승장 시작됐나…향방 가를 두 관문",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003113949&office_id=119&mode=mainnews&type=&date=2026-07-23&page=1",
+      "source": "메인 뉴스",
+      "time": "08:02"
+    },
+    {
+      "title": "\"예수금 말라간다\"…급락장에 커버드콜 ETF로 몰리는 개미들",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005551698&office_id=014&mode=mainnews&type=&date=2026-07-23&page=1",
+      "source": "메인 뉴스",
+      "time": "08:02"
+    },
+    {
+      "title": "알루코그룹②내부거래로 수백억 축적한 박도봉 회장 일가[기로의상장사]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005793340&office_id=277&mode=mainnews&type=&date=2026-07-23&page=1",
+      "source": "메인 뉴스",
+      "time": "08:02"
+    },
+    {
+      "title": "\"누가 요즘 코인하나요\"...파리 날리는 국내 주요 거래소",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001259645&office_id=215&mode=mainnews&type=&date=2026-07-23&page=1",
+      "source": "메인 뉴스",
+      "time": "08:02"
+    },
     {
       "title": "뉴욕증시 소폭 하락…알파벳 AI 투자 성과 가시화·테슬라 수익성 흔들[월스트리트in]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006335062&office_id=018&mode=mainnews&type=&date=2026-07-23&page=1",
       "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "한 달 새 33% 빠지더니…삼성 한마디에 '상한가 속출' 반전 [종목+]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005312842&office_id=015&mode=mainnews&type=&date=2026-07-23&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "트럼프 무역법 301조 부과 임박…국내 증시 영향은 [분석+]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005312840&office_id=015&mode=mainnews&type=&date=2026-07-23&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "“무슨 로켓이 아래로만 가”…머스크에 뿔난 개미들, 8월엔 다를까",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005711011&office_id=009&mode=mainnews&type=&date=2026-07-23&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "외국인 두 달 만에 최대 순매수…증권가 “15~25% 기대수익률”[코주부]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004644203&office_id=011&mode=mainnews&type=&date=2026-07-23&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "매수 사이드카에도 7000 안착 실패 '이례적'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005551690&office_id=014&mode=mainnews&type=&date=2026-07-23&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "빅테크 AI 투자 부담 와중에...머스크는 웃는다 [김기혁의 테슬라월드]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004644193&office_id=011&mode=mainnews&type=&date=2026-07-23&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "자산 270억 90세 日슈퍼개미 단독 인터뷰 \"지금 '이것' 들어가면 당합니다\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005389620&office_id=008&mode=mainnews&type=&date=2026-07-23&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "서킷 2회·사이드카 11회…7월 코스피 역대급 롤러코스터",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014082529&office_id=003&mode=mainnews&type=&date=2026-07-23&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "\"8월 반전 오나\"…'역사적 저평가' 갇힌 삼전·닉스 기지개 펼까",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014082528&office_id=003&mode=mainnews&type=&date=2026-07-23&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "\"SK하닉, 1000원에 산다\"…카카오페이·토스·한투證 '소수점 거래' 도입",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009073921&office_id=421&mode=mainnews&type=&date=2026-07-23&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "사이드카 효과 의문…\"25년 묵은 기준 손봐야\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006335035&office_id=018&mode=mainnews&type=&date=2026-07-23&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
+      "time": "08:02"
     }
   ]
 }
