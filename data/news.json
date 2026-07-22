@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-22T19:17:13+00:00",
-  "updated_kst": "2026-07-23T04:17:13+09:00",
+  "updated": "2026-07-22T21:06:12+00:00",
+  "updated_kst": "2026-07-23T06:06:12+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "사이드카 효과 의문…\"25년 묵은 기준 손봐야\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006335035&office_id=018&mode=mainnews&type=&date=2026-07-23&page=1",
+      "source": "메인 뉴스",
+      "time": "06:06"
+    },
+    {
+      "title": "[속보]AI 투자 성과 입증할까…빅테크 실적 앞두고 뉴욕증시 소폭 하락",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006335030&office_id=018&mode=mainnews&type=&date=2026-07-23&page=1",
+      "source": "메인 뉴스",
+      "time": "06:06"
+    },
     {
       "title": "\"개미 피난 갑니다\" 롤러코스피에 지쳐...'여기로' 우르르",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005389572&office_id=008&mode=mainnews&type=&date=2026-07-23&page=1",
       "source": "메인 뉴스",
-      "time": "04:17"
+      "time": "06:06"
     },
     {
       "title": "\"7천피 뚫고 급등하다 뚝\" 좋다 말았다...\"'이 회사' 실적 주목할 때\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005389571&office_id=008&mode=mainnews&type=&date=2026-07-23&page=1",
       "source": "메인 뉴스",
-      "time": "04:17"
+      "time": "06:06"
     },
     {
-      "title": "국민연금, 中 자율주행기술 기업 투자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005389570&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260723&page=1",
+      "title": "외국인 두 달 만에 최대 순매수…증권가 “15~25% 기대수익률”[코주부]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004644203&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260723&page=1",
       "source": "증권 시황",
-      "time": "04:17"
+      "time": "06:06"
     },
     {
-      "title": "반도체 출렁일 때 \"화장품株 뜬다\"...수익률 높은 ETF는?[ETFvsETF]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005389560&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260723&page=1",
+      "title": "매수 사이드카에도 7000 안착 실패 '이례적'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005551690&office_id=014&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260723&page=1",
       "source": "증권 시황",
-      "time": "04:17"
+      "time": "06:06"
     },
     {
-      "title": "[현장기자] 단일종목 레버리지 컨트롤타워가 없다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001862598&office_id=005&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260723&page=1",
+      "title": "중동 불안에 유가 다시 '꿈틀'…원유 ETN 수익률 상위권 독식",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005551688&office_id=014&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260723&page=1",
       "source": "증권 시황",
-      "time": "04:17"
+      "time": "06:06"
     },
     {
-      "title": "[주식 매매 상위 종목 및 환율] 2026년 7월 22일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003989067&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260723&page=1",
+      "title": "빅테크 AI 투자 부담 와중에...머스크는 웃는다 [김기혁의 테슬라월드]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004644193&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260723&page=1",
       "source": "증권 시황",
-      "time": "04:17"
+      "time": "06:06"
     },
     {
-      "title": "[주요경제지표] 2026년 7월 22일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003989053&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260723&page=1",
+      "title": "중동 리스크로 운임 ↑…해운업계, 2분기 '호실적' 전망",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002235043&office_id=138&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260723&page=1",
       "source": "증권 시황",
-      "time": "04:17"
+      "time": "06:06"
     },
     {
-      "title": "카카오페이증권 “올해 결혼하면 10만원 주식 선물”",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003735835&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260723&page=1",
+      "title": "[목요일 아침에] 멀어지는 머니무브",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004644192&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260723&page=1",
       "source": "증권 시황",
-      "time": "04:17"
+      "time": "06:06"
     },
     {
-      "title": "“도박판 된 주식시장, 李대통령 오만이 부른 경제참사” 이성권의 말",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002806360&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260723&page=1",
+      "title": "개정 상법 ‘합산 3%룰’ 첫 시험대 오른다 [시그널]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004644190&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260723&page=1",
       "source": "증권 시황",
-      "time": "04:17"
+      "time": "06:06"
     },
     {
-      "title": "고유가·고금리 속 알파벳 실적 시험대…AI 투자 경쟁은 이어진다 [빈난새의 개장전요것만]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005312822&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260723&page=1",
+      "title": "[일문일답] 파이어블록스 \"北해킹 조사한 뒤 창업…韓 장기 파트너 되겠다\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016209566&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260723&page=1",
       "source": "증권 시황",
-      "time": "04:17"
-    },
-    {
-      "title": "“오르면 팔지 말라, 내리면 사달라”…국민연금은 증시 '호구'일까",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006335015&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260723&page=1",
-      "source": "증권 시황",
-      "time": "04:17"
-    },
-    {
-      "title": "벤츠 코리아, 메르세데스-AMG GT 43 출시…스포츠카 라인업 강화",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004644163&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260723&page=1",
-      "source": "증권 시황",
-      "time": "04:17"
+      "time": "06:06"
     }
   ]
 }
