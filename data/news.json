@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-23T22:02:08+00:00",
-  "updated_kst": "2026-07-24T07:02:08+09:00",
+  "updated": "2026-07-23T22:55:35+00:00",
+  "updated_kst": "2026-07-24T07:55:35+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "④김남근 의원 \"1순위는 의무공개매수제도…중복상장 금지도 법제화\"[상법개정 1년]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005793972&office_id=277&mode=mainnews&type=&date=2026-07-24&page=1",
+      "source": "메인 뉴스",
+      "time": "07:55"
+    },
+    {
+      "title": "우주 뚫을 기세더니 주가 '반토막'...\"공매도 22조 벌었다\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001259809&office_id=215&mode=mainnews&type=&date=2026-07-24&page=1",
+      "source": "메인 뉴스",
+      "time": "07:55"
+    },
+    {
+      "title": "금융당국 ‘레버리지 딜레마’…10조 시장 어디까지 손댈까",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000100808&office_id=243&mode=mainnews&type=&date=2026-07-24&page=1",
+      "source": "메인 뉴스",
+      "time": "07:55"
+    },
+    {
+      "title": "유가 100달러·AI '돈 먹는 하마' 공포…나스닥 2.15% 급락[뉴욕증시]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005552284&office_id=014&mode=mainnews&type=&date=2026-07-24&page=1",
+      "source": "메인 뉴스",
+      "time": "07:55"
+    },
+    {
+      "title": "뉴욕증시, 중동·AI 우려에 3대 지수 하락…테슬라 14%↓",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000518621&office_id=629&mode=mainnews&type=&date=2026-07-24&page=1",
+      "source": "메인 뉴스",
+      "time": "07:55"
+    },
+    {
+      "title": "‘무섭다, 이제 그만 손절할래’… 롤러코스피에 개미 대탈출",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001862884&office_id=005&mode=mainnews&type=&date=2026-07-24&page=1",
+      "source": "메인 뉴스",
+      "time": "07:55"
+    },
+    {
+      "title": "AI가 흔든 시장…인텔 호실적·테슬라 부담 확대[머스트노우5]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006335867&office_id=018&mode=mainnews&type=&date=2026-07-24&page=1",
+      "source": "메인 뉴스",
+      "time": "07:55"
+    },
+    {
+      "title": "삼전닉스 ‘저가 매수’ 기회라고?…개미들은 못 믿겠다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003114405&office_id=119&mode=mainnews&type=&date=2026-07-24&page=1",
+      "source": "메인 뉴스",
+      "time": "07:55"
+    },
+    {
+      "title": "\"이제 살 수 있는 가격대, 코스피 1만 간다\"…조정장 예측 적중했던 애널의 파격 전망",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005552281&office_id=014&mode=mainnews&type=&date=2026-07-24&page=1",
+      "source": "메인 뉴스",
+      "time": "07:55"
+    },
+    {
+      "title": "단일종목 레버리지ETF 문 연 김용범, 뒷북 수습에 ‘진땀’",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000100805&office_id=243&mode=mainnews&type=&date=2026-07-24&page=1",
+      "source": "메인 뉴스",
+      "time": "07:55"
+    },
+    {
+      "title": "\"롤러코스피 무서워\" 반등에도 개미 대탈출…사흘간 6.8조 순매도",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014085269&office_id=003&mode=mainnews&type=&date=2026-07-24&page=1",
+      "source": "메인 뉴스",
+      "time": "07:55"
+    },
     {
       "title": "\"하이닉스 290만→190만원됐는데\"...하락장에서 주가 2배 뛴 SK이터닉스",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005552276&office_id=014&mode=mainnews&type=&date=2026-07-24&page=1",
       "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "중동 불바다 우려…'브렌트유 100달러' 재돌파[국제유가]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001152810&office_id=417&mode=mainnews&type=&date=2026-07-24&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "“백화점 너무 올랐나”…반도체 투심 회복세 속 ‘휘청’ [이런국장 저런주식]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004644651&office_id=011&mode=mainnews&type=&date=2026-07-24&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "이달에만 주가 55% 넘게 '폭등'…급락장서 '최고가' 찍었다 [종목+]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005313318&office_id=015&mode=mainnews&type=&date=2026-07-24&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "오르든, 내리든 ‘한쪽에 몰빵’…'초단타' 투자시장 경고등",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000100804&office_id=243&mode=mainnews&type=&date=2026-07-24&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "나스닥 2% 하락, 3대 지수 뚝…AI 거품론·중동 불안감 확대[뉴욕증시]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001152806&office_id=417&mode=mainnews&type=&date=2026-07-24&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "반도체 투심 부활에 돌아온 외국인…코스피 반등 본격화하나",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014085216&office_id=003&mode=mainnews&type=&date=2026-07-24&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "'40% 폭락' 삼전닉스 '반등 기회'…빅테크 투자↑·외국인 매수",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009076265&office_id=421&mode=mainnews&type=&date=2026-07-24&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "\"손실나도 세금 안 깎아줘\"…'ETF 시대' LP 발목 잡는 '교육세'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009076263&office_id=421&mode=mainnews&type=&date=2026-07-24&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "나스닥 2.2%↓, 유가 100달러 충격에 급락…AI 투자 회의론까지 덮쳤다[월스트리트in]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006335837&office_id=018&mode=mainnews&type=&date=2026-07-24&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "중동 긴장에 뉴욕증시 3대 지수 하락…반도체는 인텔 '깜짝 실적'에 강세",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002235246&office_id=138&mode=mainnews&type=&date=2026-07-24&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
-    },
-    {
-      "title": "\"이마트, 2분기 심상찮다\"…낮아지는 눈높이에 '한숨'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001259802&office_id=215&mode=mainnews&type=&date=2026-07-24&page=1",
-      "source": "메인 뉴스",
-      "time": "07:02"
+      "time": "07:55"
     }
   ]
 }
