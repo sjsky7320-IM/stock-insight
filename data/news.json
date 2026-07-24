@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-24T17:36:57+00:00",
-  "updated_kst": "2026-07-25T02:36:57+09:00",
+  "updated": "2026-07-24T19:23:51+00:00",
+  "updated_kst": "2026-07-25T04:23:51+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "“정말 더는 못 견뎌”…‘롤러코스피’ 개미 대탈출[이슈]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002806900&office_id=021&mode=mainnews&type=&date=2026-07-25&page=1",
+      "source": "메인 뉴스",
+      "time": "04:23"
+    },
     {
       "title": "하이닉스 레버리지 고점 대비 70% 빠져… 시장 혼란에 규제 앞당겨",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003736387&office_id=020&mode=mainnews&type=&date=2026-07-25&page=1",
       "source": "메인 뉴스",
-      "time": "02:36"
+      "time": "04:23"
     },
     {
       "title": "최태원·노소영 판결 나오자 SKT 5% 급등 이유",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002806899&office_id=021&mode=mainnews&type=&date=2026-07-25&page=1",
       "source": "메인 뉴스",
-      "time": "02:36"
+      "time": "04:23"
     },
     {
       "title": "오스템임플란트 조직개편 놓고 시각차…MBK \"사업재편·경쟁력 강화\"[주간사모펀드]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000518929&office_id=629&mode=mainnews&type=&date=2026-07-25&page=1",
       "source": "메인 뉴스",
-      "time": "02:36"
+      "time": "04:23"
+    },
+    {
+      "title": "[이슈]“정말 더는 못 견뎌”…‘롤러코스피’ 개미 대탈출",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002806900&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260725&page=1",
+      "source": "증권 시황",
+      "time": "04:23"
     },
     {
       "title": "[주식 매매 상위 종목 및 환율] 2026년 7월 24일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003989539&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260725&page=1",
       "source": "증권 시황",
-      "time": "02:36"
+      "time": "04:23"
     },
     {
       "title": "[주간사모펀드] 오스템임플란트 조직개편 놓고 시각차…MBK \"사업재편·경쟁력 강화\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000518929&office_id=629&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260725&page=1",
       "source": "증권 시황",
-      "time": "02:36"
+      "time": "04:23"
     },
     {
       "title": "\"롤러코스피 주범 왜 도입했나\"…13조 쓸어담은 개미들 달라졌다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001259918&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260725&page=1",
       "source": "증권 시황",
-      "time": "02:36"
+      "time": "04:23"
     },
     {
       "title": "뉴욕증시, 혼조 출발… 인텔, 호실적 불구 2% 넘게 하락",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003038735&office_id=029&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260725&page=1",
       "source": "증권 시황",
-      "time": "02:36"
+      "time": "04:23"
     },
     {
       "title": "삼성전자 58,000원에 '1,000주' 사놓고…김선태, 국장 투자 후회한 사연",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001259917&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260725&page=1",
       "source": "증권 시황",
-      "time": "02:36"
+      "time": "04:23"
     },
     {
       "title": "\"로봇은 삼성의 미래 성장 동력\" 한마디에…ETF도 '들썩'",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001259916&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260725&page=1",
       "source": "증권 시황",
-      "time": "02:36"
+      "time": "04:23"
     },
     {
       "title": "[美특징주]세일즈포스, 美 재향군인부와 16억 달러 계약 체결…개장전 1%↑",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006336637&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260725&page=1",
       "source": "증권 시황",
-      "time": "02:36"
-    },
-    {
-      "title": "[속보]뉴욕증시 혼조 출발…S&P 0.1%↑ 나스닥 0.1%↓",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014087198&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260725&page=1",
-      "source": "증권 시황",
-      "time": "02:36"
-    },
-    {
-      "title": "\"실시간 돈 삭제\" 개미들 레버리지 쓸어담더니…확 달라졌다 [분석+]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005313673&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260725&page=1",
-      "source": "증권 시황",
-      "time": "02:36"
+      "time": "04:23"
     }
   ]
 }
