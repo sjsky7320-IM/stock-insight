@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-24T03:34:11+00:00",
-  "updated_kst": "2026-07-24T12:34:11+09:00",
+  "updated": "2026-07-24T06:25:28+00:00",
+  "updated_kst": "2026-07-24T15:25:28+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "미래에셋증권, 역대급 자사주 소각...'3000억 받고 2000억 더'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000049173&office_id=648&mode=mainnews&type=&date=2026-07-24&page=1",
+      "source": "메인 뉴스",
+      "time": "15:25"
+    },
+    {
+      "title": "\"상장 한 달 만에 반토막 위기\"…머스크, 공매도에 경고",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005313510&office_id=015&mode=mainnews&type=&date=2026-07-24&page=1",
+      "source": "메인 뉴스",
+      "time": "15:25"
+    },
+    {
+      "title": "가비아 둘러싼 공방…맥쿼리 \"적정 가격\" vs 얼라인 \"절차 문제\"(종합)",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016213323&office_id=001&mode=mainnews&type=&date=2026-07-24&page=1",
+      "source": "메인 뉴스",
+      "time": "15:25"
+    },
+    {
+      "title": "62조 '빚투' 후폭풍…반대매매·연체·미수채권 '3중 압박' [fn마켓워치]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005552492&office_id=014&mode=mainnews&type=&date=2026-07-24&page=1",
+      "source": "메인 뉴스",
+      "time": "15:25"
+    },
+    {
+      "title": "코스피 급락날 삼성바이오는 11% 급등…호실적에 주가 탄력 [줍줍리포트]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004644822&office_id=011&mode=mainnews&type=&date=2026-07-24&page=1",
+      "source": "메인 뉴스",
+      "time": "15:25"
+    },
+    {
+      "title": "5거래일 내내 사이드카…삼전닉스 7%대 급락[티타임]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001152885&office_id=417&mode=mainnews&type=&date=2026-07-24&page=1",
+      "source": "메인 뉴스",
+      "time": "15:25"
+    },
+    {
+      "title": "AI 슈퍼사이클에 ‘수주 폭증’...목표가 줄상향",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001259860&office_id=215&mode=mainnews&type=&date=2026-07-24&page=1",
+      "source": "메인 뉴스",
+      "time": "15:25"
+    },
+    {
+      "title": "외국인·기관 3.6조 투매…코스피·코스닥 매도 사이드카",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002235330&office_id=138&mode=mainnews&type=&date=2026-07-24&page=1",
+      "source": "메인 뉴스",
+      "time": "15:25"
+    },
     {
       "title": "하닉·삼전 6% 떨어지는데…상위 투자자는 순매수 1·2위 [주식 초고수는 지금]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004644807&office_id=011&mode=mainnews&type=&date=2026-07-24&page=1",
       "source": "메인 뉴스",
-      "time": "12:34"
+      "time": "15:25"
     },
     {
       "title": "\"최고점 매도했어요\"…삼전닉스 개미는 외면 \"킵 고잉\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001259853&office_id=215&mode=mainnews&type=&date=2026-07-24&page=1",
       "source": "메인 뉴스",
-      "time": "12:34"
+      "time": "15:25"
     },
     {
       "title": "우주에서 지하로…스페이스X 시총 증발에 개미들 우주 ETF 이탈",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000518749&office_id=629&mode=mainnews&type=&date=2026-07-24&page=1",
       "source": "메인 뉴스",
-      "time": "12:34"
+      "time": "15:25"
     },
     {
       "title": "또 '사이드카' 부른 중동불안...외국인 피난에 코스피 6800선 반납",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005390467&office_id=008&mode=mainnews&type=&date=2026-07-24&page=1",
       "source": "메인 뉴스",
-      "time": "12:34"
-    },
-    {
-      "title": "매일 사이드카 울리네…유가 급등에 코스피 올해 21번째 매도 사이드카",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005390466&office_id=008&mode=mainnews&type=&date=2026-07-24&page=1",
-      "source": "메인 뉴스",
-      "time": "12:34"
-    },
-    {
-      "title": "삼전닉스 주가 이렇게 빠지게 한 범인은…증권가는 그래도 “저점 매수 기회” 왜?",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004644795&office_id=011&mode=mainnews&type=&date=2026-07-24&page=1",
-      "source": "메인 뉴스",
-      "time": "12:34"
-    },
-    {
-      "title": "코스피 급락에 매도 사이드카 발동…삼전·하닉 6% 하락 [마켓시그널]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004644792&office_id=011&mode=mainnews&type=&date=2026-07-24&page=1",
-      "source": "메인 뉴스",
-      "time": "12:34"
-    },
-    {
-      "title": "레버리지 광풍 꺾였다…삼전·닉스 단일종목 ETF 14종 자금유입 '뚝'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014086043&office_id=003&mode=mainnews&type=&date=2026-07-24&page=1",
-      "source": "메인 뉴스",
-      "time": "12:34"
-    },
-    {
-      "title": "美 ‘장기계약’ 호재…OCI홀딩스, 폴리실리콘 사이클 본격화",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005711715&office_id=009&mode=mainnews&type=&date=2026-07-24&page=1",
-      "source": "메인 뉴스",
-      "time": "12:34"
-    },
-    {
-      "title": "韓바이오 ‘장기 성장’에 베팅…뭉칫돈 몰린다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002674557&office_id=016&mode=mainnews&type=&date=2026-07-24&page=1",
-      "source": "메인 뉴스",
-      "time": "12:34"
-    },
-    {
-      "title": "메가프로젝트 테마주 주의보…상한가 갔던 건설사 8% 하락 [이런국장 저런주식]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004644790&office_id=011&mode=mainnews&type=&date=2026-07-24&page=1",
-      "source": "메인 뉴스",
-      "time": "12:34"
-    },
-    {
-      "title": "‘반도체 피크아웃’ 사그라지자 돌아온 외인",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002674534&office_id=016&mode=mainnews&type=&date=2026-07-24&page=1",
-      "source": "메인 뉴스",
-      "time": "12:34"
+      "time": "15:25"
     }
   ]
 }
