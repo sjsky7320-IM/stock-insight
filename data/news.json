@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-26T16:59:37+00:00",
-  "updated_kst": "2026-07-27T01:59:37+09:00",
+  "updated": "2026-07-26T18:07:06+00:00",
+  "updated_kst": "2026-07-27T03:07:06+09:00",
   "source": "naver-finance",
   "items": [
     {
       "title": "SK하이닉스 ADR 추종 토큰 시총 1000억 육박",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003736596&office_id=020&mode=mainnews&type=&date=2026-07-27&page=1",
       "source": "메인 뉴스",
-      "time": "01:59"
+      "time": "03:07"
     },
     {
       "title": "‘세금 혜택’ RIA 계좌 31만개 2.6조 달해",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003736595&office_id=020&mode=mainnews&type=&date=2026-07-27&page=1",
       "source": "메인 뉴스",
-      "time": "01:59"
+      "time": "03:07"
+    },
+    {
+      "title": "‘삼전닉스’ 주가 향방 가를 슈퍼위크… AI 실적·투자가 ‘분수령’",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001863210&office_id=005&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
+      "source": "증권 시황",
+      "time": "03:07"
     },
     {
       "title": "[주간경제지표] 2026년 7월 24일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003989770&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
       "source": "증권 시황",
-      "time": "01:59"
+      "time": "03:07"
     },
     {
       "title": "디즈니, OTT 접으면 기업 가치 40% 오른다고?",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003989719&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
       "source": "증권 시황",
-      "time": "01:59"
+      "time": "03:07"
     },
     {
       "title": "코스피 급락에… 서학 개미, 다시 美 증시로",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003989713&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
       "source": "증권 시황",
-      "time": "01:59"
+      "time": "03:07"
     },
     {
       "title": "'몸값 125조' 메모리 공룡 CXMT, 中 증시 상장…삼전닉스에 도전장",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005313979&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
       "source": "증권 시황",
-      "time": "01:59"
+      "time": "03:07"
     },
     {
       "title": "중앙그룹 채권투자자들 \"회계처리 의문\"…금감원에 감리요구",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005794698&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
       "source": "증권 시황",
-      "time": "01:59"
+      "time": "03:07"
     },
     {
       "title": "[증시 예보] “떨리다 못해 무서울 지경” 드디어 ‘삼전닉스’ 실적 나온다…‘이번 주’가 ..",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002675216&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
       "source": "증권 시황",
-      "time": "01:59"
+      "time": "03:07"
     },
     {
       "title": "“하루도 안 빼고…”롤러코스터 증시에 지난주 1주일 내내 사이드카 경보음",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002807068&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
       "source": "증권 시황",
-      "time": "01:59"
+      "time": "03:07"
     },
     {
       "title": "“하이닉스도 스퀘어도 아니다”…요즘 ‘SK’ 대세 종목은 친환경에너지",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005712427&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
       "source": "증권 시황",
-      "time": "01:59"
+      "time": "03:07"
     },
     {
       "title": "AI 조정장속 의외의 승자 '경기소비재 ETF'",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005553062&office_id=014&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
       "source": "증권 시황",
-      "time": "01:59"
-    },
-    {
-      "title": "유가, 하반기 증시 핵심 변수로…물가 계속 오르면 8월 또 금리인상 가능성",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003736560&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
-      "source": "증권 시황",
-      "time": "01:59"
+      "time": "03:07"
     }
   ]
 }
