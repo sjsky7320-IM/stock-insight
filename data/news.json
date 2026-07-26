@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-26T15:04:22+00:00",
-  "updated_kst": "2026-07-27T00:04:22+09:00",
+  "updated": "2026-07-26T16:59:37+00:00",
+  "updated_kst": "2026-07-27T01:59:37+09:00",
   "source": "naver-finance",
   "items": [
     {
-      "title": "'몸값 125조' 메모리 공룡 CXMT, 中 증시 상장…삼전닉스에 도전장",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005313979&office_id=015&mode=mainnews&type=&date=2026-07-26&page=1",
+      "title": "SK하이닉스 ADR 추종 토큰 시총 1000억 육박",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003736596&office_id=020&mode=mainnews&type=&date=2026-07-27&page=1",
       "source": "메인 뉴스",
-      "time": "00:04"
+      "time": "01:59"
     },
     {
-      "title": "“떨리다 못해 무서울 지경” 드디어 ‘삼전닉스’ 실적 나온다…‘이번 주’가 분수령[증시 예보]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002675216&office_id=016&mode=mainnews&type=&date=2026-07-26&page=1",
+      "title": "‘세금 혜택’ RIA 계좌 31만개 2.6조 달해",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003736595&office_id=020&mode=mainnews&type=&date=2026-07-27&page=1",
       "source": "메인 뉴스",
-      "time": "00:04"
+      "time": "01:59"
+    },
+    {
+      "title": "[주간경제지표] 2026년 7월 24일자",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003989770&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
+      "source": "증권 시황",
+      "time": "01:59"
+    },
+    {
+      "title": "디즈니, OTT 접으면 기업 가치 40% 오른다고?",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003989719&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
+      "source": "증권 시황",
+      "time": "01:59"
+    },
+    {
+      "title": "코스피 급락에… 서학 개미, 다시 美 증시로",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003989713&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
+      "source": "증권 시황",
+      "time": "01:59"
+    },
+    {
+      "title": "'몸값 125조' 메모리 공룡 CXMT, 中 증시 상장…삼전닉스에 도전장",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005313979&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
+      "source": "증권 시황",
+      "time": "01:59"
+    },
+    {
+      "title": "중앙그룹 채권투자자들 \"회계처리 의문\"…금감원에 감리요구",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005794698&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
+      "source": "증권 시황",
+      "time": "01:59"
+    },
+    {
+      "title": "[증시 예보] “떨리다 못해 무서울 지경” 드디어 ‘삼전닉스’ 실적 나온다…‘이번 주’가 ..",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002675216&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
+      "source": "증권 시황",
+      "time": "01:59"
     },
     {
       "title": "“하루도 안 빼고…”롤러코스터 증시에 지난주 1주일 내내 사이드카 경보음",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002807068&office_id=021&mode=mainnews&type=&date=2026-07-26&page=1",
-      "source": "메인 뉴스",
-      "time": "00:04"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002807068&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
+      "source": "증권 시황",
+      "time": "01:59"
+    },
+    {
+      "title": "“하이닉스도 스퀘어도 아니다”…요즘 ‘SK’ 대세 종목은 친환경에너지",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005712427&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
+      "source": "증권 시황",
+      "time": "01:59"
     },
     {
       "title": "AI 조정장속 의외의 승자 '경기소비재 ETF'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005553062&office_id=014&mode=mainnews&type=&date=2026-07-26&page=1",
-      "source": "메인 뉴스",
-      "time": "00:04"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005553062&office_id=014&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
+      "source": "증권 시황",
+      "time": "01:59"
     },
     {
       "title": "유가, 하반기 증시 핵심 변수로…물가 계속 오르면 8월 또 금리인상 가능성",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003736560&office_id=020&mode=mainnews&type=&date=2026-07-26&page=1",
-      "source": "메인 뉴스",
-      "time": "00:04"
-    },
-    {
-      "title": "‘양도세 감면’ 국내 복귀계좌 31만개…3개월만에 3.8배로 늘어",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003736556&office_id=020&mode=mainnews&type=&date=2026-07-26&page=1",
-      "source": "메인 뉴스",
-      "time": "00:04"
-    },
-    {
-      "title": "\"돈 묶어두면 손해\"라더니…발빠른 뭉칫돈 '22조' 몰려간 곳이",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001260012&office_id=215&mode=mainnews&type=&date=2026-07-26&page=1",
-      "source": "메인 뉴스",
-      "time": "00:04"
-    },
-    {
-      "title": "\"입주 못한다\" 호소하자 잔금대출 풀려…청년·서민 대출 숨통 트이나",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001960449&office_id=057&mode=mainnews&type=&date=2026-07-26&page=1",
-      "source": "메인 뉴스",
-      "time": "00:04"
-    },
-    {
-      "title": "장특공제 축소 '초읽기'…국세청장 \"강남 불로소득 보장\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001960448&office_id=057&mode=mainnews&type=&date=2026-07-26&page=1",
-      "source": "메인 뉴스",
-      "time": "00:04"
-    },
-    {
-      "title": "\"삼전닉스, 게 섰거라\"...몸값 '125조' 반도체공룡 나온다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001260011&office_id=215&mode=mainnews&type=&date=2026-07-26&page=1",
-      "source": "메인 뉴스",
-      "time": "00:04"
-    },
-    {
-      "title": "SK증권 \"마스가, 닻 올렸다…조선주 추가 상승 동력\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014088897&office_id=003&mode=mainnews&type=&date=2026-07-26&page=1",
-      "source": "메인 뉴스",
-      "time": "00:04"
-    },
-    {
-      "title": "아마존·구글도 멈추게 할 ‘이 회사’…韓 ETF로 쉽게 담으세요 [이번주 찜할 ETF]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005712410&office_id=009&mode=mainnews&type=&date=2026-07-26&page=1",
-      "source": "메인 뉴스",
-      "time": "00:04"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003736560&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260727&page=1",
+      "source": "증권 시황",
+      "time": "01:59"
     }
   ]
 }
