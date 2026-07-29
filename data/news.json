@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-29T17:13:38+00:00",
-  "updated_kst": "2026-07-30T02:13:38+09:00",
+  "updated": "2026-07-29T19:14:10+00:00",
+  "updated_kst": "2026-07-30T04:14:10+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "이 성적에 20만전자·140만닉스? \"너무 싸\"…美빅테크 입에 눈 쏠린다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005393052&office_id=008&mode=mainnews&type=&date=2026-07-30&page=1",
+      "source": "메인 뉴스",
+      "time": "04:14"
+    },
     {
       "title": "靑은 한국만 이런 게 아니라는데… 코스피 변동성, 美보다 5배 커",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003990409&office_id=023&mode=mainnews&type=&date=2026-07-30&page=1",
       "source": "메인 뉴스",
-      "time": "02:13"
+      "time": "04:14"
     },
     {
       "title": "젠슨 황의 저주?… 訪韓·협력 발표 때마다 증시 하락",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003990352&office_id=023&mode=mainnews&type=&date=2026-07-30&page=1",
       "source": "메인 뉴스",
-      "time": "02:13"
+      "time": "04:14"
     },
     {
       "title": "“바닥 6000”이라던 증권사들, 4000대 급선회…“바닥 안보여”",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003541146&office_id=025&mode=mainnews&type=&date=2026-07-30&page=1",
       "source": "메인 뉴스",
-      "time": "02:13"
+      "time": "04:14"
     },
     {
-      "title": "단일종목 레버리지 총량 관리…투자 한도 '20% 제한' 검토",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000890383&office_id=422&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260730&page=1",
+      "title": "연준은 매파인데 2년물은 하락…채권시장 \"9월 인상 서두르지 않을 것\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006339540&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260730&page=1",
       "source": "증권 시황",
-      "time": "02:13"
+      "time": "04:14"
     },
     {
-      "title": "[주식 매매 상위 종목 및 환율] 2026년 7월 29일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003990354&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260730&page=1",
+      "title": "하루 평균 6.12% 급등락… 금융위기급 널뛰기에 '현기證'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005393067&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260730&page=1",
       "source": "증권 시황",
-      "time": "02:13"
+      "time": "04:14"
     },
     {
-      "title": "하이브, 2분기 실적 날았다… 영업이익 1700억 사상 최대",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003990353&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260730&page=1",
+      "title": "올해만 83번… 툭하면 멈춤, 안전판 흔들",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005393066&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260730&page=1",
       "source": "증권 시황",
-      "time": "02:13"
+      "time": "04:14"
     },
     {
-      "title": "[주요경제지표] 2026년 7월 29일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003990340&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260730&page=1",
+      "title": "\"양전 글렀다\" 개미 '패닉셀링', 역대급 폭락 불렀다…반등 실마리는?",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005393065&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260730&page=1",
       "source": "증권 시황",
-      "time": "02:13"
+      "time": "04:14"
     },
     {
-      "title": "반대매매 공포에 개미 '패닉'…고개 숙인 금융수장",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000890374&office_id=422&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260730&page=1",
+      "title": "“아 옛날이여”…증권사의 꽃, IPO맨들이 짐 싸는 이유[마켓인]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006339538&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260730&page=1",
       "source": "증권 시황",
-      "time": "02:13"
+      "time": "04:14"
     },
     {
-      "title": "트루이스트 \"AI 수요 여전히 탄탄…반도체 긍정적 견해 유지\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006339525&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260730&page=1",
+      "title": "\"K패션 세계화\" 딜리셔스, IPO 도전장",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005393051&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260730&page=1",
       "source": "증권 시황",
-      "time": "02:13"
+      "time": "04:14"
     },
     {
-      "title": "“개미 56조 손실 추산” 레버리지 비극…바닥은 아직 모른다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003541138&office_id=025&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260730&page=1",
+      "title": "대어도 못 피했다… 코스닥 한파에 눈높이 낮춘 '인제니아'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005393050&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260730&page=1",
       "source": "증권 시황",
-      "time": "02:13"
+      "time": "04:14"
     },
     {
-      "title": "끝 모를 공포의 폭락장",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000192794&office_id=654&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260730&page=1",
+      "title": "투매가 투매를 부른다, 연이틀 '서킷브레이커'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005393047&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260730&page=1",
       "source": "증권 시황",
-      "time": "02:13"
-    },
-    {
-      "title": "침묵의 야심가 케빈 워시…트럼프, 뒤통수 또 맞나[홍길용의 화식열전]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002677053&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260730&page=1",
-      "source": "증권 시황",
-      "time": "02:13"
+      "time": "04:14"
     }
   ]
 }
