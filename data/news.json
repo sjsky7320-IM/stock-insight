@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-29T23:07:11+00:00",
-  "updated_kst": "2026-07-30T08:07:11+09:00",
+  "updated": "2026-07-29T23:52:33+00:00",
+  "updated_kst": "2026-07-30T08:52:33+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "유안타 \"단일종목 레버리지 ETF 규제, 코스닥 반등 계기될 것\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016223135&office_id=001&mode=mainnews&type=&date=2026-07-30&page=1",
+      "source": "메인 뉴스",
+      "time": "08:52"
+    },
+    {
+      "title": "“당장 투자 멈춰야” 경고 나온 이유…삼전닉스 레버리지 주가 돌아와도 ‘최대 75%’ 손실",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004646739&office_id=011&mode=mainnews&type=&date=2026-07-30&page=1",
+      "source": "메인 뉴스",
+      "time": "08:52"
+    },
+    {
+      "title": "\"반도체, 지금은 팔 때 아니다\"…증권가 \"투매보다 보유\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005554920&office_id=014&mode=mainnews&type=&date=2026-07-30&page=1",
+      "source": "메인 뉴스",
+      "time": "08:52"
+    },
+    {
+      "title": "\"바닥 보이지 않는다\"…코스피 '5000선 붕괴' 가능성까지",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005554918&office_id=014&mode=mainnews&type=&date=2026-07-30&page=1",
+      "source": "메인 뉴스",
+      "time": "08:52"
+    },
+    {
+      "title": "뉴욕증시,일제히 급락…금리 동결에도 미국채 30년물 5.2%대 '급등'[뉴스새벽배송]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006339624&office_id=018&mode=mainnews&type=&date=2026-07-30&page=1",
+      "source": "메인 뉴스",
+      "time": "08:52"
+    },
+    {
+      "title": "\"400만닉스 간다…시장이 걱정하는 위기 안 와\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006339619&office_id=018&mode=mainnews&type=&date=2026-07-30&page=1",
+      "source": "메인 뉴스",
+      "time": "08:52"
+    },
     {
       "title": "\"반도체 랠리 아직 안 끝났다…내년 상반기 신고가 재도전 가능\"-DS",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006339617&office_id=018&mode=mainnews&type=&date=2026-07-30&page=1",
       "source": "메인 뉴스",
-      "time": "08:07"
+      "time": "08:52"
+    },
+    {
+      "title": "美 장기금리 급등에 기술주 투매…다우 2.19%↓·필라델피아반도체 5% 급락 [투자360]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002677123&office_id=016&mode=mainnews&type=&date=2026-07-30&page=1",
+      "source": "메인 뉴스",
+      "time": "08:52"
     },
     {
       "title": "비덴트에 발목?…빗썸 지분거래 왜 진전 없나",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000049341&office_id=648&mode=mainnews&type=&date=2026-07-30&page=1",
       "source": "메인 뉴스",
-      "time": "08:07"
+      "time": "08:52"
+    },
+    {
+      "title": "월가는 '패닉'…AI 투자에 시장이 흔들렸다[MUST KNOW5]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006339602&office_id=018&mode=mainnews&type=&date=2026-07-30&page=1",
+      "source": "메인 뉴스",
+      "time": "08:52"
     },
     {
       "title": "'상승장 끝' 단정 이르다…\"은행·보험·화장품 주목할 때\" [클릭e종목]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005796494&office_id=277&mode=mainnews&type=&date=2026-07-30&page=1",
       "source": "메인 뉴스",
-      "time": "08:07"
+      "time": "08:52"
     },
     {
       "title": "\"대출해서 투자, 인생 망한 것 같다\" 코스피 급락에 계좌 반토막…개미들 곡소리",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005554914&office_id=014&mode=mainnews&type=&date=2026-07-30&page=1",
       "source": "메인 뉴스",
-      "time": "08:07"
-    },
-    {
-      "title": "폭락장 버텨야 산다…개미 구할 피난처는?[통장잔GO]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003116326&office_id=119&mode=mainnews&type=&date=2026-07-30&page=1",
-      "source": "메인 뉴스",
-      "time": "08:07"
-    },
-    {
-      "title": "‘만스피’ 간다더니 5600선 추락… 시총 한달 2780조원 증발",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001863964&office_id=005&mode=mainnews&type=&date=2026-07-30&page=1",
-      "source": "메인 뉴스",
-      "time": "08:07"
-    },
-    {
-      "title": "9000 찍고 한 달 만에 5000대로…올해 코스피에 무슨 일이",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003116317&office_id=119&mode=mainnews&type=&date=2026-07-30&page=1",
-      "source": "메인 뉴스",
-      "time": "08:07"
-    },
-    {
-      "title": "어닝 서프라이즈에도 한미약품 목표가 줄하향…전망은? [종목+]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005315443&office_id=015&mode=mainnews&type=&date=2026-07-30&page=1",
-      "source": "메인 뉴스",
-      "time": "08:07"
-    },
-    {
-      "title": "'롤러코스터' 삼전닉스…내일부터 변동성 줄어들까 [재테크 풍향계]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005796473&office_id=277&mode=mainnews&type=&date=2026-07-30&page=1",
-      "source": "메인 뉴스",
-      "time": "08:07"
-    },
-    {
-      "title": "내일이 더 무섭다... 연이틀 ‘서킷 브레이커’에 반대매매 우려",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001182989&office_id=366&mode=mainnews&type=&date=2026-07-30&page=1",
-      "source": "메인 뉴스",
-      "time": "08:07"
-    },
-    {
-      "title": "\"삼전닉스 충분히 조정받아…올해 들어 첫 매수구간 진입\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005315439&office_id=015&mode=mainnews&type=&date=2026-07-30&page=1",
-      "source": "메인 뉴스",
-      "time": "08:07"
-    },
-    {
-      "title": "SK하닉에 실망한 '투심' 삼성전자 '기대'…오늘 주주환원·LTA '콘콜'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009086974&office_id=421&mode=mainnews&type=&date=2026-07-30&page=1",
-      "source": "메인 뉴스",
-      "time": "08:07"
+      "time": "08:52"
     }
   ]
 }
