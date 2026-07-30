@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-30T22:04:03+00:00",
-  "updated_kst": "2026-07-31T07:04:03+09:00",
+  "updated": "2026-07-30T23:06:08+00:00",
+  "updated_kst": "2026-07-31T08:06:08+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "이코노미스트 \"韓증시, AI 부(富) 가장 먼저 맛보고 가장 먼저 잃어\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006340872&office_id=018&mode=mainnews&type=&date=2026-07-31&page=1",
+      "source": "메인 뉴스",
+      "time": "08:06"
+    },
+    {
+      "title": "\"40년 모은 22억 날려\" 하닉 몰빵 투자자 통곡",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006340848&office_id=018&mode=mainnews&type=&date=2026-07-31&page=1",
+      "source": "메인 뉴스",
+      "time": "08:06"
+    },
+    {
+      "title": "BNK證 30만원·한투證 65만원…엇갈린 삼성전자 목표주가",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001183347&office_id=366&mode=mainnews&type=&date=2026-07-31&page=1",
+      "source": "메인 뉴스",
+      "time": "08:06"
+    },
+    {
+      "title": "\"TSMC 때문에 실적 부진\"…애플 컨콜 등판한 팀 쿡의 탄식",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005315892&office_id=015&mode=mainnews&type=&date=2026-07-31&page=1",
+      "source": "메인 뉴스",
+      "time": "08:06"
+    },
+    {
+      "title": "“반도체 투자, 의심할 때 사서 확신할 때 팔아야”…그게 언제일까요",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005714711&office_id=009&mode=mainnews&type=&date=2026-07-31&page=1",
+      "source": "메인 뉴스",
+      "time": "08:06"
+    },
+    {
+      "title": "삼전닉스 녹았는데, 애플은 올랐다…순환매 오나",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003116796&office_id=119&mode=mainnews&type=&date=2026-07-31&page=1",
+      "source": "메인 뉴스",
+      "time": "08:06"
+    },
+    {
+      "title": "매파 연준에도 버틴 비트코인…일본 금리 변수도 넘을까",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003116792&office_id=119&mode=mainnews&type=&date=2026-07-31&page=1",
+      "source": "메인 뉴스",
+      "time": "08:06"
+    },
     {
       "title": "\"땡큐 엔비디아\" 네이버 급등하더니…하루 만에 '비명' [종목+]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005315886&office_id=015&mode=mainnews&type=&date=2026-07-31&page=1",
       "source": "메인 뉴스",
-      "time": "07:04"
+      "time": "08:06"
     },
     {
       "title": "주가 반토막 났는데…\"지금이 매수 기회\" 외친 이 종목 [종목+]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005315885&office_id=015&mode=mainnews&type=&date=2026-07-31&page=1",
       "source": "메인 뉴스",
-      "time": "07:04"
+      "time": "08:06"
     },
     {
       "title": "주가 회복에도 구멍난 내 계좌… 레버리지, 무서운 복리",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001864199&office_id=005&mode=mainnews&type=&date=2026-07-31&page=1",
       "source": "메인 뉴스",
-      "time": "07:04"
+      "time": "08:06"
     },
     {
       "title": "하이닉스 하락 맞췄던 BNK, 이번엔 삼전 목표가도 하향 [줍줍리포트]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004647146&office_id=011&mode=mainnews&type=&date=2026-07-31&page=1",
       "source": "메인 뉴스",
-      "time": "07:04"
+      "time": "08:06"
     },
     {
       "title": "“148만원 vs 470만원”…사상 최대 실적에도 SK하이닉스 목표가 3배 벌어진 이유",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001183338&office_id=366&mode=mainnews&type=&date=2026-07-31&page=1",
       "source": "메인 뉴스",
-      "time": "07:04"
-    },
-    {
-      "title": "'역대급 실적'에도 삼성전자보다 더 떨어진 SK하이닉스…무슨 차이?",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014099875&office_id=003&mode=mainnews&type=&date=2026-07-31&page=1",
-      "source": "메인 뉴스",
-      "time": "07:04"
-    },
-    {
-      "title": "[단독] 단일종목 레버리지 '사실상 상폐' 방안 나왔다…업계 도입 검토 착수",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009089544&office_id=421&mode=mainnews&type=&date=2026-07-31&page=1",
-      "source": "메인 뉴스",
-      "time": "07:04"
-    },
-    {
-      "title": "MS가 살린 AI 랠리…나스닥 2.8% 급등[월스트리트in]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006340801&office_id=018&mode=mainnews&type=&date=2026-07-31&page=1",
-      "source": "메인 뉴스",
-      "time": "07:04"
-    },
-    {
-      "title": "[속보]나스닥 3%↑ 6거래일만에 반등…MS 15% 급등",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006340797&office_id=018&mode=mainnews&type=&date=2026-07-31&page=1",
-      "source": "메인 뉴스",
-      "time": "07:04"
-    },
-    {
-      "title": "\"공포에 털지 말고 분할매수\"…전문가가 꼽은 '반등 포인트'는",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001153812&office_id=417&mode=mainnews&type=&date=2026-07-31&page=1",
-      "source": "메인 뉴스",
-      "time": "07:04"
-    },
-    {
-      "title": "'삼전·닉스' 쏠림에 갇히고 제도에 발목… 시장 신뢰 세우려면",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001153811&office_id=417&mode=mainnews&type=&date=2026-07-31&page=1",
-      "source": "메인 뉴스",
-      "time": "07:04"
-    },
-    {
-      "title": "'반도체 왕좌' 흔들리자 결국 최태원 나섰다…48% 급락한 하이닉스, 진짜 원인은 [증시는 왜]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005555440&office_id=014&mode=mainnews&type=&date=2026-07-31&page=1",
-      "source": "메인 뉴스",
-      "time": "07:04"
+      "time": "08:06"
     }
   ]
 }
