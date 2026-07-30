@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-30T08:20:05+00:00",
-  "updated_kst": "2026-07-30T17:20:05+09:00",
+  "updated": "2026-07-30T08:25:11+00:00",
+  "updated_kst": "2026-07-30T17:25:11+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "어제는 5.9조, 오늘은 5조...불개미 몰린 SK하이닉스 곱버스",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005393569&office_id=008&mode=mainnews&type=&date=2026-07-30&page=1",
+      "source": "메인 뉴스",
+      "time": "17:25"
+    },
+    {
+      "title": "패닉 빠진 개미들에게 답했다…“5700 안착하면 8200, 더 가면 9300”",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005714528&office_id=009&mode=mainnews&type=&date=2026-07-30&page=1",
+      "source": "메인 뉴스",
+      "time": "17:25"
+    },
     {
       "title": "고려아연 주가 급락에…경영권 분쟁 양측 모두 ‘울상’[마켓인]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006340245&office_id=018&mode=mainnews&type=&date=2026-07-30&page=1",
       "source": "메인 뉴스",
-      "time": "17:20"
+      "time": "17:25"
     },
     {
       "title": "서학개미 지갑도 닫혔다… 해외증시 거래량도 올해 최저",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005555302&office_id=014&mode=mainnews&type=&date=2026-07-30&page=1",
       "source": "메인 뉴스",
-      "time": "17:20"
+      "time": "17:25"
     },
     {
       "title": "멈추지 않는 변동성...코스피 6000 문턱서 뒷걸음질",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000049379&office_id=648&mode=mainnews&type=&date=2026-07-30&page=1",
       "source": "메인 뉴스",
-      "time": "17:20"
+      "time": "17:25"
     },
     {
       "title": "\"단일종목 레버리지 자연사 시켜야\"…또 다시 경고나선 ETF 아버지",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005796964&office_id=277&mode=mainnews&type=&date=2026-07-30&page=1",
       "source": "메인 뉴스",
-      "time": "17:20"
+      "time": "17:25"
     },
     {
       "title": "'창신메모리' 뭐길래…코스피 뒤흔든 '중국 반도체 공포'",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001153780&office_id=417&mode=mainnews&type=&date=2026-07-30&page=1",
       "source": "메인 뉴스",
-      "time": "17:20"
+      "time": "17:25"
     },
     {
       "title": "'예탁금 1천만원' 단일레버리지 마지막날…개인순매수 큰폭 감소",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016225261&office_id=001&mode=mainnews&type=&date=2026-07-30&page=1",
       "source": "메인 뉴스",
-      "time": "17:20"
+      "time": "17:25"
     },
     {
       "title": "5500대로 미끄러진 코스피…\"빅테크 실적·중동 정세가 열쇠\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005393536&office_id=008&mode=mainnews&type=&date=2026-07-30&page=1",
       "source": "메인 뉴스",
-      "time": "17:20"
+      "time": "17:25"
     },
     {
       "title": "'연이틀 폭락' 코스피, 반등 실패…1%대 내려 5,600선도 내줘(종합)",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016225235&office_id=001&mode=mainnews&type=&date=2026-07-30&page=1",
       "source": "메인 뉴스",
-      "time": "17:20"
+      "time": "17:25"
     },
     {
       "title": "'470만닉스'~'148만닉스'…증권가 “그래도 매수” 왜",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006340218&office_id=018&mode=mainnews&type=&date=2026-07-30&page=1",
       "source": "메인 뉴스",
-      "time": "17:20"
+      "time": "17:25"
     },
     {
       "title": "8300→5600, 코스피 '7월 잔혹사'...반등은 언제?",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005393532&office_id=008&mode=mainnews&type=&date=2026-07-30&page=1",
       "source": "메인 뉴스",
-      "time": "17:20"
-    },
-    {
-      "title": "6000선 넘보다 다시 '주르륵'…코스피, 하락 전환해 5590선 마감",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014099129&office_id=003&mode=mainnews&type=&date=2026-07-30&page=1",
-      "source": "메인 뉴스",
-      "time": "17:20"
-    },
-    {
-      "title": "\"삼전닉스2X, 팔아도 못 산다\"…단타족 잡는 '진짜 규제'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006340207&office_id=018&mode=mainnews&type=&date=2026-07-30&page=1",
-      "source": "메인 뉴스",
-      "time": "17:20"
+      "time": "17:25"
     }
   ]
 }
