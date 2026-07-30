@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-30T23:06:08+00:00",
-  "updated_kst": "2026-07-31T08:06:08+09:00",
+  "updated": "2026-07-30T23:53:10+00:00",
+  "updated_kst": "2026-07-31T08:53:10+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "\"최악 지났다, 9300 간다\"...대폭락 코스피 '5700선이 터닝포인트' 찍은 증권사",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005555482&office_id=014&mode=mainnews&type=&date=2026-07-31&page=1",
+      "source": "메인 뉴스",
+      "time": "08:53"
+    },
+    {
+      "title": "[속보]美반도체주 폭등에…프리마켓 SK하닉 17%·삼성전자 16% 급반등",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005555477&office_id=014&mode=mainnews&type=&date=2026-07-31&page=1",
+      "source": "메인 뉴스",
+      "time": "08:53"
+    },
+    {
+      "title": "美 증시 훈풍에 프리장서 삼전 15%·닉스 18% ‘폭등’[이런국장 저런주식]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004647201&office_id=011&mode=mainnews&type=&date=2026-07-31&page=1",
+      "source": "메인 뉴스",
+      "time": "08:53"
+    },
+    {
+      "title": "[단독]중복상장 막았더니 올해 7월까지 단 1건…코스피 기업공개 25년만에 최저",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005797112&office_id=277&mode=mainnews&type=&date=2026-07-31&page=1",
+      "source": "메인 뉴스",
+      "time": "08:53"
+    },
+    {
+      "title": "오늘부터 '3000만원' 있어야 단일 레버리지 산다…효과 있을까",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005315911&office_id=015&mode=mainnews&type=&date=2026-07-31&page=1",
+      "source": "메인 뉴스",
+      "time": "08:53"
+    },
+    {
+      "title": "SK디앤디, 1367억 유상증자 승부수…악재만은 아니다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003116807&office_id=119&mode=mainnews&type=&date=2026-07-31&page=1",
+      "source": "메인 뉴스",
+      "time": "08:53"
+    },
+    {
+      "title": "뉴욕증시,강세 마감…필라델피아반도체 8%↑ 급등[뉴스새벽배송]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006340874&office_id=018&mode=mainnews&type=&date=2026-07-31&page=1",
+      "source": "메인 뉴스",
+      "time": "08:53"
+    },
+    {
+      "title": "美 SK하닉 ADR 18%↑…코스피, 6000선 탈환 나서나[오늘의 증시]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014100012&office_id=003&mode=mainnews&type=&date=2026-07-31&page=1",
+      "source": "메인 뉴스",
+      "time": "08:53"
+    },
     {
       "title": "이코노미스트 \"韓증시, AI 부(富) 가장 먼저 맛보고 가장 먼저 잃어\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006340872&office_id=018&mode=mainnews&type=&date=2026-07-31&page=1",
       "source": "메인 뉴스",
-      "time": "08:06"
+      "time": "08:53"
+    },
+    {
+      "title": "\"인센티브 15년 뒤에 받으라고?\" 초장기 VC펀드가 쏘아올린 고민 [VC는지금]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005797093&office_id=277&mode=mainnews&type=&date=2026-07-31&page=1",
+      "source": "메인 뉴스",
+      "time": "08:53"
     },
     {
       "title": "\"40년 모은 22억 날려\" 하닉 몰빵 투자자 통곡",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006340848&office_id=018&mode=mainnews&type=&date=2026-07-31&page=1",
       "source": "메인 뉴스",
-      "time": "08:06"
+      "time": "08:53"
     },
     {
       "title": "BNK證 30만원·한투證 65만원…엇갈린 삼성전자 목표주가",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001183347&office_id=366&mode=mainnews&type=&date=2026-07-31&page=1",
       "source": "메인 뉴스",
-      "time": "08:06"
-    },
-    {
-      "title": "\"TSMC 때문에 실적 부진\"…애플 컨콜 등판한 팀 쿡의 탄식",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005315892&office_id=015&mode=mainnews&type=&date=2026-07-31&page=1",
-      "source": "메인 뉴스",
-      "time": "08:06"
-    },
-    {
-      "title": "“반도체 투자, 의심할 때 사서 확신할 때 팔아야”…그게 언제일까요",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005714711&office_id=009&mode=mainnews&type=&date=2026-07-31&page=1",
-      "source": "메인 뉴스",
-      "time": "08:06"
-    },
-    {
-      "title": "삼전닉스 녹았는데, 애플은 올랐다…순환매 오나",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003116796&office_id=119&mode=mainnews&type=&date=2026-07-31&page=1",
-      "source": "메인 뉴스",
-      "time": "08:06"
-    },
-    {
-      "title": "매파 연준에도 버틴 비트코인…일본 금리 변수도 넘을까",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003116792&office_id=119&mode=mainnews&type=&date=2026-07-31&page=1",
-      "source": "메인 뉴스",
-      "time": "08:06"
-    },
-    {
-      "title": "\"땡큐 엔비디아\" 네이버 급등하더니…하루 만에 '비명' [종목+]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005315886&office_id=015&mode=mainnews&type=&date=2026-07-31&page=1",
-      "source": "메인 뉴스",
-      "time": "08:06"
-    },
-    {
-      "title": "주가 반토막 났는데…\"지금이 매수 기회\" 외친 이 종목 [종목+]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005315885&office_id=015&mode=mainnews&type=&date=2026-07-31&page=1",
-      "source": "메인 뉴스",
-      "time": "08:06"
-    },
-    {
-      "title": "주가 회복에도 구멍난 내 계좌… 레버리지, 무서운 복리",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001864199&office_id=005&mode=mainnews&type=&date=2026-07-31&page=1",
-      "source": "메인 뉴스",
-      "time": "08:06"
-    },
-    {
-      "title": "하이닉스 하락 맞췄던 BNK, 이번엔 삼전 목표가도 하향 [줍줍리포트]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004647146&office_id=011&mode=mainnews&type=&date=2026-07-31&page=1",
-      "source": "메인 뉴스",
-      "time": "08:06"
-    },
-    {
-      "title": "“148만원 vs 470만원”…사상 최대 실적에도 SK하이닉스 목표가 3배 벌어진 이유",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001183338&office_id=366&mode=mainnews&type=&date=2026-07-31&page=1",
-      "source": "메인 뉴스",
-      "time": "08:06"
+      "time": "08:53"
     }
   ]
 }
