@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-31T20:19:54+00:00",
-  "updated_kst": "2026-08-01T05:19:54+09:00",
+  "updated": "2026-07-31T22:02:53+00:00",
+  "updated_kst": "2026-08-01T07:02:53+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "1만피 간다더니 줄줄이 목표치 하향…증권사들 뻔뻔한 ‘뒷북’ 왜",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003541634&office_id=025&mode=mainnews&type=&date=2026-08-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:02"
+    },
+    {
+      "title": "삼성전자 목표가 '37만~65만'…LTA 기대 vs 메모리 우려 [종목현미경]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009091451&office_id=421&mode=mainnews&type=&date=2026-08-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:02"
+    },
+    {
+      "title": "SK하이닉스 '역사적 상한가'…증권가 눈높이 400만원 대[종목현미경]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009091449&office_id=421&mode=mainnews&type=&date=2026-08-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:02"
+    },
+    {
+      "title": "아마존·MS·알파벳 주주 웃었다…이번주 시총 2000조원↑",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006341824&office_id=018&mode=mainnews&type=&date=2026-08-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:02"
+    },
+    {
+      "title": "ELW·레버리지…고위험 상품 열광하는 한국개미",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005394187&office_id=008&mode=mainnews&type=&date=2026-08-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:02"
+    },
+    {
+      "title": "오늘은 아마존이 이끌었다…나스닥 1%↑[월스트리트in]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006341823&office_id=018&mode=mainnews&type=&date=2026-08-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:02"
+    },
+    {
+      "title": "단일종목 레버리지 ETF '예탁금 상향' 단기 효과 있었다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005394186&office_id=008&mode=mainnews&type=&date=2026-08-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:02"
+    },
+    {
+      "title": "\"ELW와는 다르다\"…당국 대책 조짐에 업계는 부작용 우려",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005394183&office_id=008&mode=mainnews&type=&date=2026-08-01&page=1",
+      "source": "메인 뉴스",
+      "time": "07:02"
+    },
     {
       "title": "'ELW 규제' 스터디 금융당국, 레버리지 ETF도 고사 시킨다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005394181&office_id=008&mode=mainnews&type=&date=2026-08-01&page=1",
       "source": "메인 뉴스",
-      "time": "05:19"
+      "time": "07:02"
     },
     {
       "title": "롤러코스피에 질린 개미들, 반등 시작하자 우르르 매도",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003990790&office_id=023&mode=mainnews&type=&date=2026-08-01&page=1",
       "source": "메인 뉴스",
-      "time": "05:19"
+      "time": "07:02"
     },
     {
-      "title": "[속보]아마존 15%↑·애플 7%↓ 극과 극…나스닥 1% 상승",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006341820&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260801&page=1",
+      "title": "엔비디아, 나흘 만에 시가총액 1위 복귀…애플, 7%대 폭락",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016227959&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260801&page=1",
       "source": "증권 시황",
-      "time": "05:19"
+      "time": "07:02"
     },
     {
-      "title": "\"ELW와는 다르다\"…당국 대책 조짐에 업계는 부작용 우려",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005394183&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260801&page=1",
+      "title": "아마존 호실적에 투심 회복…뉴욕증시 상승 마감, 나스닥 1.0%↑",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014102079&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260801&page=1",
       "source": "증권 시황",
-      "time": "05:19"
-    },
-    {
-      "title": "[속보]뉴욕증시, 반도체주 회복 속 상승 마감…나스닥 1.00%↑",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014102053&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260801&page=1",
-      "source": "증권 시황",
-      "time": "05:19"
-    },
-    {
-      "title": "\"한 달 만에 1000만원 증발\"…주식 폭락에 개미들 \"휴가 취소했다“",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014102052&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260801&page=1",
-      "source": "증권 시황",
-      "time": "05:19"
-    },
-    {
-      "title": "“상한가에도 눈물이”…계좌 녹아내린 삼전닉스 개미들, 다음주도 가시밭길?[주형연의 에구MO..",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003040056&office_id=029&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260801&page=1",
-      "source": "증권 시황",
-      "time": "05:19"
-    },
-    {
-      "title": "[美특징주]제너럴모터스,  자체 차량용 AI 연내 출시 발표에도 차익 매물 출회에 주가 약..",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006341809&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260801&page=1",
-      "source": "증권 시황",
-      "time": "05:19"
-    },
-    {
-      "title": "[美특징주]테슬라, 하락…머스크 中 사업부 매각 \"가짜 뉴스\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006341808&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260801&page=1",
-      "source": "증권 시황",
-      "time": "05:19"
-    },
-    {
-      "title": "월가가 원한 것을 정확히 보여준 마이크로소프트 실적 [레버리지셰어즈 인사이트]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001260779&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260801&page=1",
-      "source": "증권 시황",
-      "time": "05:19"
-    },
-    {
-      "title": "[주식 매매 상위 종목 및 환율] 2026년 7월 31일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003990789&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260801&page=1",
-      "source": "증권 시황",
-      "time": "05:19"
-    },
-    {
-      "title": "국내증시 하락에…코스피 고점 이후 목표주가 하향 잇달아",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002808424&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260801&page=1",
-      "source": "증권 시황",
-      "time": "05:19"
+      "time": "07:02"
     }
   ]
 }
