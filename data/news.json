@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-01T14:59:41+00:00",
-  "updated_kst": "2026-08-01T23:59:41+09:00",
+  "updated": "2026-08-01T16:08:14+00:00",
+  "updated_kst": "2026-08-02T01:08:14+09:00",
   "source": "naver-finance",
   "items": [
     {
-      "title": "증시 활황에 돈 쓸어 담았다…증권사들 역대급 실적 행진",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005715356&office_id=009&mode=mainnews&type=&date=2026-08-01&page=1",
+      "title": "급반등 반도체, 지속될까…레버리지 보완·중동 정세도 주목 [주간 증시 전망]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003117284&office_id=119&mode=mainnews&type=&date=2026-08-02&page=1",
       "source": "메인 뉴스",
-      "time": "23:59"
+      "time": "01:08"
+    },
+    {
+      "title": "“삼전닉스 말고 우리도 돈 쓸어담았어요”…함박웃음 짓는 증권사들",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005715356&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260802&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
     },
     {
       "title": "“하루짜리 반등은 아니겠지?” 8월 증시의 불안",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002808488&office_id=021&mode=mainnews&type=&date=2026-08-01&page=1",
-      "source": "메인 뉴스",
-      "time": "23:59"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002808488&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260802&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
+    },
+    {
+      "title": "[탐사보도 뉴스프리즘] '롤러코스피' 레버리지 ETF",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000891384&office_id=422&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260802&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
     },
     {
       "title": "48만→44만원 목표가 낮추더니…\"지금 사라, 70% 오른다\"는 종목",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001260817&office_id=215&mode=mainnews&type=&date=2026-08-01&page=1",
-      "source": "메인 뉴스",
-      "time": "23:59"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001260817&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260802&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
     },
     {
       "title": "통제 불능 스페이스X 잔해…\"5일 달 충돌 예정\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001260816&office_id=215&mode=mainnews&type=&date=2026-08-01&page=1",
-      "source": "메인 뉴스",
-      "time": "23:59"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001260816&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260802&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
     },
     {
       "title": "이제 ‘진짜’들만 남는다…‘1조원대 매물’ KDB생명 새 주인은 [M&A복덕방]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005715348&office_id=009&mode=mainnews&type=&date=2026-08-01&page=1",
-      "source": "메인 뉴스",
-      "time": "23:59"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005715348&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260802&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
+    },
+    {
+      "title": "‘상한가’ 찍은 SK하이닉스…“폭락한 만큼 반등 속도 과거와 다를 것”",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002808486&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260802&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
+    },
+    {
+      "title": "삼전 개미 귀 '쫑긋'…\"내년 추월해 1위 가능\" 파격 전망",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001260815&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260802&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
     },
     {
       "title": "\"韓 변동성 오히려 좋아\"…코스피200 커버드콜 홍콩 첫 출시",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005316305&office_id=015&mode=mainnews&type=&date=2026-08-01&page=1",
-      "source": "메인 뉴스",
-      "time": "23:59"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005316305&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260802&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
     },
     {
       "title": "폭염에 먹거리 물가도 '비상'…복숭아 55%·참외 73% 급등",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001961551&office_id=057&mode=mainnews&type=&date=2026-08-01&page=1",
-      "source": "메인 뉴스",
-      "time": "23:59"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001961551&office_id=057&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260802&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
     },
     {
       "title": "“40년 모은 돈 -22억, 전재산 잃고 파산” 하닉 몰빵의 결과",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002808479&office_id=021&mode=mainnews&type=&date=2026-08-01&page=1",
-      "source": "메인 뉴스",
-      "time": "23:59"
-    },
-    {
-      "title": "“하닉이 298만원 찍던날 있었단다” 100만 클릭 전래동화",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002808476&office_id=021&mode=mainnews&type=&date=2026-08-01&page=1",
-      "source": "메인 뉴스",
-      "time": "23:59"
-    },
-    {
-      "title": "“폭락장에 1.5조 베팅” 서학개미, 美반도체 3배 ETF ‘승부수’ [투자360]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002678212&office_id=016&mode=mainnews&type=&date=2026-08-01&page=1",
-      "source": "메인 뉴스",
-      "time": "23:59"
-    },
-    {
-      "title": "“도저히 못 참겠다” 10조 던진 개미…SK하닉 상한가 친 날 외인은 8.7조 매수",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004647597&office_id=011&mode=mainnews&type=&date=2026-08-01&page=1",
-      "source": "메인 뉴스",
-      "time": "23:59"
-    },
-    {
-      "title": "지도·펜슬도 한발짝 늦었지만 따라잡던 애플…AI도 역전극 펼칠까[주末머니]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005797582&office_id=277&mode=mainnews&type=&date=2026-08-01&page=1",
-      "source": "메인 뉴스",
-      "time": "23:59"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002808479&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260802&page=1",
+      "source": "증권 시황",
+      "time": "01:08"
     }
   ]
 }
