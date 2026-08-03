@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-03T21:01:25+00:00",
-  "updated_kst": "2026-08-04T06:01:25+09:00",
+  "updated": "2026-08-03T22:06:57+00:00",
+  "updated_kst": "2026-08-04T07:06:57+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "“美장 올랐으니 오늘은 갈까”삼전·닉스, 숨고르기냐 하락 신호탄이냐",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002808906&office_id=021&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "07:06"
+    },
+    {
+      "title": "핑크빛 전망 내놓던 증권가 '돌변'…목표가 줄줄이 낮췄다 [분석+]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005316987&office_id=015&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "07:06"
+    },
+    {
+      "title": "LG이노텍 '희소식' 떴는데…\"추격매수 주의\" 조언한 까닭 [분석+]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005316986&office_id=015&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "07:06"
+    },
+    {
+      "title": "李 한 마디에 막힌 ‘쪼개기 상장’… 네이버 현대차도 못 피했다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001864796&office_id=005&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "07:06"
+    },
+    {
+      "title": "폭락 겪고도 \"코스피 9000 간다\"…모건스탠리 '낙관론' 왜?",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005316983&office_id=015&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "07:06"
+    },
+    {
+      "title": "'집중'이 독 됐다…반도체 TOP2시리즈 -30%[ETF업&다운]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009095127&office_id=421&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "07:06"
+    },
+    {
+      "title": "우상향 재개? 추가 하락?…안개 속 삼전·닉스 '시험대'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014106103&office_id=003&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "07:06"
+    },
+    {
+      "title": "중동 긴장 완화에 안도 랠리…다우 사상 최고·나스닥 2%↑·유가 5% 급락 [월가월부]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005716156&office_id=009&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "07:06"
+    },
     {
       "title": "다우 사상 최고…이란 리스크 완화에 위험자산 랠리[월스트리트in]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006343583&office_id=018&mode=mainnews&type=&date=2026-08-04&page=1",
       "source": "메인 뉴스",
-      "time": "06:01"
+      "time": "07:06"
+    },
+    {
+      "title": "트럼프 \"호르무즈 재개방 협상\" 월가 환호…빅테크 날았다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001261018&office_id=215&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "07:06"
     },
     {
       "title": "'9,763,000,000,000,000원' 사고판 개미...'단타'로 변동성 불 지폈다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005395121&office_id=008&mode=mainnews&type=&date=2026-08-04&page=1",
       "source": "메인 뉴스",
-      "time": "06:01"
+      "time": "07:06"
     },
     {
       "title": "\"대만엔 TSMC 레버리지 없는데…韓 도입 성급\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006343577&office_id=018&mode=mainnews&type=&date=2026-08-04&page=1",
       "source": "메인 뉴스",
-      "time": "06:01"
-    },
-    {
-      "title": "美 479종 분산, 韓은 투톱 16종…'극단적 수급 쏠림'이 충격 키웠다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006343576&office_id=018&mode=mainnews&type=&date=2026-08-04&page=1",
-      "source": "메인 뉴스",
-      "time": "06:01"
-    },
-    {
-      "title": "트럼프 이란에 \"합의 서명할 마지막 기회\"…불응 땐 공습 시사",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005798313&office_id=277&mode=mainnews&type=&date=2026-08-04&page=1",
-      "source": "메인 뉴스",
-      "time": "06:01"
-    },
-    {
-      "title": "\"삼전닉스 비중 높다\" 이미 경고했는데...'롤러코스피' 멀미 심해졌다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005395114&office_id=008&mode=mainnews&type=&date=2026-08-04&page=1",
-      "source": "메인 뉴스",
-      "time": "06:01"
-    },
-    {
-      "title": "美, 28년 만에 엔화 방어 나선 속내…미 국채시장 지켜라",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005798312&office_id=277&mode=mainnews&type=&date=2026-08-04&page=1",
-      "source": "메인 뉴스",
-      "time": "06:01"
-    },
-    {
-      "title": "9년 족쇄 풀렸다… 삼성증권, '발행어음 인가' 눈앞",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005395100&office_id=008&mode=mainnews&type=&date=2026-08-04&page=1",
-      "source": "메인 뉴스",
-      "time": "06:01"
-    },
-    {
-      "title": "\"개미들 어쩌나\" 증시 변동성에 빚투 급감 잔고 30조원 붕괴",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005556729&office_id=014&mode=mainnews&type=&date=2026-08-04&page=1",
-      "source": "메인 뉴스",
-      "time": "06:01"
-    },
-    {
-      "title": "모간스탠리는 \"9000피 간다\"는데...지금 사? 말아? 증권가 전망은",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005395099&office_id=008&mode=mainnews&type=&date=2026-08-04&page=1",
-      "source": "메인 뉴스",
-      "time": "06:01"
-    },
-    {
-      "title": "'시총 반토막' 스페이스X, 4일 첫 실적발표 앞두고 시험대",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006343558&office_id=018&mode=mainnews&type=&date=2026-08-04&page=1",
-      "source": "메인 뉴스",
-      "time": "06:01"
-    },
-    {
-      "title": "중동 긴장 완화에 안도 랠리…다우 사상 최고·나스닥 2%↑·유가 5% 급락 [월가월부]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005716156&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260804&page=1",
-      "source": "증권 시황",
-      "time": "06:01"
+      "time": "07:06"
     }
   ]
 }
