@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-03T22:06:57+00:00",
-  "updated_kst": "2026-08-04T07:06:57+09:00",
+  "updated": "2026-08-03T22:59:12+00:00",
+  "updated_kst": "2026-08-04T07:59:12+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "투자심리 되살린 아마존의 한 마디…잘 나와서 오히려 불안한 PMI [마켓무버의 국장 힌트]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001261035&office_id=215&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "07:59"
+    },
+    {
+      "title": "예탁금 3000만원 벽 세우자…'삼전닉스 레버리지' 거래대금 12조→1조 '뚝'1",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000521440&office_id=629&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "07:59"
+    },
+    {
+      "title": "AWS CEO \"AI 수익 명확하게 파악 가능\"...하이퍼스케일러 주가 급등-[굿모닝 글로벌 이슈]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001261033&office_id=215&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "07:59"
+    },
+    {
+      "title": "\"개미들 트라우마…한국, 투자 부적격 국가 되나\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006343684&office_id=018&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "07:59"
+    },
+    {
+      "title": "ADR 상장 뒤 '25일'…\"4일 밤부터 가능\" 카드 꺼내들까 하닉 개미 '시선집중'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001261027&office_id=215&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "07:59"
+    },
+    {
+      "title": "SK하이닉스 ‘그림자 시장’ 커졌다…본주로 충격 번질까",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003117821&office_id=119&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "07:59"
+    },
+    {
+      "title": "\"한국증시 안 끝났다…하루 급등락 아니라 방향을 봐야\"[클릭e종목]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005798322&office_id=277&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "07:59"
+    },
+    {
+      "title": "역대급 폭등 뒤 다시 급락…코스피, 회복론은 유효할까",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014106133&office_id=003&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "07:59"
+    },
     {
       "title": "“美장 올랐으니 오늘은 갈까”삼전·닉스, 숨고르기냐 하락 신호탄이냐",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002808906&office_id=021&mode=mainnews&type=&date=2026-08-04&page=1",
       "source": "메인 뉴스",
-      "time": "07:06"
+      "time": "07:59"
     },
     {
-      "title": "핑크빛 전망 내놓던 증권가 '돌변'…목표가 줄줄이 낮췄다 [분석+]",
+      "title": "'SK하닉 420만원→280만원' 증권가 돌변하더니…'깜짝 결과' [분석+]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005316987&office_id=015&mode=mainnews&type=&date=2026-08-04&page=1",
       "source": "메인 뉴스",
-      "time": "07:06"
+      "time": "07:59"
     },
     {
       "title": "LG이노텍 '희소식' 떴는데…\"추격매수 주의\" 조언한 까닭 [분석+]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005316986&office_id=015&mode=mainnews&type=&date=2026-08-04&page=1",
       "source": "메인 뉴스",
-      "time": "07:06"
+      "time": "07:59"
     },
     {
       "title": "李 한 마디에 막힌 ‘쪼개기 상장’… 네이버 현대차도 못 피했다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001864796&office_id=005&mode=mainnews&type=&date=2026-08-04&page=1",
       "source": "메인 뉴스",
-      "time": "07:06"
-    },
-    {
-      "title": "폭락 겪고도 \"코스피 9000 간다\"…모건스탠리 '낙관론' 왜?",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005316983&office_id=015&mode=mainnews&type=&date=2026-08-04&page=1",
-      "source": "메인 뉴스",
-      "time": "07:06"
-    },
-    {
-      "title": "'집중'이 독 됐다…반도체 TOP2시리즈 -30%[ETF업&다운]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009095127&office_id=421&mode=mainnews&type=&date=2026-08-04&page=1",
-      "source": "메인 뉴스",
-      "time": "07:06"
-    },
-    {
-      "title": "우상향 재개? 추가 하락?…안개 속 삼전·닉스 '시험대'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014106103&office_id=003&mode=mainnews&type=&date=2026-08-04&page=1",
-      "source": "메인 뉴스",
-      "time": "07:06"
-    },
-    {
-      "title": "중동 긴장 완화에 안도 랠리…다우 사상 최고·나스닥 2%↑·유가 5% 급락 [월가월부]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005716156&office_id=009&mode=mainnews&type=&date=2026-08-04&page=1",
-      "source": "메인 뉴스",
-      "time": "07:06"
-    },
-    {
-      "title": "다우 사상 최고…이란 리스크 완화에 위험자산 랠리[월스트리트in]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006343583&office_id=018&mode=mainnews&type=&date=2026-08-04&page=1",
-      "source": "메인 뉴스",
-      "time": "07:06"
-    },
-    {
-      "title": "트럼프 \"호르무즈 재개방 협상\" 월가 환호…빅테크 날았다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001261018&office_id=215&mode=mainnews&type=&date=2026-08-04&page=1",
-      "source": "메인 뉴스",
-      "time": "07:06"
-    },
-    {
-      "title": "'9,763,000,000,000,000원' 사고판 개미...'단타'로 변동성 불 지폈다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005395121&office_id=008&mode=mainnews&type=&date=2026-08-04&page=1",
-      "source": "메인 뉴스",
-      "time": "07:06"
-    },
-    {
-      "title": "\"대만엔 TSMC 레버리지 없는데…韓 도입 성급\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006343577&office_id=018&mode=mainnews&type=&date=2026-08-04&page=1",
-      "source": "메인 뉴스",
-      "time": "07:06"
+      "time": "07:59"
     }
   ]
 }
