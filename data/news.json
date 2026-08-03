@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-03T17:08:12+00:00",
-  "updated_kst": "2026-08-04T02:08:12+09:00",
+  "updated": "2026-08-03T19:28:42+00:00",
+  "updated_kst": "2026-08-04T04:28:42+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "9년 족쇄 풀렸다… 삼성증권, '발행어음 인가' 눈앞",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005395100&office_id=008&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "04:28"
+    },
+    {
+      "title": "\"개미들 어쩌나\" 증시 변동성에 빚투 급감 잔고 30조원 붕괴",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005556729&office_id=014&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "04:28"
+    },
+    {
+      "title": "모간스탠리는 \"9000피 간다\"는데...지금 사? 말아? 증권가 전망은",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005395099&office_id=008&mode=mainnews&type=&date=2026-08-04&page=1",
+      "source": "메인 뉴스",
+      "time": "04:28"
+    },
     {
       "title": "'시총 반토막' 스페이스X, 4일 첫 실적발표 앞두고 시험대",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006343558&office_id=018&mode=mainnews&type=&date=2026-08-04&page=1",
       "source": "메인 뉴스",
-      "time": "02:08"
+      "time": "04:28"
+    },
+    {
+      "title": "[美특징주]코닝, AI 데이터센터·광통신 투자 확대 기대에 월가 투자의견 상향…주가 7% ..",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006343567&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260804&page=1",
+      "source": "증권 시황",
+      "time": "04:28"
+    },
+    {
+      "title": "트럼프 \"이란과 대화 중…이번이 마지막 기회\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005798311&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260804&page=1",
+      "source": "증권 시황",
+      "time": "04:28"
+    },
+    {
+      "title": "[美특징주]스페이스X, 실적발표 앞두고 공매도 급증에도 주가 반등",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006343560&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260804&page=1",
+      "source": "증권 시황",
+      "time": "04:28"
+    },
+    {
+      "title": "트럼프 \"이란 지도부, 회담 요청 후 부인…이중적 행태\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005798310&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260804&page=1",
+      "source": "증권 시황",
+      "time": "04:28"
     },
     {
       "title": "[주요경제지표] 2026년 8월 3일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003991192&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260804&page=1",
       "source": "증권 시황",
-      "time": "02:08"
+      "time": "04:28"
     },
     {
       "title": "[주식 매매 상위 종목 및 환율] 2026년 8월 3일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003991190&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260804&page=1",
       "source": "증권 시황",
-      "time": "02:08"
+      "time": "04:28"
     },
     {
       "title": "흑자 내도 퇴출 위기…주가부양 급한 상장사, M&A 문 두드린다 [시그널]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004648179&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260804&page=1",
       "source": "증권 시황",
-      "time": "02:08"
+      "time": "04:28"
     },
     {
       "title": "“코스피 극단적 저평가, 매수 기회”…대신증권, 목표주가는 하향",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002808890&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260804&page=1",
       "source": "증권 시황",
-      "time": "02:08"
-    },
-    {
-      "title": "로보티즈 ‘휴머노이드 SW’ 전격 공개…‘로봇 생태계’  확장 이끈다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004648175&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260804&page=1",
-      "source": "증권 시황",
-      "time": "02:08"
-    },
-    {
-      "title": "뉴욕 증시, 美 공격 취소에 상승세···다우 1.34%↑ 사상 최고치 경신",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014105988&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260804&page=1",
-      "source": "증권 시황",
-      "time": "02:08"
-    },
-    {
-      "title": "[뉴욕증시]美-이란 대화 재개…일제히 상승",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005798306&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260804&page=1",
-      "source": "증권 시황",
-      "time": "02:08"
-    },
-    {
-      "title": "AWS가 증명한 AI 투자…아마존, 시총 3조 달러 클럽 입성",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006343545&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260804&page=1",
-      "source": "증권 시황",
-      "time": "02:08"
-    },
-    {
-      "title": "연기금, 7월 급락장 1조 줍줍…추가매수 여력있나",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002808885&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260804&page=1",
-      "source": "증권 시황",
-      "time": "02:08"
-    },
-    {
-      "title": "NXP 세미콘덕터, 경쟁사 대비 AI 매출 저조…목표주가·투자의견 '하향'-UBS",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006343540&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260804&page=1",
-      "source": "증권 시황",
-      "time": "02:08"
-    },
-    {
-      "title": "[속보] 뉴욕 증시, 美 공격 취소에 상승 출발···다우 1.16%↑ 나스닥 0.33%↑",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014105980&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260804&page=1",
-      "source": "증권 시황",
-      "time": "02:08"
+      "time": "04:28"
     }
   ]
 }
