@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-04T18:26:37+00:00",
-  "updated_kst": "2026-08-05T03:26:37+09:00",
+  "updated": "2026-08-04T20:23:26+00:00",
+  "updated_kst": "2026-08-05T05:23:26+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "호르무즈 해협 합의 임박?…국제유가 5%대 급락",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006344678&office_id=018&mode=mainnews&type=&date=2026-08-05&page=1",
+      "source": "메인 뉴스",
+      "time": "05:23"
+    },
+    {
+      "title": "또, 또, 또… 코스닥, 매수 사이드카 울렸다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005395692&office_id=008&mode=mainnews&type=&date=2026-08-05&page=1",
+      "source": "메인 뉴스",
+      "time": "05:23"
+    },
+    {
+      "title": "\"185만원 → 148만원\" 반도체주 급락에 '삼전·닉스' 목표주가 줄하향",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005557275&office_id=014&mode=mainnews&type=&date=2026-08-05&page=1",
+      "source": "메인 뉴스",
+      "time": "05:23"
+    },
     {
       "title": "성장펀드, 주가 폭락 직격탄… 수익률 마이너스로 돌아서",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003991372&office_id=023&mode=mainnews&type=&date=2026-08-05&page=1",
       "source": "메인 뉴스",
-      "time": "03:26"
+      "time": "05:23"
     },
     {
-      "title": "트럼프 행정부, 엔화 부양 고리로 원화값 회복 불 지피나",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016233933&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260805&page=1",
+      "title": "[2보] 쿠팡Inc, 2분기 매출 늘었지만…영업손실 8천350억원 역대 최대",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016233957&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260805&page=1",
       "source": "증권 시황",
-      "time": "03:26"
+      "time": "05:23"
     },
     {
-      "title": "[주식 매매 상위 종목 및 환율] 2026년 8월 4일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003991371&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260805&page=1",
+      "title": "[속보]S&P500 '사상 최고'…호르무즈 타결 기대·AI실적 훈풍",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006344691&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260805&page=1",
       "source": "증권 시황",
-      "time": "03:26"
+      "time": "05:23"
     },
     {
-      "title": "[주요경제지표] 2026년 8월 4일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003991370&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260805&page=1",
+      "title": "美 S&P500지수 2달만에 최고치 경신…유가 80달러 밑으로",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016233952&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260805&page=1",
       "source": "증권 시황",
-      "time": "03:26"
+      "time": "05:23"
     },
     {
-      "title": "UBS \"7월 기술주 폭락에도 전체 지수는 선방…AI 투자 열기 속 '건전한 조정'\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006344669&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260805&page=1",
+      "title": "[속보]뉴욕증시, AI 기업 호실적에 상승 마감…나스닥 2.59%↑",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014108617&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260805&page=1",
       "source": "증권 시황",
-      "time": "03:26"
+      "time": "05:23"
     },
     {
-      "title": "美, '엔화 구하기'에 유로화 썼다…재무장관 \"유럽과 긴밀 접촉\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016233925&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260805&page=1",
+      "title": "[인터뷰]비비안 김동원 \"샌디즈는 다음 70년 위한 브랜드\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001154339&office_id=417&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260805&page=1",
       "source": "증권 시황",
-      "time": "03:26"
+      "time": "05:23"
     },
     {
-      "title": "[사설] “주가 누르면 세금 인상”…징벌적 상속세율부터 손질해야",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004648571&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260805&page=1",
+      "title": "[오늘의 주요일정]금융·증권(8월5일 수요일)",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014108606&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260805&page=1",
       "source": "증권 시황",
-      "time": "03:26"
+      "time": "05:23"
     },
     {
-      "title": "[기자의 눈] 신뢰 잃은 韓 주식시장",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004648568&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260805&page=1",
+      "title": "월가 \"SK하이닉스 매수·비중확대\"…ADR 7.9% ↑",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005798903&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260805&page=1",
       "source": "증권 시황",
-      "time": "03:26"
+      "time": "05:23"
     },
     {
-      "title": "美재무 \"원화 과도한 변동성…엔화 약세에 다른 통화 뒤따를 것\"(종합)",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016233919&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260805&page=1",
+      "title": "美·이란, 호르무즈 통항 협상 진전…카타르 \"합의문 초안 공유\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005798902&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260805&page=1",
       "source": "증권 시황",
-      "time": "03:26"
-    },
-    {
-      "title": "뉴욕증시, 호르무즈 해협 개방 기대에 상승 출발…나스닥 1.2%↑",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014108536&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260805&page=1",
-      "source": "증권 시황",
-      "time": "03:26"
-    },
-    {
-      "title": "“원금만 나오면 탈출” 곡소리 난 개미 이탈에 코스피 거래대금 ‘뚝’",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002809178&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260805&page=1",
-      "source": "증권 시황",
-      "time": "03:26"
-    },
-    {
-      "title": "나이키, 회생 계획 예상보다 오래 걸려…투자의견·목표가 하향-JP모간",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006344651&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260805&page=1",
-      "source": "증권 시황",
-      "time": "03:26"
+      "time": "05:23"
     }
   ]
 }
