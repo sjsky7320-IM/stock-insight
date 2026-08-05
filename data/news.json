@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-05T21:06:41+00:00",
-  "updated_kst": "2026-08-06T06:06:41+09:00",
+  "updated": "2026-08-05T22:11:03+00:00",
+  "updated_kst": "2026-08-06T07:11:03+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "\"外人, 돌아왔구나\"…코스피 추세 전환 신호일까",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014111099&office_id=003&mode=mainnews&type=&date=2026-08-06&page=1",
+      "source": "메인 뉴스",
+      "time": "07:11"
+    },
+    {
+      "title": "\"역대 최고 실적인데 왜?\"…목표주가 줄줄이 내려간 증권사",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005799457&office_id=277&mode=mainnews&type=&date=2026-08-06&page=1",
+      "source": "메인 뉴스",
+      "time": "07:11"
+    },
+    {
+      "title": "활기 찾은 코스닥…액티브 ETF 수익 '천차만별'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005799456&office_id=277&mode=mainnews&type=&date=2026-08-06&page=1",
+      "source": "메인 뉴스",
+      "time": "07:11"
+    },
+    {
+      "title": "\"삼전닉스가 코스피 흔들었다\"…변동성 2배 뛴 진짜 이유",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005799455&office_id=277&mode=mainnews&type=&date=2026-08-06&page=1",
+      "source": "메인 뉴스",
+      "time": "07:11"
+    },
+    {
+      "title": "\"마이크론보다 저렴, SK하닉 320달러까지 간다\"…월가는 왜 ADR '매수'인가",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005557878&office_id=014&mode=mainnews&type=&date=2026-08-06&page=1",
+      "source": "메인 뉴스",
+      "time": "07:11"
+    },
+    {
+      "title": "꿈쩍 않는 서학개미, 절세 혜택에도 ‘미장’ 간다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003118719&office_id=119&mode=mainnews&type=&date=2026-08-06&page=1",
+      "source": "메인 뉴스",
+      "time": "07:11"
+    },
+    {
+      "title": "주가 오를 때 '공포지수'도 상승…콜옵션 광풍에 이상신호",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006345470&office_id=018&mode=mainnews&type=&date=2026-08-06&page=1",
+      "source": "메인 뉴스",
+      "time": "07:11"
+    },
+    {
+      "title": "뜨는 광통신, 죄다 중국산이야?…놀란 백악관, 부랴부랴 한 일이",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005717265&office_id=009&mode=mainnews&type=&date=2026-08-06&page=1",
+      "source": "메인 뉴스",
+      "time": "07:11"
+    },
+    {
+      "title": "최대주주도 못 피한 ‘반대매매’ 폭탄… 지분율 42%에서 18%로 추락",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001184567&office_id=366&mode=mainnews&type=&date=2026-08-06&page=1",
+      "source": "메인 뉴스",
+      "time": "07:11"
+    },
+    {
+      "title": "\"시총이 커서 사고, 더 커져서 또 샀다\"…돈이 돈을 부른 '코스닥 블랙홀' [증시는 왜]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005557873&office_id=014&mode=mainnews&type=&date=2026-08-06&page=1",
+      "source": "메인 뉴스",
+      "time": "07:11"
+    },
+    {
+      "title": "800선 회복 앞둔 코스닥 투자전략은…\"종목보다 지수 대응\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014111029&office_id=003&mode=mainnews&type=&date=2026-08-06&page=1",
+      "source": "메인 뉴스",
+      "time": "07:11"
+    },
     {
       "title": "AI 투자 부담에 숨고르기…다우만 웃었다[월스트리트in]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006345450&office_id=018&mode=mainnews&type=&date=2026-08-06&page=1",
       "source": "메인 뉴스",
-      "time": "06:06"
-    },
-    {
-      "title": "다우지수 연일 사상최고···스페이스X 폭락[월가월부]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005717263&office_id=009&mode=mainnews&type=&date=2026-08-06&page=1",
-      "source": "메인 뉴스",
-      "time": "06:06"
-    },
-    {
-      "title": "\"계속 떨어지더니 드디어\" 다시 뛰는 코스닥...ETF 수익률도 28%[ETFvsETF]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005396262&office_id=008&mode=mainnews&type=&date=2026-08-06&page=1",
-      "source": "메인 뉴스",
-      "time": "06:06"
-    },
-    {
-      "title": "[속보]뉴욕증시 숨고르기…엔비디아 덕에 다우만 0.5%↑",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006345445&office_id=018&mode=mainnews&type=&date=2026-08-06&page=1",
-      "source": "메인 뉴스",
-      "time": "06:06"
-    },
-    {
-      "title": "\"또, 또 매수 사이드카\" 돌아온 외인이 울렸다...살아난 AI 투심",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005396241&office_id=008&mode=mainnews&type=&date=2026-08-06&page=1",
-      "source": "메인 뉴스",
-      "time": "06:06"
-    },
-    {
-      "title": "\"난 하나만 산다\" 이렇겐 노후대비 못한다?...연금 투자 성공 법칙은[부꾸미]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005396234&office_id=008&mode=mainnews&type=&date=2026-08-06&page=1",
-      "source": "메인 뉴스",
-      "time": "06:06"
-    },
-    {
-      "title": "AI 훈풍에 아시아 증시 일제히 급등…코스피 4%대 상승",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002809474&office_id=021&mode=mainnews&type=&date=2026-08-06&page=1",
-      "source": "메인 뉴스",
-      "time": "06:06"
-    },
-    {
-      "title": "‘하루만에 22% 폭락’ 끔찍했던 그날…“최악 폭락장 또 올 수도” 섬뜩 경고",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004648980&office_id=011&mode=mainnews&type=&date=2026-08-06&page=1",
-      "source": "메인 뉴스",
-      "time": "06:06"
-    },
-    {
-      "title": "나흘간 24% 반등…빚투 턴 코스닥의 반격",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003542590&office_id=025&mode=mainnews&type=&date=2026-08-06&page=1",
-      "source": "메인 뉴스",
-      "time": "06:06"
-    },
-    {
-      "title": "케이앤에스아이앤씨, 청약 경쟁률 1079:1…증거금 3.6兆 확보 [시그널]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004648998&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260806&page=1",
-      "source": "증권 시황",
-      "time": "06:06"
-    },
-    {
-      "title": "[뉴욕증시]다우, 또 최고치…호르무즈 통항 합의 기대·기술주 약세에 혼조",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005799446&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260806&page=1",
-      "source": "증권 시황",
-      "time": "06:06"
-    },
-    {
-      "title": "'삼전·닉스' 비중 얼마나 커졌길래…코스피 변동성 두 배로",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005557872&office_id=014&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260806&page=1",
-      "source": "증권 시황",
-      "time": "06:06"
+      "time": "07:11"
     }
   ]
 }
