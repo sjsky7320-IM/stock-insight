@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-05T17:28:22+00:00",
-  "updated_kst": "2026-08-06T02:28:22+09:00",
+  "updated": "2026-08-05T19:27:53+00:00",
+  "updated_kst": "2026-08-06T04:27:53+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "\"또, 또 매수 사이드카\" 돌아온 외인이 울렸다...살아난 AI 투심",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005396241&office_id=008&mode=mainnews&type=&date=2026-08-06&page=1",
+      "source": "메인 뉴스",
+      "time": "04:27"
+    },
+    {
+      "title": "\"난 하나만 산다\" 이렇겐 노후대비 못한다?...연금 투자 성공 법칙은[부꾸미]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005396234&office_id=008&mode=mainnews&type=&date=2026-08-06&page=1",
+      "source": "메인 뉴스",
+      "time": "04:27"
+    },
     {
       "title": "AI 훈풍에 아시아 증시 일제히 급등…코스피 4%대 상승",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002809474&office_id=021&mode=mainnews&type=&date=2026-08-06&page=1",
       "source": "메인 뉴스",
-      "time": "02:28"
+      "time": "04:27"
     },
     {
       "title": "‘하루만에 22% 폭락’ 끔찍했던 그날…“최악 폭락장 또 올 수도” 섬뜩 경고",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004648980&office_id=011&mode=mainnews&type=&date=2026-08-06&page=1",
       "source": "메인 뉴스",
-      "time": "02:28"
+      "time": "04:27"
     },
     {
       "title": "나흘간 24% 반등…빚투 턴 코스닥의 반격",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003542590&office_id=025&mode=mainnews&type=&date=2026-08-06&page=1",
       "source": "메인 뉴스",
-      "time": "02:28"
+      "time": "04:27"
+    },
+    {
+      "title": "스타 연구진이 떠난다? 구글 AI 수뇌부 전격 개편, 무슨 일",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006345430&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260806&page=1",
+      "source": "증권 시황",
+      "time": "04:27"
+    },
+    {
+      "title": "\"홍콩ELS사태 되풀이 안돼\" 고위험 파생상품 제도 손본다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005396247&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260806&page=1",
+      "source": "증권 시황",
+      "time": "04:27"
+    },
+    {
+      "title": "[속보]이란 대통령 \"현재 최고지도자와 소통 매우 어렵다\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005799443&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260806&page=1",
+      "source": "증권 시황",
+      "time": "04:27"
+    },
+    {
+      "title": "디즈니 영업이익 전년比 21% ↑…놀이공원·'토이스토리 5' 실적 견인",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005799442&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260806&page=1",
+      "source": "증권 시황",
+      "time": "04:27"
     },
     {
       "title": "대상 좁아진 ‘주가 누르기 방지책’… “의심 기업 몇 곳만 골라내는 수준”",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001865239&office_id=005&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260806&page=1",
       "source": "증권 시황",
-      "time": "02:28"
+      "time": "04:27"
     },
     {
       "title": "로이터 “삼성전자·SK하이닉스, 주주환원 확대 검토”",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001184564&office_id=366&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260806&page=1",
       "source": "증권 시황",
-      "time": "02:28"
+      "time": "04:27"
     },
     {
       "title": "베선트 “원화 과도한 변동성” 한마디에 환율 뚝",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003991564&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260806&page=1",
       "source": "증권 시황",
-      "time": "02:28"
-    },
-    {
-      "title": "[주요경제지표] 2026년 8월 5일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003991563&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260806&page=1",
-      "source": "증권 시황",
-      "time": "02:28"
-    },
-    {
-      "title": "[주식 매매 상위 종목 및 환율] 2026년 8월 5일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003991559&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260806&page=1",
-      "source": "증권 시황",
-      "time": "02:28"
-    },
-    {
-      "title": "베센트 “워시, 엔화전쟁 참전을”…엔 캐리 청산? 외환위기? 연준의 딜레마[홍길용의 화식열..",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002680098&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260806&page=1",
-      "source": "증권 시황",
-      "time": "02:28"
-    },
-    {
-      "title": "[단독]국민연금 차기 CIO 후보 4인 압축...인사검증 돌입",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006345419&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260806&page=1",
-      "source": "증권 시황",
-      "time": "02:28"
-    },
-    {
-      "title": "美 7월 ADP 민간 고용 4만4000명 증가…예상치 크게 하회",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005799439&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260806&page=1",
-      "source": "증권 시황",
-      "time": "02:28"
-    },
-    {
-      "title": "[뉴욕증시]다우·S&P500 장중 최고치 경신…호실적 잇따르자 상승세",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005799438&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260806&page=1",
-      "source": "증권 시황",
-      "time": "02:28"
+      "time": "04:27"
     }
   ]
 }
