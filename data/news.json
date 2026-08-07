@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-07T22:33:35+00:00",
-  "updated_kst": "2026-08-08T07:33:35+09:00",
+  "updated": "2026-08-07T23:24:06+00:00",
+  "updated_kst": "2026-08-08T08:24:06+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "주가누르기 '장려법'인가요? 세제개편안 '맹탕' 논란 [주末머니]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005800441&office_id=277&mode=mainnews&type=&date=2026-08-08&page=1",
+      "source": "메인 뉴스",
+      "time": "08:24"
+    },
+    {
+      "title": "다시 개별 기술주?…서학개미, 아마존·마이크론 베팅",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016239925&office_id=001&mode=mainnews&type=&date=2026-08-08&page=1",
+      "source": "메인 뉴스",
+      "time": "08:24"
+    },
+    {
+      "title": "거래대금 15분의 1 급감…ETF 비중도 6분의 1토막[레버리지 그후①]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014115286&office_id=003&mode=mainnews&type=&date=2026-08-08&page=1",
+      "source": "메인 뉴스",
+      "time": "08:24"
+    },
+    {
+      "title": "“금값 떨어진 지금이 기회다”…골드바 쌓기 시작한 한·중 중앙은행 [원자재로 살아남기]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005718241&office_id=009&mode=mainnews&type=&date=2026-08-08&page=1",
+      "source": "메인 뉴스",
+      "time": "08:24"
+    },
     {
       "title": "단일종목 규제 묶인 ‘레버리지 개미’, 지수·인버스로 갔다 [이런국장 저런주식]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004649757&office_id=011&mode=mainnews&type=&date=2026-08-08&page=1",
       "source": "메인 뉴스",
-      "time": "07:33"
+      "time": "08:24"
     },
     {
       "title": "밸류업 747곳 발표…코스닥 상장사는 33% 그쳐",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000088788&office_id=293&mode=mainnews&type=&date=2026-08-08&page=1",
       "source": "메인 뉴스",
-      "time": "07:33"
+      "time": "08:24"
     },
     {
       "title": "코스닥 상폐 '정상기업 예외' 요구에도…금융위, 신중론 유지",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014115265&office_id=003&mode=mainnews&type=&date=2026-08-08&page=1",
       "source": "메인 뉴스",
-      "time": "07:33"
+      "time": "08:24"
     },
     {
       "title": "주주환원 외치고 7% 오른 마이크론…말 아끼고 17% 깎인 하이닉스",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005718230&office_id=009&mode=mainnews&type=&date=2026-08-08&page=1",
       "source": "메인 뉴스",
-      "time": "07:33"
+      "time": "08:24"
     },
     {
       "title": "\"삼전·닉스 이래서 빠졌네\"…中 반도체 속사정 [B급기자의 B급리포트]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001261616&office_id=215&mode=mainnews&type=&date=2026-08-08&page=1",
       "source": "메인 뉴스",
-      "time": "07:33"
+      "time": "08:24"
     },
     {
       "title": "한화솔루션, 5거래일 33%↑…美 중국 태양광 견제 수혜[종목현미경]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0009103334&office_id=421&mode=mainnews&type=&date=2026-08-08&page=1",
       "source": "메인 뉴스",
-      "time": "07:33"
+      "time": "08:24"
     },
     {
       "title": "영풍·MBK vs 고려아연, 美 제련소 이름 두고 고발전[주간사모펀드]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000522791&office_id=629&mode=mainnews&type=&date=2026-08-08&page=1",
       "source": "메인 뉴스",
-      "time": "07:33"
+      "time": "08:24"
     },
     {
-      "title": "AI '쌀' 반도체 주춤? 주목받는 AI '혈관'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003119625&office_id=119&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260808&page=1",
+      "title": "[다음주 경제] 7월 가계대출 얼마나 늘었나…고용동향 발표도",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016239932&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260808&page=1",
       "source": "증권 시황",
-      "time": "07:33"
-    },
-    {
-      "title": "GS건설·세아베스틸지주·RFHIC[하나證 주간추천주]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006347472&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260808&page=1",
-      "source": "증권 시황",
-      "time": "07:33"
-    },
-    {
-      "title": "SK증권, 국내주식 ‘수수료 평생 우대’…최대 106만원",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003119619&office_id=119&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260808&page=1",
-      "source": "증권 시황",
-      "time": "07:33"
-    },
-    {
-      "title": "[단독] 한미약품그룹 CEO·CFO, 동반 中 출장…매출채권 늦장 점검 [시그널]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004649750&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260808&page=1",
-      "source": "증권 시황",
-      "time": "07:33"
-    },
-    {
-      "title": "AI는 살아있다…반도체 운명 가를 핵심 변수는 '시장금리' [박문환 시선집중]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001261618&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260808&page=1",
-      "source": "증권 시황",
-      "time": "07:33"
+      "time": "08:24"
     }
   ]
 }
