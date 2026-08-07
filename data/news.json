@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-07T21:37:35+00:00",
-  "updated_kst": "2026-08-08T06:37:35+09:00",
+  "updated": "2026-08-07T22:33:35+00:00",
+  "updated_kst": "2026-08-08T07:33:35+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "단일종목 규제 묶인 ‘레버리지 개미’, 지수·인버스로 갔다 [이런국장 저런주식]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004649757&office_id=011&mode=mainnews&type=&date=2026-08-08&page=1",
+      "source": "메인 뉴스",
+      "time": "07:33"
+    },
+    {
+      "title": "밸류업 747곳 발표…코스닥 상장사는 33% 그쳐",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000088788&office_id=293&mode=mainnews&type=&date=2026-08-08&page=1",
+      "source": "메인 뉴스",
+      "time": "07:33"
+    },
+    {
+      "title": "코스닥 상폐 '정상기업 예외' 요구에도…금융위, 신중론 유지",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014115265&office_id=003&mode=mainnews&type=&date=2026-08-08&page=1",
+      "source": "메인 뉴스",
+      "time": "07:33"
+    },
     {
       "title": "주주환원 외치고 7% 오른 마이크론…말 아끼고 17% 깎인 하이닉스",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005718230&office_id=009&mode=mainnews&type=&date=2026-08-08&page=1",
       "source": "메인 뉴스",
-      "time": "06:37"
+      "time": "07:33"
     },
     {
-      "title": "중국 반도체, 비싸지만 비싸지 않은 이유 [B급기자의 B급리포트]",
+      "title": "\"삼전·닉스 이래서 빠졌네\"…中 반도체 속사정 [B급기자의 B급리포트]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001261616&office_id=215&mode=mainnews&type=&date=2026-08-08&page=1",
       "source": "메인 뉴스",
-      "time": "06:37"
+      "time": "07:33"
     },
     {
       "title": "한화솔루션, 5거래일 33%↑…美 중국 태양광 견제 수혜[종목현미경]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0009103334&office_id=421&mode=mainnews&type=&date=2026-08-08&page=1",
       "source": "메인 뉴스",
-      "time": "06:37"
+      "time": "07:33"
     },
     {
       "title": "영풍·MBK vs 고려아연, 美 제련소 이름 두고 고발전[주간사모펀드]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000522791&office_id=629&mode=mainnews&type=&date=2026-08-08&page=1",
       "source": "메인 뉴스",
-      "time": "06:37"
+      "time": "07:33"
     },
     {
-      "title": "美증시, 금리인상 기대론 후퇴에 상승…S&P500 사상최고치 마감(종합)",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016239886&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260808&page=1",
+      "title": "AI '쌀' 반도체 주춤? 주목받는 AI '혈관'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003119625&office_id=119&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260808&page=1",
       "source": "증권 시황",
-      "time": "06:37"
+      "time": "07:33"
     },
     {
-      "title": "\"개별주식에 지쳤다면 ETF에 맡겨라\"…최고민수 'ETF 투자 5일 완성'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005558787&office_id=014&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260808&page=1",
+      "title": "GS건설·세아베스틸지주·RFHIC[하나證 주간추천주]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006347472&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260808&page=1",
       "source": "증권 시황",
-      "time": "06:37"
+      "time": "07:33"
     },
     {
-      "title": "DB 자금 20배 키운 한화운용... 차덕영 본부장 “장기 연금 투자 핵심은 하방 방어”",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001185017&office_id=366&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260808&page=1",
+      "title": "SK증권, 국내주식 ‘수수료 평생 우대’…최대 106만원",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003119619&office_id=119&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260808&page=1",
       "source": "증권 시황",
-      "time": "06:37"
+      "time": "07:33"
     },
     {
-      "title": "한 달 만에 22% 폭락한 코스피…\"지금이라도 팔까 버틸까\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005318672&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260808&page=1",
+      "title": "[단독] 한미약품그룹 CEO·CFO, 동반 中 출장…매출채권 늦장 점검 [시그널]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004649750&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260808&page=1",
       "source": "증권 시황",
-      "time": "06:37"
+      "time": "07:33"
     },
     {
-      "title": "한국금융지주 순익 1조 육박…목표가 낮춰도 \"저평가\"[종목현미경]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009103330&office_id=421&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260808&page=1",
+      "title": "AI는 살아있다…반도체 운명 가를 핵심 변수는 '시장금리' [박문환 시선집중]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001261618&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260808&page=1",
       "source": "증권 시황",
-      "time": "06:37"
-    },
-    {
-      "title": "“주식 잃고 대출도 막혔다”…600조 날린 개미들, 삼전닉스에 다시 희망을?[주형연의 에구..",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003041256&office_id=029&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260808&page=1",
-      "source": "증권 시황",
-      "time": "06:37"
-    },
-    {
-      "title": "소프트웨어주가 끌어올린 뉴욕증시…S&P500 또 사상 최고",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002237079&office_id=138&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260808&page=1",
-      "source": "증권 시황",
-      "time": "06:37"
-    },
-    {
-      "title": "美증시, '고용쇼크'에 금리동결 기대…S&P 0.6% 나스닥 1.3%↑",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014115222&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260808&page=1",
-      "source": "증권 시황",
-      "time": "06:37"
+      "time": "07:33"
     }
   ]
 }
