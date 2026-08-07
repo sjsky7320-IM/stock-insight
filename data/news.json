@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-06T23:57:48+00:00",
-  "updated_kst": "2026-08-07T08:57:48+09:00",
+  "updated": "2026-08-07T01:00:27+00:00",
+  "updated_kst": "2026-08-07T10:00:27+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "5천500만원 결혼자금, 주식으로 날려…'급등주 단타' 3천만원 추가 대출까지",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000101337&office_id=243&mode=mainnews&type=&date=2026-08-07&page=1",
+      "source": "메인 뉴스",
+      "time": "10:00"
+    },
+    {
+      "title": "코스피, 외인·기관 저가 매수에 6400선 터치… 삼전닉스도 상승",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005396894&office_id=008&mode=mainnews&type=&date=2026-08-07&page=1",
+      "source": "메인 뉴스",
+      "time": "10:00"
+    },
+    {
+      "title": "코스피, 외국인 '사자'에 1.32% 상승…6300선 회복",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006346671&office_id=018&mode=mainnews&type=&date=2026-08-07&page=1",
+      "source": "메인 뉴스",
+      "time": "10:00"
+    },
+    {
+      "title": "코스피, 전날 급락 딛고 외인 매수 6400 회복…삼전닉스 강세",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005318364&office_id=015&mode=mainnews&type=&date=2026-08-07&page=1",
+      "source": "메인 뉴스",
+      "time": "10:00"
+    },
+    {
+      "title": "뉴욕증시 부진 딛은 코스피, 외인 '사자'에 반등…코스닥도 상승세",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000522542&office_id=629&mode=mainnews&type=&date=2026-08-07&page=1",
+      "source": "메인 뉴스",
+      "time": "10:00"
+    },
+    {
+      "title": "실적은 사상 최대인데…한국금융지주 목표가 줄하향",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000049613&office_id=648&mode=mainnews&type=&date=2026-08-07&page=1",
+      "source": "메인 뉴스",
+      "time": "10:00"
+    },
+    {
+      "title": "빅테크 덮친 '엔캐리 청산' 우려…증권가 \"과도한 공포, 바닥 신호\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014113704&office_id=003&mode=mainnews&type=&date=2026-08-07&page=1",
+      "source": "메인 뉴스",
+      "time": "10:00"
+    },
+    {
+      "title": "급락 과했나…코스피, 장 초반 6400선 회복",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001184841&office_id=366&mode=mainnews&type=&date=2026-08-07&page=1",
+      "source": "메인 뉴스",
+      "time": "10:00"
+    },
+    {
+      "title": "긴 터널 끝 빛 보인다…CJ ENM·스튜디오드래곤, 턴어라운드 ‘청신호’",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005717846&office_id=009&mode=mainnews&type=&date=2026-08-07&page=1",
+      "source": "메인 뉴스",
+      "time": "10:00"
+    },
+    {
+      "title": "레버리지 상품 난리에도 KRX, 장마감 후  ETF 거래 강행… 왜?",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003991796&office_id=023&mode=mainnews&type=&date=2026-08-07&page=1",
+      "source": "메인 뉴스",
+      "time": "10:00"
+    },
     {
       "title": "“매물 폭탄 걱정했는데 오히려 급등”…스페이스X, 9억주 풀린 날 9% 상승 마감",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005717831&office_id=009&mode=mainnews&type=&date=2026-08-07&page=1",
       "source": "메인 뉴스",
-      "time": "08:57"
+      "time": "10:00"
     },
     {
       "title": "개인 7.6조 쏟아부어도 제자리...반도체가 지수 흔들어",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005558453&office_id=014&mode=mainnews&type=&date=2026-08-07&page=1",
       "source": "메인 뉴스",
-      "time": "08:57"
-    },
-    {
-      "title": "코스피 하루 시총 251조 증발…삼전닉스만 217조 빠져",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005558452&office_id=014&mode=mainnews&type=&date=2026-08-07&page=1",
-      "source": "메인 뉴스",
-      "time": "08:57"
-    },
-    {
-      "title": "반등 성공한 美 반도체… 전날 급락 코스피, 프리장 반격 탐색 [코주부]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004649449&office_id=011&mode=mainnews&type=&date=2026-08-07&page=1",
-      "source": "메인 뉴스",
-      "time": "08:57"
-    },
-    {
-      "title": "한 달 새 40% 급락…'삼전·닉스' 목표주가 줄하향",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005558448&office_id=014&mode=mainnews&type=&date=2026-08-07&page=1",
-      "source": "메인 뉴스",
-      "time": "08:57"
-    },
-    {
-      "title": "지분 42%→18% '뚝'...창업주도 급락장에 '반대매매' 폭탄",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005396850&office_id=008&mode=mainnews&type=&date=2026-08-07&page=1",
-      "source": "메인 뉴스",
-      "time": "08:57"
-    },
-    {
-      "title": "美증시 숨고르기…韓증시 반등 시도 기대[굿모닝 증시]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005800050&office_id=277&mode=mainnews&type=&date=2026-08-07&page=1",
-      "source": "메인 뉴스",
-      "time": "08:57"
-    },
-    {
-      "title": "유가 급등에 뉴욕증시 하락…美 폴리실리콘 관세도 주목[뉴스새벽배송]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006346579&office_id=018&mode=mainnews&type=&date=2026-08-07&page=1",
-      "source": "메인 뉴스",
-      "time": "08:57"
-    },
-    {
-      "title": "삼전닉스에 물린 홍진경 \"왜 비쌀 때 사라고 했냐\" 분통",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005318315&office_id=015&mode=mainnews&type=&date=2026-08-07&page=1",
-      "source": "메인 뉴스",
-      "time": "08:57"
-    },
-    {
-      "title": "스페이스X 9억주 풀렸는데 주가 반등…초기 투자자들 ‘안 팔고 버틴다’ [투자360]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002680684&office_id=016&mode=mainnews&type=&date=2026-08-07&page=1",
-      "source": "메인 뉴스",
-      "time": "08:57"
-    },
-    {
-      "title": "이란, 호르무즈 연다는데…해운업계의 냉소와 뜨거워진 원유 시장 [마켓무버의 국장 힌트]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001261486&office_id=215&mode=mainnews&type=&date=2026-08-07&page=1",
-      "source": "메인 뉴스",
-      "time": "08:57"
-    },
-    {
-      "title": "반등 노리는 코스피…외국인 수급·美 국채금리가 변수[오늘의 증시]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014113562&office_id=003&mode=mainnews&type=&date=2026-08-07&page=1",
-      "source": "메인 뉴스",
-      "time": "08:57"
+      "time": "10:00"
     }
   ]
 }
