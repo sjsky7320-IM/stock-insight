@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-09T20:30:56+00:00",
-  "updated_kst": "2026-08-10T05:30:56+09:00",
+  "updated": "2026-08-09T21:29:04+00:00",
+  "updated_kst": "2026-08-10T06:29:04+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "딜리셔스·케이앤에스아이앤씨 상장… 기도산업 등 3곳 공모 청약 [이번주 증시 캘린더]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004650056&office_id=011&mode=mainnews&type=&date=2026-08-10&page=1",
+      "source": "메인 뉴스",
+      "time": "06:29"
+    },
+    {
+      "title": "변동성 잦아든 증시…순환매로 반등 재도전[주간 증시 전망]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004650055&office_id=011&mode=mainnews&type=&date=2026-08-10&page=1",
+      "source": "메인 뉴스",
+      "time": "06:29"
+    },
+    {
+      "title": "\"삼전닉스 손실 여기서 복구\"...건설·이차전지에 돈 몰린다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005559116&office_id=014&mode=mainnews&type=&date=2026-08-10&page=1",
+      "source": "메인 뉴스",
+      "time": "06:29"
+    },
+    {
+      "title": "돈은 넘치는데 조달 문턱은 깐깐…마지막 보루 유증마저 '고구마'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005397532&office_id=008&mode=mainnews&type=&date=2026-08-10&page=1",
+      "source": "메인 뉴스",
+      "time": "06:29"
+    },
+    {
+      "title": "'만능통장' ISA 바뀐다는데…내 계좌 그냥 둬도 되나요[금알못]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014116708&office_id=003&mode=mainnews&type=&date=2026-08-10&page=1",
+      "source": "메인 뉴스",
+      "time": "06:29"
+    },
+    {
+      "title": "역대급 실적에도 주가는 뚝…증권株, 이제는 '주주환원' 시험대",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009104862&office_id=421&mode=mainnews&type=&date=2026-08-10&page=1",
+      "source": "메인 뉴스",
+      "time": "06:29"
+    },
+    {
+      "title": "“결국 주식 전문가들도 전혀 모른다”…속썩이는 ‘반도체’ 매도 타이밍은",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005718679&office_id=009&mode=mainnews&type=&date=2026-08-10&page=1",
+      "source": "메인 뉴스",
+      "time": "06:29"
+    },
+    {
+      "title": "히트펌프 예산 7배 늘린다…정부, 난방 전기화에 1000억원 투입",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006348407&office_id=018&mode=mainnews&type=&date=2026-08-10&page=1",
+      "source": "메인 뉴스",
+      "time": "06:29"
+    },
     {
       "title": "규제 찬물 '삼전닉스 레버리지'…증권가 \"해외·반도체 ETF로 풍선효과 우려\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005559111&office_id=014&mode=mainnews&type=&date=2026-08-10&page=1",
       "source": "메인 뉴스",
-      "time": "05:30"
+      "time": "06:29"
     },
     {
       "title": "PEF 해외 M&A, 가격보다 '경제안보'가 좌우",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005397505&office_id=008&mode=mainnews&type=&date=2026-08-10&page=1",
       "source": "메인 뉴스",
-      "time": "05:30"
+      "time": "06:29"
     },
     {
       "title": "레버리지에 ISA까지 ‘땜질 반복’… 개미들 국장 떠난다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001865841&office_id=005&mode=mainnews&type=&date=2026-08-10&page=1",
       "source": "메인 뉴스",
-      "time": "05:30"
+      "time": "06:29"
     },
     {
-      "title": "얼어붙은 코스피 투자심리…거래량·대금 올해 최저",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000894049&office_id=422&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
-      "source": "증권 시황",
-      "time": "05:30"
-    },
-    {
-      "title": "CJ 비비고의 힘…미국 냉장고를 바꿨다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001154805&office_id=417&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
-      "source": "증권 시황",
-      "time": "05:30"
-    },
-    {
-      "title": "버핏 떠나자 500조 '현금 금고' 열리나…아벨, 4년 만에 주식 투자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001154804&office_id=417&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
-      "source": "증권 시황",
-      "time": "05:30"
-    },
-    {
-      "title": "이재현의 CJ '원팀' 승부수…공연 보고 만두·화장품 산다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001154802&office_id=417&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
-      "source": "증권 시황",
-      "time": "05:30"
-    },
-    {
-      "title": "[오늘의 주요일정]금융·증권(8월10일 월요일)",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014116674&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
-      "source": "증권 시황",
-      "time": "05:30"
-    },
-    {
-      "title": "이월 제한·연장 불허에 비판 쏟아진 ISA 개편… 與 \"기존 ISA는 유지\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000947062&office_id=469&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
-      "source": "증권 시황",
-      "time": "05:30"
-    },
-    {
-      "title": "\"베선트 美재무, 장기채 금리 상승 방어의지 시장에 시사\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016241433&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
-      "source": "증권 시황",
-      "time": "05:30"
-    },
-    {
-      "title": "모건스탠리 \"메모리주 급락 끝났다\"…삼전닉스, 재진입 구간 진단",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005559105&office_id=014&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
-      "source": "증권 시황",
-      "time": "05:30"
-    },
-    {
-      "title": "해싯 \"식료품·유가 여전히 높아\"…관세발 물가 상승론은 반박",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005800663&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
-      "source": "증권 시황",
-      "time": "05:30"
+      "title": "이르면 10월 동전주 첫 퇴출… 39곳 ‘관리종목 우려’ 대상에",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003739596&office_id=020&mode=mainnews&type=&date=2026-08-10&page=1",
+      "source": "메인 뉴스",
+      "time": "06:29"
     }
   ]
 }
