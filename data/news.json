@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-09T23:20:09+00:00",
-  "updated_kst": "2026-08-10T08:20:09+09:00",
+  "updated": "2026-08-09T23:30:19+00:00",
+  "updated_kst": "2026-08-10T08:30:19+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "뉴욕증시, 고용 둔화에 최고치…이번주 소비자물가지수 주목[뉴스새벽배송]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006348471&office_id=018&mode=mainnews&type=&date=2026-08-10&page=1",
+      "source": "메인 뉴스",
+      "time": "08:30"
+    },
+    {
+      "title": "비에이치아이, 수주 가시성 확대·사상 최대 실적 가능할 것-iM證",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005559142&office_id=014&mode=mainnews&type=&date=2026-08-10&page=1",
+      "source": "메인 뉴스",
+      "time": "08:30"
+    },
+    {
+      "title": "“코스닥, 퇴출·승강제로 체질 개선…하반기 1000선 회복 전망”- NH",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006348469&office_id=018&mode=mainnews&type=&date=2026-08-10&page=1",
+      "source": "메인 뉴스",
+      "time": "08:30"
+    },
+    {
+      "title": "순환매 온기 퍼지는 코스닥… 과대 낙폭 딛고 ‘선별적 종목 장세’ 시동",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001185164&office_id=366&mode=mainnews&type=&date=2026-08-10&page=1",
+      "source": "메인 뉴스",
+      "time": "08:30"
+    },
     {
       "title": "코스피, 반도체 소외 해소될까…美 물가·테크 실적에 시선[굿모닝 증시]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005800696&office_id=277&mode=mainnews&type=&date=2026-08-10&page=1",
       "source": "메인 뉴스",
-      "time": "08:20"
+      "time": "08:30"
     },
     {
       "title": "“코스닥, 코스피 앞설 조건 갖췄다…로봇·바이오 주목”",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006348456&office_id=018&mode=mainnews&type=&date=2026-08-10&page=1",
       "source": "메인 뉴스",
-      "time": "08:20"
+      "time": "08:30"
+    },
+    {
+      "title": "'재정 비상' 경기도, 4.6조 만기 몰려온다…차환금리도 '비상' [fn마켓워치]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005559139&office_id=014&mode=mainnews&type=&date=2026-08-10&page=1",
+      "source": "메인 뉴스",
+      "time": "08:30"
     },
     {
       "title": "“삼전닉스 믿었는데” 패닉장 겪은 개미, 어디로 향하나",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000101416&office_id=243&mode=mainnews&type=&date=2026-08-10&page=1",
       "source": "메인 뉴스",
-      "time": "08:20"
+      "time": "08:30"
     },
     {
       "title": "“삼성전자, 주주환원 최대 200조 예상”…KB證 , 목표가 60만원 유지",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001185163&office_id=366&mode=mainnews&type=&date=2026-08-10&page=1",
       "source": "메인 뉴스",
-      "time": "08:20"
+      "time": "08:30"
     },
     {
       "title": "롯데케미칼, 구조조정 마무리되는 내년 흑자 전환...목표가는 10만원↓-iM",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006348441&office_id=018&mode=mainnews&type=&date=2026-08-10&page=1",
       "source": "메인 뉴스",
-      "time": "08:20"
+      "time": "08:30"
     },
     {
       "title": "美 고용보고서, 반도체·금값 모두 끌어올렸다는데…왜? [마켓무버의 국장 힌트]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001261726&office_id=215&mode=mainnews&type=&date=2026-08-10&page=1",
       "source": "메인 뉴스",
-      "time": "08:20"
+      "time": "08:30"
     },
     {
       "title": "\"60만전자 간다\" 삼성전자, 주주환원 최대 200조 전망",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006348439&office_id=018&mode=mainnews&type=&date=2026-08-10&page=1",
       "source": "메인 뉴스",
-      "time": "08:20"
-    },
-    {
-      "title": "스터닝밸류 \"오텍, AI 데이터센터 냉각 시장 진입…밸류에이션 재평가 기대\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005559134&office_id=014&mode=mainnews&type=&date=2026-08-10&page=1",
-      "source": "메인 뉴스",
-      "time": "08:20"
-    },
-    {
-      "title": "美 변동성 피해 유럽에 몰리는 돈…기업 순익 22% 급증 '4년래 최대'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006348438&office_id=018&mode=mainnews&type=&date=2026-08-10&page=1",
-      "source": "메인 뉴스",
-      "time": "08:20"
-    },
-    {
-      "title": "한전기술, 분기 실적 쇼크에 목표가 하향 \"모멘텀 기다릴 때\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005559132&office_id=014&mode=mainnews&type=&date=2026-08-10&page=1",
-      "source": "메인 뉴스",
-      "time": "08:20"
-    },
-    {
-      "title": "\"삼성전자, 확신의 매수 구간\"…주주환원 '최대 200조' 전망",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005318944&office_id=015&mode=mainnews&type=&date=2026-08-10&page=1",
-      "source": "메인 뉴스",
-      "time": "08:20"
-    },
-    {
-      "title": "美금리인상 우려 완화…코스피 6300선 회복 시도[오늘의 증시]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014116742&office_id=003&mode=mainnews&type=&date=2026-08-10&page=1",
-      "source": "메인 뉴스",
-      "time": "08:20"
+      "time": "08:30"
     }
   ]
 }
