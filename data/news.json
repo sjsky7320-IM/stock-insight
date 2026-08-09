@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-09T16:33:16+00:00",
-  "updated_kst": "2026-08-10T01:33:16+09:00",
+  "updated": "2026-08-09T17:30:04+00:00",
+  "updated_kst": "2026-08-10T02:30:04+09:00",
   "source": "naver-finance",
   "items": [
     {
-      "title": "\"무서운 경고 그 애널리스트 아냐?\"…삼전닉스 놀라운 '뷰' 보니",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001261710&office_id=215&mode=mainnews&type=&date=2026-08-09&page=1",
+      "title": "레버리지에 ISA까지 ‘땜질 반복’… 개미들 국장 떠난다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001865841&office_id=005&mode=mainnews&type=&date=2026-08-10&page=1",
       "source": "메인 뉴스",
-      "time": "01:33"
+      "time": "02:30"
     },
     {
-      "title": "\"저게 뭐야?\" 주말 달군 UFO 목격담...쩍 갈라진 하늘까지",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006348369&office_id=018&mode=mainnews&type=&date=2026-08-09&page=1",
-      "source": "메인 뉴스",
-      "time": "01:33"
+      "title": "ISA 5년 만기 땐 절세 효과 약하고… ‘주가 누르기 방지’는 기준이 모호",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003992127&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
+      "source": "증권 시황",
+      "time": "02:30"
     },
     {
-      "title": "1.2조 유증 그대로 유지…에코프로비엠, 금감원 정정 요구에 자금계획 보강",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002681375&office_id=016&mode=mainnews&type=&date=2026-08-09&page=1",
-      "source": "메인 뉴스",
-      "time": "01:33"
+      "title": "청년·고령자·주부도… ‘중금리 신용 대출’로 은행 문턱 넘는다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003992092&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
+      "source": "증권 시황",
+      "time": "02:30"
     },
     {
-      "title": "“메모리주 급락 끝났다”…모건스탠리, 삼전·SK하닉 재조명",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002681373&office_id=016&mode=mainnews&type=&date=2026-08-09&page=1",
-      "source": "메인 뉴스",
-      "time": "01:33"
+      "title": "“건강할수록 할인” 금연·병력에 따라 보험료 최대 35%↓",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003992091&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
+      "source": "증권 시황",
+      "time": "02:30"
     },
     {
-      "title": "\"롤러코스피에 질렸어요\" 3%대 이자 등장에 35조 예금으로",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001962780&office_id=057&mode=mainnews&type=&date=2026-08-09&page=1",
-      "source": "메인 뉴스",
-      "time": "01:33"
+      "title": "요동치는 원·달러 환율… 올들어 변동폭 47원",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003992082&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
+      "source": "증권 시황",
+      "time": "02:30"
     },
     {
-      "title": "모건스탠리 \"메모리주 가파른 조정 끝났다…재진입 매력적\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016241205&office_id=001&mode=mainnews&type=&date=2026-08-09&page=1",
-      "source": "메인 뉴스",
-      "time": "01:33"
+      "title": "주가 하락에 고령층·청년 마통 연체 증가",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003992074&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
+      "source": "증권 시황",
+      "time": "02:30"
     },
     {
-      "title": "휴가철 종료·극한 폭염에 전력수요 비상…예비율 10% 밑으로",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001962770&office_id=057&mode=mainnews&type=&date=2026-08-09&page=1",
-      "source": "메인 뉴스",
-      "time": "01:33"
+      "title": "단일종목 규제하자, 지수 레버리지 ETF로 이동",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003992073&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
+      "source": "증권 시황",
+      "time": "02:30"
     },
     {
-      "title": "\"폭락했다고 한방에 만회하려다간 큰일\"…전문가가 강조한 '투자 원칙'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005800641&office_id=277&mode=mainnews&type=&date=2026-08-09&page=1",
-      "source": "메인 뉴스",
-      "time": "01:33"
+      "title": "[주간경제지표] 2026년 8월 7일자",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003992069&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
+      "source": "증권 시황",
+      "time": "02:30"
     },
     {
-      "title": "상장 예심 통과 덕산넵코어스, 적정가치比 39% 할인율 승부수[시그널]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004650009&office_id=011&mode=mainnews&type=&date=2026-08-09&page=1",
-      "source": "메인 뉴스",
-      "time": "01:33"
+      "title": "이르면 10월 동전주 첫 퇴출… 39곳 ‘관리종목 우려’ 대상에",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003739596&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
+      "source": "증권 시황",
+      "time": "02:30"
     },
     {
-      "title": "극심한 변동장에…커버드콜로 대피 늘었다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004650008&office_id=011&mode=mainnews&type=&date=2026-08-09&page=1",
-      "source": "메인 뉴스",
-      "time": "01:33"
+      "title": "단일종목 레버리지 묶자 지수형 ETF로 ‘머니 무브’",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003739579&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
+      "source": "증권 시황",
+      "time": "02:30"
     },
     {
-      "title": "워런 버핏처럼 美우량주 투자 변동성 장세에서 안정적 성과[이런 펀드 어때요?]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005559034&office_id=014&mode=mainnews&type=&date=2026-08-09&page=1",
-      "source": "메인 뉴스",
-      "time": "01:33"
+      "title": "애플, 중국 CXMT 칩 시험…美 규제 속 도입 검토",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005800661&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
+      "source": "증권 시황",
+      "time": "02:30"
     },
     {
-      "title": "스페이스X 호실적 타고 우주항공 떴다… 바이오도 급등[ETF 스퀘어]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005559033&office_id=014&mode=mainnews&type=&date=2026-08-09&page=1",
-      "source": "메인 뉴스",
-      "time": "01:33"
+      "title": "모건스탠리 \"메모리주 가파른 조정 끝났다\"?하닉 목표가 260만원 유지",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001048295&office_id=031&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260810&page=1",
+      "source": "증권 시황",
+      "time": "02:30"
     }
   ]
 }
