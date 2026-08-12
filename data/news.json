@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-12T17:03:11+00:00",
-  "updated_kst": "2026-08-13T02:03:11+09:00",
+  "updated": "2026-08-12T19:00:32+00:00",
+  "updated_kst": "2026-08-13T04:00:32+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "\"분산투자 좋은 거 아니었어?\"…TDF 여러 개 샀더니 은퇴 전략 꼬인다[부꾸미]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005399297&office_id=008&mode=mainnews&type=&date=2026-08-13&page=1",
+      "source": "메인 뉴스",
+      "time": "04:00"
+    },
+    {
+      "title": "부실기업 퇴출 본격화… 30개 종목에 ‘1차 경고장’",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001866585&office_id=005&mode=mainnews&type=&date=2026-08-13&page=1",
+      "source": "메인 뉴스",
+      "time": "04:00"
+    },
     {
       "title": "주가 급락땐 '손실보전' 부메랑..PRS 3.8조 썼다가 1.2조 날릴 판",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006350631&office_id=018&mode=mainnews&type=&date=2026-08-13&page=1",
       "source": "메인 뉴스",
-      "time": "02:03"
+      "time": "04:00"
     },
     {
       "title": "PRS 올해만 6.3조..주가 떨어지면 '숨은 빚' 터진다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006350630&office_id=018&mode=mainnews&type=&date=2026-08-13&page=1",
       "source": "메인 뉴스",
-      "time": "02:03"
+      "time": "04:00"
     },
     {
       "title": "‘반도체 훈풍’ 삼전 6.68% 급등… 7000피 다시 갈까",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001866576&office_id=005&mode=mainnews&type=&date=2026-08-13&page=1",
       "source": "메인 뉴스",
-      "time": "02:03"
+      "time": "04:00"
     },
     {
       "title": "널뛰기 증시에 변액보험 가입자 속앓이",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003992684&office_id=023&mode=mainnews&type=&date=2026-08-13&page=1",
       "source": "메인 뉴스",
-      "time": "02:03"
+      "time": "04:00"
+    },
+    {
+      "title": "美반도체 약세속, 삼전닉스 강세… K증시 동반상승",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005399305&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260813&page=1",
+      "source": "증권 시황",
+      "time": "04:00"
+    },
+    {
+      "title": "\"거품론에도 실적 탄탄, 올해는 AI반도체\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005399296&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260813&page=1",
+      "source": "증권 시황",
+      "time": "04:00"
+    },
+    {
+      "title": "[美특징주]시스코시스템즈, 4Q 실적 발표 앞두고 AI 인프라 수요 기대…주가 2%↑",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006350632&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260813&page=1",
+      "source": "증권 시황",
+      "time": "04:00"
     },
     {
       "title": "미래에셋증권 2분기 순이익 1.9조 돌파",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001866571&office_id=005&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260813&page=1",
       "source": "증권 시황",
-      "time": "02:03"
+      "time": "04:00"
     },
     {
       "title": "‘큰손’ 블랙록, 한국 바이오주 잇달아 사들여",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003992682&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260813&page=1",
       "source": "증권 시황",
-      "time": "02:03"
+      "time": "04:00"
     },
     {
       "title": "[주식 매매 상위 종목 및 환율] 2026년 8월 12일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003992681&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260813&page=1",
       "source": "증권 시황",
-      "time": "02:03"
-    },
-    {
-      "title": "[주요경제지표] 2026년 8월 12일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003992666&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260813&page=1",
-      "source": "증권 시황",
-      "time": "02:03"
-    },
-    {
-      "title": "미래에셋 2분기 순익 1.9조… 5대銀 제치고 금융권 1위에",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003740484&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260813&page=1",
-      "source": "증권 시황",
-      "time": "02:03"
-    },
-    {
-      "title": "‘동전주-시총 미달’ 36개 상장사 관리종목 지정",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003740476&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260813&page=1",
-      "source": "증권 시황",
-      "time": "02:03"
-    },
-    {
-      "title": "‘동전주·시총미달’ 상장사 36개 관리종목 지정",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003544058&office_id=025&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260813&page=1",
-      "source": "증권 시황",
-      "time": "02:03"
-    },
-    {
-      "title": "보스턴 연은 총재 \"물가 너무 높아\"…9월 금리인상 가능성 열어",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005802345&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260813&page=1",
-      "source": "증권 시황",
-      "time": "02:03"
+      "time": "04:00"
     }
   ]
 }
