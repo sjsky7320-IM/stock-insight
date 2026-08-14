@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-14T19:47:31+00:00",
-  "updated_kst": "2026-08-15T04:47:31+09:00",
+  "updated": "2026-08-14T20:29:39+00:00",
+  "updated_kst": "2026-08-15T05:29:39+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "[속보]뉴욕증시, 소비지표 부진에 발목…S&P500 0.2%↓",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006352266&office_id=018&mode=mainnews&type=&date=2026-08-15&page=1",
+      "source": "메인 뉴스",
+      "time": "05:29"
+    },
+    {
+      "title": "\"AI에 반도체만 있다?…전력·휴머노이드도 주목해야\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001155461&office_id=417&mode=mainnews&type=&date=2026-08-15&page=1",
+      "source": "메인 뉴스",
+      "time": "05:29"
+    },
     {
       "title": "BBC가 보도한 은행원 김씨 결혼자금 2천만원 말아먹은 사연",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002811594&office_id=021&mode=mainnews&type=&date=2026-08-15&page=1",
       "source": "메인 뉴스",
-      "time": "04:47"
+      "time": "05:29"
     },
     {
       "title": "솔리다임 IPO, 하이닉스 주주에 독될까 약될까",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003122054&office_id=119&mode=mainnews&type=&date=2026-08-15&page=1",
       "source": "메인 뉴스",
-      "time": "04:47"
+      "time": "05:29"
     },
     {
       "title": "AI 피크론 기우였나…샌디스크 등 \"강한 수요 지속\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006352244&office_id=018&mode=mainnews&type=&date=2026-08-15&page=1",
       "source": "메인 뉴스",
-      "time": "04:47"
+      "time": "05:29"
     },
     {
       "title": "롯데렌탈 새 주인 찾았다…美 사모펀드 TPG에 매각[주간사모펀드]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000524804&office_id=629&mode=mainnews&type=&date=2026-08-15&page=1",
       "source": "메인 뉴스",
-      "time": "04:47"
+      "time": "05:29"
+    },
+    {
+      "title": "사명변경 3주년 KCGI운용, 공모주식형 순자산 10위권 진입",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003122065&office_id=119&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260815&page=1",
+      "source": "증권 시황",
+      "time": "05:29"
+    },
+    {
+      "title": "월 2000만원 버는 코디 나왔다…코웨이 품목 늘자 소득도 '쑥'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001155460&office_id=417&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260815&page=1",
+      "source": "증권 시황",
+      "time": "05:29"
     },
     {
       "title": "SK는 왜 ‘4중 상장’에 도전하나…63조원 미스테리와 아메리카 드림[홍길용의 화식열전](..",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002684254&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260815&page=1",
       "source": "증권 시황",
-      "time": "04:47"
+      "time": "05:29"
     },
     {
       "title": "[美특징주]시스코시스템즈, 월가로부터 투자의견·목표가 하향 여파…주가 약세",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006352262&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260815&page=1",
       "source": "증권 시황",
-      "time": "04:47"
+      "time": "05:29"
     },
     {
       "title": "[美특징주]웨이페어, 美 매출 성장 주목한 월가의 투자의견 상향에 주가 강세",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006352261&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260815&page=1",
       "source": "증권 시황",
-      "time": "04:47"
+      "time": "05:29"
     },
     {
       "title": "[美특징주]폭스, 로쿠 인수 시너지 기대·월가 잇단 상향에 주가 5% 상승",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006352259&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260815&page=1",
       "source": "증권 시황",
-      "time": "04:47"
-    },
-    {
-      "title": "[美특징주]인튜이티브머신스, 수주잔고 확대·투자의견 상향…주가 7%↑",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006352258&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260815&page=1",
-      "source": "증권 시황",
-      "time": "04:47"
-    },
-    {
-      "title": "바이낸스, 20배 레버리지에 24시간 연중무휴 거래… 한국인은 차단",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003042471&office_id=029&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260815&page=1",
-      "source": "증권 시황",
-      "time": "04:47"
-    },
-    {
-      "title": "[美특징주]코파트, 특별한 재료 없이 6%대 상승",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006352252&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260815&page=1",
-      "source": "증권 시황",
-      "time": "04:47"
-    },
-    {
-      "title": "[주식 매매 상위 종목 및 환율] 2026년 8월 14일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003993141&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260815&page=1",
-      "source": "증권 시황",
-      "time": "04:47"
+      "time": "05:29"
     }
   ]
 }
