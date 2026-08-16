@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-16T21:18:40+00:00",
-  "updated_kst": "2026-08-17T06:18:40+09:00",
+  "updated": "2026-08-16T22:19:15+00:00",
+  "updated_kst": "2026-08-17T07:19:15+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "'돈 없는 개미 빠져라'…레버리지 보완책 효과는[여의도 물어보살③]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003122287&office_id=119&mode=mainnews&type=&date=2026-08-17&page=1",
+      "source": "메인 뉴스",
+      "time": "07:19"
+    },
+    {
+      "title": "솔리다임 IPO설 '모락'…SK하닉 주주에 득일까, 실일까",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001262570&office_id=215&mode=mainnews&type=&date=2026-08-17&page=1",
+      "source": "메인 뉴스",
+      "time": "07:19"
+    },
+    {
+      "title": "공차·샤브올데이·맘스터치…사모펀드들의 F&B 거래 공식 [시그널]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004652259&office_id=011&mode=mainnews&type=&date=2026-08-17&page=1",
+      "source": "메인 뉴스",
+      "time": "07:19"
+    },
+    {
+      "title": "예탁금 다시 100조 돌파…개미들 다시 총알 모았다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005562279&office_id=014&mode=mainnews&type=&date=2026-08-17&page=1",
+      "source": "메인 뉴스",
+      "time": "07:19"
+    },
+    {
+      "title": "서학개미 '팔자' 행렬에도...증권사 수수료, 역대급 실적",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001262567&office_id=215&mode=mainnews&type=&date=2026-08-17&page=1",
+      "source": "메인 뉴스",
+      "time": "07:19"
+    },
+    {
+      "title": "이번 주 채권 4.7조 발행 예정…롯데건설 등 수요예측",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016254099&office_id=001&mode=mainnews&type=&date=2026-08-17&page=1",
+      "source": "메인 뉴스",
+      "time": "07:19"
+    },
+    {
+      "title": "회사채 조달 비용 오르자…기업들, 메자닌으로 눈 돌리나",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016254088&office_id=001&mode=mainnews&type=&date=2026-08-17&page=1",
+      "source": "메인 뉴스",
+      "time": "07:19"
+    },
     {
       "title": "롤러코스피…\"변동성장치 실효 높이고 장기기관투자 기반확충 필요\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016254083&office_id=001&mode=mainnews&type=&date=2026-08-17&page=1",
       "source": "메인 뉴스",
-      "time": "06:18"
+      "time": "07:19"
     },
     {
       "title": "키옥시아로 재미 본 일학개미 “다음은 여기다”…줍줍한 종목은",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005721809&office_id=009&mode=mainnews&type=&date=2026-08-17&page=1",
       "source": "메인 뉴스",
-      "time": "06:18"
+      "time": "07:19"
     },
     {
       "title": "“반도체 버스, 지금 타야죠”…팹리스·장비사도 잇따라 상장채비",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005721808&office_id=009&mode=mainnews&type=&date=2026-08-17&page=1",
       "source": "메인 뉴스",
-      "time": "06:18"
+      "time": "07:19"
     },
     {
       "title": "2분기 서학개미 순매도에도…증권사, 해외 수수료 1조 벌었다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016254077&office_id=001&mode=mainnews&type=&date=2026-08-17&page=1",
       "source": "메인 뉴스",
-      "time": "06:18"
+      "time": "07:19"
     },
     {
       "title": "[단독] 은행 떠난 ELS, 증권사서 부활…\"삼전닉스 폭락 안하면 高수익\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005321462&office_id=015&mode=mainnews&type=&date=2026-08-17&page=1",
       "source": "메인 뉴스",
-      "time": "06:18"
-    },
-    {
-      "title": "\"건설株 훈풍 부나\"…부동산 공급대책에 수혜 기대감 '쑥'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005562274&office_id=014&mode=mainnews&type=&date=2026-08-17&page=1",
-      "source": "메인 뉴스",
-      "time": "06:18"
-    },
-    {
-      "title": "물가 우려 덜었지만… FOMC 의사록·국채 입찰 변수[주간증시전망]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001186585&office_id=366&mode=mainnews&type=&date=2026-08-17&page=1",
-      "source": "메인 뉴스",
-      "time": "06:18"
-    },
-    {
-      "title": "'휴머노이드 1위' 유니트리 상장…현대차에 약 될까 독 될까 [노정동의 어쩌다 투자자]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005321458&office_id=015&mode=mainnews&type=&date=2026-08-17&page=1",
-      "source": "메인 뉴스",
-      "time": "06:18"
-    },
-    {
-      "title": "‘오르락 내리락’ 주가 변동성의 늪…상장사 M&A의 딜레마",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002684582&office_id=016&mode=mainnews&type=&date=2026-08-17&page=1",
-      "source": "메인 뉴스",
-      "time": "06:18"
-    },
-    {
-      "title": "하이닉스 '솔리다임' IPO설…증권가 \"지분희석\" vs \"실익있다\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016254063&office_id=001&mode=mainnews&type=&date=2026-08-17&page=1",
-      "source": "메인 뉴스",
-      "time": "06:18"
-    },
-    {
-      "title": "급락장 끝났지만 빠른 반등도 없다…전문가 7인이 본 증시",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001155541&office_id=417&mode=mainnews&type=&date=2026-08-17&page=1",
-      "source": "메인 뉴스",
-      "time": "06:18"
-    },
-    {
-      "title": "\"이제 다시 금 사야 하나\"…금값 한 달 만에 11% 반등",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009116617&office_id=421&mode=mainnews&type=&date=2026-08-17&page=1",
-      "source": "메인 뉴스",
-      "time": "06:18"
+      "time": "07:19"
     }
   ]
 }
