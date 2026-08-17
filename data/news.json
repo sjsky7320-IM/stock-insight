@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-17T20:25:23+00:00",
-  "updated_kst": "2026-08-18T05:25:23+09:00",
+  "updated": "2026-08-17T21:23:13+00:00",
+  "updated_kst": "2026-08-18T06:23:13+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "“월요일에 장이 열렸어야 했는데”…日·대만서 메모리株 급등",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005722070&office_id=009&mode=mainnews&type=&date=2026-08-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:23"
+    },
+    {
+      "title": "“폭락장 한 번에 정신차렸다”…기대수익률 낮아도 뭉칫돈 몰리는 ETF",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005722069&office_id=009&mode=mainnews&type=&date=2026-08-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:23"
+    },
+    {
+      "title": "뉴욕증시 3대지수 하락···30년물 국채금리 19년래 최고[월가월부]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005722068&office_id=009&mode=mainnews&type=&date=2026-08-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:23"
+    },
+    {
+      "title": "“금값 조정의 끝이 보인다”…개인 투자자 4개월 만에 金 순매수",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004652450&office_id=011&mode=mainnews&type=&date=2026-08-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:23"
+    },
+    {
+      "title": "'전세계 1위' 코스닥이지만…액티브 ETF 수익률은 천차만별 [ETF 업&다운]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009117866&office_id=421&mode=mainnews&type=&date=2026-08-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:23"
+    },
+    {
+      "title": "코스피 외국인 순매수 '역대 최대'…\"7000 안착하면 그 이상도 가능\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009117858&office_id=421&mode=mainnews&type=&date=2026-08-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:23"
+    },
+    {
+      "title": "올라도 고민, 떨어져도 고민…싱글파이어 머니쇼에서 물어보세요",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005401018&office_id=008&mode=mainnews&type=&date=2026-08-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:23"
+    },
+    {
+      "title": "뉴욕증시 3대 지수 하락…메모리 반도체주는 AI훈풍 강세",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002238037&office_id=138&mode=mainnews&type=&date=2026-08-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:23"
+    },
+    {
+      "title": "7000피 안착 도전…‘삼전닉스’ 회복 중 변수는 FOMC [주간 증시 전망]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004652448&office_id=011&mode=mainnews&type=&date=2026-08-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:23"
+    },
+    {
+      "title": "유가 90달러·30년물 5.31%…이란 리스크에 美증시↓[월스트리트in]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006353111&office_id=018&mode=mainnews&type=&date=2026-08-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:23"
+    },
+    {
+      "title": "트럼프, 종전 MOU 연장 거부…일제히 하락 마감[뉴욕증시]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005803802&office_id=277&mode=mainnews&type=&date=2026-08-18&page=1",
+      "source": "메인 뉴스",
+      "time": "06:23"
+    },
     {
       "title": "[단독]SK ‘4중 상장’ 주인공 솔리다임, 상반기 순이익 5.9조원 전년比 44배↑…‘황금알 낳는 거위’ 입증",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002684757&office_id=016&mode=mainnews&type=&date=2026-08-18&page=1",
       "source": "메인 뉴스",
-      "time": "05:25"
-    },
-    {
-      "title": "[속보]뉴욕증시, 이란 긴장에 하락…30년물 금리 5.31%",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006353106&office_id=018&mode=mainnews&type=&date=2026-08-18&page=1",
-      "source": "메인 뉴스",
-      "time": "05:25"
-    },
-    {
-      "title": "\"마통 2000만원, SK하닉만 정신 차리면 금새 갚아\" 물타기 하다 '돌려막기 빚투' [인생한방에 빠진 청년들④]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005562574&office_id=014&mode=mainnews&type=&date=2026-08-18&page=1",
-      "source": "메인 뉴스",
-      "time": "05:25"
-    },
-    {
-      "title": "누그러진 변동장, FOMC에 반등 달렸다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005400982&office_id=008&mode=mainnews&type=&date=2026-08-18&page=1",
-      "source": "메인 뉴스",
-      "time": "05:25"
-    },
-    {
-      "title": "\"비싼 햄버거엔 지갑 열었다\" 주가 30% 쑥...'이 회사' 역주행",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005400981&office_id=008&mode=mainnews&type=&date=2026-08-18&page=1",
-      "source": "메인 뉴스",
-      "time": "05:25"
-    },
-    {
-      "title": "美 장기금리 왜 안 떨어지나…AI 회사채와 ‘자금 쟁탈전’",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006353093&office_id=018&mode=mainnews&type=&date=2026-08-18&page=1",
-      "source": "메인 뉴스",
-      "time": "05:25"
-    },
-    {
-      "title": "사모펀드 규제 법안 1년 새 8개 쏟아져",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003993436&office_id=023&mode=mainnews&type=&date=2026-08-18&page=1",
-      "source": "메인 뉴스",
-      "time": "05:25"
-    },
-    {
-      "title": "사방서 돈 끌어오는 AI 공룡들 \"건전성 판단 기준 4가지\" [특별인터뷰]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006353068&office_id=018&mode=mainnews&type=&date=2026-08-18&page=1",
-      "source": "메인 뉴스",
-      "time": "05:25"
-    },
-    {
-      "title": "[단독]SK ‘4중 상장’ 주인공 솔리다임, 상반기 순이익 5.9조원 전년比 44배↑…‘황..",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002684757&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260818&page=1",
-      "source": "증권 시황",
-      "time": "05:25"
-    },
-    {
-      "title": "[속보] 미·이란 협상 교착…다우 0.51%↓",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001262631&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260818&page=1",
-      "source": "증권 시황",
-      "time": "05:25"
-    },
-    {
-      "title": "[속보]'휴전 연장 없다'…뉴욕증시 일제히 하락 마감",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005803800&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260818&page=1",
-      "source": "증권 시황",
-      "time": "05:25"
-    },
-    {
-      "title": "[속보]뉴욕증시, 미·이란 갈등 지속에 하락 마감…다우 0.51%↓",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014131668&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260818&page=1",
-      "source": "증권 시황",
-      "time": "05:25"
+      "time": "06:23"
     }
   ]
 }
