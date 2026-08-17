@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-17T17:25:35+00:00",
-  "updated_kst": "2026-08-18T02:25:35+09:00",
+  "updated": "2026-08-17T18:36:54+00:00",
+  "updated_kst": "2026-08-18T03:36:54+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "美 장기금리 왜 안 떨어지나…AI 회사채와 ‘자금 쟁탈전’",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006353093&office_id=018&mode=mainnews&type=&date=2026-08-18&page=1",
+      "source": "메인 뉴스",
+      "time": "03:36"
+    },
     {
       "title": "사모펀드 규제 법안 1년 새 8개 쏟아져",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003993436&office_id=023&mode=mainnews&type=&date=2026-08-18&page=1",
       "source": "메인 뉴스",
-      "time": "02:25"
+      "time": "03:36"
     },
     {
       "title": "사방서 돈 끌어오는 AI 공룡들 \"건전성 판단 기준 4가지\" [특별인터뷰]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006353068&office_id=018&mode=mainnews&type=&date=2026-08-18&page=1",
       "source": "메인 뉴스",
-      "time": "02:25"
+      "time": "03:36"
     },
     {
       "title": "그록, 몸값 반토막…엔비디아 경쟁 대신 데이터센터로 전환",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005803796&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260818&page=1",
       "source": "증권 시황",
-      "time": "02:25"
+      "time": "03:36"
     },
     {
       "title": "[주요국 증시] 2026년 8월 17일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003993423&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260818&page=1",
       "source": "증권 시황",
-      "time": "02:25"
+      "time": "03:36"
     },
     {
       "title": "[머니 컨설팅]초보 투자자, 분산하되 절반은 주식에 담자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003741371&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260818&page=1",
       "source": "증권 시황",
-      "time": "02:25"
+      "time": "03:36"
     },
     {
       "title": "[단신]삼성증권, ISA 개설 수수료 우대 이벤트 外",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003741370&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260818&page=1",
       "source": "증권 시황",
-      "time": "02:25"
+      "time": "03:36"
     },
     {
       "title": "그림-영화 등에 조각 투자, 신종증권시장 11월 개설",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003741355&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260818&page=1",
       "source": "증권 시황",
-      "time": "02:25"
+      "time": "03:36"
     },
     {
       "title": "내수 대신 해외로 눈 돌렸더니…중국 기업 7곳, 잘 나가네",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003544917&office_id=025&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260818&page=1",
       "source": "증권 시황",
-      "time": "02:25"
+      "time": "03:36"
     },
     {
       "title": "[올댓차이나] 홍콩 증시, 저가 매수세로 닷새 만에 반등 마감… H주 1.19%↑",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014131612&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260818&page=1",
       "source": "증권 시황",
-      "time": "02:25"
+      "time": "03:36"
     },
     {
       "title": "[뉴욕증시]이란 \"외교 실패시 군사행동\" 경고…일제히 하락",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005803793&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260818&page=1",
       "source": "증권 시황",
-      "time": "02:25"
+      "time": "03:36"
     },
     {
       "title": "뉴욕증시, 미국·이란 갈등 지속에 혼조 출발",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001186690&office_id=366&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260818&page=1",
       "source": "증권 시황",
-      "time": "02:25"
-    },
-    {
-      "title": "[속보]뉴욕증시, 이란 불확실성 속 혼조 출발.…나스닥 0.01%↑",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014131608&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260818&page=1",
-      "source": "증권 시황",
-      "time": "02:25"
+      "time": "03:36"
     }
   ]
 }
