@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-18T22:22:14+00:00",
-  "updated_kst": "2026-08-19T07:22:14+09:00",
+  "updated": "2026-08-18T23:11:50+00:00",
+  "updated_kst": "2026-08-19T08:11:50+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "저스템, 2분기 영업익 346%↑…목표가 2만7000원 유지-한화",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006353849&office_id=018&mode=mainnews&type=&date=2026-08-19&page=1",
+      "source": "메인 뉴스",
+      "time": "08:11"
+    },
+    {
+      "title": "유가 뛰고 美 30년물 금리 19년 만 최고…반도체주 급락[뉴스새벽배송]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006353842&office_id=018&mode=mainnews&type=&date=2026-08-19&page=1",
+      "source": "메인 뉴스",
+      "time": "08:11"
+    },
+    {
+      "title": "벤처캐피털, 돈 가뭄 끝나자 거품 걱정…200조 돈벼락의 역설 [대형VC 대해부]①",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005804382&office_id=277&mode=mainnews&type=&date=2026-08-19&page=1",
+      "source": "메인 뉴스",
+      "time": "08:11"
+    },
+    {
+      "title": "중동 불안에 美 반도체주도 급락…코스피, 外人 수급에 촉각[오늘의 증시]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014134052&office_id=003&mode=mainnews&type=&date=2026-08-19&page=1",
+      "source": "메인 뉴스",
+      "time": "08:11"
+    },
+    {
+      "title": "반도체지수 급락, 범인은 누구일까 [마켓무버의 국장힌트]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001262775&office_id=215&mode=mainnews&type=&date=2026-08-19&page=1",
+      "source": "메인 뉴스",
+      "time": "08:11"
+    },
+    {
+      "title": "\"결국 답은 주주환원에 있다\"…변동성 장세 뚫는 투자법은[실전재테크]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005804381&office_id=277&mode=mainnews&type=&date=2026-08-19&page=1",
+      "source": "메인 뉴스",
+      "time": "08:11"
+    },
+    {
+      "title": "케이씨 2세 고상걸 강력한 오너십의 비결 ‘몰아주기 증여’[거버넌스워치]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000049937&office_id=648&mode=mainnews&type=&date=2026-08-19&page=1",
+      "source": "메인 뉴스",
+      "time": "08:11"
+    },
     {
       "title": "글로벌 장기채 매도세 충격...필라델피아반도체지수 4.98% 하락-[굿모닝 글로벌 이슈]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001262769&office_id=215&mode=mainnews&type=&date=2026-08-19&page=1",
       "source": "메인 뉴스",
-      "time": "07:22"
+      "time": "08:11"
     },
     {
       "title": "연금 치트키?…변동장 안전벨트는 ‘반반 ETF’[통장잔GO]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003122850&office_id=119&mode=mainnews&type=&date=2026-08-19&page=1",
       "source": "메인 뉴스",
-      "time": "07:22"
+      "time": "08:11"
     },
     {
-      "title": "메모리값·HBM·배당까지…'삼성의 시간' 다시 오나[클릭e종목]",
+      "title": "지금 26만원인데 30만원 더?…메모리값·HBM·배당까지 '삼성의 시간' 다시 오나[클릭e종목]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005804365&office_id=277&mode=mainnews&type=&date=2026-08-19&page=1",
       "source": "메인 뉴스",
-      "time": "07:22"
+      "time": "08:11"
     },
     {
       "title": "덜 팔아야 더 번다…보험주 반격의 조건[클릭e산업]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005804364&office_id=277&mode=mainnews&type=&date=2026-08-19&page=1",
       "source": "메인 뉴스",
-      "time": "07:22"
+      "time": "08:11"
     },
     {
       "title": "\"퇴직연금으로 한방 노렸다\"...월급쟁이 뭉칫돈 '은행→증권' 대이동",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005401632&office_id=008&mode=mainnews&type=&date=2026-08-19&page=1",
       "source": "메인 뉴스",
-      "time": "07:22"
-    },
-    {
-      "title": "\"500만원→5,000만원 불려\"…'수익률 900%' 임현태, 투자 비법은",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001262766&office_id=215&mode=mainnews&type=&date=2026-08-19&page=1",
-      "source": "메인 뉴스",
-      "time": "07:22"
-    },
-    {
-      "title": "\"미국 접수한 신라면·불닭볶음면\"…K라면 수출 끓어올랐다 [분석+]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005322212&office_id=015&mode=mainnews&type=&date=2026-08-19&page=1",
-      "source": "메인 뉴스",
-      "time": "07:22"
-    },
-    {
-      "title": "지주사 훈풍도 못 덮은 '올영 비용청구서'…CJ 목표가 줄하향 [종목+]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005322211&office_id=015&mode=mainnews&type=&date=2026-08-19&page=1",
-      "source": "메인 뉴스",
-      "time": "07:22"
-    },
-    {
-      "title": "“도박하듯 주식하는 버릇, 안 바뀌네요”…레버리지 막자 ‘빚투’ 늘었다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005722617&office_id=009&mode=mainnews&type=&date=2026-08-19&page=1",
-      "source": "메인 뉴스",
-      "time": "07:22"
-    },
-    {
-      "title": "“하닉 ADR -9.2%…오늘 삼전·닉스 불안하네” 뉴욕증시, 중동 긴장·미 국채금리 급등에 하락 마감",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002812135&office_id=021&mode=mainnews&type=&date=2026-08-19&page=1",
-      "source": "메인 뉴스",
-      "time": "07:22"
-    },
-    {
-      "title": "상관계수에 막힌 액티브 ETF…규제 완화 논의도 ‘제자리’",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001186963&office_id=366&mode=mainnews&type=&date=2026-08-19&page=1",
-      "source": "메인 뉴스",
-      "time": "07:22"
-    },
-    {
-      "title": "최태원發 오버행 덜고 하이닉스 뜨고…SK '할인 딱지' 뗀다 [증시는 왜]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005563218&office_id=014&mode=mainnews&type=&date=2026-08-19&page=1",
-      "source": "메인 뉴스",
-      "time": "07:22"
+      "time": "08:11"
     }
   ]
 }
