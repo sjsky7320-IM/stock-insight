@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-19T19:23:32+00:00",
-  "updated_kst": "2026-08-20T04:23:32+09:00",
+  "updated": "2026-08-19T20:25:38+00:00",
+  "updated_kst": "2026-08-20T05:25:38+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "대어 오픈AI, 내년 상장한다…IPO 일정 첫 공개",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003043218&office_id=029&mode=mainnews&type=&date=2026-08-20&page=1",
+      "source": "메인 뉴스",
+      "time": "05:25"
+    },
+    {
+      "title": "시장 초과수익 냈더니 '상폐' 통보, 액티브 ETF '상관계수' 논란",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001155827&office_id=417&mode=mainnews&type=&date=2026-08-20&page=1",
+      "source": "메인 뉴스",
+      "time": "05:25"
+    },
+    {
+      "title": "오픈AI CFO “2027년 상장기업 될 것…더 빨라질 수도”",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006354486&office_id=018&mode=mainnews&type=&date=2026-08-20&page=1",
+      "source": "메인 뉴스",
+      "time": "05:25"
+    },
+    {
+      "title": "Fed 의사록 \"물가 안 잡히면 긴축 필요\"…금리인상론 확산(종합)",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005804887&office_id=277&mode=mainnews&type=&date=2026-08-20&page=1",
+      "source": "메인 뉴스",
+      "time": "05:25"
+    },
     {
       "title": "문 연 레버리지ETF 모의거래… 보완책에도 책임론",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005402167&office_id=008&mode=mainnews&type=&date=2026-08-20&page=1",
       "source": "메인 뉴스",
-      "time": "04:23"
+      "time": "05:25"
     },
     {
       "title": "코스피 영업익 '쑥', 삼전닉스 빼도 75%↑",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005402158&office_id=008&mode=mainnews&type=&date=2026-08-20&page=1",
       "source": "메인 뉴스",
-      "time": "04:23"
+      "time": "05:25"
     },
     {
-      "title": "Fed 의사록 \"물가 안 잡히면 긴축 필요\"…금리인상론 확산(종합)",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005804887&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260820&page=1",
+      "title": "[속보]뉴욕증시, 美국채금리 하락에 상승 마감",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014136730&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260820&page=1",
       "source": "증권 시황",
-      "time": "04:23"
+      "time": "05:25"
     },
     {
-      "title": "[美특징주]에스티로더, 4Q 호실적·성장전략 기대감에 16%대 급등",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006354482&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260820&page=1",
+      "title": "[속보]장기금리 급락하자 美증시 상승…다우 0.2%↑",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006354494&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260820&page=1",
       "source": "증권 시황",
-      "time": "04:23"
+      "time": "05:25"
     },
     {
-      "title": "美국채금리 급등 직격탄… 코스피, 6500선 아래로",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005402159&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260820&page=1",
+      "title": "[속보]재무부 '바이백' 확대 소식에 소폭 상승 마감",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005804890&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260820&page=1",
       "source": "증권 시황",
-      "time": "04:23"
+      "time": "05:25"
     },
     {
-      "title": "[상보]7월 FOMC 의사록 \"물가 안 잡히면 추가 긴축 필요\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005804886&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260820&page=1",
+      "title": "‘미국 금리 쇼크’ 일단 진정?…‘삼전닉스’ 역대급 주주환원도 힘 받나",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003043219&office_id=029&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260820&page=1",
       "source": "증권 시황",
-      "time": "04:23"
+      "time": "05:25"
     },
     {
-      "title": "트럼프 \"김정은과 올해 안에 만날 것\"…\"北 핵무기 57개 보유\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005804884&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260820&page=1",
+      "title": "\"삼전 출신 모셔라\"…손 내민 의료기기 업체들",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014136726&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260820&page=1",
       "source": "증권 시황",
-      "time": "04:23"
+      "time": "05:25"
     },
     {
-      "title": "[주식 매매 상위 종목 및 환율] 2026년 8월 19일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003993852&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260820&page=1",
+      "title": "[오늘의 주요일정]금융·증권(8월20일 목요일)",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014136719&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260820&page=1",
       "source": "증권 시황",
-      "time": "04:23"
-    },
-    {
-      "title": "삼전닉스 외 상반기 코스피 상장사 영업익 75% 증가",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003993851&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260820&page=1",
-      "source": "증권 시황",
-      "time": "04:23"
-    },
-    {
-      "title": "[주요경제지표] 2026년 8월 19일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003993837&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260820&page=1",
-      "source": "증권 시황",
-      "time": "04:23"
-    },
-    {
-      "title": "[사설] 국채 금리 발작 경고음…가계·기업 충격에 선제 대응을",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004653229&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260820&page=1",
-      "source": "증권 시황",
-      "time": "04:23"
-    },
-    {
-      "title": "한투·NH·미래 IMA 3파전…커지는 자금조달력에 건전성 고삐",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000525798&office_id=629&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260820&page=1",
-      "source": "증권 시황",
-      "time": "04:23"
+      "time": "05:25"
     }
   ]
 }
