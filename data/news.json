@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-20T20:26:31+00:00",
-  "updated_kst": "2026-08-21T05:26:31+09:00",
+  "updated": "2026-08-20T21:24:49+00:00",
+  "updated_kst": "2026-08-21T06:24:49+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "\"40조 환원보다 AI 투자가 변수\"… SK하이닉스 '재무체력' 주시 [fn마켓워치]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005564441&office_id=014&mode=mainnews&type=&date=2026-08-21&page=1",
+      "source": "메인 뉴스",
+      "time": "06:24"
+    },
+    {
+      "title": "오너 주식 매입 늘었지만… “책임경영 신호 그 이상은 아냐”",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001187446&office_id=366&mode=mainnews&type=&date=2026-08-21&page=1",
+      "source": "메인 뉴스",
+      "time": "06:24"
+    },
+    {
+      "title": "배당 확대·자사주 소각 바람…주주에게 진짜 이득일까",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000101940&office_id=243&mode=mainnews&type=&date=2026-08-21&page=1",
+      "source": "메인 뉴스",
+      "time": "06:24"
+    },
+    {
+      "title": "비트코인 7만 달러 돌파… 트럼프 규제완화 법안 압박에 급등",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001868158&office_id=005&mode=mainnews&type=&date=2026-08-21&page=1",
+      "source": "메인 뉴스",
+      "time": "06:24"
+    },
+    {
+      "title": "베선트 '금리 방어'에도 장기채 금리 반등…다우 1.32% ↓[뉴욕증시]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005805512&office_id=277&mode=mainnews&type=&date=2026-08-21&page=1",
+      "source": "메인 뉴스",
+      "time": "06:24"
+    },
+    {
+      "title": "‘베선트 효과’ 하루 만에 끝…금리·유가↑에 뉴욕증시↓[월스트리트in]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006355347&office_id=018&mode=mainnews&type=&date=2026-08-21&page=1",
+      "source": "메인 뉴스",
+      "time": "06:24"
+    },
+    {
+      "title": "[속보] \"바이백 더 늘릴 수도\" 베선트 '약발' 하루 만에 되돌렸다…국채 10년물 4.7% 재돌파",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263061&office_id=215&mode=mainnews&type=&date=2026-08-21&page=1",
+      "source": "메인 뉴스",
+      "time": "06:24"
+    },
     {
       "title": "앤스로픽, 스페이스X 넘어 ‘역대 최대 IPO’ 기록 세우나",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006355332&office_id=018&mode=mainnews&type=&date=2026-08-21&page=1",
       "source": "메인 뉴스",
-      "time": "05:26"
+      "time": "06:24"
     },
     {
       "title": "美 장기국채 금리 5%대… 어떻게 투자할까",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003994083&office_id=023&mode=mainnews&type=&date=2026-08-21&page=1",
       "source": "메인 뉴스",
-      "time": "05:26"
+      "time": "06:24"
     },
     {
       "title": "美 장기채 금리, 하루 만에 재상승…\"바이백은 반창고\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005805506&office_id=277&mode=mainnews&type=&date=2026-08-21&page=1",
       "source": "메인 뉴스",
-      "time": "05:26"
+      "time": "06:24"
     },
     {
       "title": "“단타 대박 불가능… 美 증시처럼 ‘장기 우상향’ 신뢰 쌓아야”",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001868091&office_id=005&mode=mainnews&type=&date=2026-08-21&page=1",
       "source": "메인 뉴스",
-      "time": "05:26"
+      "time": "06:24"
     },
     {
       "title": "40조 자사주 쏜 SK하이닉스…반등 신호탄 VS 하방 지지",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006355322&office_id=018&mode=mainnews&type=&date=2026-08-21&page=1",
       "source": "메인 뉴스",
-      "time": "05:26"
-    },
-    {
-      "title": "[속보] 美국채 금리↑·월마트 실적↓…다우 1.3%↓",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263061&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260821&page=1",
-      "source": "증권 시황",
-      "time": "05:26"
-    },
-    {
-      "title": "[속보]뉴욕증시, 장기금리·유가 상승에 하락…월마트 9%↓",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006355345&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260821&page=1",
-      "source": "증권 시황",
-      "time": "05:26"
-    },
-    {
-      "title": "[속보]뉴욕증시 하락 마감…베선트, 바이백 추가 발언에도 금리 ↑",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005805511&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260821&page=1",
-      "source": "증권 시황",
-      "time": "05:26"
-    },
-    {
-      "title": "뉴욕증시, 美국채 금리 반등에 일제히 하락…다우 1.3%↓",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016262646&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260821&page=1",
-      "source": "증권 시황",
-      "time": "05:26"
-    },
-    {
-      "title": "모더나가 띄운 '암치료 백신'…K-바이오도 '잰걸음'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014139493&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260821&page=1",
-      "source": "증권 시황",
-      "time": "05:26"
-    },
-    {
-      "title": "[오늘의 주요일정]금융·증권(8월21일 금요일)",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014139485&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260821&page=1",
-      "source": "증권 시황",
-      "time": "05:26"
-    },
-    {
-      "title": "앤스로픽, 스페이스X 넘어 사상 최대 IPO 기록세우나",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005805509&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260821&page=1",
-      "source": "증권 시황",
-      "time": "05:26"
+      "time": "06:24"
     }
   ]
 }
