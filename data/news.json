@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-20T14:34:50+00:00",
-  "updated_kst": "2026-08-20T23:34:50+09:00",
+  "updated": "2026-08-20T15:31:51+00:00",
+  "updated_kst": "2026-08-21T00:31:51+09:00",
   "source": "naver-finance",
   "items": [
     {
-      "title": "“내게도 이런 날이”…삼전닉스 폭등에 레버지리 개미들 936억 던졌다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004653666&office_id=011&mode=mainnews&type=&date=2026-08-20&page=1",
+      "title": "美 장기채 금리, 하루 만에 재상승…\"바이백은 반창고\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005805506&office_id=277&mode=mainnews&type=&date=2026-08-21&page=1",
       "source": "메인 뉴스",
-      "time": "23:34"
+      "time": "00:31"
+    },
+    {
+      "title": "40조 자사주 쏜 SK하이닉스…반등 신호탄 VS 하방 지지",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006355322&office_id=018&mode=mainnews&type=&date=2026-08-21&page=1",
+      "source": "메인 뉴스",
+      "time": "00:31"
+    },
+    {
+      "title": "美 신규 실업수당 청구 20만6000건…전망치 하회",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005805507&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260821&page=1",
+      "source": "증권 시황",
+      "time": "00:31"
+    },
+    {
+      "title": "아무 것도 안 하면 A… 거래소의 이상한 ETF LP 평가",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001868105&office_id=005&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260821&page=1",
+      "source": "증권 시황",
+      "time": "00:31"
+    },
+    {
+      "title": "다올투자證, 지난해 총주주수익률 '최저'…주주환원은 '확대'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000526253&office_id=629&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260821&page=1",
+      "source": "증권 시황",
+      "time": "00:31"
+    },
+    {
+      "title": "[뉴욕증시]미국채 금리 하루 만에 반등…일제히 하락",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005805504&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260821&page=1",
+      "source": "증권 시황",
+      "time": "00:31"
+    },
+    {
+      "title": "[부고] 최강원 씨(NH투자증권 ECM본부 상무) 빙부상",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009124805&office_id=421&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260821&page=1",
+      "source": "증권 시황",
+      "time": "00:31"
+    },
+    {
+      "title": "뉴욕증시, 스트래티지·코인베이스 '급등'…트럼프 '입' 주목",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263058&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260821&page=1",
+      "source": "증권 시황",
+      "time": "00:31"
+    },
+    {
+      "title": "“내게도 이런 날이”…삼전닉스 폭등에 레버지리 개미들 936억 던졌다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004653666&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260821&page=1",
+      "source": "증권 시황",
+      "time": "00:31"
     },
     {
       "title": "'돈은 주주에게' SK하닉의 통 큰 결단…\"40조는 시작일 뿐\" [분석+]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005323052&office_id=015&mode=mainnews&type=&date=2026-08-20&page=1",
-      "source": "메인 뉴스",
-      "time": "23:34"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005323052&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260821&page=1",
+      "source": "증권 시황",
+      "time": "00:31"
     },
     {
       "title": "\"지금이다, 일단 차익실현\"…개미 썰물처럼 빠져나갔다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263057&office_id=215&mode=mainnews&type=&date=2026-08-20&page=1",
-      "source": "메인 뉴스",
-      "time": "23:34"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263057&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260821&page=1",
+      "source": "증권 시황",
+      "time": "00:31"
     },
     {
       "title": "SK하이닉스 40조 쏘자…“470만원 간다” “저가 매수, 강력한 신호” 글로벌 IB 호평",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003459146&office_id=030&mode=mainnews&type=&date=2026-08-20&page=1",
-      "source": "메인 뉴스",
-      "time": "23:34"
-    },
-    {
-      "title": "“살 것인가, 팔 것인가, 버틸 것인가”…자본시장서 20여년 버틴 펀드매니저의 선택은?",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005723779&office_id=009&mode=mainnews&type=&date=2026-08-20&page=1",
-      "source": "메인 뉴스",
-      "time": "23:34"
-    },
-    {
-      "title": "“본전 찾게 한번만 기회를” 7500선에 물린 개미 물량만 수십조원, 어쩌나 [투자360]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002686409&office_id=016&mode=mainnews&type=&date=2026-08-20&page=1",
-      "source": "메인 뉴스",
-      "time": "23:34"
-    },
-    {
-      "title": "회사채 시장 온기 돌았는데…연말엔 다시 찬바람?[마켓인]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006355254&office_id=018&mode=mainnews&type=&date=2026-08-20&page=1",
-      "source": "메인 뉴스",
-      "time": "23:34"
-    },
-    {
-      "title": "세입자는 전세, 집주인은 월세…정부가 보증하는 신개념 임대차 나온다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001964713&office_id=057&mode=mainnews&type=&date=2026-08-20&page=1",
-      "source": "메인 뉴스",
-      "time": "23:34"
-    },
-    {
-      "title": "\"스타 키우면 코스피로\" …코스닥의 잔인한 성공 공식",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005564374&office_id=014&mode=mainnews&type=&date=2026-08-20&page=1",
-      "source": "메인 뉴스",
-      "time": "23:34"
-    },
-    {
-      "title": "영풍·MBK \"서스틴베스트, 이사 선임 반대는 명백한 자기모순\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005805478&office_id=277&mode=mainnews&type=&date=2026-08-20&page=1",
-      "source": "메인 뉴스",
-      "time": "23:34"
-    },
-    {
-      "title": "\"베이징 당국이 챙긴다는 신호\"…CSI300 제치고 뭉칫돈 '우르르' 몰리는 곳",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263046&office_id=215&mode=mainnews&type=&date=2026-08-20&page=1",
-      "source": "메인 뉴스",
-      "time": "23:34"
-    },
-    {
-      "title": "“하이닉스 470만원 간다니까” 40조원 쏘자…글로벌 IB “강력한 신호” 일제히 화답",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004653643&office_id=011&mode=mainnews&type=&date=2026-08-20&page=1",
-      "source": "메인 뉴스",
-      "time": "23:34"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003459146&office_id=030&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260821&page=1",
+      "source": "증권 시황",
+      "time": "00:31"
     }
   ]
 }
