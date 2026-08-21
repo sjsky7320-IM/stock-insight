@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-21T07:41:16+00:00",
-  "updated_kst": "2026-08-21T16:41:16+09:00",
+  "updated": "2026-08-21T08:38:48+00:00",
+  "updated_kst": "2026-08-21T17:38:48+09:00",
   "source": "naver-finance",
   "items": [
     {
-      "title": "[속보] \"이번엔 삼전이래\"…하이닉스 기대감 바통 터치 '28만 전자'",
+      "title": "‘삼전·닉스’가 상승 이끈 코스피, 대척점 선 코스닥은 하락",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000050043&office_id=648&mode=mainnews&type=&date=2026-08-21&page=1",
+      "source": "메인 뉴스",
+      "time": "17:38"
+    },
+    {
+      "title": "“어제는 닉스, 오늘은 삼전”…코스피, 주주환원 기대에 6900선 회복[투자360]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002686864&office_id=016&mode=mainnews&type=&date=2026-08-21&page=1",
+      "source": "메인 뉴스",
+      "time": "17:38"
+    },
+    {
+      "title": "37만→18만 반토막 났던 삼성전자, 이번엔 '30만전자' 안착할까",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000526541&office_id=629&mode=mainnews&type=&date=2026-08-21&page=1",
+      "source": "메인 뉴스",
+      "time": "17:38"
+    },
+    {
+      "title": "‘2만닉스’ 전원주 “1주도 안 팔았다, 더 기다릴 것”…40조 푼 하이닉스 주가 방향은",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004653935&office_id=011&mode=mainnews&type=&date=2026-08-21&page=1",
+      "source": "메인 뉴스",
+      "time": "17:38"
+    },
+    {
+      "title": "\"다시 30만원대 넘본다\"…이틀 새 13%↑ 삼전 개미 '환호'",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263163&office_id=215&mode=mainnews&type=&date=2026-08-21&page=1",
       "source": "메인 뉴스",
-      "time": "16:41"
+      "time": "17:38"
     },
     {
       "title": "원·달러 환율 6일째 하락…‘원화 강세 베팅’에 연저점 또 경신 [김혜란의 FX]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004653929&office_id=011&mode=mainnews&type=&date=2026-08-21&page=1",
       "source": "메인 뉴스",
-      "time": "16:41"
+      "time": "17:38"
     },
     {
       "title": "\"삼전닉스 대대적 주주환원, 원화 강세 연장 가능성\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006355763&office_id=018&mode=mainnews&type=&date=2026-08-21&page=1",
       "source": "메인 뉴스",
-      "time": "16:41"
+      "time": "17:38"
     },
     {
       "title": "반도체에 몰린 돈, 이젠 ‘이 업종’으로…증권가가 주목한 다음 주도주는",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004653926&office_id=011&mode=mainnews&type=&date=2026-08-21&page=1",
       "source": "메인 뉴스",
-      "time": "16:41"
+      "time": "17:38"
     },
     {
       "title": "반도체가 끌어올린 코스피…683종목 내렸는데 지수는 0.9% 상승",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002238578&office_id=138&mode=mainnews&type=&date=2026-08-21&page=1",
       "source": "메인 뉴스",
-      "time": "16:41"
+      "time": "17:38"
     },
     {
       "title": "주주환원 훈풍 vs 사이드카 경고음…희비 갈린 하루",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005403089&office_id=008&mode=mainnews&type=&date=2026-08-21&page=1",
       "source": "메인 뉴스",
-      "time": "16:41"
+      "time": "17:38"
     },
     {
       "title": "삼전닉스 ‘주주환원’의 힘… ‘7000피’ 눈 앞[마켓뷰]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001187614&office_id=366&mode=mainnews&type=&date=2026-08-21&page=1",
       "source": "메인 뉴스",
-      "time": "16:41"
+      "time": "17:38"
     },
     {
       "title": "[속보]6900피 지켜낸 코스피…삼전닉스 2~3%대 강세",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006355737&office_id=018&mode=mainnews&type=&date=2026-08-21&page=1",
       "source": "메인 뉴스",
-      "time": "16:41"
-    },
-    {
-      "title": "“2배 막으면? 더 센 3배로 간다”…해외로 향한 개미들의 ‘레버리지 본능’",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005724013&office_id=009&mode=mainnews&type=&date=2026-08-21&page=1",
-      "source": "메인 뉴스",
-      "time": "16:41"
-    },
-    {
-      "title": "흔들리는 달러…디베이스먼트 트레이드 '부활' [마켓딥다이브]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263155&office_id=215&mode=mainnews&type=&date=2026-08-21&page=1",
-      "source": "메인 뉴스",
-      "time": "16:41"
-    },
-    {
-      "title": "HLB, '담관암 신약' FDA 결론 임박…첫 허가 넘어 확장성 주목",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005564691&office_id=014&mode=mainnews&type=&date=2026-08-21&page=1",
-      "source": "메인 뉴스",
-      "time": "16:41"
-    },
-    {
-      "title": "전원주, SK하닉 수익률 9000% 육박…폭락장에도 '꿋꿋' 주목",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000101973&office_id=243&mode=mainnews&type=&date=2026-08-21&page=1",
-      "source": "메인 뉴스",
-      "time": "16:41"
+      "time": "17:38"
     }
   ]
 }
