@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-22T22:20:21+00:00",
-  "updated_kst": "2026-08-23T07:20:21+09:00",
+  "updated": "2026-08-22T23:10:33+00:00",
+  "updated_kst": "2026-08-23T08:10:33+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "\"변동성 장세 지속…엔비디아 실적·잭슨홀 미팅 주목\" [주간전망]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005323550&office_id=015&mode=mainnews&type=&date=2026-08-23&page=1",
+      "source": "메인 뉴스",
+      "time": "08:10"
+    },
+    {
+      "title": "코스피, 7000선 문턱서 주춤…개인 2.4조 순매수",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000089408&office_id=293&mode=mainnews&type=&date=2026-08-23&page=1",
+      "source": "메인 뉴스",
+      "time": "08:10"
+    },
+    {
+      "title": "흥행 엇갈린 니어스랩·해치텍 잇따라 코스닥 상장[공모주달력]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000050054&office_id=648&mode=mainnews&type=&date=2026-08-23&page=1",
+      "source": "메인 뉴스",
+      "time": "08:10"
+    },
+    {
+      "title": "\"연 5% 수익\" 증권사 IMA 고객유치 본격화",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001156090&office_id=417&mode=mainnews&type=&date=2026-08-23&page=1",
+      "source": "메인 뉴스",
+      "time": "08:10"
+    },
+    {
+      "title": "엔비디아, AI 서버값 15% 인상…\"원인은 한국 메모리\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006356273&office_id=018&mode=mainnews&type=&date=2026-08-23&page=1",
+      "source": "메인 뉴스",
+      "time": "08:10"
+    },
+    {
+      "title": "'이미 오른 반도체 말고 없나'…코스피 지지부진한데 활짝 웃었다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263244&office_id=215&mode=mainnews&type=&date=2026-08-23&page=1",
+      "source": "메인 뉴스",
+      "time": "08:10"
+    },
     {
       "title": "이번주 공모주 청약, 스카이랩스 1개사",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003124215&office_id=119&mode=mainnews&type=&date=2026-08-23&page=1",
       "source": "메인 뉴스",
-      "time": "07:20"
+      "time": "08:10"
     },
     {
       "title": "주가 출렁일 때 어디 투자할까…IBK증권이 꺼낸 카드는",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003124212&office_id=119&mode=mainnews&type=&date=2026-08-23&page=1",
       "source": "메인 뉴스",
-      "time": "07:20"
+      "time": "08:10"
     },
     {
       "title": "\"북미회담 기대감에\"…고공행진 남북경협株 '과열주의보'",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014141956&office_id=003&mode=mainnews&type=&date=2026-08-23&page=1",
       "source": "메인 뉴스",
-      "time": "07:20"
+      "time": "08:10"
     },
     {
       "title": "금융당국 '고금리' 지적에…증권사 '매도담보대출' 금리 줄인하",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014141952&office_id=003&mode=mainnews&type=&date=2026-08-23&page=1",
       "source": "메인 뉴스",
-      "time": "07:20"
+      "time": "08:10"
     },
     {
       "title": "빠르게 늘어나는 퇴직연금…채권시장 새 수급처 될까",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016265069&office_id=001&mode=mainnews&type=&date=2026-08-23&page=1",
       "source": "메인 뉴스",
-      "time": "07:20"
+      "time": "08:10"
     },
     {
       "title": "비우량 채권시장 급격히 냉각…올해 BBB급 공모채 발행사 10곳뿐",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016265062&office_id=001&mode=mainnews&type=&date=2026-08-23&page=1",
       "source": "메인 뉴스",
-      "time": "07:20"
-    },
-    {
-      "title": "지지부진 장세에 오히려 '웃었다'…화장품·금·바이오 ETF '쑥'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016265059&office_id=001&mode=mainnews&type=&date=2026-08-23&page=1",
-      "source": "메인 뉴스",
-      "time": "07:20"
-    },
-    {
-      "title": "엔비디아 실적·워시 첫 잭슨홀…뉴욕증시, 'AI랠리·고금리' 시험대",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006356268&office_id=018&mode=mainnews&type=&date=2026-08-23&page=1",
-      "source": "메인 뉴스",
-      "time": "07:20"
-    },
-    {
-      "title": "변동장에 냉기 부는 IPO 시장…3분기 들어 새내기주 평균 25%↓",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016265053&office_id=001&mode=mainnews&type=&date=2026-08-23&page=1",
-      "source": "메인 뉴스",
-      "time": "07:20"
-    },
-    {
-      "title": "삼전닉스 반등에도 투심은 '냉랭'…코스피 회전율 연중 최저",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016265050&office_id=001&mode=mainnews&type=&date=2026-08-23&page=1",
-      "source": "메인 뉴스",
-      "time": "07:20"
-    },
-    {
-      "title": "'불장'에 외국계 증권사 실적도 호조…순익증가율 국내증권사 압도",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016265046&office_id=001&mode=mainnews&type=&date=2026-08-23&page=1",
-      "source": "메인 뉴스",
-      "time": "07:20"
-    },
-    {
-      "title": "급락 뒤 급반등 ‘롤러코스피’…美금리에 울고 주주환원에 웃었다 [선데이 머니카페]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004654169&office_id=011&mode=mainnews&type=&date=2026-08-23&page=1",
-      "source": "메인 뉴스",
-      "time": "07:20"
+      "time": "08:10"
     }
   ]
 }
