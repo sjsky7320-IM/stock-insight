@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-22T18:28:19+00:00",
-  "updated_kst": "2026-08-23T03:28:19+09:00",
+  "updated": "2026-08-22T19:21:22+00:00",
+  "updated_kst": "2026-08-23T04:21:22+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "\"170만닉스, 한 주도 부담\"…40조 쐈는데 \"다음 카드 나올까\" 설레는 개미",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263243&office_id=215&mode=mainnews&type=&date=2026-08-23&page=1",
+      "source": "메인 뉴스",
+      "time": "04:21"
+    },
     {
       "title": "엔비디아 기대감과 금리 우려의 '이중주' [주간 증시 전망]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003124205&office_id=119&mode=mainnews&type=&date=2026-08-23&page=1",
       "source": "메인 뉴스",
-      "time": "03:28"
+      "time": "04:21"
+    },
+    {
+      "title": "17조 찾는다더니 1.3조 날아갔다…제값 노린 승부수 \"풀어야 할 숙제도 많다\" [주식R]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263242&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260823&page=1",
+      "source": "증권 시황",
+      "time": "04:21"
     },
     {
       "title": "서학개미, '삼전닉스' 담은 美ETF 1000억 넘게 샀다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001051667&office_id=031&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260823&page=1",
       "source": "증권 시황",
-      "time": "03:28"
+      "time": "04:21"
     },
     {
       "title": "“5일 만에 80％ 폭등하더니, '애국주' 한 달 만에 60% 폭락”…투기세력 가담? 또 ..",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003459419&office_id=030&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260823&page=1",
       "source": "증권 시황",
-      "time": "03:28"
+      "time": "04:21"
     },
     {
       "title": "머무는 시간 늘려라…포화 상태 편의점의 생존 경쟁",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001964997&office_id=057&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260823&page=1",
       "source": "증권 시황",
-      "time": "03:28"
+      "time": "04:21"
     },
     {
       "title": "행정공제회, 'POBA 김창옥 토크쇼' 개최…이사장 취임 후 첫 회원복지 행사",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005806013&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260823&page=1",
       "source": "증권 시황",
-      "time": "03:28"
+      "time": "04:21"
     },
     {
       "title": "'2조달러' 앤트로픽 IPO 추진…스페이스X 넘는 자금 블랙홀 될까",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005323524&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260823&page=1",
       "source": "증권 시황",
-      "time": "03:28"
+      "time": "04:21"
     },
     {
       "title": "폭우 쏟아져도 \"카스!\"…카스쿨에 2만명 뛰어들었다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001156084&office_id=417&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260823&page=1",
       "source": "증권 시황",
-      "time": "03:28"
+      "time": "04:21"
     },
     {
       "title": "“투자 손실, 빗물 받아 샤워해야 할 정도” 백진희, 투자실패 토로",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002813046&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260823&page=1",
       "source": "증권 시황",
-      "time": "03:28"
+      "time": "04:21"
     },
     {
       "title": "“몸값 2780조원”…앤트로픽, 스페이스X 넘는 ‘역대급 IPO’ 노린다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000102018&office_id=243&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260823&page=1",
       "source": "증권 시황",
-      "time": "03:28"
+      "time": "04:21"
     },
     {
       "title": "금·비트코인만 오르고 달러는 약세…베센트의 역설",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005724347&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260823&page=1",
       "source": "증권 시황",
-      "time": "03:28"
-    },
-    {
-      "title": "[주末머니]'노후보장' TDF 선택할 때 반드시 고려해야 할 점은",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005806007&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260823&page=1",
-      "source": "증권 시황",
-      "time": "03:28"
-    },
-    {
-      "title": "\"오디세이 감동 전해지네\"…SP삼화, 전시회 후원",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014141784&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260823&page=1",
-      "source": "증권 시황",
-      "time": "03:28"
+      "time": "04:21"
     }
   ]
 }
