@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-23T03:01:24+00:00",
-  "updated_kst": "2026-08-23T12:01:24+09:00",
+  "updated": "2026-08-23T04:35:21+00:00",
+  "updated_kst": "2026-08-23T13:35:21+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "\"시장 턴어라운드 시 단기매매 보다 액티브 ETF 주목\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005403408&office_id=008&mode=mainnews&type=&date=2026-08-23&page=1",
+      "source": "메인 뉴스",
+      "time": "13:35"
+    },
+    {
+      "title": "AI 시대 '귀한 몸' 1만4천달러 돌파…관련주 들썩인다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263271&office_id=215&mode=mainnews&type=&date=2026-08-23&page=1",
+      "source": "메인 뉴스",
+      "time": "13:35"
+    },
+    {
+      "title": "ETF는 30% 크는데 ETN은 제자리…증권사의 숨은 고민",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005403407&office_id=008&mode=mainnews&type=&date=2026-08-23&page=1",
+      "source": "메인 뉴스",
+      "time": "13:35"
+    },
     {
       "title": "'불장'에 상반기 증권사 임직원 보수도 후끈…227억 연봉킹도",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000898453&office_id=422&mode=mainnews&type=&date=2026-08-23&page=1",
       "source": "메인 뉴스",
-      "time": "12:01"
+      "time": "13:35"
     },
     {
       "title": "금감원, 홈플러스 전단채 피해자 '선배상' 검토…증권사 제재도 속도",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0009127460&office_id=421&mode=mainnews&type=&date=2026-08-23&page=1",
       "source": "메인 뉴스",
-      "time": "12:01"
+      "time": "13:35"
     },
     {
       "title": "SK하이닉스 40조 주주환원에…단일종목 레버리지 웃었다[펀드와치]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006356359&office_id=018&mode=mainnews&type=&date=2026-08-23&page=1",
       "source": "메인 뉴스",
-      "time": "12:01"
+      "time": "13:35"
     },
     {
       "title": "2분기 기업 달러 순매도 4배 급증…환율 안정에 기여",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014142227&office_id=003&mode=mainnews&type=&date=2026-08-23&page=1",
       "source": "메인 뉴스",
-      "time": "12:01"
+      "time": "13:35"
     },
     {
       "title": "\"전쟁에 유가까지 뛰었는데 버텼다\"…증권가가 다시 보는 'LCC' [주末머니]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005806070&office_id=277&mode=mainnews&type=&date=2026-08-23&page=1",
       "source": "메인 뉴스",
-      "time": "12:01"
+      "time": "13:35"
     },
     {
       "title": "삼전닉스 주주환원 업고 코스피 날까…엔비디아·잭슨홀 주목[주간증시전망]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006356342&office_id=018&mode=mainnews&type=&date=2026-08-23&page=1",
       "source": "메인 뉴스",
-      "time": "12:01"
+      "time": "13:35"
     },
     {
       "title": "“고금리엔 주주환원株 투자…기아·LG·GS 등 주목”",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006356334&office_id=018&mode=mainnews&type=&date=2026-08-23&page=1",
       "source": "메인 뉴스",
-      "time": "12:01"
+      "time": "13:35"
     },
     {
       "title": "광통신 테마에 20배 뛴 이노인스트루먼트[급등주 지금은]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014142209&office_id=003&mode=mainnews&type=&date=2026-08-23&page=1",
       "source": "메인 뉴스",
-      "time": "12:01"
+      "time": "13:35"
     },
     {
       "title": "공급 부족 우려에 구리값 강세…관련주도 동반 상승[코주부]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004654200&office_id=011&mode=mainnews&type=&date=2026-08-23&page=1",
       "source": "메인 뉴스",
-      "time": "12:01"
-    },
-    {
-      "title": "AI 인프라 기업 엘리스그룹, 코스닥 상장 추진… IPO 통해 약 2000억원 조달",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001187772&office_id=366&mode=mainnews&type=&date=2026-08-23&page=1",
-      "source": "메인 뉴스",
-      "time": "12:01"
-    },
-    {
-      "title": "레고랜드發 구조조정 끝난 부동산PF…증권사 IB 수익원 재부상",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005403360&office_id=008&mode=mainnews&type=&date=2026-08-23&page=1",
-      "source": "메인 뉴스",
-      "time": "12:01"
-    },
-    {
-      "title": "코스피 회전율 연중 최저…삼전닉스 자사주 매입이 증시 활력 반전 이끌까",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014142139&office_id=003&mode=mainnews&type=&date=2026-08-23&page=1",
-      "source": "메인 뉴스",
-      "time": "12:01"
+      "time": "13:35"
     }
   ]
 }
