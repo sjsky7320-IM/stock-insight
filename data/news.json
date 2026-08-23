@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-23T19:20:55+00:00",
-  "updated_kst": "2026-08-24T04:20:55+09:00",
+  "updated": "2026-08-23T20:20:37+00:00",
+  "updated_kst": "2026-08-24T05:20:37+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "엔비디아, AI 모델 개발로 영토 확장…서버 가격 15% 인상 예고",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005806171&office_id=277&mode=mainnews&type=&date=2026-08-24&page=1",
+      "source": "메인 뉴스",
+      "time": "05:20"
+    },
+    {
+      "title": "“당장 사라던 유튜버 추천종목 급락”… 알고리즘에 갇힌 개미들",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003742783&office_id=020&mode=mainnews&type=&date=2026-08-24&page=1",
+      "source": "메인 뉴스",
+      "time": "05:20"
+    },
     {
       "title": "2400만 의료인 홀린 스크럽… 실적·주가↑, 투자자도 홀렸다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005403508&office_id=008&mode=mainnews&type=&date=2026-08-24&page=1",
       "source": "메인 뉴스",
-      "time": "04:20"
+      "time": "05:20"
     },
     {
       "title": "미니애폴리스 연은 총재 \"美 국채시장 정상 작동…장기금리는 펀더멘털이 결정\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005806170&office_id=277&mode=mainnews&type=&date=2026-08-24&page=1",
       "source": "메인 뉴스",
-      "time": "04:20"
+      "time": "05:20"
     },
     {
       "title": "[단독] 한투 삼성전기 목표가가 57만원에 머문 까닭은",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001868504&office_id=005&mode=mainnews&type=&date=2026-08-24&page=1",
       "source": "메인 뉴스",
-      "time": "04:20"
+      "time": "05:20"
     },
     {
       "title": "은행들 “신규 고객 잡아라”… 최고 年 12% 적금도 선보여",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003994458&office_id=023&mode=mainnews&type=&date=2026-08-24&page=1",
       "source": "메인 뉴스",
-      "time": "04:20"
+      "time": "05:20"
     },
     {
-      "title": "7천피 안착 시험대… '2대 분수령' 주목",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005403513&office_id=008&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260824&page=1",
+      "title": "백악관, 중간선거 패배 염두에 두나…쿠슈너, 민주 원내대표 회동",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005806172&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260824&page=1",
       "source": "증권 시황",
-      "time": "04:20"
+      "time": "05:20"
     },
     {
-      "title": "[주간경제지표] 2026년 8월 21일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003994440&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260824&page=1",
+      "title": "\"뜨는 산업은 달라\"…청년 채용 늘린 삼성바이오",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014142873&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260824&page=1",
       "source": "증권 시황",
-      "time": "04:20"
+      "time": "05:20"
     },
     {
-      "title": "110조 내놨는데 부족?",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003546192&office_id=025&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260824&page=1",
+      "title": "“금융-투자 콘텐츠 올리면 돈 된다” 직접 핀플루언서 뛰어들기도",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003742784&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260824&page=1",
       "source": "증권 시황",
-      "time": "04:20"
+      "time": "05:20"
     },
     {
-      "title": "베선트 '트레저리 트위스트' 일일천하…장기금리, 시장이 정했다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005806168&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260824&page=1",
+      "title": "“핀플루언서 믿고 주식 투자” 반년만에 원금 날린 스무살",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003742779&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260824&page=1",
       "source": "증권 시황",
-      "time": "04:20"
+      "time": "05:20"
     },
     {
-      "title": "“내 계좌는 죄다 파란불인데…” 트럼프, 주식 뭐 사고 팔았나",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002813193&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260824&page=1",
+      "title": "[단독]혈세 투입 정책펀드 10개중 6개, 제대로 투자하는지 ‘깜깜이’",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003742773&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260824&page=1",
       "source": "증권 시황",
-      "time": "04:20"
+      "time": "05:20"
     },
     {
-      "title": "미래에셋3.0 핵심 '디지털X' 1년간 수수료 0원 승부수",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005724665&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260824&page=1",
+      "title": "전세난에 총선 역풍까지… 당정, '비거주 1주택' 종부세 규제 완화 가닥",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000949609&office_id=469&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260824&page=1",
       "source": "증권 시황",
-      "time": "04:20"
-    },
-    {
-      "title": "둘로 쪼개는 카카오 “목표가 5만원으로 하향...보수적 접근 권고”",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003043783&office_id=029&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260824&page=1",
-      "source": "증권 시황",
-      "time": "04:20"
-    },
-    {
-      "title": "가상자산 거래소 디지털엑스, 1년간 수수료 무료 시행",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001868465&office_id=005&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260824&page=1",
-      "source": "증권 시황",
-      "time": "04:20"
+      "time": "05:20"
     }
   ]
 }
