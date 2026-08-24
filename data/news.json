@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-24T20:28:46+00:00",
-  "updated_kst": "2026-08-25T05:28:46+09:00",
+  "updated": "2026-08-24T21:25:36+00:00",
+  "updated_kst": "2026-08-25T06:25:36+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "[속보]美증시 반도체 급락…마이크론 -5.8%·하닉ADR -4.9%",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002813548&office_id=021&mode=mainnews&type=&date=2026-08-25&page=1",
+      "source": "메인 뉴스",
+      "time": "06:25"
+    },
+    {
+      "title": "외국인들, 삼성그룹주 던졌다…100조 넘는 주주환원책에 실망한 이유는",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005725266&office_id=009&mode=mainnews&type=&date=2026-08-25&page=1",
+      "source": "메인 뉴스",
+      "time": "06:25"
+    },
+    {
+      "title": "110조 푼 삼성 vs 40조 태운 하닉…환원 방식 갈린 까닭은",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014145335&office_id=003&mode=mainnews&type=&date=2026-08-25&page=1",
+      "source": "메인 뉴스",
+      "time": "06:25"
+    },
+    {
+      "title": "美 국채가 흔들린다…재정 불안에 금·비트코인 가격 '급등'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009130190&office_id=421&mode=mainnews&type=&date=2026-08-25&page=1",
+      "source": "메인 뉴스",
+      "time": "06:25"
+    },
+    {
+      "title": "잘나가던 두산그룹 ETF -11%…순환매 장세에선 그룹주 ‘투자주의’[ETF 업&다운]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009130185&office_id=421&mode=mainnews&type=&date=2026-08-25&page=1",
+      "source": "메인 뉴스",
+      "time": "06:25"
+    },
+    {
+      "title": "환율 급락에 환노출 美ETF '마이너스'…환헤지가 수익률 갈랐다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009130184&office_id=421&mode=mainnews&type=&date=2026-08-25&page=1",
+      "source": "메인 뉴스",
+      "time": "06:25"
+    },
+    {
+      "title": "美, 1300조 '비상금 통장' 꺼내나…국채금리 하락에도 반도체주 약세",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263445&office_id=215&mode=mainnews&type=&date=2026-08-25&page=1",
+      "source": "메인 뉴스",
+      "time": "06:25"
+    },
+    {
+      "title": "장기금리 하락에도 반도체 약세…나스닥 0.77% ↓[뉴욕증시]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005806721&office_id=277&mode=mainnews&type=&date=2026-08-25&page=1",
+      "source": "메인 뉴스",
+      "time": "06:25"
+    },
+    {
+      "title": "국채금리 하락에도 반도체株↓…뉴욕증시 혼조[월스트리트in]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006357361&office_id=018&mode=mainnews&type=&date=2026-08-25&page=1",
+      "source": "메인 뉴스",
+      "time": "06:25"
+    },
     {
       "title": "美, '이란 경제 고립작전' 공개…전 세계에 \"거래 끊어라\" 경고",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005806719&office_id=277&mode=mainnews&type=&date=2026-08-25&page=1",
       "source": "메인 뉴스",
-      "time": "05:28"
+      "time": "06:25"
     },
     {
       "title": "레버리지 빗장 걸자 돈맥경화 풀렸다…코스닥 더 키워줄 '승강제' 대기",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005404043&office_id=008&mode=mainnews&type=&date=2026-08-25&page=1",
       "source": "메인 뉴스",
-      "time": "05:28"
+      "time": "06:25"
     },
     {
       "title": "연금저축-IRP, 과세-인출 조건 달라 꼼꼼히 살펴야[머니 컨설팅]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003743010&office_id=020&mode=mainnews&type=&date=2026-08-25&page=1",
       "source": "메인 뉴스",
-      "time": "05:28"
-    },
-    {
-      "title": "“S&P 올랐는데 나는 왜”…서학개미, 이번엔 환율의 역습",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003546469&office_id=025&mode=mainnews&type=&date=2026-08-25&page=1",
-      "source": "메인 뉴스",
-      "time": "05:28"
-    },
-    {
-      "title": "[속보]뉴욕증시, 국채 금리 하락에도 혼조 마감…다우 0.26%↑",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014145317&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260825&page=1",
-      "source": "증권 시황",
-      "time": "05:28"
-    },
-    {
-      "title": "[속보]뉴욕증시, 반도체 약세에 혼조 마감",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005806720&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260825&page=1",
-      "source": "증권 시황",
-      "time": "05:28"
-    },
-    {
-      "title": "[속보] 국채 금리 하락에도 뉴욕증시 혼조 마감",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006357357&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260825&page=1",
-      "source": "증권 시황",
-      "time": "05:28"
-    },
-    {
-      "title": "금리 인하에 진심인 미국…트럼프 '가상화폐 밀어주기' 큰 그림",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016268160&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260825&page=1",
-      "source": "증권 시황",
-      "time": "05:28"
-    },
-    {
-      "title": "[美특징주]어플라이드옵토일렉트로닉스, 6억달러 규모 주식 매각 추진…주가 11%↓",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006357342&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260825&page=1",
-      "source": "증권 시황",
-      "time": "05:28"
-    },
-    {
-      "title": "\"내년 세수 100조 원 이상 더 걷혀\"…사상 최대 국가 예산 '820조+α'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000949835&office_id=469&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260825&page=1",
-      "source": "증권 시황",
-      "time": "05:28"
-    },
-    {
-      "title": "PEF 167조로 커졌는데…토종 중소운용사 고사할 판",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006357340&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260825&page=1",
-      "source": "증권 시황",
-      "time": "05:28"
-    },
-    {
-      "title": "[美특징주]익스피디아그룹, 에버코어 목표가 상향에 주가 4%↑",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006357339&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260825&page=1",
-      "source": "증권 시황",
-      "time": "05:28"
+      "time": "06:25"
     }
   ]
 }
