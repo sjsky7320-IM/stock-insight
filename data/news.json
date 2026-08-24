@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-24T06:55:52+00:00",
-  "updated_kst": "2026-08-24T15:55:52+09:00",
+  "updated": "2026-08-24T07:57:50+00:00",
+  "updated_kst": "2026-08-24T16:57:50+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "“금요일에 샀는데…”주주환원 삼전 8%폭락 이유",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002813482&office_id=021&mode=mainnews&type=&date=2026-08-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:57"
+    },
+    {
+      "title": "삼성전자 25만7000원 마감…110조 주주환원 뒤 8.70% 급락",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000196667&office_id=654&mode=mainnews&type=&date=2026-08-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:57"
+    },
+    {
+      "title": "SK하닉 '거래 추적' 사이트 등장…시중 7~8주 중 1주는 '자사주 매입'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009129842&office_id=421&mode=mainnews&type=&date=2026-08-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:57"
+    },
+    {
+      "title": "삼전·닉스 동반 급락에 코스피 3%↓…코스닥은 1%대 올라(종합)",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016267740&office_id=001&mode=mainnews&type=&date=2026-08-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:57"
+    },
+    {
+      "title": "빛과전자, CB 전환에 3개월간 신주 1419만주…주주가치 희석 우려",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006357182&office_id=018&mode=mainnews&type=&date=2026-08-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:57"
+    },
+    {
+      "title": "기대에 못 미쳤나… 삼성전자 급락에 코스피 6700선 아래로[마켓뷰]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001188000&office_id=366&mode=mainnews&type=&date=2026-08-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:57"
+    },
+    {
+      "title": "“목표가는 올랐는데”…삼성전자 주주환원 수혜주, 동반 급락 이유는",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006357176&office_id=018&mode=mainnews&type=&date=2026-08-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:57"
+    },
+    {
+      "title": "레버리지 ETF 식자 살아나는 코스닥 ETF…승강제 기대도 관심↑",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005403882&office_id=008&mode=mainnews&type=&date=2026-08-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:57"
+    },
+    {
+      "title": "외인·기관 5조 매도에 코스피 3%대 하락…6690선 마감",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005806607&office_id=277&mode=mainnews&type=&date=2026-08-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:57"
+    },
+    {
+      "title": "삼전닉스 150조원 주주환원…달러 풀려 환율 더 내려갈까",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006357162&office_id=018&mode=mainnews&type=&date=2026-08-24&page=1",
+      "source": "메인 뉴스",
+      "time": "16:57"
+    },
     {
       "title": "엔비디아의 서버 가격 인상, ‘삼전닉스’에 약일까 독일까",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000102077&office_id=243&mode=mainnews&type=&date=2026-08-24&page=1",
       "source": "메인 뉴스",
-      "time": "15:55"
+      "time": "16:57"
     },
     {
       "title": "두나무 \"美 SEC 접촉\"…주식교환 이후 상장 추진",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263392&office_id=215&mode=mainnews&type=&date=2026-08-24&page=1",
       "source": "메인 뉴스",
-      "time": "15:55"
-    },
-    {
-      "title": "“고PER 반도체, 매수? 매도?”…개미 울리는 판단의 함정[인터뷰]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006357150&office_id=018&mode=mainnews&type=&date=2026-08-24&page=1",
-      "source": "메인 뉴스",
-      "time": "15:55"
-    },
-    {
-      "title": "단일레버리지, 해외선 폭락할수록 사는데…국내선 '광풍' 꺾였다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005403847&office_id=008&mode=mainnews&type=&date=2026-08-24&page=1",
-      "source": "메인 뉴스",
-      "time": "15:55"
-    },
-    {
-      "title": "기다렸던 주주환원 대책인데”…삼전 내리고, 하닉 오른 이유",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006357147&office_id=018&mode=mainnews&type=&date=2026-08-24&page=1",
-      "source": "메인 뉴스",
-      "time": "15:55"
-    },
-    {
-      "title": "“SK하이닉스는 올랐었는데”…‘역대급 주주환원’ 발표한 삼성전자 하락, 왜?",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001187984&office_id=366&mode=mainnews&type=&date=2026-08-24&page=1",
-      "source": "메인 뉴스",
-      "time": "15:55"
-    },
-    {
-      "title": "레이 달리오의 잿빛 경고…“美 연방 부채 폭탄, 3년 내 터진다”",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003043938&office_id=029&mode=mainnews&type=&date=2026-08-24&page=1",
-      "source": "메인 뉴스",
-      "time": "15:55"
-    },
-    {
-      "title": "8월에 31% 뛴 코스피, 안심 이르다는데…삼성전자·엔비디아 다음 변수는",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005724971&office_id=009&mode=mainnews&type=&date=2026-08-24&page=1",
-      "source": "메인 뉴스",
-      "time": "15:55"
-    },
-    {
-      "title": "[속보] '72만→34만원' 비명 개미 '휴~'…독보적 강세 50만원 뚫었다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263387&office_id=215&mode=mainnews&type=&date=2026-08-24&page=1",
-      "source": "메인 뉴스",
-      "time": "15:55"
-    },
-    {
-      "title": "'초대어' 美 앤트로픽 IPO 임박?SKT 주가 92% '껑충'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001051918&office_id=031&mode=mainnews&type=&date=2026-08-24&page=1",
-      "source": "메인 뉴스",
-      "time": "15:55"
-    },
-    {
-      "title": "아틀라스링크 \"521억 자산 취득, 현금유출로 해석하면 오해\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014144456&office_id=003&mode=mainnews&type=&date=2026-08-24&page=1",
-      "source": "메인 뉴스",
-      "time": "15:55"
-    },
-    {
-      "title": "'오너 2세' 대교 강호준 대표, 동전주 퇴출 위기서 '미봉책'",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000089460&office_id=293&mode=mainnews&type=&date=2026-08-24&page=1",
-      "source": "메인 뉴스",
-      "time": "15:55"
+      "time": "16:57"
     }
   ]
 }
