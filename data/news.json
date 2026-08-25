@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-25T15:40:33+00:00",
-  "updated_kst": "2026-08-26T00:40:33+09:00",
+  "updated": "2026-08-25T16:35:31+00:00",
+  "updated_kst": "2026-08-26T01:35:31+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "엔비디아 실적·워시 연설, 코스피 향방 가를 듯",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003994883&office_id=023&mode=mainnews&type=&date=2026-08-26&page=1",
+      "source": "메인 뉴스",
+      "time": "01:35"
+    },
     {
       "title": "\"드디어 바닥 찍었나\" 8만원대 복귀…'두에빌' 개미 환희의 눈물",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263606&office_id=215&mode=mainnews&type=&date=2026-08-26&page=1",
       "source": "메인 뉴스",
-      "time": "00:40"
+      "time": "01:35"
+    },
+    {
+      "title": "[주식 매매 상위 종목 및 환율] 2026년 8월 25일자",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003994882&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
+      "source": "증권 시황",
+      "time": "01:35"
+    },
+    {
+      "title": "美 반도체주 찬바람 버틴 코스피, 0.7% 상승 마감",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003743310&office_id=020&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
+      "source": "증권 시황",
+      "time": "01:35"
+    },
+    {
+      "title": "[주요경제지표] 2026년 8월 25일자",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003994869&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
+      "source": "증권 시황",
+      "time": "01:35"
     },
     {
       "title": "신규주택 판매 10% ↓…고금리·고물가에 소비심리도 위축",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005807242&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
       "source": "증권 시황",
-      "time": "00:40"
+      "time": "01:35"
     },
     {
       "title": "영업익 73억인데 상폐 될 판…시총 잣대에 흑자기업 ‘한숨’",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006357940&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
       "source": "증권 시황",
-      "time": "00:40"
+      "time": "01:35"
     },
     {
       "title": "유엔 사무총장 \"美·러 초강대국 시대 한계…세계질서 변했다\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005807241&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
       "source": "증권 시황",
-      "time": "00:40"
+      "time": "01:35"
     },
     {
       "title": "대만 7월 산업생산 사상 최고…\"AI·고성능 컴퓨팅 수요 견인\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014147909&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
       "source": "증권 시황",
-      "time": "00:40"
+      "time": "01:35"
     },
     {
       "title": "[뉴욕증시]장기채 금리 ↓·반도체주 ↑…3대 지수 일제히 상승",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005807240&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
       "source": "증권 시황",
-      "time": "00:40"
+      "time": "01:35"
     },
     {
       "title": "\"이런 적, 4년래 처음인데\"…'24조 뭉칫돈' 넣은 개미들 초조한 대기",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263605&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
       "source": "증권 시황",
-      "time": "00:40"
+      "time": "01:35"
     },
     {
       "title": "뉴욕 증시, 반도체주 강세에 상승 출발…나스닥 0.73% ↑",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014147902&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
       "source": "증권 시황",
-      "time": "00:40"
-    },
-    {
-      "title": "1년에 100억 넘게 버는 회사가 상폐? 주주들 피눈물…이런 상장사 26개나 있다 [투자3..",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002688344&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
-      "source": "증권 시황",
-      "time": "00:40"
-    },
-    {
-      "title": "[속보]뉴욕 증시, 반도체주 강세에 상승 출발…나스닥 0.73% ↑",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014147898&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
-      "source": "증권 시황",
-      "time": "00:40"
-    },
-    {
-      "title": "금융위, WSJ '韓, 세계에서 가장 미친 증시' 평가 반박…\"최근 안정화 추세\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014147893&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
-      "source": "증권 시황",
-      "time": "00:40"
-    },
-    {
-      "title": "사상 최대 실적 전망에도 7일째 하락…'엔비디아 쇼크' 오나 [분석+]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005324698&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
-      "source": "증권 시황",
-      "time": "00:40"
+      "time": "01:35"
     }
   ]
 }
