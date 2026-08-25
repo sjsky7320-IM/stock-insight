@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-25T14:43:07+00:00",
-  "updated_kst": "2026-08-25T23:43:07+09:00",
+  "updated": "2026-08-25T15:40:33+00:00",
+  "updated_kst": "2026-08-26T00:40:33+09:00",
   "source": "naver-finance",
   "items": [
     {
-      "title": "유엔 사무총장 \"美·러 초강대국 시대 한계…세계질서 변했다\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005807241&office_id=277&mode=mainnews&type=&date=2026-08-25&page=1",
+      "title": "\"드디어 바닥 찍었나\" 8만원대 복귀…'두에빌' 개미 환희의 눈물",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263606&office_id=215&mode=mainnews&type=&date=2026-08-26&page=1",
       "source": "메인 뉴스",
-      "time": "23:43"
+      "time": "00:40"
+    },
+    {
+      "title": "신규주택 판매 10% ↓…고금리·고물가에 소비심리도 위축",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005807242&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
+      "source": "증권 시황",
+      "time": "00:40"
+    },
+    {
+      "title": "영업익 73억인데 상폐 될 판…시총 잣대에 흑자기업 ‘한숨’",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006357940&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
+      "source": "증권 시황",
+      "time": "00:40"
+    },
+    {
+      "title": "유엔 사무총장 \"美·러 초강대국 시대 한계…세계질서 변했다\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005807241&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
+      "source": "증권 시황",
+      "time": "00:40"
+    },
+    {
+      "title": "대만 7월 산업생산 사상 최고…\"AI·고성능 컴퓨팅 수요 견인\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014147909&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
+      "source": "증권 시황",
+      "time": "00:40"
+    },
+    {
+      "title": "[뉴욕증시]장기채 금리 ↓·반도체주 ↑…3대 지수 일제히 상승",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005807240&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
+      "source": "증권 시황",
+      "time": "00:40"
     },
     {
       "title": "\"이런 적, 4년래 처음인데\"…'24조 뭉칫돈' 넣은 개미들 초조한 대기",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263605&office_id=215&mode=mainnews&type=&date=2026-08-25&page=1",
-      "source": "메인 뉴스",
-      "time": "23:43"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263605&office_id=215&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
+      "source": "증권 시황",
+      "time": "00:40"
     },
     {
-      "title": "1년에 100억 넘게 버는 회사가 상폐? 주주들 피눈물…이런 상장사 26개나 있다 [투자360]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002688344&office_id=016&mode=mainnews&type=&date=2026-08-25&page=1",
-      "source": "메인 뉴스",
-      "time": "23:43"
+      "title": "뉴욕 증시, 반도체주 강세에 상승 출발…나스닥 0.73% ↑",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014147902&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
+      "source": "증권 시황",
+      "time": "00:40"
+    },
+    {
+      "title": "1년에 100억 넘게 버는 회사가 상폐? 주주들 피눈물…이런 상장사 26개나 있다 [투자3..",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002688344&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
+      "source": "증권 시황",
+      "time": "00:40"
+    },
+    {
+      "title": "[속보]뉴욕 증시, 반도체주 강세에 상승 출발…나스닥 0.73% ↑",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014147898&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
+      "source": "증권 시황",
+      "time": "00:40"
+    },
+    {
+      "title": "금융위, WSJ '韓, 세계에서 가장 미친 증시' 평가 반박…\"최근 안정화 추세\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014147893&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
+      "source": "증권 시황",
+      "time": "00:40"
     },
     {
       "title": "사상 최대 실적 전망에도 7일째 하락…'엔비디아 쇼크' 오나 [분석+]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005324698&office_id=015&mode=mainnews&type=&date=2026-08-25&page=1",
-      "source": "메인 뉴스",
-      "time": "23:43"
-    },
-    {
-      "title": "“아직 늦지 않았다” 삼전닉스 말고 또 뭐 있지?…주주환원 기대주는? [투자360]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002688339&office_id=016&mode=mainnews&type=&date=2026-08-25&page=1",
-      "source": "메인 뉴스",
-      "time": "23:43"
-    },
-    {
-      "title": "“퇴직금 절반 넣고, 일주일새 1000만원 날려”…영원히 오를 줄 알았던 '미친 증시'에 당했다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003460328&office_id=030&mode=mainnews&type=&date=2026-08-25&page=1",
-      "source": "메인 뉴스",
-      "time": "23:43"
-    },
-    {
-      "title": "MBK \"최윤범 일가 투자후 고려아연 출자 펀드가 후속투자\"(종합)",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016270478&office_id=001&mode=mainnews&type=&date=2026-08-25&page=1",
-      "source": "메인 뉴스",
-      "time": "23:43"
-    },
-    {
-      "title": "'10월, 그들이 온다'...코스피가 불안한 이유 [B급기자의 B급리포트]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001263602&office_id=215&mode=mainnews&type=&date=2026-08-25&page=1",
-      "source": "메인 뉴스",
-      "time": "23:43"
-    },
-    {
-      "title": "“아내 알면 큰일” 천만원 날린 윤모(44)씨 사례-WSJ보도",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002813864&office_id=021&mode=mainnews&type=&date=2026-08-25&page=1",
-      "source": "메인 뉴스",
-      "time": "23:43"
-    },
-    {
-      "title": "상한가 찍고 하락한 한미약품…“81만원까지 간다”[종목Pick]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002688309&office_id=016&mode=mainnews&type=&date=2026-08-25&page=1",
-      "source": "메인 뉴스",
-      "time": "23:43"
-    },
-    {
-      "title": "구천피 이후 석달간 36조 '기계적 매도'… 금리·반도체가 관건 [증시 덮친 프로그램 매물]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005566319&office_id=014&mode=mainnews&type=&date=2026-08-25&page=1",
-      "source": "메인 뉴스",
-      "time": "23:43"
-    },
-    {
-      "title": "스팩합병 기업, 코스닥 안착 어렵네… 3곳중 1곳 상폐 위기",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005566298&office_id=014&mode=mainnews&type=&date=2026-08-25&page=1",
-      "source": "메인 뉴스",
-      "time": "23:43"
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005324698&office_id=015&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260826&page=1",
+      "source": "증권 시황",
+      "time": "00:40"
     }
   ]
 }
