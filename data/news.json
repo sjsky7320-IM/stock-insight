@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-28T05:05:57+00:00",
-  "updated_kst": "2026-08-28T14:05:57+09:00",
+  "updated": "2026-08-28T06:25:37+00:00",
+  "updated_kst": "2026-08-28T15:25:37+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "카카오 ‘시너지 약화’ vs SK이노 ‘재무 부담’…지배구조 개편에 주가 출렁",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000102303&office_id=243&mode=mainnews&type=&date=2026-08-28&page=1",
+      "source": "메인 뉴스",
+      "time": "15:25"
+    },
+    {
+      "title": "모건스탠리 \"한은 금리인상 안 끝났다…내년 3.5%까지 올릴 것\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005567857&office_id=014&mode=mainnews&type=&date=2026-08-28&page=1",
+      "source": "메인 뉴스",
+      "time": "15:25"
+    },
+    {
+      "title": "SK가스, ‘4년 연속 적자’ SK어드밴스드 품는다…주주가치 셈법은?",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006359671&office_id=018&mode=mainnews&type=&date=2026-08-28&page=1",
+      "source": "메인 뉴스",
+      "time": "15:25"
+    },
+    {
+      "title": "\"삼전닉스 무너지면 어쩌려고\"…코스피 '빚투' 40% 삼켰다 [증시는 왜]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005567821&office_id=014&mode=mainnews&type=&date=2026-08-28&page=1",
+      "source": "메인 뉴스",
+      "time": "15:25"
+    },
     {
       "title": "\"지금도 9%대인데 더 오른다\"…기준금리 3% 시대, 빚투 개미 비명",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014154708&office_id=003&mode=mainnews&type=&date=2026-08-28&page=1",
       "source": "메인 뉴스",
-      "time": "14:05"
+      "time": "15:25"
     },
     {
       "title": "'칠천피' 문턱서 뒷걸음…반도체 약세에 6800선",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006359648&office_id=018&mode=mainnews&type=&date=2026-08-28&page=1",
       "source": "메인 뉴스",
-      "time": "14:05"
+      "time": "15:25"
     },
     {
       "title": "“삼전닉스만 바라보다 놓쳤다”…8월 수익률 더 높았던 업종은?",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005727151&office_id=009&mode=mainnews&type=&date=2026-08-28&page=1",
       "source": "메인 뉴스",
-      "time": "14:05"
+      "time": "15:25"
     },
     {
       "title": "잘 나가는 엔비디아…라이벌 AMD가 따라잡을까?",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003995433&office_id=023&mode=mainnews&type=&date=2026-08-28&page=1",
       "source": "메인 뉴스",
-      "time": "14:05"
+      "time": "15:25"
     },
     {
       "title": "디지털엑스 품은 미래에셋…한투·삼성·한화證도 ‘판짜기’",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000102290&office_id=243&mode=mainnews&type=&date=2026-08-28&page=1",
       "source": "메인 뉴스",
-      "time": "14:05"
+      "time": "15:25"
     },
     {
       "title": "삼전·닉스 자사주 '폭풍 쇼핑'…46조원 더 산다",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001264006&office_id=215&mode=mainnews&type=&date=2026-08-28&page=1",
       "source": "메인 뉴스",
-      "time": "14:05"
+      "time": "15:25"
     },
     {
       "title": "서학개미 ‘반도체 3배’ SOXL 투자 30% 돌파",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002689738&office_id=016&mode=mainnews&type=&date=2026-08-28&page=1",
       "source": "메인 뉴스",
-      "time": "14:05"
+      "time": "15:25"
     },
     {
       "title": "\"미장은 올랐는데 왜\" 코스피 '숨고르기'...그래도 칠천피 곧 간다?",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005406190&office_id=008&mode=mainnews&type=&date=2026-08-28&page=1",
       "source": "메인 뉴스",
-      "time": "14:05"
-    },
-    {
-      "title": "외국인 5.9조 팔았는데도 버틴 코스피…삼전·SK하닉 자사주 효과",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003044839&office_id=029&mode=mainnews&type=&date=2026-08-28&page=1",
-      "source": "메인 뉴스",
-      "time": "14:05"
-    },
-    {
-      "title": "SK텔레콤, AI데이터센터 분사로 3조 실탄…\"정제마진 초호황\" S-Oil, 목표가↑ [株토피아]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005567747&office_id=014&mode=mainnews&type=&date=2026-08-28&page=1",
-      "source": "메인 뉴스",
-      "time": "14:05"
-    },
-    {
-      "title": "코스피, 1%대 하락세…삼전닉스 1~2%대↓",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016276331&office_id=001&mode=mainnews&type=&date=2026-08-28&page=1",
-      "source": "메인 뉴스",
-      "time": "14:05"
-    },
-    {
-      "title": "\"수수료 없애도 효과 잠시뿐\"…코인거래소 '제살 깎기' 치킨게임 본격화",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000528419&office_id=629&mode=mainnews&type=&date=2026-08-28&page=1",
-      "source": "메인 뉴스",
-      "time": "14:05"
+      "time": "15:25"
     }
   ]
 }
