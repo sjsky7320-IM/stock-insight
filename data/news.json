@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-30T17:56:00+00:00",
-  "updated_kst": "2026-08-31T02:56:00+09:00",
+  "updated": "2026-08-30T20:39:04+00:00",
+  "updated_kst": "2026-08-31T05:39:04+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "은행만큼 커진 '연쇄부실 위험'…증권사엔 없는 '위기 플랜'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005406820&office_id=008&mode=mainnews&type=&date=2026-08-31&page=1",
+      "source": "메인 뉴스",
+      "time": "05:39"
+    },
+    {
+      "title": "[단독]회계사 선발인원 발표 '매년→3~5년 단위'로 늘린다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006360601&office_id=018&mode=mainnews&type=&date=2026-08-31&page=1",
+      "source": "메인 뉴스",
+      "time": "05:39"
+    },
+    {
+      "title": "NASA, 허블보다 1000배 빠른 우주망원경 발사…암흑에너지 비밀 푼다",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005809221&office_id=277&mode=mainnews&type=&date=2026-08-31&page=1",
+      "source": "메인 뉴스",
+      "time": "05:39"
+    },
+    {
+      "title": "요동치는 금융시장…수익·안정 두 마리 토끼 잡는 투자법",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000951070&office_id=469&mode=mainnews&type=&date=2026-08-31&page=1",
+      "source": "메인 뉴스",
+      "time": "05:39"
+    },
+    {
+      "title": "트럼프 \"베네수 원유로 美 비축유 채운다\"…석유 직접 투자도(종합)",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005809220&office_id=277&mode=mainnews&type=&date=2026-08-31&page=1",
+      "source": "메인 뉴스",
+      "time": "05:39"
+    },
+    {
+      "title": "7000P 다시 넘나… 美 금리·고용이 변수",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005406789&office_id=008&mode=mainnews&type=&date=2026-08-31&page=1",
+      "source": "메인 뉴스",
+      "time": "05:39"
+    },
     {
       "title": "\"트럼프, 김정은 먼저 만나고 중간선거 뒤 2차 회담 가능\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005809219&office_id=277&mode=mainnews&type=&date=2026-08-31&page=1",
       "source": "메인 뉴스",
-      "time": "02:56"
+      "time": "05:39"
     },
     {
       "title": "트럼프 행정부, 베네수 석유개발 직접 투자…국방부 지분 35% 확보",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005809218&office_id=277&mode=mainnews&type=&date=2026-08-31&page=1",
       "source": "메인 뉴스",
-      "time": "02:56"
+      "time": "05:39"
     },
     {
       "title": "'아빠 육휴' 역행…대신증권, 상반기 남성 육휴사용자·사용률 모두 '0'",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000528792&office_id=629&mode=mainnews&type=&date=2026-08-31&page=1",
       "source": "메인 뉴스",
-      "time": "02:56"
+      "time": "05:39"
     },
     {
-      "title": "[주간경제지표] 2026년 8월 28일자",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003995719&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260831&page=1",
+      "title": "조정장에 갈 곳 잃은 자금…파킹·커버드콜 ETF에 2.6조 몰려 [코주부]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004656699&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260831&page=1",
       "source": "증권 시황",
-      "time": "02:56"
+      "time": "05:39"
     },
     {
-      "title": "아마존·TSMC·메타…‘A·T·M’ 챙긴 월가 큰손",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003547799&office_id=025&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260831&page=1",
+      "title": "[오늘의 주요일정]금융·증권(8월31일 월요일)",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0014157368&office_id=003&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260831&page=1",
       "source": "증권 시황",
-      "time": "02:56"
+      "time": "05:39"
     },
     {
-      "title": "“일반투자자에 전문투자자 등록 권유했나”…금감원, 9월 미래에셋증권 거점점포 검사",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002814923&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260831&page=1",
+      "title": "“공모가도 모르는데 최소 6개월 묶인다”…11월 확 바뀌는 IPO시장[위클리IB]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006360594&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260831&page=1",
       "source": "증권 시황",
-      "time": "02:56"
-    },
-    {
-      "title": "금산법 '10%룰' 묶인 삼성전자 자사주 소각 [이슈분석]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006360584&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260831&page=1",
-      "source": "증권 시황",
-      "time": "02:56"
-    },
-    {
-      "title": "다시 긴축…한·일·유럽 이어 美도 금리인상 임박",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006360583&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260831&page=1",
-      "source": "증권 시황",
-      "time": "02:56"
-    },
-    {
-      "title": "금감원, 미래에셋 거점점포 검사…스페이스X '0주' 초점",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005809217&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260831&page=1",
-      "source": "증권 시황",
-      "time": "02:56"
-    },
-    {
-      "title": "'삼전닉스' 레버리지 규제 한 달?개미 1.7조 팔았다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001053614&office_id=031&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260831&page=1",
-      "source": "증권 시황",
-      "time": "02:56"
-    },
-    {
-      "title": "[증시 예보] ‘칠천피’ 다시 두드리는 코스피…8월 반도체 수출·美 고용 주목",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002690263&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260831&page=1",
-      "source": "증권 시황",
-      "time": "02:56"
-    },
-    {
-      "title": "대출 규제 피하고 신혼부부 혜택… 강북·도봉·노원 등 중저가 아파트 상승세 지속될까",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002814908&office_id=021&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260831&page=1",
-      "source": "증권 시황",
-      "time": "02:56"
+      "time": "05:39"
     }
   ]
 }
