@@ -1,79 +1,79 @@
 {
-  "updated": "2026-09-01T00:22:33+00:00",
-  "updated_kst": "2026-09-01T09:22:33+09:00",
+  "updated": "2026-09-01T01:30:28+00:00",
+  "updated_kst": "2026-09-01T10:30:28+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "② 미래에셋증권, 창업 공신들이 떠난 자리[여의도 CEO 20년]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0000089827&office_id=293&mode=mainnews&type=&date=2026-09-01&page=1",
+      "source": "메인 뉴스",
+      "time": "10:30"
+    },
+    {
+      "title": "[속보] '11% 급락' 개미 충격 만회했다…강력 수주 모멘텀에 '급등'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001264384&office_id=215&mode=mainnews&type=&date=2026-09-01&page=1",
+      "source": "메인 뉴스",
+      "time": "10:30"
+    },
+    {
+      "title": "SK디앤디, 유증 1차 발행가 2260원…권리락 첫날 '上' [핫종목]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0009143205&office_id=421&mode=mainnews&type=&date=2026-09-01&page=1",
+      "source": "메인 뉴스",
+      "time": "10:30"
+    },
+    {
+      "title": "삼전닉스 동반 하락…오늘도 ‘자사주 방패’ 통할까 [마켓시그널]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004657237&office_id=011&mode=mainnews&type=&date=2026-09-01&page=1",
+      "source": "메인 뉴스",
+      "time": "10:30"
+    },
+    {
+      "title": "“1억 쓰면 친구 데려와도 돼”…100만원 카드에 미국인들 '분노'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006361394&office_id=018&mode=mainnews&type=&date=2026-09-01&page=1",
+      "source": "메인 뉴스",
+      "time": "10:30"
+    },
+    {
+      "title": "“금리 오를 때는 이런 주식 사라”…증권가가 꼽은 ‘고금리에도 잘 버틸 종목’",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004657228&office_id=011&mode=mainnews&type=&date=2026-09-01&page=1",
+      "source": "메인 뉴스",
+      "time": "10:30"
+    },
+    {
+      "title": "“부르는 게 값” MLCC·기판 쌍끌이 호황…삼성전기 목표가 ‘200만원’ 상향 [오늘 나온 보고서]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005728441&office_id=009&mode=mainnews&type=&date=2026-09-01&page=1",
+      "source": "메인 뉴스",
+      "time": "10:30"
+    },
+    {
+      "title": "[속보] 美이란 충돌·유가 상승 여파에 코스피·코스닥도 동반 약세",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006361354&office_id=018&mode=mainnews&type=&date=2026-09-01&page=1",
+      "source": "메인 뉴스",
+      "time": "10:30"
+    },
     {
       "title": "반도체주 주춤하자…2차전지주, ESS 업고 날았다 [종목+]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005327002&office_id=015&mode=mainnews&type=&date=2026-09-01&page=1",
       "source": "메인 뉴스",
-      "time": "09:22"
+      "time": "10:30"
     },
     {
       "title": "\"SK온 美 ESS 공급 계약, SK이노 합병 이슈 완화 기대\"-iM",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005407458&office_id=008&mode=mainnews&type=&date=2026-09-01&page=1",
       "source": "메인 뉴스",
-      "time": "09:22"
+      "time": "10:30"
     },
     {
       "title": "'워시는 매파'라는 착각…잭슨홀 연설의 진짜 뜻 [빈난새의 빈틈없이마켓]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005326995&office_id=015&mode=mainnews&type=&date=2026-09-01&page=1",
       "source": "메인 뉴스",
-      "time": "09:22"
+      "time": "10:30"
     },
     {
       "title": "\"한화, KAI 15.89% 확보…의무공개매수 앞두고 추가 매수 전망\"-LS",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005326992&office_id=015&mode=mainnews&type=&date=2026-09-01&page=1",
       "source": "메인 뉴스",
-      "time": "09:22"
-    },
-    {
-      "title": "SV인베스트먼트, 우주 광통신에 베팅[fn마켓워치]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005569015&office_id=014&mode=mainnews&type=&date=2026-09-01&page=1",
-      "source": "메인 뉴스",
-      "time": "09:22"
-    },
-    {
-      "title": "美 재정 부담이 불러온 반등…비트코인 랠리 지속되나[비트코인 지금]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005809910&office_id=277&mode=mainnews&type=&date=2026-09-01&page=1",
-      "source": "메인 뉴스",
-      "time": "09:22"
-    },
-    {
-      "title": "호재 4연타 터진다…'14만 텔레콤' 간다는데",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006361296&office_id=018&mode=mainnews&type=&date=2026-09-01&page=1",
-      "source": "메인 뉴스",
-      "time": "09:22"
-    },
-    {
-      "title": "美 증시 하락에도 반도체가 하방 방어…\"韓 '전약후강' 장세 전망\"[굿모닝 증시]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005809900&office_id=277&mode=mainnews&type=&date=2026-09-01&page=1",
-      "source": "메인 뉴스",
-      "time": "09:22"
-    },
-    {
-      "title": "미·이란 무력 충돌에 유가 상승…뉴욕증시 일제히 하락[뉴스새벽배송]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006361282&office_id=018&mode=mainnews&type=&date=2026-09-01&page=1",
-      "source": "메인 뉴스",
-      "time": "09:22"
-    },
-    {
-      "title": "SFA반도체, 삼성전자 DDR5 외주화 수혜…턴어라운드 기대-SK",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006361278&office_id=018&mode=mainnews&type=&date=2026-09-01&page=1",
-      "source": "메인 뉴스",
-      "time": "09:22"
-    },
-    {
-      "title": "美 재무장관, G20서 이란 경제 고립 총력…엔화 약세엔 일본 대응 촉구",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005809882&office_id=277&mode=mainnews&type=&date=2026-09-01&page=1",
-      "source": "메인 뉴스",
-      "time": "09:22"
-    },
-    {
-      "title": "\"삼전닉스 내년 이익치 추가 상향 조정 필요한 시점\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006361276&office_id=018&mode=mainnews&type=&date=2026-09-01&page=1",
-      "source": "메인 뉴스",
-      "time": "09:22"
+      "time": "10:30"
     }
   ]
 }
