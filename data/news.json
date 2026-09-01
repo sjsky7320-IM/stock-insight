@@ -1,79 +1,79 @@
 {
-  "updated": "2026-09-01T17:37:27+00:00",
-  "updated_kst": "2026-09-02T02:37:27+09:00",
+  "updated": "2026-09-01T20:36:19+00:00",
+  "updated_kst": "2026-09-02T05:36:19+09:00",
   "source": "naver-finance",
   "items": [
     {
-      "title": "삼전·닉스가 바꾼 증시…'기타 법인'이 ‘핵심 법인’으로 부상",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006361993&office_id=018&mode=mainnews&type=&date=2026-09-01&page=1",
+      "title": "[속보]미·이란 충돌에 유가·국채금리 급등…나스닥 1%↓",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006362017&office_id=018&mode=mainnews&type=&date=2026-09-02&page=1",
       "source": "메인 뉴스",
-      "time": "02:37"
+      "time": "05:36"
     },
     {
-      "title": "바 Fed 이사 \"물가 안 잡히면 단호히 금리 인상\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005810511&office_id=277&mode=mainnews&type=&date=2026-09-01&page=1",
+      "title": "두 달 새 12% 내린 환율… 삼전닉스 실적 변수로 작용하나",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001870387&office_id=005&mode=mainnews&type=&date=2026-09-02&page=1",
       "source": "메인 뉴스",
-      "time": "02:37"
+      "time": "05:36"
     },
     {
-      "title": "미국채 금리·유가 급등…나스닥 1%대 하락[뉴욕증시]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005810508&office_id=277&mode=mainnews&type=&date=2026-09-01&page=1",
+      "title": "연결실적 좋다는데 내 몫은 얼마?…투자자가 볼 5가지 지표",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006362002&office_id=018&mode=mainnews&type=&date=2026-09-02&page=1",
       "source": "메인 뉴스",
-      "time": "02:37"
+      "time": "05:36"
     },
     {
-      "title": "‘따따상’ 축포도 이젠 옛말…얼어붙은 IPO 시장 [투자360]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002691448&office_id=016&mode=mainnews&type=&date=2026-09-01&page=1",
+      "title": "연결순이익 100원 중 모회사 주주 몫은 얼마…상장사 854곳 뜯어보니",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006362001&office_id=018&mode=mainnews&type=&date=2026-09-02&page=1",
       "source": "메인 뉴스",
-      "time": "02:37"
+      "time": "05:36"
     },
     {
-      "title": "\"삼전닉스, 정치가 놔둬야 오른다\"…외인 170조 순매도 [분석+]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005327476&office_id=015&mode=mainnews&type=&date=2026-09-01&page=1",
+      "title": "美 재무장관 \"호르무즈 해협 2년 내 쓸모없어질 것\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005810515&office_id=277&mode=mainnews&type=&date=2026-09-02&page=1",
       "source": "메인 뉴스",
-      "time": "02:37"
+      "time": "05:36"
     },
     {
-      "title": "\"목표가 33%↑\" AI 서버가 밀어준다더니…\"호황에 판가로 답한다\" 파격 전망",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001264500&office_id=215&mode=mainnews&type=&date=2026-09-01&page=1",
-      "source": "메인 뉴스",
-      "time": "02:37"
+      "title": "국제유가 급등에 뉴욕증시 하락…반도체·SW주 낙폭 확대",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002239829&office_id=138&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260902&page=1",
+      "source": "증권 시황",
+      "time": "05:36"
     },
     {
-      "title": "‘ETF 아버지’ 유명한 이 얼굴, “테크기업에 장투가 정답”",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0002691432&office_id=016&mode=mainnews&type=&date=2026-09-01&page=1",
-      "source": "메인 뉴스",
-      "time": "02:37"
+      "title": "개인·기관·외인 모두 ‘던지고’ 기타법인 ‘받고’…삼전닉스 ‘자사주 약발’ 언제까지",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0003045642&office_id=029&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260902&page=1",
+      "source": "증권 시황",
+      "time": "05:36"
     },
     {
-      "title": "살 빼는 사람 늘자 '대박' 터졌다…주가 87% 뛴 '뜻밖의 종목' [종목+]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005327437&office_id=015&mode=mainnews&type=&date=2026-09-01&page=1",
-      "source": "메인 뉴스",
-      "time": "02:37"
+      "title": "중동 긴장·유가 급등에 채권 매도세까지…뉴욕증시 일제히 하락",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016284014&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260902&page=1",
+      "source": "증권 시황",
+      "time": "05:36"
     },
     {
-      "title": "“코스닥 상승률 신기록이라는데 내 계좌는”…한달새 15.9% 올랐다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005728985&office_id=009&mode=mainnews&type=&date=2026-09-01&page=1",
-      "source": "메인 뉴스",
-      "time": "02:37"
+      "title": "美재무, 국채금리 급등 진화 안간힘…연일 \"심각한 상황 아냐\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016284013&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260902&page=1",
+      "source": "증권 시황",
+      "time": "05:36"
     },
     {
-      "title": "아이 낳으면 1천만 원…공무원 첫 월급 300만 원 넘는다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001966726&office_id=057&mode=mainnews&type=&date=2026-09-01&page=1",
-      "source": "메인 뉴스",
-      "time": "02:37"
+      "title": "[속보]美, 이란 추가 공격에 일제히 하락 마감",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005810517&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260902&page=1",
+      "source": "증권 시황",
+      "time": "05:36"
     },
     {
-      "title": "하이닉스 31억 vs 마이크론 144억 … 韓 감사 비용, 글로벌 위상 안맞아",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005728981&office_id=009&mode=mainnews&type=&date=2026-09-01&page=1",
-      "source": "메인 뉴스",
-      "time": "02:37"
+      "title": "美, 이란에 또 대규모 공습…유가·장기금리 '화들짝'",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005810516&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260902&page=1",
+      "source": "증권 시황",
+      "time": "05:36"
     },
     {
-      "title": "올릭스, CPS 84% 보통주 전환…166만주 15일 상장",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006361932&office_id=018&mode=mainnews&type=&date=2026-09-01&page=1",
-      "source": "메인 뉴스",
-      "time": "02:37"
+      "title": "[美특징주]고프로, 스타맨 옵티컬 합병·AI 인프라 진출…주가 41%↑",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006362012&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260902&page=1",
+      "source": "증권 시황",
+      "time": "05:36"
     }
   ]
 }
