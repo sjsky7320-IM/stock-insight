@@ -1,79 +1,79 @@
 {
-  "updated": "2026-09-03T15:58:05+00:00",
-  "updated_kst": "2026-09-04T00:58:05+09:00",
+  "updated": "2026-09-03T19:13:18+00:00",
+  "updated_kst": "2026-09-04T04:13:18+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "태광타워 매각 없이… 하나오피스리츠 '유동성' 확보",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005409276&office_id=008&mode=mainnews&type=&date=2026-09-04&page=1",
+      "source": "메인 뉴스",
+      "time": "04:13"
+    },
     {
       "title": "‘김승원 민원’ 연관 회사 상폐 수순… 3만여명 투자 손실",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001870833&office_id=005&mode=mainnews&type=&date=2026-09-04&page=1",
       "source": "메인 뉴스",
-      "time": "00:58"
+      "time": "04:13"
+    },
+    {
+      "title": "美 기업 4곳, 韓에 20억달러 투자 신고…첨단산업 투자 잇따라",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006363426&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260904&page=1",
+      "source": "증권 시황",
+      "time": "04:13"
     },
     {
       "title": "엔 캐리 청산 공포?…코스피 장중 '널뛰기'",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000902604&office_id=422&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260904&page=1",
       "source": "증권 시황",
-      "time": "00:58"
+      "time": "04:13"
     },
     {
       "title": "반대로 움직이던 주식·채권값 함께 하락",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003996577&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260904&page=1",
       "source": "증권 시황",
-      "time": "00:58"
+      "time": "04:13"
     },
     {
       "title": "인터넷은행 ‘사장님 대출’, 1년 새 2조8000억원 늘어",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003996576&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260904&page=1",
       "source": "증권 시황",
-      "time": "00:58"
+      "time": "04:13"
     },
     {
       "title": "[주식 매매 상위 종목 및 환율] 2026년 9월 3일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003996575&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260904&page=1",
       "source": "증권 시황",
-      "time": "00:58"
+      "time": "04:13"
     },
     {
       "title": "[주요경제지표] 2026년 9월 3일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003996561&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260904&page=1",
       "source": "증권 시황",
-      "time": "00:58"
+      "time": "04:13"
     },
     {
       "title": "조정장에 빛난 K뷰티… 탈중국·호실적으로 순환매 주도",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0001870847&office_id=005&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260904&page=1",
       "source": "증권 시황",
-      "time": "00:58"
+      "time": "04:13"
     },
     {
       "title": "키움증권, WM·IB 확장 속 우발부채 4.4조…PF 리스크 관리 '시험대'",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000530603&office_id=629&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260904&page=1",
       "source": "증권 시황",
-      "time": "00:58"
+      "time": "04:13"
     },
     {
       "title": "'성장에만 눈멀었나'…신호철 카카오페이증권, 민원 829% 폭증에 금감원 역할론",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0000530595&office_id=629&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260904&page=1",
       "source": "증권 시황",
-      "time": "00:58"
+      "time": "04:13"
     },
     {
       "title": "월러 Fed 이사 \"9월 금리 동결 지지할 수도…디스인플레 신호 나타나\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005811752&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260904&page=1",
       "source": "증권 시황",
-      "time": "00:58"
-    },
-    {
-      "title": "美 7월 무역적자 886억달…실업수당 청구는 안정",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005811751&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260904&page=1",
-      "source": "증권 시황",
-      "time": "00:58"
-    },
-    {
-      "title": "브로드컴, 구글 파트너십 리스크 선반영…투자의견·목표가↑-맥쿼리",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006363402&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260904&page=1",
-      "source": "증권 시황",
-      "time": "00:58"
+      "time": "04:13"
     }
   ]
 }
