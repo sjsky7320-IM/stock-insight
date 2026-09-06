@@ -1,79 +1,79 @@
 {
-  "updated": "2026-09-06T16:44:47+00:00",
-  "updated_kst": "2026-09-07T01:44:47+09:00",
+  "updated": "2026-09-06T18:51:15+00:00",
+  "updated_kst": "2026-09-07T03:51:15+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "“투자 목적은 노후 준비… 내가 일하는 것처럼 내 자본도 일해야”",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0001871253&office_id=005&mode=mainnews&type=&date=2026-09-07&page=1",
+      "source": "메인 뉴스",
+      "time": "03:51"
+    },
     {
       "title": "한도 2배 늘어난 ‘서울 자영업자 안심통장’… 최대 2000만원 마이너스 대출",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003996969&office_id=023&mode=mainnews&type=&date=2026-09-07&page=1",
       "source": "메인 뉴스",
-      "time": "01:44"
+      "time": "03:51"
     },
     {
       "title": "\"20억 집 팔고, 15억 주식에 올인하겠다\"…직장인 글 '깜짝'",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006364593&office_id=018&mode=mainnews&type=&date=2026-09-07&page=1",
       "source": "메인 뉴스",
-      "time": "01:44"
+      "time": "03:51"
+    },
+    {
+      "title": "美 에너지장관 \"다른 나라도 호르무즈 통과 노력 동참할 것\"",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005812484&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260907&page=1",
+      "source": "증권 시황",
+      "time": "03:51"
     },
     {
       "title": "트럼프 \"美-캐나다 달러 불균형\"…관세 이어 환율 건드리나",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0016293024&office_id=001&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260907&page=1",
       "source": "증권 시황",
-      "time": "01:44"
+      "time": "03:51"
     },
     {
       "title": "LG전자 자회사 베어로보틱스, 프리 IPO 착수 [시그널]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0004659088&office_id=011&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260907&page=1",
       "source": "증권 시황",
-      "time": "01:44"
+      "time": "03:51"
     },
     {
       "title": "“심각한 저평가”…노무라 ‘삼전닉스’ 목표가 ‘67만·470만’ 유지",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003046433&office_id=029&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260907&page=1",
       "source": "증권 시황",
-      "time": "01:44"
+      "time": "03:51"
     },
     {
       "title": "개미, 증시 급락에 주식 다 뺏기고도 남은 빚 급증",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003996954&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260907&page=1",
       "source": "증권 시황",
-      "time": "01:44"
+      "time": "03:51"
     },
     {
       "title": "[주간경제지표] 2026년 9월 4일자",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003996952&office_id=023&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260907&page=1",
       "source": "증권 시황",
-      "time": "01:44"
+      "time": "03:51"
     },
     {
       "title": "코스피, 이번주 7000 회복할까…변수는 美 물가·금리",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006364588&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260907&page=1",
       "source": "증권 시황",
-      "time": "01:44"
+      "time": "03:51"
     },
     {
       "title": "OPEC+, 10월 산유량 동결…해협 봉쇄에 증산 무의미",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005812482&office_id=277&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260907&page=1",
       "source": "증권 시황",
-      "time": "01:44"
+      "time": "03:51"
     },
     {
       "title": "상장만 하면 미 시총 6위라는 앤트로픽, 흥행할까? 증권가 전망은… [투자360]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002693412&office_id=016&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260907&page=1",
       "source": "증권 시황",
-      "time": "01:44"
-    },
-    {
-      "title": "“치솟는 초콜릿값, 아프리카 날씨만 바라본다”…30년 원자재 전문가도 당황한 ‘롤러코코아’",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005731155&office_id=009&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260907&page=1",
-      "source": "증권 시황",
-      "time": "01:44"
-    },
-    {
-      "title": "AI 열풍에 억만장자도 사상 최대…29명이 4.1조달러 쥐었다",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006364581&office_id=018&mode=LSS2D&type=0&section_id=101&section_id2=258&section_id3=&date=20260907&page=1",
-      "source": "증권 시황",
-      "time": "01:44"
+      "time": "03:51"
     }
   ]
 }
