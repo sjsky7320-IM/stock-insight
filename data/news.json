@@ -1,79 +1,79 @@
 {
-  "updated": "2026-09-08T23:11:26+00:00",
-  "updated_kst": "2026-09-09T08:11:26+09:00",
+  "updated": "2026-09-08T23:51:03+00:00",
+  "updated_kst": "2026-09-09T08:51:03+09:00",
   "source": "naver-finance",
   "items": [
+    {
+      "title": "하이닉스 프리마켓 1%대 상승… 코스피, 7000선 안착 재도전 [이런국장 저런주식]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0004659954&office_id=011&mode=mainnews&type=&date=2026-09-09&page=1",
+      "source": "메인 뉴스",
+      "time": "08:51"
+    },
+    {
+      "title": "HD현대, 3분기 영업익 3조2000억 전망...88.6%↑",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005573036&office_id=014&mode=mainnews&type=&date=2026-09-09&page=1",
+      "source": "메인 뉴스",
+      "time": "08:51"
+    },
+    {
+      "title": "\"심텍, 소캠2 매출 내년 3210억 전망…기업가치 재평가 필요\"-대신",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005330293&office_id=015&mode=mainnews&type=&date=2026-09-09&page=1",
+      "source": "메인 뉴스",
+      "time": "08:51"
+    },
+    {
+      "title": "중동 불길에 유가 100달러 육박…뉴욕증시 ‘휘청’[뉴스새벽배송]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006365962&office_id=018&mode=mainnews&type=&date=2026-09-09&page=1",
+      "source": "메인 뉴스",
+      "time": "08:51"
+    },
+    {
+      "title": "중동 불안에도 반도체 훈풍…'7천피' 탈환 재시도하나[마켓뷰]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0016298637&office_id=001&mode=mainnews&type=&date=2026-09-09&page=1",
+      "source": "메인 뉴스",
+      "time": "08:51"
+    },
+    {
+      "title": "심텍, 3Q 영업익 컨센 상회 전망…“소캠2 매출 예상 웃돌아”-대신",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006365956&office_id=018&mode=mainnews&type=&date=2026-09-09&page=1",
+      "source": "메인 뉴스",
+      "time": "08:51"
+    },
+    {
+      "title": "중동 긴장·유가 급등 우려↑…韓증시 눈치보기 전망[굿모닝증시]",
+      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005813714&office_id=277&mode=mainnews&type=&date=2026-09-09&page=1",
+      "source": "메인 뉴스",
+      "time": "08:51"
+    },
     {
       "title": "엔캐리 청산 우려 재부각…\"2024년 같은 급격한 청산 가능성 낮아\"",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0006365953&office_id=018&mode=mainnews&type=&date=2026-09-09&page=1",
       "source": "메인 뉴스",
-      "time": "08:11"
+      "time": "08:51"
     },
     {
-      "title": "두 달 새 200원 넘게 내린 환율…세금 내고도 남은 기업 달러가 추가 하락 변수",
+      "title": "두 달 새 200원 넘게 내린 환율…기업의 달러 매도가 추가 하락 변수",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0003997427&office_id=023&mode=mainnews&type=&date=2026-09-09&page=1",
       "source": "메인 뉴스",
-      "time": "08:11"
+      "time": "08:51"
     },
     {
       "title": "美증시 하락 속 반도체는 강세…코스피, 7000선 안착 테스트[오늘의 증시]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0014178244&office_id=003&mode=mainnews&type=&date=2026-09-09&page=1",
       "source": "메인 뉴스",
-      "time": "08:11"
+      "time": "08:51"
     },
     {
       "title": "다시 고조되는 중동 리스크…뉴욕증시 3대 지수 일제 하락·국제유가 100달러 육박 [투자360]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0002694598&office_id=016&mode=mainnews&type=&date=2026-09-09&page=1",
       "source": "메인 뉴스",
-      "time": "08:11"
+      "time": "08:51"
     },
     {
       "title": "③'완전한 액티브 ETF' 언제쯤…\"단계적 완화·보완책 서둘러야\"[액티브 전성시대]",
       "url": "https://finance.naver.com/news/news_read.naver?article_id=0005813694&office_id=277&mode=mainnews&type=&date=2026-09-09&page=1",
       "source": "메인 뉴스",
-      "time": "08:11"
-    },
-    {
-      "title": "'서학개미' 우르르 몰려간 이 상품…금리상승 덕분에 인기 [실전재테크]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005813692&office_id=277&mode=mainnews&type=&date=2026-09-09&page=1",
-      "source": "메인 뉴스",
-      "time": "08:11"
-    },
-    {
-      "title": "S-Oil, 금리인상 오히려 호재?…기존 정제설비 희소가치 부각-IBK",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006365938&office_id=018&mode=mainnews&type=&date=2026-09-09&page=1",
-      "source": "메인 뉴스",
-      "time": "08:11"
-    },
-    {
-      "title": "SK텔레콤, 데이터센터 이익 2032년 1조 전망…배당 재원 67%↑-하나",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006365937&office_id=018&mode=mainnews&type=&date=2026-09-09&page=1",
-      "source": "메인 뉴스",
-      "time": "08:11"
-    },
-    {
-      "title": "\"금리 5%, 계좌 다 녹는다\" 개미들 덜덜 떠는데…'웃는 종목' 따로 있다[실전재테크]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005813688&office_id=277&mode=mainnews&type=&date=2026-09-09&page=1",
-      "source": "메인 뉴스",
-      "time": "08:11"
-    },
-    {
-      "title": "미국 협력에 국내 모멘텀까지…원전株 주목",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005813687&office_id=277&mode=mainnews&type=&date=2026-09-09&page=1",
-      "source": "메인 뉴스",
-      "time": "08:11"
-    },
-    {
-      "title": "한 달 만에 73% 급등했는데 \"더 오른다\"…'역대급 실적' 한국콜마, 3분기도 '맑음'[이주의 관.종]",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0005813685&office_id=277&mode=mainnews&type=&date=2026-09-09&page=1",
-      "source": "메인 뉴스",
-      "time": "08:11"
-    },
-    {
-      "title": "\"주식창 하루에도 수십번 확인?\"…존리 \"부자 되는 길 아니다\"",
-      "url": "https://finance.naver.com/news/news_read.naver?article_id=0006365933&office_id=018&mode=mainnews&type=&date=2026-09-09&page=1",
-      "source": "메인 뉴스",
-      "time": "08:11"
+      "time": "08:51"
     }
   ]
 }
